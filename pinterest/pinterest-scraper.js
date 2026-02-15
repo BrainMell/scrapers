@@ -10,7 +10,7 @@ class PinterestScraper {
   constructor(config = {}) {
     this.searchQuery = config.searchQuery || 'anime';
     this.targetCount = config.targetCount || 100000;
-    this.outputFile = config.outputFile || 'pinterest_urls.json';
+    this.outputFile = config.outputFile || path.join(__dirname, 'pinterest_urls.json');
     this.batchSize = config.batchSize || 1000;
     this.maxRetries = config.maxRetries || 5;
     this.scrollDelay = config.scrollDelay || 2000;
@@ -283,7 +283,7 @@ class PinterestScraper {
       timestamp: new Date().toISOString(),
     };
 
-    const reportFile = `report_${Date.now()}.json`;
+    const reportFile = path.join(__dirname, `report_${Date.now()}.json`);
     await fs.writeFile(reportFile, JSON.stringify(report, null, 2), 'utf-8');
 
     console.log('\n📊 SCRAPING REPORT');

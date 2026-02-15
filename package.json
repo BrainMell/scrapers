@@ -4,8 +4,11 @@
   "description": "Pinterest URL scraper with anti-detection measures",
   "main": "pinterest-scraper.js",
   "scripts": {
-    "start": "node pinterest-scraper.js",
-    "dev": "nodemon pinterest-scraper.js"
+    "start": "node pinterest/pinterest-scraper-advanced.js",
+    "pinterest": "node pinterest/pinterest-scraper-advanced.js",
+    "search": "node pinterest/search-images.js",
+    "shoob": "node shoob/shoob-scraper.js",
+    "shoob-test": "node shoob/shoob-scraper.js --test"
   },
   "keywords": [
     "pinterest",
