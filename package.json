@@ -1,0 +1,28 @@
+{
+  "name": "pinterest-scraper",
+  "version": "1.0.0",
+  "description": "Pinterest URL scraper with anti-detection measures",
+  "main": "pinterest-scraper.js",
+  "scripts": {
+    "start": "node pinterest/pinterest-scraper-advanced.js",
+    "pinterest": "node pinterest/pinterest-scraper-advanced.js",
+    "search": "node pinterest/search-images.js",
+    "shoob": "node shoob/shoob-scraper.js",
+    "shoob-test": "node shoob/shoob-scraper.js --test"
+  },
+  "keywords": [
+    "pinterest",
+    "scraper",
+    "puppeteer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.11.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
