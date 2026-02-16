@@ -1,5 +1,5 @@
 {
-  "totalCards": 6787,
+  "totalCards": 6802,
   "processedPages": [
     "1-1",
     "1-2",
@@ -472,7 +472,8 @@
     "1-469",
     "1-470",
     "1-471",
-    "1-472"
+    "1-472",
+    "1-473"
   ],
   "cards": [
     {
@@ -75131,12 +75132,177 @@
       "tier": "1",
       "page": 472,
       "scrapedAt": "2026-02-16T11:04:06.819Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44467b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44467b",
+      "cardName": "Emi Fukukado",
+      "creator": "MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Emi Fukukado from My Hero Academia",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:16.262Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444679?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444679",
+      "cardName": "Makina Sakamaki",
+      "creator": "Monokuma",
+      "animeName": "Plastic Neesan",
+      "description": "Makina Sakamaki from Plastic Neesan",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:18.197Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444677?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444677",
+      "cardName": "Ashley",
+      "creator": "FizzyBrian",
+      "animeName": "Lapis Re:LiGHTs",
+      "description": "Ashley from Lapis Re:LiGHTs",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:20.122Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444675?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444675",
+      "cardName": "Viren",
+      "creator": "Skadoosh",
+      "animeName": "The Dragon Prince",
+      "description": "Viren from The Dragon Prince",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:21.984Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444673?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444673",
+      "cardName": "Risya In Empire",
+      "creator": "Saber",
+      "animeName": "KimiSen",
+      "description": "Risya In Empire from KimiSen",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:23.882Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444669?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444669",
+      "cardName": "Clare",
+      "creator": "iMilkTea",
+      "animeName": "Claymore",
+      "description": "Clare from Claymore",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:25.765Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444663?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444663",
+      "cardName": "Shu Starling",
+      "creator": "Derp",
+      "animeName": "Infinite Dendrogram",
+      "description": "Shu Starling from Infinite Dendrogram",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:27.707Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44465f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44465f",
+      "cardName": "Shingo Katori",
+      "creator": "Kruggles",
+      "animeName": "Ahiru no Sora",
+      "description": "Shingo Katori from Ahiru no Sora",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:29.760Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44465b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44465b",
+      "cardName": "Ayumi Otosaka",
+      "creator": "zax.",
+      "animeName": "Charlotte",
+      "description": "Ayumi Otosaka from Charlotte",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:31.674Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444657?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444657",
+      "cardName": "Nao Tomori",
+      "creator": "zax.",
+      "animeName": "Charlotte",
+      "description": "Nao Tomori from Charlotte",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:33.613Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444649?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444649",
+      "cardName": "Chihiro Yoshioka",
+      "creator": "Monokuma",
+      "animeName": "Gleipnir",
+      "description": "Chihiro Yoshioka from Gleipnir",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:35.560Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444645?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444645",
+      "cardName": "Alien",
+      "creator": "Monokuma",
+      "animeName": "Gleipnir",
+      "description": "Alien from Gleipnir",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:37.511Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444643?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444643",
+      "cardName": "Finn Deimne",
+      "creator": "stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Finn Deimne from DanMachi",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:39.560Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444639?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444639",
+      "cardName": "Renly",
+      "creator": "Famzi",
+      "animeName": "Sword Art Online",
+      "description": "Renly from Sword Art Online",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:41.704Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444637?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444637",
+      "cardName": "Nemesis",
+      "creator": "Derp",
+      "animeName": "Infinite Dendrogram",
+      "description": "Nemesis from Infinite Dendrogram",
+      "tier": "1",
+      "page": 473,
+      "scrapedAt": "2026-02-16T11:04:43.715Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:04:06.820Z",
+  "lastUpdated": "2026-02-16T11:04:43.759Z",
   "stats": {
-    "successRate": 95,
-    "totalAttempts": 531,
-    "successfulAttempts": 507
+    "successRate": 96,
+    "totalAttempts": 546,
+    "successfulAttempts": 522
   }
 }
