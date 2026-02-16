@@ -1,5 +1,5 @@
 {
-  "totalCards": 6562,
+  "totalCards": 6577,
   "processedPages": [
     "1-1",
     "1-2",
@@ -455,6 +455,7 @@
     "1-452",
     "1-453",
     "1-454",
+    "1-455",
     "1-460",
     "1-461",
     "1-462"
@@ -72641,12 +72642,177 @@
       "tier": "1",
       "page": 454,
       "scrapedAt": "2026-02-16T10:55:01.306Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b85?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b85",
+      "cardName": "Akako Koizumi",
+      "creator": "Niconii",
+      "animeName": "Magic Kaito 1412",
+      "description": "Akako Koizumi from Magic Kaito 1412",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:09.714Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b83?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b83",
+      "cardName": "Maiya Takanashi",
+      "creator": "Agera",
+      "animeName": "Inou-Battle wa Nichijou-kei no Naka de",
+      "description": "Maiya Takanashi from Inou-Battle wa Nichijou-kei no Naka de",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:11.770Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b81?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b81",
+      "cardName": "Jinin Akebino",
+      "creator": "Cynthia",
+      "animeName": "Naruto",
+      "description": "Jinin Akebino from Naruto",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:13.912Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b7f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b7f",
+      "cardName": "Minotaur",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Minotaur from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:15.901Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b7d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b7d",
+      "cardName": "Ghost Shroud",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Ghost Shroud from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:17.882Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b63?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b63",
+      "cardName": "Kiyomi Sugiyima",
+      "creator": "Taiga Aisaka Fan Club",
+      "animeName": "Girls und Panzer",
+      "description": "Kiyomi Sugiyima from Girls und Panzer",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:19.821Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b5f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b5f",
+      "cardName": "Hidu",
+      "creator": "Cin",
+      "animeName": "Kuromukuro",
+      "description": "Hidu from Kuromukuro",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:21.816Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b5b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b5b",
+      "cardName": "Momo Kawashima",
+      "creator": "Taiga Aisaka Fan Club",
+      "animeName": "Girls und Panzer",
+      "description": "Momo Kawashima from Girls und Panzer",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:24.002Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b55?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b55",
+      "cardName": "Nene Kinokuni",
+      "creator": "Hakhu",
+      "animeName": "Food Wars!",
+      "description": "Nene Kinokuni from Food Wars!",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:26.010Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b51?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b51",
+      "cardName": "Mizuki",
+      "creator": "Cynthia",
+      "animeName": "Naruto",
+      "description": "Mizuki from Naruto",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:28.116Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b4f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b4f",
+      "cardName": "Kurumi Tokisaki",
+      "creator": "Reis",
+      "animeName": "Date A Live",
+      "description": "Kurumi Tokisaki from Date A Live",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:30.213Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b4d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b4d",
+      "cardName": "Shizuku Murasaki",
+      "creator": "Dead8oul",
+      "animeName": "Hunter x Hunter",
+      "description": "Shizuku Murasaki from Hunter x Hunter",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:32.472Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b37?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b37",
+      "cardName": "Eishi Tsukasa",
+      "creator": "Hakhu",
+      "animeName": "Food Wars!",
+      "description": "Eishi Tsukasa from Food Wars!",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:34.422Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b31?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b31",
+      "cardName": "Gilles de Rais",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Gilles de Rais from Rage of Bahamut",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:36.404Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b2d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b2d",
+      "cardName": "Kana Tachibana",
+      "creator": "manuelsousa13",
+      "animeName": "Brynhildr in the Darkness",
+      "description": "Kana Tachibana from Brynhildr in the Darkness",
+      "tier": "1",
+      "page": 455,
+      "scrapedAt": "2026-02-16T10:55:38.360Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:55:01.307Z",
+  "lastUpdated": "2026-02-16T10:55:38.362Z",
   "stats": {
-    "successRate": 92,
-    "totalAttempts": 305,
-    "successfulAttempts": 282
+    "successRate": 93,
+    "totalAttempts": 320,
+    "successfulAttempts": 297
   }
 }
