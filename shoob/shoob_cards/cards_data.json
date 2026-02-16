@@ -1,5 +1,5 @@
 {
-  "totalCards": 7236,
+  "totalCards": 7251,
   "processedPages": [
     "1-1",
     "1-10",
@@ -450,6 +450,7 @@
     "1-500",
     "1-501",
     "1-502",
+    "1-503",
     "1-51",
     "1-52",
     "1-53",
@@ -80100,7 +80101,172 @@
       "tier": "1",
       "page": 502,
       "scrapedAt": "2026-02-16T11:55:10.341Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9cbeda1840a9e482540?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9cbeda1840a9e482540",
+      "cardName": "A",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "A from Naruto",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:31.024Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9b5eda1840a9e48239e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9b5eda1840a9e48239e",
+      "cardName": "Onoki",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Onoki from Naruto",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:33.531Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec997eda1840a9e481dff?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec997eda1840a9e481dff",
+      "cardName": "Kurama",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Kurama from Naruto",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:36.034Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec978eda1840a9e481971?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec978eda1840a9e481971",
+      "cardName": "Arashi Waraino",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Maesetsu!",
+      "description": "Arashi Waraino from Maesetsu!",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:38.320Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec976eda1840a9e481934?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec976eda1840a9e481934",
+      "cardName": "Fubuki Kitakaze",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Maesetsu!",
+      "description": "Fubuki Kitakaze from Maesetsu!",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:40.897Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec96deda1840a9e481760?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec96deda1840a9e481760",
+      "cardName": "Yamato",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Yamato from Naruto",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:43.394Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec957eda1840a9e4813a3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec957eda1840a9e4813a3",
+      "cardName": "Junki Tomita",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Maesetsu!",
+      "description": "Junki Tomita from Maesetsu!",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:45.628Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec955eda1840a9e481341?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec955eda1840a9e481341",
+      "cardName": "Kanae Kanari",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Maesetsu!",
+      "description": "Kanae Kanari from Maesetsu!",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:47.923Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec952eda1840a9e4812bb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec952eda1840a9e4812bb",
+      "cardName": "Mafuyu Kogarashi",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Maesetsu!",
+      "description": "Mafuyu Kogarashi from Maesetsu!",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:50.244Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec950eda1840a9e481299?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec950eda1840a9e481299",
+      "cardName": "Manatsu Kogarashi",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Maesetsu!",
+      "description": "Manatsu Kogarashi from Maesetsu!",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:52.435Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec94feda1840a9e481296?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec94feda1840a9e481296",
+      "cardName": "Nayuta Asogi",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Maesetsu!",
+      "description": "Nayuta Asogi from Maesetsu!",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:54.717Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec94deda1840a9e48128b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec94deda1840a9e48128b",
+      "cardName": "Rin Araya",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Maesetsu!",
+      "description": "Rin Araya from Maesetsu!",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:56.943Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec94aeda1840a9e481242?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec94aeda1840a9e481242",
+      "cardName": "Shiho Shiina",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Maesetsu!",
+      "description": "Shiho Shiina from Maesetsu!",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:55:59.218Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec936eda1840a9e480fd8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec936eda1840a9e480fd8",
+      "cardName": "Kakaa",
+      "creator": "Card Maker:Yukina",
+      "animeName": "Rail Romanesque",
+      "description": "Kakaa from Rail Romanesque",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:56:01.696Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec934eda1840a9e480fc2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec934eda1840a9e480fc2",
+      "cardName": "Ran",
+      "creator": "Card Maker:Yukina",
+      "animeName": "Rail Romanesque",
+      "description": "Ran from Rail Romanesque",
+      "tier": "1",
+      "page": 503,
+      "scrapedAt": "2026-02-16T11:56:04.348Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:55:10.342Z"
+  "lastUpdated": "2026-02-16T11:56:04.349Z"
 }
