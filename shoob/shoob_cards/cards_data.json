@@ -1,5 +1,5 @@
 {
-  "totalCards": 6280,
+  "totalCards": 6294,
   "processedPages": [
     "1-1",
     "1-2",
@@ -436,6 +436,7 @@
     "1-433",
     "1-434",
     "1-435",
+    "1-436",
     "1-460",
     "1-461",
     "1-462"
@@ -69520,12 +69521,166 @@
       "tier": "1",
       "page": 435,
       "scrapedAt": "2026-02-16T08:39:25.973Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ad16?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ad16",
+      "cardName": "Israfel",
+      "creator": "Kronus",
+      "animeName": "Neon Genesis Evangelion",
+      "description": "Israfel from Neon Genesis Evangelion",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:35:31.830Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ad12?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ad12",
+      "cardName": "Ninny Spangcole",
+      "creator": "𝕵𝖊𝖆𝖓™",
+      "animeName": "Burn The Witch",
+      "description": "Ninny Spangcole from Burn The Witch",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:35:33.875Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ad08?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ad08",
+      "cardName": "Suo Hiyama",
+      "creator": "manuelsousa13",
+      "animeName": "Renai Boukun",
+      "description": "Suo Hiyama from Renai Boukun",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:22.916Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ad06?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ad06",
+      "cardName": "Korosuke",
+      "creator": "Hoshiko [星子]",
+      "animeName": "Kiteretsu Daihyakka",
+      "description": "Korosuke from Kiteretsu Daihyakka",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:24.876Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ad04?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ad04",
+      "cardName": "Coolun",
+      "creator": "nina_",
+      "animeName": "Pretty Rhythm",
+      "description": "Coolun from Pretty Rhythm",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:26.800Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ad00?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ad00",
+      "cardName": "Haruo Koga",
+      "creator": "Fe",
+      "animeName": "Japan Sinks",
+      "description": "Haruo Koga from Japan Sinks",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:28.719Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acfc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acfc",
+      "cardName": "Totoko Yowai",
+      "creator": "Beta",
+      "animeName": "Osomatsu-san",
+      "description": "Totoko Yowai from Osomatsu-san",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:33.663Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acfa?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acfa",
+      "cardName": "Scorpiomon",
+      "creator": "Mui Mui むいちろ",
+      "animeName": "Digimon",
+      "description": "Scorpiomon from Digimon",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:35.673Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acf8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acf8",
+      "cardName": "Kasuka Heiwajima",
+      "creator": "Famzi",
+      "animeName": "Durarara!!",
+      "description": "Kasuka Heiwajima from Durarara!!",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:37.512Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acf2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acf2",
+      "cardName": "Sneck",
+      "creator": "`Sap1q",
+      "animeName": "One Punch Man",
+      "description": "Sneck from One Punch Man",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:39.462Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acf0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acf0",
+      "cardName": "Nail",
+      "creator": "Rici 💔🖤",
+      "animeName": "Dragon Ball",
+      "description": "Nail from Dragon Ball",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:41.500Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acee?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acee",
+      "cardName": "Jet Alone",
+      "creator": "Kronus",
+      "animeName": "Neon Genesis Evangelion",
+      "description": "Jet Alone from Neon Genesis Evangelion",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:43.414Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acec?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acec",
+      "cardName": "Hikari Horaki",
+      "creator": "Kronus",
+      "animeName": "Neon Genesis Evangelion",
+      "description": "Hikari Horaki from Neon Genesis Evangelion",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:45.318Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acde?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acde",
+      "cardName": "Standard Model",
+      "creator": "Kronus",
+      "animeName": "Darling in the Franxx",
+      "description": "Standard Model from Darling in the Franxx",
+      "tier": "1",
+      "page": 436,
+      "scrapedAt": "2026-02-16T10:38:47.180Z"
     }
   ],
-  "lastUpdated": "2026-02-16T08:41:49.147Z",
+  "lastUpdated": "2026-02-16T10:38:47.181Z",
   "stats": {
-    "successRate": 1,
-    "totalAttempts": 300,
-    "successfulAttempts": 3
+    "successRate": 64,
+    "totalAttempts": 22,
+    "successfulAttempts": 14
   }
 }
