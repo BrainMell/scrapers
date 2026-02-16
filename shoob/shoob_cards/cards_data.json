@@ -1,5 +1,5 @@
 {
-  "totalCards": 7056,
+  "totalCards": 7071,
   "processedPages": [
     "1-1",
     "1-10",
@@ -436,6 +436,7 @@
     "1-489",
     "1-49",
     "1-490",
+    "1-491",
     "1-5",
     "1-50",
     "1-51",
@@ -78108,7 +78109,172 @@
       "tier": "1",
       "page": 490,
       "scrapedAt": "2026-02-16T11:44:14.503Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff5a79085b74c2ea96e8cb6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff5a79085b74c2ea96e8cb6",
+      "cardName": "Makoto Higuchi",
+      "creator": "Card Maker:Daringa",
+      "animeName": "Gekidol",
+      "description": "Makoto Higuchi from Gekidol",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:44:34.722Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff5a76885b74c2ea96e8b89?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff5a76885b74c2ea96e8b89",
+      "cardName": "Yawara Chatora",
+      "creator": "Card Maker:MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Yawara Chatora from My Hero Academia",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:44:37.195Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff554a051536715795841bd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff554a051536715795841bd",
+      "cardName": "Katarina",
+      "creator": "Card Maker:Rhianne Furukawa",
+      "animeName": "Arte",
+      "description": "Katarina from Arte",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:44:39.435Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff55321515367157958349e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff55321515367157958349e",
+      "cardName": "Greed",
+      "creator": "Card Maker:seki",
+      "animeName": "Fullmetal Alchemist",
+      "description": "Greed from Fullmetal Alchemist",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:44:41.900Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff552fc5153671579583470?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff552fc5153671579583470",
+      "cardName": "Bunta Takakura",
+      "creator": "Card Maker:Arshhh",
+      "animeName": "Crayon Shin-chan",
+      "description": "Bunta Takakura from Crayon Shin-chan",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:44:44.227Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff5527061a6f313a6b9eb69?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff5527061a6f313a6b9eb69",
+      "cardName": "Soma",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Soma from DanMachi",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:44:46.723Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff5524c61a6f313a6b9e722?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff5524c61a6f313a6b9e722",
+      "cardName": "Rose Thomas",
+      "creator": "Card Maker:seki",
+      "animeName": "Fullmetal Alchemist",
+      "description": "Rose Thomas from Fullmetal Alchemist",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:44:49.228Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff551cebacf14455018bd47?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff551cebacf14455018bd47",
+      "cardName": "Sasha Necron",
+      "creator": "Card Maker:fifi",
+      "animeName": "The Misfit of Demon King Academy",
+      "description": "Sasha Necron from The Misfit of Demon King Academy",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:44:51.596Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff55089ef5d6672780682ab?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff55089ef5d6672780682ab",
+      "cardName": "Yoshinobu Gakuganji",
+      "creator": "Card Maker:Ray7Scout",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Yoshinobu Gakuganji from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:44:54.020Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff5505361a6f313a6b9d57c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff5505361a6f313a6b9d57c",
+      "cardName": "Touch Me",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "Overlord",
+      "description": "Touch Me from Overlord",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:44:56.490Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff5504661a6f313a6b9d544?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff5504661a6f313a6b9d544",
+      "cardName": "Daphne",
+      "creator": "Card Maker:Rhianne Furukawa",
+      "animeName": "Arte",
+      "description": "Daphne from Arte",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:44:58.629Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff54f5dbce9b2739866e0ca?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff54f5dbce9b2739866e0ca",
+      "cardName": "Quadracile",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "Overlord",
+      "description": "Quadracile from Overlord",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:45:01.245Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff54f1661a6f313a6b9ca97?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff54f1661a6f313a6b9ca97",
+      "cardName": "Misha Necron",
+      "creator": "Card Maker:fifi",
+      "animeName": "The Misfit of Demon King Academy",
+      "description": "Misha Necron from The Misfit of Demon King Academy",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:45:03.995Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff54eef61a6f313a6b9c805?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff54eef61a6f313a6b9c805",
+      "cardName": "Winry Rockbell",
+      "creator": "Card Maker:seki",
+      "animeName": "Fullmetal Alchemist",
+      "description": "Winry Rockbell from Fullmetal Alchemist",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:45:06.692Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff54dfc5153671579581141?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff54dfc5153671579581141",
+      "cardName": "Chess Belle",
+      "creator": "Card Maker:seki",
+      "animeName": "Owari no Seraph",
+      "description": "Chess Belle from Owari no Seraph",
+      "tier": "1",
+      "page": 491,
+      "scrapedAt": "2026-02-16T11:45:09.096Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:44:14.504Z"
+  "lastUpdated": "2026-02-16T11:45:09.098Z"
 }
