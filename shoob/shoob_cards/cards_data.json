@@ -1,5 +1,5 @@
 {
-  "totalCards": 6367,
+  "totalCards": 6382,
   "processedPages": [
     "1-1",
     "1-2",
@@ -442,6 +442,7 @@
     "1-439",
     "1-440",
     "1-441",
+    "1-442",
     "1-460",
     "1-461",
     "1-462"
@@ -70483,12 +70484,177 @@
       "tier": "1",
       "page": 441,
       "scrapedAt": "2026-02-16T10:47:17.721Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444eef?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444eef",
+      "cardName": "Miya Chinen",
+      "creator": "Shiki ツ",
+      "animeName": "SK8 the Infinity",
+      "description": "Miya Chinen from SK8 the Infinity",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:25.072Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444eed?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444eed",
+      "cardName": "Poppun",
+      "creator": "nina_",
+      "animeName": "Pretty Rhythm",
+      "description": "Poppun from Pretty Rhythm",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:27.063Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444eeb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444eeb",
+      "cardName": "Saji Crossroad",
+      "creator": "lust",
+      "animeName": "Gundam",
+      "description": "Saji Crossroad from Gundam",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:28.928Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ecd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ecd",
+      "cardName": "Poyomon",
+      "creator": "Mui Mui むいちろ",
+      "animeName": "Digimon",
+      "description": "Poyomon from Digimon",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:31.016Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ec3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ec3",
+      "cardName": "Akua Aino",
+      "creator": "manuelsousa13",
+      "animeName": "Renai Boukun",
+      "description": "Akua Aino from Renai Boukun",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:32.903Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ebf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ebf",
+      "cardName": "Reki Kyan",
+      "creator": "Shiki ツ",
+      "animeName": "SK8 the Infinity",
+      "description": "Reki Kyan from SK8 the Infinity",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:34.827Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ebd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ebd",
+      "cardName": "Urara Kasugano",
+      "creator": "Piratax10",
+      "animeName": "Sabagebu!",
+      "description": "Urara Kasugano from Sabagebu!",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:36.764Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ebb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ebb",
+      "cardName": "Pecorine",
+      "creator": "Beta",
+      "animeName": "Princess Connect! Re:Dive",
+      "description": "Pecorine from Princess Connect! Re:Dive",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:38.922Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444eb9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444eb9",
+      "cardName": "Melida Angel",
+      "creator": "Karyl",
+      "animeName": "Assassins Pride",
+      "description": "Melida Angel from Assassins Pride",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:40.915Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444eb7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444eb7",
+      "cardName": "Olivia Servant",
+      "creator": "Kp wie ich heiße~",
+      "animeName": "The Hidden Dungeon Only I Can Enter",
+      "description": "Olivia Servant from The Hidden Dungeon Only I Can Enter",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:42.903Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444eb5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444eb5",
+      "cardName": "Kon",
+      "creator": "Rici 💔🖤",
+      "animeName": "Kemono Jihen",
+      "description": "Kon from Kemono Jihen",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:44.775Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444eb1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444eb1",
+      "cardName": "Shoyo Takahama",
+      "creator": "Cynthia",
+      "animeName": "Bakuman",
+      "description": "Shoyo Takahama from Bakuman",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:46.803Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ead?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ead",
+      "cardName": "Lovelin",
+      "creator": "nina_",
+      "animeName": "Pretty Rhythm",
+      "description": "Lovelin from Pretty Rhythm",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:48.727Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ea9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ea9",
+      "cardName": "Tokomon",
+      "creator": "Mui Mui むいちろ",
+      "animeName": "Digimon",
+      "description": "Tokomon from Digimon",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:50.859Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ea7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ea7",
+      "cardName": "Deuter Muller",
+      "creator": "Syololololo~",
+      "animeName": "Captain Tsubasa",
+      "description": "Deuter Muller from Captain Tsubasa",
+      "tier": "1",
+      "page": 442,
+      "scrapedAt": "2026-02-16T10:47:52.898Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:47:17.722Z",
+  "lastUpdated": "2026-02-16T10:47:52.899Z",
   "stats": {
-    "successRate": 79,
-    "totalAttempts": 110,
-    "successfulAttempts": 87
+    "successRate": 82,
+    "totalAttempts": 125,
+    "successfulAttempts": 102
   }
 }
