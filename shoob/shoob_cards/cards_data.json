@@ -1,5 +1,5 @@
 {
-  "totalCards": 7086,
+  "totalCards": 7101,
   "processedPages": [
     "1-1",
     "1-10",
@@ -438,6 +438,7 @@
     "1-490",
     "1-491",
     "1-492",
+    "1-493",
     "1-5",
     "1-50",
     "1-51",
@@ -78440,7 +78441,172 @@
       "tier": "1",
       "page": 492,
       "scrapedAt": "2026-02-16T11:46:05.265Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3a19322f88818672ade4a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3a19322f88818672ade4a",
+      "cardName": "Aisha Belka",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Aisha Belka from DanMachi",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:27.715Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff39a17cd322917c0069849?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff39a17cd322917c0069849",
+      "cardName": "Lulala Heine",
+      "creator": "Card Maker:Daringa",
+      "animeName": "Monster Girl Doctor",
+      "description": "Lulala Heine from Monster Girl Doctor",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:30.038Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff396bd1439711fb2e0d437?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff396bd1439711fb2e0d437",
+      "cardName": "Ganesha",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Ganesha from DanMachi",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:32.315Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff37f6b89f2f424ccfc95e0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff37f6b89f2f424ccfc95e0",
+      "cardName": "Yuri Hitotsuyanagi",
+      "creator": "Card Maker:RoseyRose",
+      "animeName": "Assault Lily: Bouquet",
+      "description": "Yuri Hitotsuyanagi from Assault Lily: Bouquet",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:34.718Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff37d7e44b6b52499bac8b3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff37d7e44b6b52499bac8b3",
+      "cardName": "Shiori Rokkaku",
+      "creator": "Card Maker:RoseyRose",
+      "animeName": "Assault Lily: Bouquet",
+      "description": "Shiori Rokkaku from Assault Lily: Bouquet",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:37.045Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff37c1fcb338924f9912620?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff37c1fcb338924f9912620",
+      "cardName": "Kusumi Egawa",
+      "creator": "Card Maker:RoseyRose",
+      "animeName": "Assault Lily: Bouquet",
+      "description": "Kusumi Egawa from Assault Lily: Bouquet",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:39.318Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff37bf4cb338924f9912508?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff37bf4cb338924f9912508",
+      "cardName": "Ichi Tanaka",
+      "creator": "Card Maker:RoseyRose",
+      "animeName": "Assault Lily: Bouquet",
+      "description": "Ichi Tanaka from Assault Lily: Bouquet",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:41.607Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff37ae389f2f424ccfc8218?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff37ae389f2f424ccfc8218",
+      "cardName": "Hajime Shinoda",
+      "creator": "Card Maker:Rakis29",
+      "animeName": "New Game!",
+      "description": "Hajime Shinoda from New Game!",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:43.796Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff379cb6a8d1411642c6ff8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff379cb6a8d1411642c6ff8",
+      "cardName": "Zombieman",
+      "creator": "Card Maker:Fish",
+      "animeName": "One Punch Man",
+      "description": "Zombieman from One Punch Man",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:46.324Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3583ec86b4728ff6056a9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3583ec86b4728ff6056a9",
+      "cardName": "Daphne",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Daphne from DanMachi",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:48.690Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff34f4bc86b4728ff601286?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff34f4bc86b4728ff601286",
+      "cardName": "Arte",
+      "creator": "Card Maker:Rhianne Furukawa",
+      "animeName": "Arte",
+      "description": "Arte from Arte",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:50.897Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff34f24c86b4728ff60120c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff34f24c86b4728ff60120c",
+      "cardName": "Kaburagi",
+      "creator": "Card Maker:Him 123",
+      "animeName": "Deca-Dence",
+      "description": "Kaburagi from Deca-Dence",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:53.130Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff34e86c86b4728ff600b25?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff34e86c86b4728ff600b25",
+      "cardName": "Anos Voldigoad",
+      "creator": "Card Maker:fifi",
+      "animeName": "The Misfit of Demon King Academy",
+      "description": "Anos Voldigoad from The Misfit of Demon King Academy",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:55.317Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff34e10c86b4728ff600873?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff34e10c86b4728ff600873",
+      "cardName": "Alpha",
+      "creator": "Card Maker:FizzyBrian",
+      "animeName": "Lapis Re:LiGHTs",
+      "description": "Alpha from Lapis Re:LiGHTs",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:57.424Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff34da08d7e34276be864b0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff34da08d7e34276be864b0",
+      "cardName": "Cassandra",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Cassandra from DanMachi",
+      "tier": "1",
+      "page": 493,
+      "scrapedAt": "2026-02-16T11:46:59.805Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:46:05.267Z"
+  "lastUpdated": "2026-02-16T11:46:59.807Z"
 }
