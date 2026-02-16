@@ -250,8 +250,23 @@ class ShoobCardScraper {
       
       const tmpFile = this.outputFile + '.tmp';
       await fs.writeFile(tmpFile, JSON.stringify(data, null, 2), 'utf-8');
-      await fs.rename(tmpFile, this.outputFile);
-      await fs.copyFile(this.outputFile, this.backupFile).catch(() => {});
+      
+      // Retry rename on Windows (handles EPERM)
+      let renamed = false;
+      for (let i = 0; i < 5; i++) {
+        try {
+          await fs.rename(tmpFile, this.outputFile);
+          renamed = true;
+          break;
+        } catch (e) {
+          if (i === 4) throw e;
+          await new Promise(r => setTimeout(r, 1000));
+        }
+      }
+      
+      if (renamed) {
+        await fs.copyFile(this.outputFile, this.backupFile).catch(() => {});
+      }
       
       if (this.cards.length % 50 === 0 && this.cards.length > 0) {
         const timestamp = new Date().toISOString().replace(/[:.]/g, '-').split('T')[0];
