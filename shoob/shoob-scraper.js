@@ -205,18 +205,25 @@ class ShoobCardScraper {
       await this.setupPage(listPage);
       await listPage.goto(`https://shoob.gg/cards?page=${pageNum}&tier=${tier}`, { waitUntil: 'networkidle2', timeout: 60000 });
       const extraction = await this.extractCardsFromPage(listPage);
+      
       if (extraction.cards.length === 0) {
+        console.log(`   ⚠️ No cards found on page ${pageNum} (Empty or Blocked)`);
         this.processedPages.add(pageKey);
         await listPage.close();
         return;
       }
+
+      let newCardsOnPage = 0;
       for (const card of extraction.cards) {
         if (this.cardUrlSet.has(card.imageUrl)) continue;
+        newCardsOnPage++;
         const meta = await this.fetchMetadataByOpeningTab(card.detailUrl, card.cardName);
         this.cards.push({ ...card, ...meta, tier, page: pageNum, scrapedAt: new Date().toISOString() });
         this.cardUrlSet.add(card.imageUrl);
         console.log(`   ✨ [${meta.creator}] ${card.cardName}`);
       }
+
+      console.log(`   📊 Page ${pageNum}: ${extraction.cards.length} cards found (${newCardsOnPage} new)`);
       this.processedPages.add(pageKey);
       await this.saveProgress();
       await listPage.close();
