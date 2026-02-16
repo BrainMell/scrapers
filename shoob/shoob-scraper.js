@@ -460,7 +460,7 @@ const config = {
   startPage: 1,
   endPage: 2332,
   tiers: ['1', '2', '3', '4', '5', '6', 'S'],
-  concurrency: 3 // SET TO 3 AS REQUESTED
+  concurrency: 1 // Reduced to 1 for 1GB RAM stability
 };
 
 (async () => {
