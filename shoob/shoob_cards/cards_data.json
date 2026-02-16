@@ -1,5 +1,5 @@
 {
-  "totalCards": 6862,
+  "totalCards": 6877,
   "processedPages": [
     "1-1",
     "1-2",
@@ -477,7 +477,8 @@
     "1-474",
     "1-475",
     "1-476",
-    "1-477"
+    "1-477",
+    "1-478"
   ],
   "cards": [
     {
@@ -75961,12 +75962,177 @@
       "tier": "1",
       "page": 477,
       "scrapedAt": "2026-02-16T11:07:09.016Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444543?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444543",
+      "cardName": "Sakura Kouno",
+      "creator": "Agera",
+      "animeName": "Horimiya",
+      "description": "Sakura Kouno from Horimiya",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:16.404Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444541?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444541",
+      "cardName": "Remi Ayasaki",
+      "creator": "Agera",
+      "animeName": "Horimiya",
+      "description": "Remi Ayasaki from Horimiya",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:18.359Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44453f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44453f",
+      "cardName": "Tenma Sumeragi",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Tenma Sumeragi from A3!",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:20.301Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44453d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44453d",
+      "cardName": "Sakuya Sakuma",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Sakuya Sakuma from A3!",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:22.205Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44453b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44453b",
+      "cardName": "Kakeru Sengoku",
+      "creator": "Agera",
+      "animeName": "Horimiya",
+      "description": "Kakeru Sengoku from Horimiya",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:24.223Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444535?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444535",
+      "cardName": "Muku Sakisaka",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Muku Sakisaka from A3!",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:26.198Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444533?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444533",
+      "cardName": "Yusuke Igarashi",
+      "creator": "seki",
+      "animeName": "Kiss Him, Not Me!",
+      "description": "Yusuke Igarashi from Kiss Him, Not Me!",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:28.107Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444531?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444531",
+      "cardName": "Yuki Rurikawa",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Yuki Rurikawa from A3!",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:30.107Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44452f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44452f",
+      "cardName": "Misaka Mikoto",
+      "creator": "Shiki ツ",
+      "animeName": "A Certain Series",
+      "description": "Misaka Mikoto from A Certain Series",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:32.263Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44452b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44452b",
+      "cardName": "Tsuzuru Minagi",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Tsuzuru Minagi from A3!",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:34.398Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444529?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444529",
+      "cardName": "Sakutaro Morishige",
+      "creator": "Taiga Aisaka Fan Club",
+      "animeName": "Corpse Party",
+      "description": "Sakutaro Morishige from Corpse Party",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:36.463Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444527?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444527",
+      "cardName": "Kazunari Miyoshi",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Kazunari Miyoshi from A3!",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:38.411Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444525?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444525",
+      "cardName": "Misumi Ikaruga",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Misumi Ikaruga from A3!",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:40.403Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444519?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444519",
+      "cardName": "Takafumi Yukawa",
+      "creator": "Monokuma",
+      "animeName": "Kokkoku",
+      "description": "Takafumi Yukawa from Kokkoku",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:42.401Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444517?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444517",
+      "cardName": "Leliel",
+      "creator": "bleepblop",
+      "animeName": "Neon Genesis Evangelion",
+      "description": "Leliel from Neon Genesis Evangelion",
+      "tier": "1",
+      "page": 478,
+      "scrapedAt": "2026-02-16T11:07:44.497Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:07:09.017Z",
+  "lastUpdated": "2026-02-16T11:07:44.499Z",
   "stats": {
     "successRate": 96,
-    "totalAttempts": 606,
-    "successfulAttempts": 582
+    "totalAttempts": 621,
+    "successfulAttempts": 597
   }
 }
