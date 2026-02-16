@@ -1,5 +1,5 @@
 {
-  "totalCards": 7191,
+  "totalCards": 7206,
   "processedPages": [
     "1-1",
     "1-10",
@@ -447,6 +447,7 @@
     "1-499",
     "1-5",
     "1-50",
+    "1-500",
     "1-51",
     "1-52",
     "1-53",
@@ -79602,7 +79603,172 @@
       "tier": "1",
       "page": 499,
       "scrapedAt": "2026-02-16T11:52:20.325Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece0d1f43ea4d7a5e11da?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece0d1f43ea4d7a5e11da",
+      "cardName": "Hinako Nakayama",
+      "creator": "Artist:Leah",
+      "animeName": "Girl Beats Boys",
+      "description": "Hinako Nakayama from Girl Beats Boys",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:52:40.529Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece081f43ea4d7a5e10c3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece081f43ea4d7a5e10c3",
+      "cardName": "Kanade Amamiya",
+      "creator": "Artist:Leah",
+      "animeName": "Dream Festival!",
+      "description": "Kanade Amamiya from Dream Festival!",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:52:42.824Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece061f43ea4d7a5e105c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece061f43ea4d7a5e105c",
+      "cardName": "Junya Sasaki",
+      "creator": "Artist:Leah",
+      "animeName": "Dream Festival!",
+      "description": "Junya Sasaki from Dream Festival!",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:52:45.148Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece041f43ea4d7a5e1038?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece041f43ea4d7a5e1038",
+      "cardName": "Itsuki Katagiri",
+      "creator": "Artist:Leah",
+      "animeName": "Dream Festival!",
+      "description": "Itsuki Katagiri from Dream Festival!",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:52:47.504Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece031f43ea4d7a5e0fe3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece031f43ea4d7a5e0fe3",
+      "cardName": "Chizuru Sawamura",
+      "creator": "Artist:Leah",
+      "animeName": "Dream Festival!",
+      "description": "Chizuru Sawamura from Dream Festival!",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:52:49.719Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecd7c1f43ea4d7a5df52f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecd7c1f43ea4d7a5df52f",
+      "cardName": "Anderson",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Great Pretender",
+      "description": "Anderson from Great Pretender",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:52:51.995Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecd7a1f43ea4d7a5df4ca?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecd7a1f43ea4d7a5df4ca",
+      "cardName": "Danny",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Great Pretender",
+      "description": "Danny from Great Pretender",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:52:54.208Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecd781f43ea4d7a5df439?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecd781f43ea4d7a5df439",
+      "cardName": "Kudo",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Great Pretender",
+      "description": "Kudo from Great Pretender",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:52:56.527Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecd771f43ea4d7a5df3b2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecd771f43ea4d7a5df3b2",
+      "cardName": "Marie",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Great Pretender",
+      "description": "Marie from Great Pretender",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:52:58.928Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecd751f43ea4d7a5df354?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecd751f43ea4d7a5df354",
+      "cardName": "Miki Edamura",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Great Pretender",
+      "description": "Miki Edamura from Great Pretender",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:53:01.616Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecd731f43ea4d7a5df32c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecd731f43ea4d7a5df32c",
+      "cardName": "Shi-won Kim",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Great Pretender",
+      "description": "Shi-won Kim from Great Pretender",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:53:04.303Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecd721f43ea4d7a5df2e7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecd721f43ea4d7a5df2e7",
+      "cardName": "Shougo Nakanoshima",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Great Pretender",
+      "description": "Shougo Nakanoshima from Great Pretender",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:53:06.797Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeccb7361ad631c9444da4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeccb7361ad631c9444da4",
+      "cardName": "Tom",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Great Pretender",
+      "description": "Tom from Great Pretender",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:53:09.226Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecc0a5509673e8eb294d9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecc0a5509673e8eb294d9",
+      "cardName": "Izumi Segawa",
+      "creator": "Artist:Mui Mui むいちろ",
+      "animeName": "Hayate the Combat Butler",
+      "description": "Izumi Segawa from Hayate the Combat Butler",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:53:11.606Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecc095509673e8eb2944a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecc095509673e8eb2944a",
+      "cardName": "Miki Hanabishi",
+      "creator": "Artist:Mui Mui むいちろ",
+      "animeName": "Hayate the Combat Butler",
+      "description": "Miki Hanabishi from Hayate the Combat Butler",
+      "tier": "1",
+      "page": 500,
+      "scrapedAt": "2026-02-16T11:53:14.034Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:52:20.389Z"
+  "lastUpdated": "2026-02-16T11:53:14.036Z"
 }
