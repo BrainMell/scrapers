@@ -1,5 +1,5 @@
 {
-  "totalCards": 6637,
+  "totalCards": 6652,
   "processedPages": [
     "1-1",
     "1-2",
@@ -462,7 +462,8 @@
     "1-459",
     "1-460",
     "1-461",
-    "1-462"
+    "1-462",
+    "1-463"
   ],
   "cards": [
     {
@@ -73471,12 +73472,177 @@
       "tier": "1",
       "page": 459,
       "scrapedAt": "2026-02-16T10:58:06.125Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44494f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44494f",
+      "cardName": "Estelle",
+      "creator": "NCArchie",
+      "animeName": "Majo no Tabitabi",
+      "description": "Estelle from Majo no Tabitabi",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:13.732Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44494d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44494d",
+      "cardName": "Sirius",
+      "creator": "MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Sirius from My Hero Academia",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:15.815Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44493f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44493f",
+      "cardName": "Hwa Ryun",
+      "creator": "Karyl",
+      "animeName": "Tower of God",
+      "description": "Hwa Ryun from Tower of God",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:17.760Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44493d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44493d",
+      "cardName": "Ottar",
+      "creator": "Kruggles",
+      "animeName": "DanMachi",
+      "description": "Ottar from DanMachi",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:19.815Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444929?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444929",
+      "cardName": "Toriko Nishina",
+      "creator": "Sleepy Yui",
+      "animeName": "Otherside Picnic",
+      "description": "Toriko Nishina from Otherside Picnic",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:21.776Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444923?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444923",
+      "cardName": "Aoi Todo",
+      "creator": "𝕍𝕚𝕥𝕠𝕣𝕚𝕒",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Aoi Todo from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:23.719Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444921?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444921",
+      "cardName": "Pikkon",
+      "creator": "究極無敵の合体 超サイヤ人ゴッドSSベジット",
+      "animeName": "Dragon Ball",
+      "description": "Pikkon from Dragon Ball",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:25.860Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44491f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44491f",
+      "cardName": "Rin Asano",
+      "creator": "Popo",
+      "animeName": "Blade of the Immortal",
+      "description": "Rin Asano from Blade of the Immortal",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:27.821Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44491d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44491d",
+      "cardName": "Inca Kasugatani",
+      "creator": "Dead8oul",
+      "animeName": "Fire Force",
+      "description": "Inca Kasugatani from Fire Force",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:29.898Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444911?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444911",
+      "cardName": "Tsume Inuzuka",
+      "creator": "HealingSoon",
+      "animeName": "Naruto",
+      "description": "Tsume Inuzuka from Naruto",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:32.114Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44490d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44490d",
+      "cardName": "Inoichi Yamanaka",
+      "creator": "HealingSoon",
+      "animeName": "Naruto",
+      "description": "Inoichi Yamanaka from Naruto",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:34.220Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448f7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448f7",
+      "cardName": "Miyako Izumo",
+      "creator": "Derp",
+      "animeName": "Princess Connect! Re:Dive",
+      "description": "Miyako Izumo from Princess Connect! Re:Dive",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:36.405Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448f5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448f5",
+      "cardName": "Tetsutetsu Tetsutetsu",
+      "creator": "MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Tetsutetsu Tetsutetsu from My Hero Academia",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:38.501Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448f1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448f1",
+      "cardName": "Anak Zahard",
+      "creator": "Tempest",
+      "animeName": "Tower of God",
+      "description": "Anak Zahard from Tower of God",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:40.404Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448eb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448eb",
+      "cardName": "Eugene Sevenstark",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "description": "Eugene Sevenstark from Mobile Suit Gundam: Iron-Blooded Orphans",
+      "tier": "1",
+      "page": 463,
+      "scrapedAt": "2026-02-16T10:58:42.323Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:58:06.160Z",
+  "lastUpdated": "2026-02-16T10:58:42.324Z",
   "stats": {
     "successRate": 94,
-    "totalAttempts": 381,
-    "successfulAttempts": 357
+    "totalAttempts": 396,
+    "successfulAttempts": 372
   }
 }
