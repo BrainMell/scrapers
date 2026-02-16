@@ -1,5 +1,5 @@
 {
-  "totalCards": 7026,
+  "totalCards": 7041,
   "processedPages": [
     "1-1",
     "1-10",
@@ -433,6 +433,7 @@
     "1-486",
     "1-487",
     "1-488",
+    "1-489",
     "1-49",
     "1-5",
     "1-50",
@@ -77776,7 +77777,172 @@
       "tier": "1",
       "page": 488,
       "scrapedAt": "2026-02-16T11:29:03.211Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffda5b6ffec216f53eeb4b2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffda5b6ffec216f53eeb4b2",
+      "cardName": "Shinji Kazama",
+      "creator": "Card Maker:Saber",
+      "animeName": "Munou na Nana",
+      "description": "Shinji Kazama from Munou na Nana",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:42:43.597Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffda556ffec216f53eeb1e5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffda556ffec216f53eeb1e5",
+      "cardName": "Huo Yan Li",
+      "creator": "Card Maker:Kruggles",
+      "animeName": "Fire Force",
+      "description": "Huo Yan Li from Fire Force",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:42:46.008Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffd619b4a9c88536af86c1a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffd619b4a9c88536af86c1a",
+      "cardName": "Teddy Demon",
+      "creator": "Card Maker:Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Teddy Demon from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:42:48.295Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffd56341e1161266c497296?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffd56341e1161266c497296",
+      "cardName": "Yuzu Koyama",
+      "creator": "Card Maker:Taiga Aisaka Fan Club",
+      "animeName": "Girls und Panzer",
+      "description": "Yuzu Koyama from Girls und Panzer",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:42:50.636Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffd54bec4027b539b6580d0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffd54bec4027b539b6580d0",
+      "cardName": "Retar",
+      "creator": "Card Maker:Fish",
+      "animeName": "Golden Kamuy",
+      "description": "Retar from Golden Kamuy",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:42:52.932Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffce8da0e910726395aa009?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffce8da0e910726395aa009",
+      "cardName": "Huci",
+      "creator": "Card Maker:Fish",
+      "animeName": "Golden Kamuy",
+      "description": "Huci from Golden Kamuy",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:42:55.124Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffcdff037fef62fea05d0f4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffcdff037fef62fea05d0f4",
+      "cardName": "Mihono Asakura",
+      "creator": "Card Maker:Fish",
+      "animeName": "Toji no Miko",
+      "description": "Mihono Asakura from Toji no Miko",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:42:57.440Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffcdba44c74b8085655ce81?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffcdba44c74b8085655ce81",
+      "cardName": "Sayaka Itomi",
+      "creator": "Card Maker:Fish",
+      "animeName": "Toji no Miko",
+      "description": "Sayaka Itomi from Toji no Miko",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:42:59.739Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffc96d5e008fd7f3cdb5245?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffc96d5e008fd7f3cdb5245",
+      "cardName": "Touka Kirishima",
+      "creator": "Card Maker:Tempest",
+      "animeName": "Tokyo Ghoul",
+      "description": "Touka Kirishima from Tokyo Ghoul",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:43:02.421Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffc5ba19fd5ef16eb5c754c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffc5ba19fd5ef16eb5c754c",
+      "cardName": "Wasabi Izuno",
+      "creator": "Card Maker:HealingSoon",
+      "animeName": "Boruto",
+      "description": "Wasabi Izuno from Boruto",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:43:05.005Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffb01941cce486711c83b35?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffb01941cce486711c83b35",
+      "cardName": "Kaori Miyazono",
+      "creator": "Card Maker:Tempest",
+      "animeName": "Your Lie in April",
+      "description": "Kaori Miyazono from Your Lie in April",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:43:07.429Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffa91d152e4e35149137d7c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffa91d152e4e35149137d7c",
+      "cardName": "Pochi",
+      "creator": "Card Maker:Mitsuri 🌸🌺",
+      "animeName": "How to Keep a Mummy",
+      "description": "Pochi from How to Keep a Mummy",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:43:09.813Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffa8f2bed3d6f374d12003b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffa8f2bed3d6f374d12003b",
+      "cardName": "Hana Inuzuka",
+      "creator": "Card Maker:HealingSoon",
+      "animeName": "Naruto",
+      "description": "Hana Inuzuka from Naruto",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:43:12.332Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffa8e7bbbd09d6837580509?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffa8e7bbbd09d6837580509",
+      "cardName": "Kaede Kashiwagi",
+      "creator": "Card Maker:Mitsuri 🌸🌺",
+      "animeName": "How to Keep a Mummy",
+      "description": "Kaede Kashiwagi from How to Keep a Mummy",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:43:14.703Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffa8c6ded3d6f374d11f1c4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffa8c6ded3d6f374d11f1c4",
+      "cardName": "Nana Shimura",
+      "creator": "Card Maker:MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Nana Shimura from My Hero Academia",
+      "tier": "1",
+      "page": 489,
+      "scrapedAt": "2026-02-16T11:43:17.242Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:29:03.213Z"
+  "lastUpdated": "2026-02-16T11:43:17.243Z"
 }
