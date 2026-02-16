@@ -1,5 +1,5 @@
 {
-  "totalCards": 7806,
+  "totalCards": 7821,
   "processedPages": [
     "1-1",
     "1-10",
@@ -492,6 +492,7 @@
     "1-539",
     "1-54",
     "1-540",
+    "1-541",
     "1-55",
     "1-56",
     "1-57",
@@ -86408,7 +86409,172 @@
       "tier": "1",
       "page": 540,
       "scrapedAt": "2026-02-16T12:30:08.500Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19aaeda1e9326feb16c83?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19aaeda1e9326feb16c83",
+      "cardName": "Hayato Shirase",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Ao No Kanata No Four Rhythm",
+      "description": "Hayato Shirase from Ao No Kanata No Four Rhythm",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:30:33.633Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a8cda1e9326feb16a7e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a8cda1e9326feb16a7e",
+      "cardName": "Shishimura",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Africa No Salaryman",
+      "description": "Shishimura from Africa No Salaryman",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:30:36.127Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a8ada1e9326feb16a5c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a8ada1e9326feb16a5c",
+      "cardName": "President Turtle",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Africa No Salaryman",
+      "description": "President Turtle from Africa No Salaryman",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:30:38.591Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a83da1e9326feb16a41?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a83da1e9326feb16a41",
+      "cardName": "Gorimi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Africa No Salaryman",
+      "description": "Gorimi from Africa No Salaryman",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:30:40.830Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a69da1e9326feb169d3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a69da1e9326feb169d3",
+      "cardName": "Muramura",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Akiba's Trip",
+      "description": "Muramura from Akiba's Trip",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:30:43.303Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a5dda1e9326feb169a1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a5dda1e9326feb169a1",
+      "cardName": "Tenchou",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Akiba's Trip",
+      "description": "Tenchou from Akiba's Trip",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:30:45.822Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a5cda1e9326feb1699c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a5cda1e9326feb1699c",
+      "cardName": "Tsukumo Momo",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Akiba's Trip",
+      "description": "Tsukumo Momo from Akiba's Trip",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:30:48.235Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a5ada1e9326feb16997?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a5ada1e9326feb16997",
+      "cardName": "Tsutomu Kuroi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Akiba's Trip",
+      "description": "Tsutomu Kuroi from Akiba's Trip",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:30:50.622Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a53da1e9326feb16987?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a53da1e9326feb16987",
+      "cardName": "Kati Raikkoken",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Akiba's Trip",
+      "description": "Kati Raikkoken from Akiba's Trip",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:30:53.122Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a48da1e9326feb16974?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a48da1e9326feb16974",
+      "cardName": "Denko Busujima",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Akiba's Trip",
+      "description": "Denko Busujima from Akiba's Trip",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:30:55.396Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a45da1e9326feb16968?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a45da1e9326feb16968",
+      "cardName": "Hoshino Tsukiyama",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Akiba's Trip",
+      "description": "Hoshino Tsukiyama from Akiba's Trip",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:30:57.827Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a40da1e9326feb168e4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a40da1e9326feb168e4",
+      "cardName": "Jirou Nishi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Akiba's Trip",
+      "description": "Jirou Nishi from Akiba's Trip",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:31:00.395Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a3bda1e9326feb1675e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a3bda1e9326feb1675e",
+      "cardName": "Lolibabara",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Akiba's Trip",
+      "description": "Lolibabara from Akiba's Trip",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:31:02.996Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a1dda1e9326feb165da?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a1dda1e9326feb165da",
+      "cardName": "Michiru Kouda",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Pripara",
+      "description": "Michiru Kouda from Pripara",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:31:07.391Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19a15da1e9326feb1654c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19a15da1e9326feb1654c",
+      "cardName": "Leona West",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Pripara",
+      "description": "Leona West from Pripara",
+      "tier": "1",
+      "page": 541,
+      "scrapedAt": "2026-02-16T12:31:09.820Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:30:08.502Z"
+  "lastUpdated": "2026-02-16T12:31:09.822Z"
 }
