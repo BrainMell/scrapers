@@ -56,7 +56,15 @@ class ShoobCardScraper {
     try { await fs.mkdir(this.outputFolder, { recursive: true }); } catch (e) {}
     this.browser = await puppeteer.launch({
       headless: 'new',
-      args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--js-flags="--max-old-space-size=512"']
+      args: [
+        '--no-sandbox', 
+        '--disable-setuid-sandbox', 
+        '--disable-dev-shm-usage', 
+        '--disable-gpu', 
+        '--js-flags="--max-old-space-size=512"',
+        '--window-size=1920,1080',
+        '--disable-blink-features=AutomationControlled'
+      ]
     });
     console.log('✅ Browser Engine Ready\n');
   }
@@ -204,6 +212,15 @@ class ShoobCardScraper {
       listPage = await this.browser.newPage();
       await this.setupPage(listPage);
       await listPage.goto(`https://shoob.gg/cards?page=${pageNum}&tier=${tier}`, { waitUntil: 'networkidle2', timeout: 60000 });
+      
+      // Wait for at least one card image to appear
+      try {
+        await listPage.waitForSelector('img[src*="/cards/"]', { timeout: 15000 });
+      } catch (e) {
+        console.log(`   📸 [DEBUG] Page ${pageNum} didn't load cards in time. Saving screenshot...`);
+        await listPage.screenshot({ path: path.join(this.outputFolder, `debug-p${pageNum}.png`) });
+      }
+
       const extraction = await this.extractCardsFromPage(listPage);
       
       if (extraction.cards.length === 0) {
