@@ -147,17 +147,29 @@ class ShoobCardScraper {
         await execPromise(`git remote add origin ${repoUrl}`);
       }
       await execPromise(`git remote set-url origin ${repoUrl}`);
+      
+      // ALIGN WITH REMOTE BEFORE COMMITTING
       await execPromise('git fetch origin master');
+      await execPromise('git reset origin/master'); // Unstages everything, aligns HEAD to remote
+      
       await execPromise('git add shoob/shoob_cards/cards_data.json');
       const { stdout: status } = await execPromise('git status --porcelain');
-      if (!status.trim()) return;
+      if (!status.trim()) {
+        console.log('   ℹ️ No changes.');
+        return;
+      }
+
       await execPromise('git commit -m "📊 Auto-update scraped cards data [skip ci]"');
-      await execPromise('git pull origin master --rebase');
-      await execPromise('git push origin master');
+      
+      try {
+        await execPromise('git push origin master');
+      } catch (pushErr) {
+        console.log('   ⚠️ Standard push failed, attempting force push...');
+        await execPromise('git push origin master --force');
+      }
       console.log('✅ Sync Successful');
     } catch (e) {
       console.error('❌ Sync Failed:', e.message);
-      if (e.message.includes('rebase')) await execPromise('git push origin master --force');
     }
   }
 
