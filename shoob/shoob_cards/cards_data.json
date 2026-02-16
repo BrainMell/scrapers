@@ -1,5 +1,5 @@
 {
-  "totalCards": 6427,
+  "totalCards": 6442,
   "processedPages": [
     "1-1",
     "1-2",
@@ -446,6 +446,7 @@
     "1-443",
     "1-444",
     "1-445",
+    "1-446",
     "1-460",
     "1-461",
     "1-462"
@@ -71147,12 +71148,177 @@
       "tier": "1",
       "page": 445,
       "scrapedAt": "2026-02-16T10:49:40.912Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444dcd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444dcd",
+      "cardName": "Doshu Goetsu",
+      "creator": "Lee?",
+      "animeName": "Boruto",
+      "description": "Doshu Goetsu from Boruto",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:49:48.202Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444dc5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444dc5",
+      "cardName": "Laica",
+      "creator": "ShoXie",
+      "animeName": "B: The Beginning",
+      "description": "Laica from B: The Beginning",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:49:50.198Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444dc3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444dc3",
+      "cardName": "Allelujah Haptism",
+      "creator": "lust",
+      "animeName": "Gundam",
+      "description": "Allelujah Haptism from Gundam",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:49:52.098Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444dbf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444dbf",
+      "cardName": "Brian Brandon",
+      "creator": "ShoXie",
+      "animeName": "B: The Beginning",
+      "description": "Brian Brandon from B: The Beginning",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:49:54.004Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444dbd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444dbd",
+      "cardName": "Tieria Erde",
+      "creator": "lust",
+      "animeName": "Gundam",
+      "description": "Tieria Erde from Gundam",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:49:55.917Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444db5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444db5",
+      "cardName": "Mujika",
+      "creator": "RainySnow",
+      "animeName": "The Promised Neverland",
+      "description": "Mujika from The Promised Neverland",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:49:57.912Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444db3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444db3",
+      "cardName": "Masao Tachibana",
+      "creator": "Syololololo~",
+      "animeName": "Captain Tsubasa",
+      "description": "Masao Tachibana from Captain Tsubasa",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:49:59.864Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444daf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444daf",
+      "cardName": "Mecha Mochimazzi",
+      "creator": "Famzi",
+      "animeName": "Tamako Market",
+      "description": "Mecha Mochimazzi from Tamako Market",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:50:01.866Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444dad?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444dad",
+      "cardName": "Takeru Gouda",
+      "creator": "NCArchie",
+      "animeName": "Tsurezure Children",
+      "description": "Takeru Gouda from Tsurezure Children",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:50:03.860Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444da9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444da9",
+      "cardName": "Sayaka Igarashi",
+      "creator": "Fish",
+      "animeName": "Kakegurui",
+      "description": "Sayaka Igarashi from Kakegurui",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:50:05.808Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444da7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444da7",
+      "cardName": "Boris Meyer",
+      "creator": "ShoXie",
+      "animeName": "B: The Beginning",
+      "description": "Boris Meyer from B: The Beginning",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:50:07.722Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444da5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444da5",
+      "cardName": "Suu",
+      "creator": "Cin",
+      "animeName": "Mewkledreamy",
+      "description": "Suu from Mewkledreamy",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:50:09.771Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d93?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d93",
+      "cardName": "Queen Nemlis",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Queen Nemlis from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:50:11.715Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d91?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d91",
+      "cardName": "Poseidon",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Poseidon from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:50:13.660Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d8d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d8d",
+      "cardName": "Yona",
+      "creator": "Jean ™",
+      "animeName": "Yona of the Dawn",
+      "description": "Yona from Yona of the Dawn",
+      "tier": "1",
+      "page": 446,
+      "scrapedAt": "2026-02-16T10:50:15.576Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:49:40.959Z",
+  "lastUpdated": "2026-02-16T10:50:15.598Z",
   "stats": {
-    "successRate": 86,
-    "totalAttempts": 170,
-    "successfulAttempts": 147
+    "successRate": 88,
+    "totalAttempts": 185,
+    "successfulAttempts": 162
   }
 }
