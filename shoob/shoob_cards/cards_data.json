@@ -1,5 +1,5 @@
 {
-  "totalCards": 6742,
+  "totalCards": 6757,
   "processedPages": [
     "1-1",
     "1-2",
@@ -469,7 +469,8 @@
     "1-466",
     "1-467",
     "1-468",
-    "1-469"
+    "1-469",
+    "1-470"
   ],
   "cards": [
     {
@@ -74633,12 +74634,177 @@
       "tier": "1",
       "page": 469,
       "scrapedAt": "2026-02-16T11:02:17.520Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446ff?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446ff",
+      "cardName": "Suou Pavlichenko",
+      "creator": "Winter 겨울",
+      "animeName": "Darker than Black",
+      "description": "Suou Pavlichenko from Darker than Black",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:25.598Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446f9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446f9",
+      "cardName": "Misa Ilioroagu",
+      "creator": "fifi",
+      "animeName": "The Misfit of Demon King Academy",
+      "description": "Misa Ilioroagu from The Misfit of Demon King Academy",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:27.605Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446f7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446f7",
+      "cardName": "Chrome",
+      "creator": "Derp",
+      "animeName": "Dr. Stone",
+      "description": "Chrome from Dr. Stone",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:29.560Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446f5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446f5",
+      "cardName": "Chloe",
+      "creator": "FizzyBrian",
+      "animeName": "Lapis Re:LiGHTs",
+      "description": "Chloe from Lapis Re:LiGHTs",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:31.462Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446f3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446f3",
+      "cardName": "Mosquito Girl",
+      "creator": "Fish",
+      "animeName": "One Punch Man",
+      "description": "Mosquito Girl from One Punch Man",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:33.466Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446f1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446f1",
+      "cardName": "Kazuharu Yamamoto",
+      "creator": "Daringa",
+      "animeName": "Gekidol",
+      "description": "Kazuharu Yamamoto from Gekidol",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:35.372Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446ef?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446ef",
+      "cardName": "Principal Shinonome",
+      "creator": "Kronus",
+      "animeName": "Nichijou",
+      "description": "Principal Shinonome from Nichijou",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:37.406Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446ed?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446ed",
+      "cardName": "Toshiki Miyamizu",
+      "creator": "hai",
+      "animeName": "Kimi no Na wa.",
+      "description": "Toshiki Miyamizu from Kimi no Na wa.",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:39.471Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446e9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446e9",
+      "cardName": "Miata",
+      "creator": "iMilkTea",
+      "animeName": "Claymore",
+      "description": "Miata from Claymore",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:41.363Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446e3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446e3",
+      "cardName": "Kusue Hakozaki",
+      "creator": "Saber",
+      "animeName": "I'm Standing on a Million Lives",
+      "description": "Kusue Hakozaki from I'm Standing on a Million Lives",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:43.322Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446df?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446df",
+      "cardName": "Ginro",
+      "creator": "Derp",
+      "animeName": "Dr. Stone",
+      "description": "Ginro from Dr. Stone",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:45.419Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446dd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446dd",
+      "cardName": "Punimon",
+      "creator": "Monokuma",
+      "animeName": "Digimon",
+      "description": "Punimon from Digimon",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:47.560Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446d9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446d9",
+      "cardName": "Teresa",
+      "creator": "iMilkTea",
+      "animeName": "Claymore",
+      "description": "Teresa from Claymore",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:49.705Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446d7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446d7",
+      "cardName": "Yuka Tokitate",
+      "creator": "Saber",
+      "animeName": "I'm Standing on a Million Lives",
+      "description": "Yuka Tokitate from I'm Standing on a Million Lives",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:51.617Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446d5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446d5",
+      "cardName": "Pabumon",
+      "creator": "Monokuma",
+      "animeName": "Digimon",
+      "description": "Pabumon from Digimon",
+      "tier": "1",
+      "page": 470,
+      "scrapedAt": "2026-02-16T11:02:53.772Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:02:17.521Z",
+  "lastUpdated": "2026-02-16T11:02:53.798Z",
   "stats": {
     "successRate": 95,
-    "totalAttempts": 486,
-    "successfulAttempts": 462
+    "totalAttempts": 501,
+    "successfulAttempts": 477
   }
 }
