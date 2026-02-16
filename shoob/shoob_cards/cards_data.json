@@ -1,5 +1,5 @@
 {
-  "totalCards": 7176,
+  "totalCards": 7191,
   "processedPages": [
     "1-1",
     "1-10",
@@ -444,6 +444,7 @@
     "1-496",
     "1-497",
     "1-498",
+    "1-499",
     "1-5",
     "1-50",
     "1-51",
@@ -79436,7 +79437,172 @@
       "tier": "1",
       "page": 498,
       "scrapedAt": "2026-02-16T11:51:26.425Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf3425428d787cdc7e2b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf3425428d787cdc7e2b",
+      "cardName": "Naakim",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Gurren Lagann",
+      "description": "Naakim from Gurren Lagann",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:51:46.629Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf251f43ea4d7a5e4040?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf251f43ea4d7a5e4040",
+      "cardName": "Chizuru Ichinose",
+      "creator": "Artist:Jobosama",
+      "animeName": "Kanojo Okarishimasu",
+      "description": "Chizuru Ichinose from Kanojo Okarishimasu",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:51:49.007Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf231f43ea4d7a5e3f74?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf231f43ea4d7a5e3f74",
+      "cardName": "Kazuya Kinoshita",
+      "creator": "Artist:Jobosama",
+      "animeName": "Kanojo Okarishimasu",
+      "description": "Kazuya Kinoshita from Kanojo Okarishimasu",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:51:51.526Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf211f43ea4d7a5e3e5b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf211f43ea4d7a5e3e5b",
+      "cardName": "Inosuke Hashibira",
+      "creator": "Card Maker:Mitsuri",
+      "animeName": "Demon Slayer",
+      "description": "Inosuke Hashibira from Demon Slayer",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:51:53.998Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf201f43ea4d7a5e3e06?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf201f43ea4d7a5e3e06",
+      "cardName": "Shuuka Hanazo",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Pripara",
+      "description": "Shuuka Hanazo from Pripara",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:51:56.323Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf1f1f43ea4d7a5e3df6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf1f1f43ea4d7a5e3df6",
+      "cardName": "Terriermon Assistant",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Digimon",
+      "description": "Terriermon Assistant from Digimon",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:51:58.815Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece661f43ea4d7a5e1ecd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece661f43ea4d7a5e1ecd",
+      "cardName": "Roen",
+      "creator": "Artist:Leah",
+      "animeName": "Dance With Devils",
+      "description": "Roen from Dance With Devils",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:52:01.215Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece3d1f43ea4d7a5e185f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece3d1f43ea4d7a5e185f",
+      "cardName": "Rintarou Kira",
+      "creator": "Artist:Leah",
+      "animeName": "Girl Beats Boys",
+      "description": "Rintarou Kira from Girl Beats Boys",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:52:03.796Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece3b1f43ea4d7a5e182c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece3b1f43ea4d7a5e182c",
+      "cardName": "Houou Onigashima",
+      "creator": "Artist:Leah",
+      "animeName": "Girl Beats Boys",
+      "description": "Houou Onigashima from Girl Beats Boys",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:52:06.337Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece331f43ea4d7a5e176e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece331f43ea4d7a5e176e",
+      "cardName": "Yuuta Mirako",
+      "creator": "Artist:Leah",
+      "animeName": "Girl Beats Boys",
+      "description": "Yuuta Mirako from Girl Beats Boys",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:52:08.633Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece301f43ea4d7a5e1718?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece301f43ea4d7a5e1718",
+      "cardName": "Totomaru Minowa",
+      "creator": "Artist:Leah",
+      "animeName": "Girl Beats Boys",
+      "description": "Totomaru Minowa from Girl Beats Boys",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:52:11.020Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece2c1f43ea4d7a5e16c8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece2c1f43ea4d7a5e16c8",
+      "cardName": "Takayuki Konparu",
+      "creator": "Artist:Leah",
+      "animeName": "Girl Beats Boys",
+      "description": "Takayuki Konparu from Girl Beats Boys",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:52:13.310Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece231f43ea4d7a5e14fd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece231f43ea4d7a5e14fd",
+      "cardName": "Keigo Kazama",
+      "creator": "Artist:Leah",
+      "animeName": "Dream Festival!",
+      "description": "Keigo Kazama from Dream Festival!",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:52:15.626Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece1f1f43ea4d7a5e1446?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece1f1f43ea4d7a5e1446",
+      "cardName": "Shin Oikawa",
+      "creator": "Artist:Leah",
+      "animeName": "Dream Festival!",
+      "description": "Shin Oikawa from Dream Festival!",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:52:18.103Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feece1d1f43ea4d7a5e13d9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feece1d1f43ea4d7a5e13d9",
+      "cardName": "Yuto Kuroishi",
+      "creator": "Artist:Leah",
+      "animeName": "Dream Festival!",
+      "description": "Yuto Kuroishi from Dream Festival!",
+      "tier": "1",
+      "page": 499,
+      "scrapedAt": "2026-02-16T11:52:20.325Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:51:26.426Z"
+  "lastUpdated": "2026-02-16T11:52:20.389Z"
 }
