@@ -1,5 +1,5 @@
 {
-  "totalCards": 7251,
+  "totalCards": 7266,
   "processedPages": [
     "1-1",
     "1-10",
@@ -451,6 +451,7 @@
     "1-501",
     "1-502",
     "1-503",
+    "1-504",
     "1-51",
     "1-52",
     "1-53",
@@ -80266,7 +80267,172 @@
       "tier": "1",
       "page": 503,
       "scrapedAt": "2026-02-16T11:56:04.348Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec933eda1840a9e480fb8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec933eda1840a9e480fb8",
+      "cardName": "Shirogane",
+      "creator": "Card Maker:Yukina",
+      "animeName": "Rail Romanesque",
+      "description": "Shirogane from Rail Romanesque",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:24.631Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec932eda1840a9e480fad?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec932eda1840a9e480fad",
+      "cardName": "Suzushiro",
+      "creator": "Card Maker:Yukina",
+      "animeName": "Rail Romanesque",
+      "description": "Suzushiro from Rail Romanesque",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:27.032Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec79163adff0bf7e7b27f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec79163adff0bf7e7b27f",
+      "cardName": "Koutarou Azumamiya",
+      "creator": "Artist:Christmas Mui Mui むいちろ",
+      "animeName": "Hayate the Combat Butler",
+      "description": "Koutarou Azumamiya from Hayate the Combat Butler",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:29.329Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec78f63adff0bf7e7b227?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec78f63adff0bf7e7b227",
+      "cardName": "Fumi Hibino",
+      "creator": "Artist:Christmas Mui Mui むいちろ",
+      "animeName": "Hayate the Combat Butler",
+      "description": "Fumi Hibino from Hayate the Combat Butler",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:31.624Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec78d63adff0bf7e7b21c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec78d63adff0bf7e7b21c",
+      "cardName": "Shiori Makimura",
+      "creator": "Artist:Christmas Mui Mui むいちろ",
+      "animeName": "Hayate the Combat Butler",
+      "description": "Shiori Makimura from Hayate the Combat Butler",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:33.998Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec78d63adff0bf7e7b217?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec78d63adff0bf7e7b217",
+      "cardName": "Tama",
+      "creator": "Artist:Christmas Mui Mui むいちろ",
+      "animeName": "Hayate the Combat Butler",
+      "description": "Tama from Hayate the Combat Butler",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:36.598Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec77263adff0bf7e7aeb4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec77263adff0bf7e7aeb4",
+      "cardName": "Asuka Toyama",
+      "creator": "Artist:Leah",
+      "animeName": "BanG Dream!",
+      "description": "Asuka Toyama from BanG Dream!",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:38.824Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec77063adff0bf7e7aeab?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec77063adff0bf7e7aeab",
+      "cardName": "Chiyu Tamade",
+      "creator": "Artist:Leah",
+      "animeName": "BanG Dream!",
+      "description": "Chiyu Tamade from BanG Dream!",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:41.334Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec76f63adff0bf7e7aea5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec76f63adff0bf7e7aea5",
+      "cardName": "Masuki Satou",
+      "creator": "Artist:Leah",
+      "animeName": "BanG Dream!",
+      "description": "Masuki Satou from BanG Dream!",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:43.855Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec76d63adff0bf7e7ae9f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec76d63adff0bf7e7ae9f",
+      "cardName": "Michelle",
+      "creator": "Artist:Leah",
+      "animeName": "BanG Dream!",
+      "description": "Michelle from BanG Dream!",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:46.403Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec76c63adff0bf7e7ae78?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec76c63adff0bf7e7ae78",
+      "cardName": "Rei Wakana",
+      "creator": "Artist:Leah",
+      "animeName": "BanG Dream!",
+      "description": "Rei Wakana from BanG Dream!",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:48.813Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec76b63adff0bf7e7ae6b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec76b63adff0bf7e7ae6b",
+      "cardName": "Reona Nyubara",
+      "creator": "Artist:Leah",
+      "animeName": "BanG Dream!",
+      "description": "Reona Nyubara from BanG Dream!",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:51.319Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec76a63adff0bf7e7ae4e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec76a63adff0bf7e7ae4e",
+      "cardName": "Rokka Asahi",
+      "creator": "Artist:Leah",
+      "animeName": "BanG Dream!",
+      "description": "Rokka Asahi from BanG Dream!",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:53.711Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec6be63adff0bf7e7a007?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec6be63adff0bf7e7a007",
+      "cardName": "Rei Amayado",
+      "creator": "Artist:enjelia",
+      "animeName": "Hypnosis Mic",
+      "description": "Rei Amayado from Hypnosis Mic",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:56.196Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec6bb63adff0bf7e79fff?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec6bb63adff0bf7e79fff",
+      "cardName": "Samatoki Aohitsugi",
+      "creator": "Artist:enjelia",
+      "animeName": "Hypnosis Mic",
+      "description": "Samatoki Aohitsugi from Hypnosis Mic",
+      "tier": "1",
+      "page": 504,
+      "scrapedAt": "2026-02-16T11:56:58.605Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:56:04.349Z"
+  "lastUpdated": "2026-02-16T11:56:58.606Z"
 }
