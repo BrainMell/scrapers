@@ -1,5 +1,5 @@
 {
-  "totalCards": 7341,
+  "totalCards": 7356,
   "processedPages": [
     "1-1",
     "1-10",
@@ -458,6 +458,7 @@
     "1-508",
     "1-509",
     "1-51",
+    "1-510",
     "1-52",
     "1-53",
     "1-54",
@@ -81262,7 +81263,172 @@
       "tier": "1",
       "page": 509,
       "scrapedAt": "2026-02-16T12:01:32.329Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4cd63adff0bf7e77d4a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4cd63adff0bf7e77d4a",
+      "cardName": "Maya Fey",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Maya Fey from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:01:52.847Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4cb63adff0bf7e77d48?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4cb63adff0bf7e77d48",
+      "cardName": "Mia Fey",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Mia Fey from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:01:55.095Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4ca63adff0bf7e77d3e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4ca63adff0bf7e77d3e",
+      "cardName": "Nelson",
+      "creator": "Artist:Leah",
+      "animeName": "Little Witch Academia",
+      "description": "Nelson from Little Witch Academia",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:01:57.427Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4c663adff0bf7e77d3a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4c663adff0bf7e77d3a",
+      "cardName": "Daryl Cavendish",
+      "creator": "Artist:Leah",
+      "animeName": "Little Witch Academia",
+      "description": "Daryl Cavendish from Little Witch Academia",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:01:59.818Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4c463adff0bf7e77d38?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4c463adff0bf7e77d38",
+      "cardName": "Dahlia Hawthrone",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Dahlia Hawthrone from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:02:02.222Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4c363adff0bf7e77d36?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4c363adff0bf7e77d36",
+      "cardName": "Croix Meridies",
+      "creator": "Artist:Leah",
+      "animeName": "Little Witch Academia",
+      "description": "Croix Meridies from Little Witch Academia",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:02:04.821Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4c163adff0bf7e77d0d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4c163adff0bf7e77d0d",
+      "cardName": "Chariot Du Nord",
+      "creator": "Artist:Leah",
+      "animeName": "Little Witch Academia",
+      "description": "Chariot Du Nord from Little Witch Academia",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:02:07.314Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4c063adff0bf7e77d01?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4c063adff0bf7e77d01",
+      "cardName": "Barbara Parker",
+      "creator": "Artist:Leah",
+      "animeName": "Little Witch Academia",
+      "description": "Barbara Parker from Little Witch Academia",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:02:09.699Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4be63adff0bf7e77cfb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4be63adff0bf7e77cfb",
+      "cardName": "April May",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "April May from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:02:11.991Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4bd63adff0bf7e77cee?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4bd63adff0bf7e77cee",
+      "cardName": "Apollo Justice",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Apollo Justice from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:02:14.294Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4ba63adff0bf7e77ce5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4ba63adff0bf7e77ce5",
+      "cardName": "Anne Finnelan",
+      "creator": "Artist:Leah",
+      "animeName": "Little Witch Academia",
+      "description": "Anne Finnelan from Little Witch Academia",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:02:16.529Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4b863adff0bf7e77cde?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4b863adff0bf7e77cde",
+      "cardName": "Annabel Creme",
+      "creator": "Artist:Leah",
+      "animeName": "Little Witch Academia",
+      "description": "Annabel Creme from Little Witch Academia",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:02:18.897Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec49c63adff0bf7e77a48?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec49c63adff0bf7e77a48",
+      "cardName": "Alice Kurobane",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Shadowverse",
+      "description": "Alice Kurobane from Shadowverse",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:02:21.098Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec49563adff0bf7e77981?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec49563adff0bf7e77981",
+      "cardName": "Lenessia",
+      "creator": "Artist:Uncle Hap",
+      "animeName": "Log Horizon",
+      "description": "Lenessia from Log Horizon",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:02:23.524Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec49363adff0bf7e77978?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec49363adff0bf7e77978",
+      "cardName": "Marielle",
+      "creator": "Artist:Uncle Hap",
+      "animeName": "Log Horizon",
+      "description": "Marielle from Log Horizon",
+      "tier": "1",
+      "page": 510,
+      "scrapedAt": "2026-02-16T12:02:25.814Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:01:32.330Z"
+  "lastUpdated": "2026-02-16T12:02:25.815Z"
 }
