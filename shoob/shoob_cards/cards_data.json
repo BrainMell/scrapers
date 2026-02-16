@@ -1,5 +1,5 @@
 {
-  "totalCards": 6397,
+  "totalCards": 6412,
   "processedPages": [
     "1-1",
     "1-2",
@@ -444,6 +444,7 @@
     "1-441",
     "1-442",
     "1-443",
+    "1-444",
     "1-460",
     "1-461",
     "1-462"
@@ -70815,12 +70816,177 @@
       "tier": "1",
       "page": 443,
       "scrapedAt": "2026-02-16T10:48:28.160Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e53?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e53",
+      "cardName": "Roland",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Violet Evergarden",
+      "description": "Roland from Violet Evergarden",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:36.775Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e51?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e51",
+      "cardName": "Natsuki Naoko",
+      "creator": "Rici 💔🖤",
+      "animeName": "Re:Zero",
+      "description": "Natsuki Naoko from Re:Zero",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:38.904Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e4b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e4b",
+      "cardName": "Utahime Iori",
+      "creator": "VILLA • Legion💜",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Utahime Iori from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:41.161Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e47?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e47",
+      "cardName": "Ume Kurumizawa",
+      "creator": "bun bun 🌸",
+      "animeName": "Kimi Ni Todoke",
+      "description": "Ume Kurumizawa from Kimi Ni Todoke",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:43.100Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e3f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e3f",
+      "cardName": "Hoshi",
+      "creator": "manuelsousa13",
+      "animeName": "Arakawa Under the Bridge",
+      "description": "Hoshi from Arakawa Under the Bridge",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:45.017Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e3b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e3b",
+      "cardName": "Karui",
+      "creator": "Cynthia",
+      "animeName": "Naruto",
+      "description": "Karui from Naruto",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:47.215Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e35?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e35",
+      "cardName": "Gon",
+      "creator": "Hoshiko [星子]",
+      "animeName": "Hajime Ningen Gon",
+      "description": "Gon from Hajime Ningen Gon",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:49.174Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e31?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e31",
+      "cardName": "Takurou Sugawara",
+      "creator": "NCArchie",
+      "animeName": "Tsurezure Children",
+      "description": "Takurou Sugawara from Tsurezure Children",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:51.097Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e23?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e23",
+      "cardName": "Ibara Obami",
+      "creator": "Fish",
+      "animeName": "Kakegurui",
+      "description": "Ibara Obami from Kakegurui",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:53.072Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e21?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e21",
+      "cardName": "Melascula",
+      "creator": "Rici 💔🖤",
+      "animeName": "The Seven Deadly Sins",
+      "description": "Melascula from The Seven Deadly Sins",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:55.272Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e1f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e1f",
+      "cardName": "Gaurin",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Gaurin from Rage of Bahamut",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:57.271Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e1d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e1d",
+      "cardName": "Tenma Ichinotani",
+      "creator": "Popo",
+      "animeName": "Mushibugyou",
+      "description": "Tenma Ichinotani from Mushibugyou",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:48:59.276Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e17?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e17",
+      "cardName": "Caprimon",
+      "creator": "Mui Mui むいちろ",
+      "animeName": "Digimon",
+      "description": "Caprimon from Digimon",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:49:01.307Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e15?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e15",
+      "cardName": "Miou Ootori",
+      "creator": "Piratax10",
+      "animeName": "Sabagebu!",
+      "description": "Miou Ootori from Sabagebu!",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:49:03.329Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e13?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e13",
+      "cardName": "Hako Kuroi",
+      "creator": "Lee?",
+      "animeName": "Boruto",
+      "description": "Hako Kuroi from Boruto",
+      "tier": "1",
+      "page": 444,
+      "scrapedAt": "2026-02-16T10:49:05.318Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:48:28.161Z",
+  "lastUpdated": "2026-02-16T10:49:05.319Z",
   "stats": {
-    "successRate": 84,
-    "totalAttempts": 140,
-    "successfulAttempts": 117
+    "successRate": 85,
+    "totalAttempts": 155,
+    "successfulAttempts": 132
   }
 }
