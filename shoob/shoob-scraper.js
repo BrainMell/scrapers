@@ -177,9 +177,9 @@ class ShoobCardScraper {
         this.consecutiveFailures++;
       }
 
-      // 4 RETRIES
-      if ((meta.animeName === 'Unknown Anime' || meta.creatorName === 'Unknown Creator') && retryCount < 4) {
-        console.log(`      🔄 [RETRY ${retryCount + 1}/4] "${cardName}"`);
+      // 6 RETRIES
+      if ((meta.animeName === 'Unknown Anime' || meta.creatorName === 'Unknown Creator') && retryCount < 6) {
+        console.log(`      🔄 [RETRY ${retryCount + 1}/6] "${cardName}"`);
         await new Promise(r => setTimeout(r, 3000));
         return await this.fetchMetadataByOpeningTab(detailUrl, cardName, retryCount + 1);
       }
@@ -201,8 +201,8 @@ class ShoobCardScraper {
         throw new Error('INTERNET_DOWN');
       }
       
-      if (retryCount < 4) {
-        console.log(`      🔄 [RETRY ${retryCount + 1}/4] Error: "${cardName}"`);
+      if (retryCount < 6) {
+        console.log(`      🔄 [RETRY ${retryCount + 1}/6] Error: "${cardName}"`);
         await new Promise(r => setTimeout(r, 3000));
         return await this.fetchMetadataByOpeningTab(detailUrl, cardName, retryCount + 1);
       }
@@ -268,6 +268,11 @@ class ShoobCardScraper {
         await fs.copyFile(this.outputFile, this.backupFile).catch(() => {});
       }
       
+      // Auto-sync to GitHub every 500 cards if GITHUB_TOKEN is present
+      if (process.env.GITHUB_TOKEN && this.cards.length % 500 === 0 && this.cards.length > 0) {
+        await this.syncToGitHub();
+      }
+      
       if (this.cards.length % 50 === 0 && this.cards.length > 0) {
         const timestamp = new Date().toISOString().replace(/[:.]/g, '-').split('T')[0];
         const timestampedBackup = path.join(this.outputFolder, `backup-${timestamp}-${this.cards.length}cards.json`);
@@ -275,6 +280,29 @@ class ShoobCardScraper {
       }
     } finally {
       this.isSaving = false;
+    }
+  }
+
+  async syncToGitHub() {
+    const { exec } = require('child_process');
+    const util = require('util');
+    const execPromise = util.promisify(exec);
+
+    console.log('📤 Syncing progress to GitHub...');
+    try {
+      const token = process.env.GITHUB_TOKEN;
+      const repoUrl = `https://${token}@github.com/BrainMell/scrapers.git`;
+      
+      await execPromise('git config user.email "bot@scrapers.com"');
+      await execPromise('git config user.name "Scraper Bot"');
+      await execPromise(`git remote set-url origin ${repoUrl}`);
+      await execPromise('git add shoob/shoob_cards/cards_data.json');
+      // [skip ci] prevents Railway from rebuilding every time we push data
+      await execPromise('git commit -m "📊 Auto-update scraped cards data [skip ci]"');
+      await execPromise('git push origin master');
+      console.log('✅ GitHub Sync Successful');
+    } catch (e) {
+      console.error('❌ GitHub Sync Failed:', e.message);
     }
   }
 
