@@ -1,5 +1,5 @@
 {
-  "totalCards": 6951,
+  "totalCards": 6966,
   "processedPages": [
     "1-1",
     "1-10",
@@ -428,6 +428,7 @@
     "1-481",
     "1-482",
     "1-483",
+    "1-484",
     "1-49",
     "1-5",
     "1-50",
@@ -76946,7 +76947,172 @@
       "tier": "1",
       "page": 483,
       "scrapedAt": "2026-02-16T11:22:51.000Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c90eb3bced21aac6b041b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c90eb3bced21aac6b041b",
+      "cardName": "King",
+      "creator": "Card Maker:Dead8oul",
+      "animeName": "One Punch Man",
+      "description": "King from One Punch Man",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:23:36.221Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c8fb2763a053387564db5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c8fb2763a053387564db5",
+      "cardName": "DemiVeemon",
+      "creator": "Card Maker:Mui Mui むいちろ",
+      "animeName": "Digimon",
+      "description": "DemiVeemon from Digimon",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:23:38.915Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c8f6b763a053387564b56?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c8f6b763a053387564b56",
+      "cardName": "Eric Toga",
+      "creator": "Card Maker:ShoXie",
+      "animeName": "B: The Beginning",
+      "description": "Eric Toga from B: The Beginning",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:23:41.912Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c8f3d763a0533875646a7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c8f3d763a0533875646a7",
+      "cardName": "Grass Wonder",
+      "creator": "Card Maker:Fang",
+      "animeName": "Uma Musume: Pretty Derby",
+      "description": "Grass Wonder from Uma Musume: Pretty Derby",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:23:44.286Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c8e73763a0533875643ca?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c8e73763a0533875643ca",
+      "cardName": "Setsuna F. Seiei",
+      "creator": "Card Maker:lust",
+      "animeName": "Gundam",
+      "description": "Setsuna F. Seiei from Gundam",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:23:46.623Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c8d8dde9ce11e8fb0b387?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c8d8dde9ce11e8fb0b387",
+      "cardName": "Yotsugi Ononoki",
+      "creator": "Card Maker:JohnnyMski",
+      "animeName": "Monogatari Series",
+      "description": "Yotsugi Ononoki from Monogatari Series",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:23:49.031Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c8d67de9ce11e8fb0b278?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c8d67de9ce11e8fb0b278",
+      "cardName": "Sonju",
+      "creator": "Card Maker:RainySnow",
+      "animeName": "The Promised Neverland",
+      "description": "Sonju from The Promised Neverland",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:23:51.498Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c8c3bb0b02f5829f581b5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c8c3bb0b02f5829f581b5",
+      "cardName": "Ena Sakura",
+      "creator": "Card Maker:Piratax10",
+      "animeName": "Sabagebu!",
+      "description": "Ena Sakura from Sabagebu!",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:23:53.832Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c8accde9ce11e8fb0a310?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c8accde9ce11e8fb0a310",
+      "cardName": "Kazuo Tachibana",
+      "creator": "Card Maker:Syololololo~",
+      "animeName": "Captain Tsubasa",
+      "description": "Kazuo Tachibana from Captain Tsubasa",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:23:56.192Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c8aa8de9ce11e8fb0a289?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c8aa8de9ce11e8fb0a289",
+      "cardName": "Charioce XIII",
+      "creator": "Card Maker:Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Charioce XIII from Rage of Bahamut",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:23:58.603Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c882503ebc8187fe8990b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c882503ebc8187fe8990b",
+      "cardName": "Michiru Shinba",
+      "creator": "Card Maker:Popo",
+      "animeName": "SKET Dance",
+      "description": "Michiru Shinba from SKET Dance",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:24:01.018Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c87f003ebc8187fe8981c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c87f003ebc8187fe8981c",
+      "cardName": "Ryouko Kaji",
+      "creator": "Card Maker:NCArchie",
+      "animeName": "Tsurezure Children",
+      "description": "Ryouko Kaji from Tsurezure Children",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:24:03.599Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600c4a8352645f13de108296?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600c4a8352645f13de108296",
+      "cardName": "Haruhito Sugiyama",
+      "creator": "Card Maker:Cin",
+      "animeName": "Mewkledreamy",
+      "description": "Haruhito Sugiyama from Mewkledreamy",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:24:06.020Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600a852c22082119bdb1c519?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600a852c22082119bdb1c519",
+      "cardName": "Nyaromon",
+      "creator": "Card Maker:Mui Mui むいちろ Add me on ASN",
+      "animeName": "Digimon",
+      "description": "Nyaromon from Digimon",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:24:08.723Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600a6aaeb573e2545e294401?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600a6aaeb573e2545e294401",
+      "cardName": "Ai Ohto",
+      "creator": "Card Maker:Sleepy Yui",
+      "animeName": "Wonder Egg Priority",
+      "description": "Ai Ohto from Wonder Egg Priority",
+      "tier": "1",
+      "page": 484,
+      "scrapedAt": "2026-02-16T11:24:11.007Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:22:51.001Z"
+  "lastUpdated": "2026-02-16T11:24:11.009Z"
 }
