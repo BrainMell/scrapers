@@ -1,5 +1,5 @@
 {
-  "totalCards": 7716,
+  "totalCards": 7731,
   "processedPages": [
     "1-1",
     "1-10",
@@ -485,6 +485,7 @@
     "1-532",
     "1-533",
     "1-534",
+    "1-535",
     "1-54",
     "1-55",
     "1-56",
@@ -85412,7 +85413,172 @@
       "tier": "1",
       "page": 534,
       "scrapedAt": "2026-02-16T12:24:29.821Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d4fb9c4af380d4babb7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d4fb9c4af380d4babb7",
+      "cardName": "Brushido",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Brushido from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:24:50.196Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d4cb9c4af380d4babac?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d4cb9c4af380d4babac",
+      "cardName": "Bruff",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Bruff from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:24:52.718Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d4ab9c4af380d4bab93?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d4ab9c4af380d4bab93",
+      "cardName": "Bloominoko",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Bloominoko from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:24:55.232Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d48b9c4af380d4bab58?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d48b9c4af380d4bab58",
+      "cardName": "Blandon",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Blandon from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:24:57.707Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d46b9c4af380d4bab54?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d46b9c4af380d4bab54",
+      "cardName": "Bitter Batter",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Bitter Batter from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:25:00.331Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d44b9c4af380d4bab2f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d44b9c4af380d4bab2f",
+      "cardName": "Big Fish",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Big Fish from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:25:03.206Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d42b9c4af380d4bab29?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d42b9c4af380d4bab29",
+      "cardName": "Betterfly",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Betterfly from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:25:06.000Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d3db9c4af380d4baae2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d3db9c4af380d4baae2",
+      "cardName": "Baddinyan",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Baddinyan from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:25:08.696Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d3bb9c4af380d4baad6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d3bb9c4af380d4baad6",
+      "cardName": "Badude",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Badude from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:25:11.333Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d39b9c4af380d4baac9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d39b9c4af380d4baac9",
+      "cardName": "Baku",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Baku from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:25:14.022Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d38b9c4af380d4baac6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d38b9c4af380d4baac6",
+      "cardName": "Bakulia",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Bakulia from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:25:16.625Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d36b9c4af380d4baab5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d36b9c4af380d4baab5",
+      "cardName": "Bananose",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Bananose from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:25:19.208Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d34b9c4af380d4baaad?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d34b9c4af380d4baaad",
+      "cardName": "Bastnetnyan",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Bastnetnyan from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:25:21.839Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d32b9c4af380d4baa46?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d32b9c4af380d4baa46",
+      "cardName": "Bbqvil",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Bbqvil from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:25:24.411Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d30b9c4af380d4baa26?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d30b9c4af380d4baa26",
+      "cardName": "Becchan",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Becchan from Yo Kai Watch",
+      "tier": "1",
+      "page": 535,
+      "scrapedAt": "2026-02-16T12:25:27.015Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:24:29.823Z"
+  "lastUpdated": "2026-02-16T12:25:27.017Z"
 }
