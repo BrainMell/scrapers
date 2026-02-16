@@ -1,5 +1,5 @@
 {
-  "totalCards": 7371,
+  "totalCards": 7386,
   "processedPages": [
     "1-1",
     "1-10",
@@ -460,6 +460,7 @@
     "1-51",
     "1-510",
     "1-511",
+    "1-512",
     "1-52",
     "1-53",
     "1-54",
@@ -81594,7 +81595,172 @@
       "tier": "1",
       "page": 511,
       "scrapedAt": "2026-02-16T12:03:19.696Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3e8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3e8",
+      "cardName": "Gojo Satoru",
+      "creator": "Card Maker:ZackopsXDX",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Gojo Satoru from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:03:40.118Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3dc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3dc",
+      "cardName": "Akira Hino",
+      "creator": "Card Maker:Agera",
+      "animeName": "Adachi to Shimamura",
+      "description": "Akira Hino from Adachi to Shimamura",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:03:42.598Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3da?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3da",
+      "cardName": "Taeko Nagafuji",
+      "creator": "Card Maker:Agera",
+      "animeName": "Adachi to Shimamura",
+      "description": "Taeko Nagafuji from Adachi to Shimamura",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:03:45.028Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3d6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3d6",
+      "cardName": "Sorane Matsuyama",
+      "creator": "Card Maker:rachel💜",
+      "animeName": "Oshibudo",
+      "description": "Sorane Matsuyama from Oshibudo",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:03:47.519Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3d4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3d4",
+      "cardName": "Tsubasa Tanuma",
+      "creator": "Card Maker:Derp",
+      "animeName": "Kaguya-sama: Love is War",
+      "description": "Tsubasa Tanuma from Kaguya-sama: Love is War",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:03:50.103Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3cc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3cc",
+      "cardName": "Sakura Adachi",
+      "creator": "Card Maker:Agera",
+      "animeName": "Adachi to Shimamura",
+      "description": "Sakura Adachi from Adachi to Shimamura",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:03:52.634Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3c6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3c6",
+      "cardName": "Reinbach",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "By the Grace of the Gods",
+      "description": "Reinbach from By the Grace of the Gods",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:03:54.996Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3be?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3be",
+      "cardName": "Yuuki",
+      "creator": "Card Maker:Derp",
+      "animeName": "Princess Connect! Re:Dive",
+      "description": "Yuuki from Princess Connect! Re:Dive",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:03:57.508Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3bc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3bc",
+      "cardName": "Lulutia",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "By the Grace of the Gods",
+      "description": "Lulutia from By the Grace of the Gods",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:03:59.898Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3ba?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3ba",
+      "cardName": "Metabon",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Divine Gate",
+      "description": "Metabon from Divine Gate",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:04:02.612Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3b8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3b8",
+      "cardName": "Skadi Dragenfelt",
+      "creator": "Card Maker:Daringa",
+      "animeName": "Monster Girl Doctor",
+      "description": "Skadi Dragenfelt from Monster Girl Doctor",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:04:05.596Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3b6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3b6",
+      "cardName": "Reo Igarashi",
+      "creator": "Card Maker:rachel💜",
+      "animeName": "Oshibudo",
+      "description": "Reo Igarashi from Oshibudo",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:04:08.294Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3b4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3b4",
+      "cardName": "Twenty-Fifth Baam",
+      "creator": "Card Maker:Agera",
+      "animeName": "Tower of God",
+      "description": "Twenty-Fifth Baam from Tower of God",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:04:10.895Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3b2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3b2",
+      "cardName": "Aoi Himekawa",
+      "creator": "Card Maker:Kruggles",
+      "animeName": "Haikyuu!!",
+      "description": "Aoi Himekawa from Haikyuu!!",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:04:13.403Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3b0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3b0",
+      "cardName": "Hana Uzaki",
+      "creator": "Card Maker:🍊✨ Yui ✨🍊",
+      "animeName": "Uzaki-chan Wants to Hang Out!",
+      "description": "Hana Uzaki from Uzaki-chan Wants to Hang Out!",
+      "tier": "1",
+      "page": 512,
+      "scrapedAt": "2026-02-16T12:04:16.008Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:03:19.696Z"
+  "lastUpdated": "2026-02-16T12:04:16.009Z"
 }
