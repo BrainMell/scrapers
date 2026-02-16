@@ -1,5 +1,5 @@
 {
-  "totalCards": 7731,
+  "totalCards": 7746,
   "processedPages": [
     "1-1",
     "1-10",
@@ -486,6 +486,7 @@
     "1-533",
     "1-534",
     "1-535",
+    "1-536",
     "1-54",
     "1-55",
     "1-56",
@@ -85578,7 +85579,172 @@
       "tier": "1",
       "page": 535,
       "scrapedAt": "2026-02-16T12:25:27.015Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d2db9c4af380d4baa23?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d2db9c4af380d4baa23",
+      "cardName": "Beetler",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Beetler from Yo Kai Watch",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:25:47.608Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d2cb9c4af380d4baa20?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d2cb9c4af380d4baa20",
+      "cardName": "Belfree",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Belfree from Yo Kai Watch",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:25:50.122Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d2ab9c4af380d4baa19?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d2ab9c4af380d4baa19",
+      "cardName": "Ben Tover",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Ben Tover from Yo Kai Watch",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:25:52.901Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d29b9c4af380d4baa15?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d29b9c4af380d4baa15",
+      "cardName": "Benkei",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Benkei from Yo Kai Watch",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:25:55.338Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d20b9c4af380d4ba9de?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d20b9c4af380d4ba9de",
+      "cardName": "Nemesis",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "To Love Ru",
+      "description": "Nemesis from To Love Ru",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:25:57.808Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d1ab9c4af380d4ba999?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d1ab9c4af380d4ba999",
+      "cardName": "Ryouko Mikado",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "To Love Ru",
+      "description": "Ryouko Mikado from To Love Ru",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:26:00.739Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d10b9c4af380d4ba96e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d10b9c4af380d4ba96e",
+      "cardName": "Appak",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Appak from Yo Kai Watch",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:26:03.500Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d0eb9c4af380d4ba969?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d0eb9c4af380d4ba969",
+      "cardName": "Armsman",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Armsman from Yo Kai Watch",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:26:06.391Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d0db9c4af380d4ba966?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d0db9c4af380d4ba966",
+      "cardName": "Babblong",
+      "creator": "Card Maker:chawizard",
+      "animeName": "Yo Kai Watch",
+      "description": "Babblong from Yo Kai Watch",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:26:09.031Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d05b9c4af380d4ba954?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d05b9c4af380d4ba954",
+      "cardName": "Aya Fujisaki",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "To Love Ru",
+      "description": "Aya Fujisaki from To Love Ru",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:26:11.502Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19cfdb9c4af380d4ba8fc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19cfdb9c4af380d4ba8fc",
+      "cardName": "Honekawa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "To Love Ru",
+      "description": "Honekawa from To Love Ru",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:26:14.017Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19cfcb9c4af380d4ba8f1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19cfcb9c4af380d4ba8f1",
+      "cardName": "Kai Kujou",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "To Love Ru",
+      "description": "Kai Kujou from To Love Ru",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:26:16.514Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19cf0b9c4af380d4ba809?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19cf0b9c4af380d4ba809",
+      "cardName": "Saki Shiraishi",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Saki Shiraishi from Idoly Pride",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:26:18.907Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ce6b9c4af380d4ba7b5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ce6b9c4af380d4ba7b5",
+      "cardName": "Katsura Fujisawa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Giant Killing",
+      "description": "Katsura Fujisawa from Giant Killing",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:26:21.408Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ce4b9c4af380d4ba7ad?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ce4b9c4af380d4ba7ad",
+      "cardName": "Kazumi Kiyokawa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Giant Killing",
+      "description": "Kazumi Kiyokawa from Giant Killing",
+      "tier": "1",
+      "page": 536,
+      "scrapedAt": "2026-02-16T12:26:24.022Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:25:27.017Z"
+  "lastUpdated": "2026-02-16T12:26:24.024Z"
 }
