@@ -1,5 +1,5 @@
 {
-  "totalCards": 7536,
+  "totalCards": 7551,
   "processedPages": [
     "1-1",
     "1-10",
@@ -472,6 +472,7 @@
     "1-520",
     "1-521",
     "1-522",
+    "1-523",
     "1-53",
     "1-54",
     "1-55",
@@ -83420,7 +83421,172 @@
       "tier": "1",
       "page": 522,
       "scrapedAt": "2026-02-16T12:13:26.505Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe420e78694b70eff3ce4f5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe420e78694b70eff3ce4f5",
+      "cardName": "Sophie Hojo",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Pripara",
+      "description": "Sophie Hojo from Pripara",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:13:47.031Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe41731d60ca60fe4a7338c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe41731d60ca60fe4a7338c",
+      "cardName": "Asirpa",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Golden Kamuy",
+      "description": "Asirpa from Golden Kamuy",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:13:49.519Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe413f35dfaa952e9f340a8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe413f35dfaa952e9f340a8",
+      "cardName": "Tyna",
+      "creator": "Card Maker:Asshole",
+      "animeName": "Beast Player Erin",
+      "description": "Tyna from Beast Player Erin",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:13:51.730Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe17ced6d75fd074b565b73?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe17ced6d75fd074b565b73",
+      "cardName": "Dorothy West",
+      "creator": "Card Maker:Mashiro Shiina",
+      "animeName": "Pripara",
+      "description": "Dorothy West from Pripara",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:13:54.226Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fbf894824083c5165769d91?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fbf894824083c5165769d91",
+      "cardName": "Keisuke Hirose",
+      "creator": "Unknown Creator",
+      "animeName": "Koe No Katachi",
+      "description": "Keisuke Hirose from Koe No Katachi",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:13:56.722Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fbf8903369b08321a2056d9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fbf8903369b08321a2056d9",
+      "cardName": "Miiko Takeshita",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "D4DJ: First Mix",
+      "description": "Miiko Takeshita from D4DJ: First Mix",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:13:59.326Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a0d9b9c4af380d4bd6bc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a0d9b9c4af380d4bd6bc",
+      "cardName": "Yuma Tadokoro",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Himegoto",
+      "description": "Yuma Tadokoro from Himegoto",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:14:01.908Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a0cbb9c4af380d4bd67c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a0cbb9c4af380d4bd67c",
+      "cardName": "Servant No. 1",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Himegoto",
+      "description": "Servant No. 1 from Himegoto",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:14:04.638Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a0c7b9c4af380d4bd676?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a0c7b9c4af380d4bd676",
+      "cardName": "Kaguya Arikawa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Himegoto",
+      "description": "Kaguya Arikawa from Himegoto",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:14:07.297Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a0bab9c4af380d4bd490?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a0bab9c4af380d4bd490",
+      "cardName": "Yamamoto",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Koi Wa Ameagari No You Ni",
+      "description": "Yamamoto from Koi Wa Ameagari No You Ni",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:14:09.713Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a0b1b9c4af380d4bd441?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a0b1b9c4af380d4bd441",
+      "cardName": "Tadaaki Kusano",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Great Teacher Onizuka",
+      "description": "Tadaaki Kusano from Great Teacher Onizuka",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:14:12.307Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a0afb9c4af380d4bd43d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a0afb9c4af380d4bd43d",
+      "cardName": "Urumi Kanzaki",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Great Teacher Onizuka",
+      "description": "Urumi Kanzaki from Great Teacher Onizuka",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:14:14.791Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a0abb9c4af380d4bd417?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a0abb9c4af380d4bd417",
+      "cardName": "Yoshito Kikuchi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Great Teacher Onizuka",
+      "description": "Yoshito Kikuchi from Great Teacher Onizuka",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:14:17.317Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a0a7b9c4af380d4bd3f2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a0a7b9c4af380d4bd3f2",
+      "cardName": "Akira's Mother",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Koi Wa Ameagari No You Ni",
+      "description": "Akira's Mother from Koi Wa Ameagari No You Ni",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:14:19.590Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a0a2b9c4af380d4bd365?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a0a2b9c4af380d4bd365",
+      "cardName": "Ishii",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Koi Wa Ameagari No You Ni",
+      "description": "Ishii from Koi Wa Ameagari No You Ni",
+      "tier": "1",
+      "page": 523,
+      "scrapedAt": "2026-02-16T12:14:21.938Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:13:26.506Z"
+  "lastUpdated": "2026-02-16T12:14:21.940Z"
 }
