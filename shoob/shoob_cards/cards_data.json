@@ -1,5 +1,5 @@
 {
-  "totalCards": 6727,
+  "totalCards": 6742,
   "processedPages": [
     "1-1",
     "1-2",
@@ -468,7 +468,8 @@
     "1-465",
     "1-466",
     "1-467",
-    "1-468"
+    "1-468",
+    "1-469"
   ],
   "cards": [
     {
@@ -74467,12 +74468,177 @@
       "tier": "1",
       "page": 468,
       "scrapedAt": "2026-02-16T11:01:42.101Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444749?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444749",
+      "cardName": "Enri Emmot",
+      "creator": "stevethestevemon",
+      "animeName": "Overlord",
+      "description": "Enri Emmot from Overlord",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:01:49.423Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444747?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444747",
+      "cardName": "Nfirea Bareare",
+      "creator": "stevethestevemon",
+      "animeName": "Overlord",
+      "description": "Nfirea Bareare from Overlord",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:01:51.379Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444745?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444745",
+      "cardName": "Neuronist Painkill",
+      "creator": "stevethestevemon",
+      "animeName": "Overlord",
+      "description": "Neuronist Painkill from Overlord",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:01:53.359Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444743?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444743",
+      "cardName": "Gazef Stronoff",
+      "creator": "stevethestevemon",
+      "animeName": "Overlord",
+      "description": "Gazef Stronoff from Overlord",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:01:55.303Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444741?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444741",
+      "cardName": "Keisuke Sakai",
+      "creator": "HealingSoon",
+      "animeName": "Tari Tari",
+      "description": "Keisuke Sakai from Tari Tari",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:01:57.217Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444739?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444739",
+      "cardName": "Brita",
+      "creator": "stevethestevemon",
+      "animeName": "Overlord",
+      "description": "Brita from Overlord",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:01:59.200Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444737?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444737",
+      "cardName": "Shinobu Kandadori",
+      "creator": "Arshhh",
+      "animeName": "Crayon Shin-chan",
+      "description": "Shinobu Kandadori from Crayon Shin-chan",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:02:01.277Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444735?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444735",
+      "cardName": "Conny",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "How to Keep a Mummy",
+      "description": "Conny from How to Keep a Mummy",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:02:03.299Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44472f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44472f",
+      "cardName": "Itsuki Nakano",
+      "creator": "ZackopsXDX",
+      "animeName": "The Quintessential Quintuplets",
+      "description": "Itsuki Nakano from The Quintessential Quintuplets",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:02:05.413Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444729?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444729",
+      "cardName": "Hitoha Miyamizu",
+      "creator": "hai",
+      "animeName": "Kimi no Na wa.",
+      "description": "Hitoha Miyamizu from Kimi no Na wa.",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:02:07.502Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444723?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444723",
+      "cardName": "Tazuki Kamiya",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "How to Keep a Mummy",
+      "description": "Tazuki Kamiya from How to Keep a Mummy",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:02:09.571Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444721?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444721",
+      "cardName": "Shiho Okita",
+      "creator": "HealingSoon",
+      "animeName": "Tari Tari",
+      "description": "Shiho Okita from Tari Tari",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:02:11.598Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44471b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44471b",
+      "cardName": "Light Yagami",
+      "creator": "Jele2Man",
+      "animeName": "Death Note",
+      "description": "Light Yagami from Death Note",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:02:13.514Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444711?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444711",
+      "cardName": "Shinta Takagi",
+      "creator": "hai",
+      "animeName": "Kimi no Na wa.",
+      "description": "Shinta Takagi from Kimi no Na wa.",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:02:15.581Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444703?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444703",
+      "cardName": "Angelo",
+      "creator": "Rhianne Furukawa",
+      "animeName": "Arte",
+      "description": "Angelo from Arte",
+      "tier": "1",
+      "page": 469,
+      "scrapedAt": "2026-02-16T11:02:17.520Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:01:42.102Z",
+  "lastUpdated": "2026-02-16T11:02:17.521Z",
   "stats": {
     "successRate": 95,
-    "totalAttempts": 471,
-    "successfulAttempts": 447
+    "totalAttempts": 486,
+    "successfulAttempts": 462
   }
 }
