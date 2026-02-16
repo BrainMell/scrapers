@@ -1,5 +1,5 @@
 {
-  "totalCards": 6802,
+  "totalCards": 6817,
   "processedPages": [
     "1-1",
     "1-2",
@@ -473,7 +473,8 @@
     "1-470",
     "1-471",
     "1-472",
-    "1-473"
+    "1-473",
+    "1-474"
   ],
   "cards": [
     {
@@ -75297,12 +75298,177 @@
       "tier": "1",
       "page": 473,
       "scrapedAt": "2026-02-16T11:04:43.715Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444631?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444631",
+      "cardName": "Ray",
+      "creator": "stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Ray from DanMachi",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:04:51.300Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44462f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44462f",
+      "cardName": "Chomusuke",
+      "creator": "Winter 겨울",
+      "animeName": "KonoSuba",
+      "description": "Chomusuke from KonoSuba",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:04:55.268Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44462d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44462d",
+      "cardName": "Shuichi Kagaya",
+      "creator": "Monokuma",
+      "animeName": "Gleipnir",
+      "description": "Shuichi Kagaya from Gleipnir",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:04:57.305Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44461f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44461f",
+      "cardName": "Yusuke Yotsuya",
+      "creator": "| Keroppi ✿",
+      "animeName": "I'm Standing on a Million Lives",
+      "description": "Yusuke Yotsuya from I'm Standing on a Million Lives",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:04:59.218Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44461b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44461b",
+      "cardName": "Hikari Jinguuji",
+      "creator": "seki",
+      "animeName": "Kamisama ni Natta Hi",
+      "description": "Hikari Jinguuji from Kamisama ni Natta Hi",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:05:01.110Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444617?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444617",
+      "cardName": "Garou",
+      "creator": "Fish",
+      "animeName": "One Punch Man",
+      "description": "Garou from One Punch Man",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:05:03.203Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44460b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44460b",
+      "cardName": "Kako Tengan",
+      "creator": "seki",
+      "animeName": "Kamisama ni Natta Hi",
+      "description": "Kako Tengan from Kamisama ni Natta Hi",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:05:05.206Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444609?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444609",
+      "cardName": "Beast King",
+      "creator": "Fish",
+      "animeName": "One Punch Man",
+      "description": "Beast King from One Punch Man",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:05:07.260Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444607?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444607",
+      "cardName": "Kakeru Manabe",
+      "creator": "rachel💜",
+      "animeName": "Fruits Basket",
+      "description": "Kakeru Manabe from Fruits Basket",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:05:09.298Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444605?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444605",
+      "cardName": "Eris Boreas Greyrat",
+      "creator": "Daringa",
+      "animeName": "Mushoku Tensei",
+      "description": "Eris Boreas Greyrat from Mushoku Tensei",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:05:11.304Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444601?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444601",
+      "cardName": "Sayaka Natori",
+      "creator": "hai",
+      "animeName": "Kimi no Na wa.",
+      "description": "Sayaka Natori from Kimi no Na wa.",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:05:13.308Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445f5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445f5",
+      "cardName": "Angers",
+      "creator": "FizzyBrian",
+      "animeName": "Lapis Re:LiGHTs",
+      "description": "Angers from Lapis Re:LiGHTs",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:05:15.302Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445f1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445f1",
+      "cardName": "Daichi Narukami",
+      "creator": "seki",
+      "animeName": "Kamisama ni Natta Hi",
+      "description": "Daichi Narukami from Kamisama ni Natta Hi",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:05:17.304Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445ef?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445ef",
+      "cardName": "Jhin Syulargun",
+      "creator": "Saber",
+      "animeName": "KimiSen",
+      "description": "Jhin Syulargun from KimiSen",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:05:19.313Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445e9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445e9",
+      "cardName": "Ikelos",
+      "creator": "stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Ikelos from DanMachi",
+      "tier": "1",
+      "page": 474,
+      "scrapedAt": "2026-02-16T11:05:21.398Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:04:43.759Z",
+  "lastUpdated": "2026-02-16T11:05:21.400Z",
   "stats": {
     "successRate": 96,
-    "totalAttempts": 546,
-    "successfulAttempts": 522
+    "totalAttempts": 561,
+    "successfulAttempts": 537
   }
 }
