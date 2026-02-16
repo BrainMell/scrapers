@@ -78,7 +78,7 @@ class DebuggedMemeScraperFixed {
     console.log('🚀 Initializing browser with DEBUG mode...');
     
     this.browser = await puppeteer.launch({
-      headless: false,  // Keep visible so you can see it working
+      headless: true,  // Run in background
       args: [
         '--no-sandbox',
         '--disable-setuid-sandbox',
