@@ -1,5 +1,5 @@
 {
-  "totalCards": 7221,
+  "totalCards": 7236,
   "processedPages": [
     "1-1",
     "1-10",
@@ -449,6 +449,7 @@
     "1-50",
     "1-500",
     "1-501",
+    "1-502",
     "1-51",
     "1-52",
     "1-53",
@@ -79934,7 +79935,172 @@
       "tier": "1",
       "page": 501,
       "scrapedAt": "2026-02-16T11:54:13.524Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9eeeda1840a9e482aec?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9eeeda1840a9e482aec",
+      "cardName": "Gamabunta",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Gamabunta from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:54:33.924Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9ededa1840a9e482ada?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9ededa1840a9e482ada",
+      "cardName": "Guy",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Guy from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:54:36.423Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9ebeda1840a9e482acc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9ebeda1840a9e482acc",
+      "cardName": "Itachi",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Itachi from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:54:38.905Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9e5eda1840a9e482a66?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9e5eda1840a9e482a66",
+      "cardName": "Jiraiya",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Jiraiya from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:54:41.425Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9e3eda1840a9e482a5c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9e3eda1840a9e482a5c",
+      "cardName": "Kaguya",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Kaguya from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:54:44.035Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9e2eda1840a9e482a47?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9e2eda1840a9e482a47",
+      "cardName": "Kakashi",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Kakashi from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:54:46.731Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9e0eda1840a9e4829fa?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9e0eda1840a9e4829fa",
+      "cardName": "Karin",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Karin from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:54:49.219Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9deeda1840a9e4829b8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9deeda1840a9e4829b8",
+      "cardName": "Konan",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Konan from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:54:51.732Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9dceda1840a9e482962?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9dceda1840a9e482962",
+      "cardName": "Kushina",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Kushina from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:54:54.332Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9dbeda1840a9e48293b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9dbeda1840a9e48293b",
+      "cardName": "Minato",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Minato from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:54:56.836Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9d9eda1840a9e4828e2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9d9eda1840a9e4828e2",
+      "cardName": "Neji",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Neji from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:54:59.443Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9d7eda1840a9e482883?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9d7eda1840a9e482883",
+      "cardName": "Orochimaru",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Orochimaru from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:55:02.236Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9d6eda1840a9e482816?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9d6eda1840a9e482816",
+      "cardName": "Pain",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Pain from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:55:05.103Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9cfeda1840a9e4825f9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9cfeda1840a9e4825f9",
+      "cardName": "Sasori",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Sasori from Naruto",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:55:07.896Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9cdeda1840a9e4825c7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9cdeda1840a9e4825c7",
+      "cardName": "Towa Hanamaki",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "D4DJ: First Mix",
+      "description": "Towa Hanamaki from D4DJ: First Mix",
+      "tier": "1",
+      "page": 502,
+      "scrapedAt": "2026-02-16T11:55:10.341Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:54:13.524Z"
+  "lastUpdated": "2026-02-16T11:55:10.342Z"
 }
