@@ -269,10 +269,9 @@ class ShoobCardScraper {
         await fs.copyFile(this.outputFile, this.backupFile).catch(() => {});
       }
       
-      // Auto-sync to GitHub every 50 new cards (Reduced for verification)
-      if (process.env.GITHUB_TOKEN && this.cards.length >= this.lastPushedCount + 50) {
+      // Auto-sync to GitHub after EVERY page if GITHUB_TOKEN is present
+      if (process.env.GITHUB_TOKEN) {
         await this.syncToGitHub();
-        this.lastPushedCount = this.cards.length;
       }
       
       if (this.cards.length % 50 === 0 && this.cards.length > 0) {
