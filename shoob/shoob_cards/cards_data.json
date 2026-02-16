@@ -1,5 +1,5 @@
 {
-  "totalCards": 6652,
+  "totalCards": 6667,
   "processedPages": [
     "1-1",
     "1-2",
@@ -463,7 +463,8 @@
     "1-460",
     "1-461",
     "1-462",
-    "1-463"
+    "1-463",
+    "1-464"
   ],
   "cards": [
     {
@@ -73637,12 +73638,177 @@
       "tier": "1",
       "page": 463,
       "scrapedAt": "2026-02-16T10:58:42.323Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448e5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448e5",
+      "cardName": "Laura Haruna",
+      "creator": "Piratax10",
+      "animeName": "Hamtaro",
+      "description": "Laura Haruna from Hamtaro",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:58:50.561Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448df?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448df",
+      "cardName": "Norba Shino",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "description": "Norba Shino from Mobile Suit Gundam: Iron-Blooded Orphans",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:58:52.461Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448dd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448dd",
+      "cardName": "Yui Kusano",
+      "creator": "Derp",
+      "animeName": "Princess Connect! Re:Dive",
+      "description": "Yui Kusano from Princess Connect! Re:Dive",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:58:54.519Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448db?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448db",
+      "cardName": "Yukari Yukino",
+      "creator": "hai",
+      "animeName": "Kimi no Na wa.",
+      "description": "Yukari Yukino from Kimi no Na wa.",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:58:56.512Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448d9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448d9",
+      "cardName": "Nezu",
+      "creator": "MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Nezu from My Hero Academia",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:58:58.663Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448d1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448d1",
+      "cardName": "Manji",
+      "creator": "Popo",
+      "animeName": "Blade of the Immortal",
+      "description": "Manji from Blade of the Immortal",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:59:00.579Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448cf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448cf",
+      "cardName": "Ume Matsuzaka",
+      "creator": "Arshhh",
+      "animeName": "Crayon Shin-chan",
+      "description": "Ume Matsuzaka from Crayon Shin-chan",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:59:02.560Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448cb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448cb",
+      "cardName": "Neito Monoma",
+      "creator": "MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Neito Monoma from My Hero Academia",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:59:04.617Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448c7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448c7",
+      "cardName": "Akihiro Altland",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "description": "Akihiro Altland from Mobile Suit Gundam: Iron-Blooded Orphans",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:59:06.560Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448bb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448bb",
+      "cardName": "Biscuit Griffon",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "description": "Biscuit Griffon from Mobile Suit Gundam: Iron-Blooded Orphans",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:59:08.427Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448b9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448b9",
+      "cardName": "Rima",
+      "creator": "Derp",
+      "animeName": "Princess Connect! Re:Dive",
+      "description": "Rima from Princess Connect! Re:Dive",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:59:10.373Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448b1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448b1",
+      "cardName": "Zenitsu Agatsuma",
+      "creator": "Lee?",
+      "animeName": "Demon Slayer",
+      "description": "Zenitsu Agatsuma from Demon Slayer",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:59:12.501Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448af?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448af",
+      "cardName": "Atra Mixta",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "description": "Atra Mixta from Mobile Suit Gundam: Iron-Blooded Orphans",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:59:14.374Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448ab?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448ab",
+      "cardName": "Juvia Lockser",
+      "creator": "Demon Hunter",
+      "animeName": "Fairy Tail",
+      "description": "Juvia Lockser from Fairy Tail",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:59:16.468Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448a7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448a7",
+      "cardName": "Esidisi",
+      "creator": "Spruce - P",
+      "animeName": "JoJo's Bizarre Adventure",
+      "description": "Esidisi from JoJo's Bizarre Adventure",
+      "tier": "1",
+      "page": 464,
+      "scrapedAt": "2026-02-16T10:59:18.660Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:58:42.324Z",
+  "lastUpdated": "2026-02-16T10:59:18.661Z",
   "stats": {
     "successRate": 94,
-    "totalAttempts": 396,
-    "successfulAttempts": 372
+    "totalAttempts": 411,
+    "successfulAttempts": 387
   }
 }
