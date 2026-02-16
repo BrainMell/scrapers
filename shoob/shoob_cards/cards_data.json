@@ -1,5 +1,5 @@
 {
-  "totalCards": 7101,
+  "totalCards": 7116,
   "processedPages": [
     "1-1",
     "1-10",
@@ -439,6 +439,7 @@
     "1-491",
     "1-492",
     "1-493",
+    "1-494",
     "1-5",
     "1-50",
     "1-51",
@@ -78606,7 +78607,172 @@
       "tier": "1",
       "page": 493,
       "scrapedAt": "2026-02-16T11:46:59.805Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff347858d7e34276be83c5d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff347858d7e34276be83c5d",
+      "cardName": "Youta Narukami",
+      "creator": "Card Maker:seki",
+      "animeName": "Kamisama ni Natta Hi",
+      "description": "Youta Narukami from Kamisama ni Natta Hi",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:20.942Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff347188d7e34276be83a03?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff347188d7e34276be83a03",
+      "cardName": "Gennai",
+      "creator": "Card Maker:Rakis29",
+      "animeName": "Digimon",
+      "description": "Gennai from Digimon",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:23.335Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff347038d7e34276be8397b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff347038d7e34276be8397b",
+      "cardName": "Tsubasa Yukawa",
+      "creator": "Card Maker:Monokuma",
+      "animeName": "Kokkoku",
+      "description": "Tsubasa Yukawa from Kokkoku",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:25.596Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff342e3266c252a9f97f90e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff342e3266c252a9f97f90e",
+      "cardName": "Joujirou Takajou",
+      "creator": "Card Maker:zax.",
+      "animeName": "Charlotte",
+      "description": "Joujirou Takajou from Charlotte",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:27.909Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2fffaae5d100c5716fda6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2fffaae5d100c5716fda6",
+      "cardName": "Manami Aiba",
+      "creator": "Card Maker:MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Manami Aiba from My Hero Academia",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:30.396Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2ba1f085f800ba9b24cf7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2ba1f085f800ba9b24cf7",
+      "cardName": "Citron",
+      "creator": "Card Maker:zax.",
+      "animeName": "A3!",
+      "description": "Citron from A3!",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:32.623Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2b8e62568cb0be11569f0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2b8e62568cb0be11569f0",
+      "cardName": "Corvus",
+      "creator": "Card Maker:Skadoosh",
+      "animeName": "The Dragon Prince",
+      "description": "Corvus from The Dragon Prince",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:34.843Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2b426a579c30bd78c27cd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2b426a579c30bd78c27cd",
+      "cardName": "Sumire",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Arcana Famiglia",
+      "description": "Sumire from Arcana Famiglia",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:37.102Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2b13eb78ea55ed01aae2d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2b13eb78ea55ed01aae2d",
+      "cardName": "Kunai Zenow",
+      "creator": "Card Maker:Daringa",
+      "animeName": "Monster Girl Doctor",
+      "description": "Kunai Zenow from Monster Girl Doctor",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:39.290Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2aef3dc22f45e70c1da65?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2aef3dc22f45e70c1da65",
+      "cardName": "Lyd",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Lyd from DanMachi",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:41.730Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2ae1adc22f45e70c1d3c4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2ae1adc22f45e70c1d3c4",
+      "cardName": "Tanjuro Kamado",
+      "creator": "Card Maker:Fish",
+      "animeName": "Demon Slayer",
+      "description": "Tanjuro Kamado from Demon Slayer",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:44.295Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2ad3f51b0945ea75aa5c0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2ad3f51b0945ea75aa5c0",
+      "cardName": "Megumi Fushiguro",
+      "creator": "Card Maker:𝕍𝕚𝕥𝕠𝕣𝕚𝕒",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Megumi Fushiguro from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:46.814Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2ac221d97025f05600526?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2ac221d97025f05600526",
+      "cardName": "Koromon",
+      "creator": "Card Maker:Rakis29",
+      "animeName": "Digimon",
+      "description": "Koromon from Digimon",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:49.120Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2a931a156b91b2753c146?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2a931a156b91b2753c146",
+      "cardName": "Tsukasa Fujii",
+      "creator": "Card Maker:hai",
+      "animeName": "Kimi no Na wa.",
+      "description": "Tsukasa Fujii from Kimi no Na wa.",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:51.230Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2a7d25ca2e66958773659?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2a7d25ca2e66958773659",
+      "cardName": "Nagisa Hazuki",
+      "creator": "Card Maker:seki",
+      "animeName": "Free!",
+      "description": "Nagisa Hazuki from Free!",
+      "tier": "1",
+      "page": 494,
+      "scrapedAt": "2026-02-16T11:47:53.425Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:46:59.807Z"
+  "lastUpdated": "2026-02-16T11:47:53.426Z"
 }
