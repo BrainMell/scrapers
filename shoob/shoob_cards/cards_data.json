@@ -1,5 +1,5 @@
 {
-  "totalCards": 7281,
+  "totalCards": 7296,
   "processedPages": [
     "1-1",
     "1-10",
@@ -453,6 +453,7 @@
     "1-503",
     "1-504",
     "1-505",
+    "1-506",
     "1-51",
     "1-52",
     "1-53",
@@ -80598,7 +80599,172 @@
       "tier": "1",
       "page": 505,
       "scrapedAt": "2026-02-16T11:57:51.725Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec61163adff0bf7e79238?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec61163adff0bf7e79238",
+      "cardName": "Raetsel",
+      "creator": "Artist:Leah",
+      "animeName": "Princess Tutu",
+      "description": "Raetsel from Princess Tutu",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:12.598Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec60d63adff0bf7e79227?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec60d63adff0bf7e79227",
+      "cardName": "Cafe Mami Manager",
+      "creator": "Artist:Leah",
+      "animeName": "Saiki Kusuo No Psi Nan",
+      "description": "Cafe Mami Manager from Saiki Kusuo No Psi Nan",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:15.108Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec60763adff0bf7e79108?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec60763adff0bf7e79108",
+      "cardName": "Jouten Manako",
+      "creator": "Artist:Leah",
+      "animeName": "Saiki Kusuo No Psi Nan",
+      "description": "Jouten Manako from Saiki Kusuo No Psi Nan",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:17.697Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec60663adff0bf7e79101?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec60663adff0bf7e79101",
+      "cardName": "Kaidou Sora",
+      "creator": "Artist:Leah",
+      "animeName": "Saiki Kusuo No Psi Nan",
+      "description": "Kaidou Sora from Saiki Kusuo No Psi Nan",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:20.024Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec60463adff0bf7e790dc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec60463adff0bf7e790dc",
+      "cardName": "Kaidoi Toki",
+      "creator": "Artist:Leah",
+      "animeName": "Saiki Kusuo No Psi Nan",
+      "description": "Kaidoi Toki from Saiki Kusuo No Psi Nan",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:22.613Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5fd63adff0bf7e7900c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5fd63adff0bf7e7900c",
+      "cardName": "Malen",
+      "creator": "Artist:Leah",
+      "animeName": "Princess Tutu",
+      "description": "Malen from Princess Tutu",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:24.908Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5fb63adff0bf7e78f83?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5fb63adff0bf7e78f83",
+      "cardName": "Hermia",
+      "creator": "Artist:Leah",
+      "animeName": "Princess Tutu",
+      "description": "Hermia from Princess Tutu",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:27.304Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5fa63adff0bf7e78f77?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5fa63adff0bf7e78f77",
+      "cardName": "Freya",
+      "creator": "Artist:Leah",
+      "animeName": "Princess Tutu",
+      "description": "Freya from Princess Tutu",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:29.695Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5f863adff0bf7e78f73?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5f863adff0bf7e78f73",
+      "cardName": "Ebine",
+      "creator": "Artist:Leah",
+      "animeName": "Princess Tutu",
+      "description": "Ebine from Princess Tutu",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:32.025Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5f363adff0bf7e78f1a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5f363adff0bf7e78f1a",
+      "cardName": "Urutorii",
+      "creator": "Artist:Leah",
+      "animeName": "Utawarerumono",
+      "description": "Urutorii from Utawarerumono",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:34.426Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5f063adff0bf7e78f08?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5f063adff0bf7e78f08",
+      "cardName": "Teoro",
+      "creator": "Artist:Leah",
+      "animeName": "Utawarerumono",
+      "description": "Teoro from Utawarerumono",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:36.818Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5ef63adff0bf7e78efa?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5ef63adff0bf7e78efa",
+      "cardName": "Sopoku",
+      "creator": "Artist:Leah",
+      "animeName": "Utawarerumono",
+      "description": "Sopoku from Utawarerumono",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:39.230Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5e563adff0bf7e78e44?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5e563adff0bf7e78e44",
+      "cardName": "Hien",
+      "creator": "Artist:Leah",
+      "animeName": "Utawarerumono",
+      "description": "Hien from Utawarerumono",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:41.590Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5dc63adff0bf7e78e0b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5dc63adff0bf7e78e0b",
+      "cardName": "Niwe",
+      "creator": "Artist:Leah",
+      "animeName": "Utawarerumono",
+      "description": "Niwe from Utawarerumono",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:43.924Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5db63adff0bf7e78e09?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5db63adff0bf7e78e09",
+      "cardName": "Nuwangi",
+      "creator": "Artist:Leah",
+      "animeName": "Utawarerumono",
+      "description": "Nuwangi from Utawarerumono",
+      "tier": "1",
+      "page": 506,
+      "scrapedAt": "2026-02-16T11:58:46.315Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:57:51.726Z"
+  "lastUpdated": "2026-02-16T11:58:46.316Z"
 }
