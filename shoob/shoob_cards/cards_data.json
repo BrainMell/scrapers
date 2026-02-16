@@ -1,5 +1,5 @@
 {
-  "totalCards": 7566,
+  "totalCards": 7581,
   "processedPages": [
     "1-1",
     "1-10",
@@ -474,6 +474,7 @@
     "1-522",
     "1-523",
     "1-524",
+    "1-525",
     "1-53",
     "1-54",
     "1-55",
@@ -83752,7 +83753,172 @@
       "tier": "1",
       "page": 524,
       "scrapedAt": "2026-02-16T12:15:17.137Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a022b9c4af380d4bcd9c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a022b9c4af380d4bcd9c",
+      "cardName": "Gazelle Flynt",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Princess Principal",
+      "description": "Gazelle Flynt from Princess Principal",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:15:37.703Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a01cb9c4af380d4bcca5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a01cb9c4af380d4bcca5",
+      "cardName": "Yahiro Takigawa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shinmai Maou no Testament",
+      "description": "Yahiro Takigawa from Shinmai Maou no Testament",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:15:40.018Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a019b9c4af380d4bcc9b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a019b9c4af380d4bcc9b",
+      "cardName": "Yuki Nonaka",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shinmai Maou no Testament",
+      "description": "Yuki Nonaka from Shinmai Maou no Testament",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:15:42.498Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a016b9c4af380d4bcc60?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a016b9c4af380d4bcc60",
+      "cardName": "Zest",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shinmai Maou no Testament",
+      "description": "Zest from Shinmai Maou no Testament",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:15:45.020Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a00ab9c4af380d4bcc21?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a00ab9c4af380d4bcc21",
+      "cardName": "Duke of Normandy",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Princess Principal",
+      "description": "Duke of Normandy from Princess Principal",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:15:47.330Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fe3b9c4af380d4bcb2d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fe3b9c4af380d4bcb2d",
+      "cardName": "Kurumi Nonaka",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shinmai Maou no Testament",
+      "description": "Kurumi Nonaka from Shinmai Maou no Testament",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:15:49.890Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fe1b9c4af380d4bcb27?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fe1b9c4af380d4bcb27",
+      "cardName": "Jin Todo",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shinmai Maou no Testament",
+      "description": "Jin Todo from Shinmai Maou no Testament",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:15:52.395Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fe0b9c4af380d4bcb1d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fe0b9c4af380d4bcb1d",
+      "cardName": "Chisato Hasegawa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shinmai Maou no Testament",
+      "description": "Chisato Hasegawa from Shinmai Maou no Testament",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:15:54.936Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fd5b9c4af380d4bca5f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fd5b9c4af380d4bca5f",
+      "cardName": "Aoi Igawa",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Aoi Igawa from Idoly Pride",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:15:57.330Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fceb9c4af380d4bca04?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fceb9c4af380d4bca04",
+      "cardName": "Sargatanas",
+      "creator": "Card Maker:Yukina",
+      "animeName": "As Miss Beelzebub Likes.",
+      "description": "Sargatanas from As Miss Beelzebub Likes.",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:16:00.002Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fccb9c4af380d4bc9fe?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fccb9c4af380d4bc9fe",
+      "cardName": "Izumi Hinasaki",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Gekidol",
+      "description": "Izumi Hinasaki from Gekidol",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:16:02.630Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fcbb9c4af380d4bc9f4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fcbb9c4af380d4bc9f4",
+      "cardName": "Mirei Minami",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Pripara",
+      "description": "Mirei Minami from Pripara",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:16:05.315Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fc7b9c4af380d4bc9ea?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fc7b9c4af380d4bc9ea",
+      "cardName": "Nino Nijiiro",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Pripara",
+      "description": "Nino Nijiiro from Pripara",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:16:07.940Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fbeb9c4af380d4bc9c4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fbeb9c4af380d4bc9c4",
+      "cardName": "Al Komiyama",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Al Komiyama from Idoly Pride",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:16:10.297Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fb2b9c4af380d4bc8f6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fb2b9c4af380d4bc8f6",
+      "cardName": "Yuka Jennifer Sasago",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "D4DJ: First Mix",
+      "description": "Yuka Jennifer Sasago from D4DJ: First Mix",
+      "tier": "1",
+      "page": 525,
+      "scrapedAt": "2026-02-16T12:16:12.721Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:15:17.139Z"
+  "lastUpdated": "2026-02-16T12:16:12.722Z"
 }
