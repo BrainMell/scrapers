@@ -1,5 +1,5 @@
 {
-  "totalCards": 7611,
+  "totalCards": 7626,
   "processedPages": [
     "1-1",
     "1-10",
@@ -477,6 +477,7 @@
     "1-525",
     "1-526",
     "1-527",
+    "1-528",
     "1-53",
     "1-54",
     "1-55",
@@ -84250,7 +84251,172 @@
       "tier": "1",
       "page": 527,
       "scrapedAt": "2026-02-16T12:18:02.300Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f4fb9c4af380d4bc3ac?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f4fb9c4af380d4bc3ac",
+      "cardName": "Sawatori Midori",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Sawatori Midori from Gakuen Babysitters",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:22.921Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f4eb9c4af380d4bc38c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f4eb9c4af380d4bc38c",
+      "cardName": "Usaida Yoshihito",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Usaida Yoshihito from Gakuen Babysitters",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:25.317Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f4cb9c4af380d4bc286?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f4cb9c4af380d4bc286",
+      "cardName": "Saikawa",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Saikawa from Gakuen Babysitters",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:27.695Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f4bb9c4af380d4bc19e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f4bb9c4af380d4bc19e",
+      "cardName": "Youko Morinomiya",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Youko Morinomiya from Gakuen Babysitters",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:30.108Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f4ab9c4af380d4bc08e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f4ab9c4af380d4bc08e",
+      "cardName": "Maria Inomata",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Maria Inomata from Gakuen Babysitters",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:32.618Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f43b9c4af380d4bc038?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f43b9c4af380d4bc038",
+      "cardName": "Kotaro Kashima",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Kotaro Kashima from Gakuen Babysitters",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:34.996Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f3ab9c4af380d4bbf60?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f3ab9c4af380d4bbf60",
+      "cardName": "Tetsuya Niwa",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Heaven",
+      "description": "Tetsuya Niwa from Gakuen Heaven",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:37.432Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f38b9c4af380d4bbf16?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f38b9c4af380d4bbf16",
+      "cardName": "Koji Shinomiya",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Heaven",
+      "description": "Koji Shinomiya from Gakuen Heaven",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:39.996Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f36b9c4af380d4bbe7e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f36b9c4af380d4bbe7e",
+      "cardName": "Kaoru Saionji",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Heaven",
+      "description": "Kaoru Saionji from Gakuen Heaven",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:42.248Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f35b9c4af380d4bbe73?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f35b9c4af380d4bbe73",
+      "cardName": "Jin Matsuoka",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Heaven",
+      "description": "Jin Matsuoka from Gakuen Heaven",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:44.619Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f33b9c4af380d4bbe6d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f33b9c4af380d4bbe6d",
+      "cardName": "Hideaki Nakajima",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Heaven",
+      "description": "Hideaki Nakajima from Gakuen Heaven",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:47.016Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f24b9c4af380d4bbe3e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f24b9c4af380d4bbe3e",
+      "cardName": "Ray",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Toriko",
+      "description": "Ray from Toriko",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:49.390Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f23b9c4af380d4bbe3b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f23b9c4af380d4bbe3b",
+      "cardName": "Johannes",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Toriko",
+      "description": "Johannes from Toriko",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:51.917Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f21b9c4af380d4bbe1b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f21b9c4af380d4bbe1b",
+      "cardName": "Mansam",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Toriko",
+      "description": "Mansam from Toriko",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:54.311Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f20b9c4af380d4bbdec?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f20b9c4af380d4bbdec",
+      "cardName": "Rin",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Toriko",
+      "description": "Rin from Toriko",
+      "tier": "1",
+      "page": 528,
+      "scrapedAt": "2026-02-16T12:18:56.815Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:18:02.302Z"
+  "lastUpdated": "2026-02-16T12:18:56.816Z"
 }
