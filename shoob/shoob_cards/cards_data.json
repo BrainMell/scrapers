@@ -1,5 +1,5 @@
 {
-  "totalCards": 7866,
+  "totalCards": 7881,
   "processedPages": [
     "1-1",
     "1-10",
@@ -496,6 +496,7 @@
     "1-542",
     "1-543",
     "1-544",
+    "1-545",
     "1-55",
     "1-56",
     "1-57",
@@ -87072,7 +87073,172 @@
       "tier": "1",
       "page": 544,
       "scrapedAt": "2026-02-16T12:33:54.210Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19788da1e9326feb144d6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19788da1e9326feb144d6",
+      "cardName": "Taara",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Taara from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:14.806Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19780da1e9326feb143a9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19780da1e9326feb143a9",
+      "cardName": "Zaravant",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Zaravant from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:17.316Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19761da1e9326feb13ffd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19761da1e9326feb13ffd",
+      "cardName": "Montferrat",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Montferrat from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:19.804Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1975dda1e9326feb13fee?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1975dda1e9326feb13fee",
+      "cardName": "Lucian",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Lucian from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:22.313Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19759da1e9326feb13fe3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19759da1e9326feb13fe3",
+      "cardName": "Karikala II",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Karikala II from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:24.733Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19755da1e9326feb13fcd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19755da1e9326feb13fcd",
+      "cardName": "Husrab",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Husrab from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:27.315Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1973cda1e9326feb13df2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1973cda1e9326feb13df2",
+      "cardName": "Gauvin",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Gauvin from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:29.724Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19738da1e9326feb13dd6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19738da1e9326feb13dd6",
+      "cardName": "Haltash",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Haltash from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:32.210Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1972dda1e9326feb13d6f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1972dda1e9326feb13d6f",
+      "cardName": "Tus",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Tus from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:34.621Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1972ada1e9326feb13d18?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1972ada1e9326feb13d18",
+      "cardName": "Kubard",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Kubard from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:37.239Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19729da1e9326feb13d0b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19729da1e9326feb13d0b",
+      "cardName": "Kishward",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Kishward from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:40.119Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19726da1e9326feb13ccf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19726da1e9326feb13ccf",
+      "cardName": "Jaswant",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Jaswant from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:42.615Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1971eda1e9326feb13c39?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1971eda1e9326feb13c39",
+      "cardName": "Alfreed",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Alfreed from Arslan Senki",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:44.837Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19717da1e9326feb13c2e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19717da1e9326feb13c2e",
+      "cardName": "Asako Nakamura",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Ushio to Tora",
+      "description": "Asako Nakamura from Ushio to Tora",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:47.128Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19715da1e9326feb13c29?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19715da1e9326feb13c29",
+      "cardName": "Mayuko Inoue",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Ushio to Tora",
+      "description": "Mayuko Inoue from Ushio to Tora",
+      "tier": "1",
+      "page": 545,
+      "scrapedAt": "2026-02-16T12:34:49.632Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:33:54.212Z"
+  "lastUpdated": "2026-02-16T12:34:49.635Z"
 }
