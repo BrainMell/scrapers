@@ -1,5 +1,5 @@
 {
-  "totalCards": 7401,
+  "totalCards": 7416,
   "processedPages": [
     "1-1",
     "1-10",
@@ -462,6 +462,7 @@
     "1-511",
     "1-512",
     "1-513",
+    "1-514",
     "1-52",
     "1-53",
     "1-54",
@@ -81926,7 +81927,172 @@
       "tier": "1",
       "page": 513,
       "scrapedAt": "2026-02-16T12:05:12.414Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f378?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f378",
+      "cardName": "Saichi Sugimoto",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Golden Kamuy",
+      "description": "Saichi Sugimoto from Golden Kamuy",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:33.007Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f374?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f374",
+      "cardName": "Momoka Sonokawa",
+      "creator": "Card Maker:Piratax10",
+      "animeName": "Sabagebu!",
+      "description": "Momoka Sonokawa from Sabagebu!",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:35.422Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f370?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f370",
+      "cardName": "Shinpachi Nagakura",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Golden Kamuy",
+      "description": "Shinpachi Nagakura from Golden Kamuy",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:37.806Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f36e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f36e",
+      "cardName": "Chuck",
+      "creator": "Card Maker:Monokuma",
+      "animeName": "Panty & Stocking",
+      "description": "Chuck from Panty & Stocking",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:40.224Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f36c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f36c",
+      "cardName": "Ifrit",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Divine Gate",
+      "description": "Ifrit from Divine Gate",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:42.630Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f36a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f36a",
+      "cardName": "Shawn Frost",
+      "creator": "Card Maker:Daringa",
+      "animeName": "Inazuma Eleven",
+      "description": "Shawn Frost from Inazuma Eleven",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:45.114Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f358?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f358",
+      "cardName": "Sand Duct",
+      "creator": "Card Maker:Kimossab",
+      "animeName": "Accel World",
+      "description": "Sand Duct from Accel World",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:47.596Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f354?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f354",
+      "cardName": "Aliceliese Lou Nebulis IX",
+      "creator": "Card Maker:Ano",
+      "animeName": "KimiSen",
+      "description": "Aliceliese Lou Nebulis IX from KimiSen",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:49.904Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f352?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f352",
+      "cardName": "Shouyou Hinata",
+      "creator": "Card Maker:VaneGlzBr",
+      "animeName": "Haikyuu!!",
+      "description": "Shouyou Hinata from Haikyuu!!",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:52.395Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f350?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f350",
+      "cardName": "Gohan",
+      "creator": "Card Maker:【地球を守る閃光】超サイヤ人2孫悟飯(少年期)",
+      "animeName": "Dragon Ball",
+      "description": "Gohan from Dragon Ball",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:55.005Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f34c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f34c",
+      "cardName": "Undine",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Divine Gate",
+      "description": "Undine from Divine Gate",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:57.335Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f342?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f342",
+      "cardName": "Momo Sakaki",
+      "creator": "Card Maker:zax.",
+      "animeName": "Fukumenkei Noise",
+      "description": "Momo Sakaki from Fukumenkei Noise",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:05:59.819Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f340?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f340",
+      "cardName": "Pakkun",
+      "creator": "Card Maker:Rakis29",
+      "animeName": "Naruto",
+      "description": "Pakkun from Naruto",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:06:02.599Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f33c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f33c",
+      "cardName": "Lord Grim",
+      "creator": "Card Maker:Death",
+      "animeName": "The King's Avatar",
+      "description": "Lord Grim from The King's Avatar",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:06:05.099Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f33a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f33a",
+      "cardName": "Azami Nakiri",
+      "creator": "Card Maker:Ray7Scout",
+      "animeName": "Food Wars!",
+      "description": "Azami Nakiri from Food Wars!",
+      "tier": "1",
+      "page": 514,
+      "scrapedAt": "2026-02-16T12:06:07.631Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:05:12.417Z"
+  "lastUpdated": "2026-02-16T12:06:07.694Z"
 }
