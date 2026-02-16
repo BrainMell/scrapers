@@ -1,5 +1,5 @@
 {
-  "totalCards": 7491,
+  "totalCards": 7506,
   "processedPages": [
     "1-1",
     "1-10",
@@ -469,6 +469,7 @@
     "1-518",
     "1-519",
     "1-52",
+    "1-520",
     "1-53",
     "1-54",
     "1-55",
@@ -82922,7 +82923,172 @@
       "tier": "1",
       "page": 519,
       "scrapedAt": "2026-02-16T12:10:39.199Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f20c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f20c",
+      "cardName": "Sogiita Gunha",
+      "creator": "Card Maker:Naofumi",
+      "animeName": "A Certain Series",
+      "description": "Sogiita Gunha from A Certain Series",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:10:59.630Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f20a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f20a",
+      "cardName": "Sheila",
+      "creator": "Card Maker:Agera",
+      "animeName": "Majo no Tabitabi",
+      "description": "Sheila from Majo no Tabitabi",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:02.400Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f208?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f208",
+      "cardName": "Metatron",
+      "creator": "Card Maker:Kimossab",
+      "animeName": "Accel World",
+      "description": "Metatron from Accel World",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:04.814Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f204?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f204",
+      "cardName": "Haruna Kasuga",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "D4DJ: First Mix",
+      "description": "Haruna Kasuga from D4DJ: First Mix",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:07.225Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f202?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f202",
+      "cardName": "Park Mubong",
+      "creator": "Card Maker:ShoXie",
+      "animeName": "The God of High School",
+      "description": "Park Mubong from The God of High School",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:09.695Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f200?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f200",
+      "cardName": "Chihiro Ogino",
+      "creator": "Card Maker:Piratax10",
+      "animeName": "Spirited Away",
+      "description": "Chihiro Ogino from Spirited Away",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:11.920Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f1fe?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f1fe",
+      "cardName": "Yuji Itadori",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Yuji Itadori from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:14.512Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f1fc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f1fc",
+      "cardName": "Aoto",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Divine Gate",
+      "description": "Aoto from Divine Gate",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:16.813Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fed7c54676f362991f3e486?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fed7c54676f362991f3e486",
+      "cardName": "Riza Hawkeye",
+      "creator": "Card Maker:sus ♡",
+      "animeName": "Fullmetal Alchemist",
+      "description": "Riza Hawkeye from Fullmetal Alchemist",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:19.224Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fed782650938b68b0de03b3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fed782650938b68b0de03b3",
+      "cardName": "Chisa Shiraishi",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Chisa Shiraishi from Idoly Pride",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:21.521Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fed51d1e61a77187096f72e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fed51d1e61a77187096f72e",
+      "cardName": "Shinichi Sakurai",
+      "creator": "Card Maker:🍊✨ Yui ✨🍊",
+      "animeName": "Uzaki-chan Wants to Hang Out!",
+      "description": "Shinichi Sakurai from Uzaki-chan Wants to Hang Out!",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:23.895Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fed4367ed006e186809e958?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fed4367ed006e186809e958",
+      "cardName": "Luca",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Arcana Famiglia",
+      "description": "Luca from Arcana Famiglia",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:26.223Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fed34a5850df817ce5371ba?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fed34a5850df817ce5371ba",
+      "cardName": "Howdy",
+      "creator": "Card Maker:Piratax10",
+      "animeName": "Hamtaro",
+      "description": "Howdy from Hamtaro",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:28.541Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5febf371948b283cbe43d2d1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5febf371948b283cbe43d2d1",
+      "cardName": "Aya Tsuji",
+      "creator": "Card Maker:bleepblop",
+      "animeName": "JoJo's Bizarre Adventure",
+      "description": "Aya Tsuji from JoJo's Bizarre Adventure",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:31.107Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5febf31a948b283cbe43d138?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5febf31a948b283cbe43d138",
+      "cardName": "Khun Aguero Agnis",
+      "creator": "Card Maker:Saber",
+      "animeName": "Tower of God",
+      "description": "Khun Aguero Agnis from Tower of God",
+      "tier": "1",
+      "page": 520,
+      "scrapedAt": "2026-02-16T12:11:33.437Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:10:39.202Z"
+  "lastUpdated": "2026-02-16T12:11:33.438Z"
 }
