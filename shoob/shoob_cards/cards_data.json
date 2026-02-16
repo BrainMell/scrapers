@@ -1,5 +1,5 @@
 {
-  "totalCards": 6697,
+  "totalCards": 6712,
   "processedPages": [
     "1-1",
     "1-2",
@@ -466,7 +466,8 @@
     "1-463",
     "1-464",
     "1-465",
-    "1-466"
+    "1-466",
+    "1-467"
   ],
   "cards": [
     {
@@ -74135,12 +74136,177 @@
       "tier": "1",
       "page": 466,
       "scrapedAt": "2026-02-16T11:00:30.118Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447e1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447e1",
+      "cardName": "Paul Greyrat",
+      "creator": "Daringa",
+      "animeName": "Mushoku Tensei",
+      "description": "Paul Greyrat from Mushoku Tensei",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:00:38.166Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447df?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447df",
+      "cardName": "Katsuhiko Teshigawara",
+      "creator": "hai",
+      "animeName": "Kimi no Na wa.",
+      "description": "Katsuhiko Teshigawara from Kimi no Na wa.",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:00:40.260Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447d7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447d7",
+      "cardName": "Biscuit Two",
+      "creator": "Kronus",
+      "animeName": "Nichijou",
+      "description": "Biscuit Two from Nichijou",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:00:42.198Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447d1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447d1",
+      "cardName": "Marin Temari",
+      "creator": "FireTheSummoner",
+      "animeName": "Revisions",
+      "description": "Marin Temari from Revisions",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:00:44.119Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447cd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447cd",
+      "cardName": "Hizashi Hyuga",
+      "creator": "RhinoStar",
+      "animeName": "Naruto",
+      "description": "Hizashi Hyuga from Naruto",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:00:46.298Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447c9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447c9",
+      "cardName": "Doctor",
+      "creator": "Saber",
+      "animeName": "Akudama Drive",
+      "description": "Doctor from Akudama Drive",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:00:48.270Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447c3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447c3",
+      "cardName": "Dix Perdix",
+      "creator": "stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Dix Perdix from DanMachi",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:00:50.216Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447bf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447bf",
+      "cardName": "Aishela",
+      "creator": "TNT_Penguin",
+      "animeName": "Grancrest Senki",
+      "description": "Aishela from Grancrest Senki",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:00:52.213Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447bd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447bd",
+      "cardName": "Yotsuha Miyamizu",
+      "creator": "hai",
+      "animeName": "Kimi no Na wa.",
+      "description": "Yotsuha Miyamizu from Kimi no Na wa.",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:00:54.211Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447b7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447b7",
+      "cardName": "Melzargard",
+      "creator": "Fish",
+      "animeName": "One Punch Man",
+      "description": "Melzargard from One Punch Man",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:00:56.208Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447ab?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447ab",
+      "cardName": "Ruu Wakasa",
+      "creator": "sus ♡",
+      "animeName": "Gakkougurashi!",
+      "description": "Ruu Wakasa from Gakkougurashi!",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:00:58.177Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447a7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447a7",
+      "cardName": "Janai",
+      "creator": "Skadoosh",
+      "animeName": "The Dragon Prince",
+      "description": "Janai from The Dragon Prince",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:01:00.160Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447a3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447a3",
+      "cardName": "Ubertino",
+      "creator": "Rhianne Furukawa",
+      "animeName": "Arte",
+      "description": "Ubertino from Arte",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:01:02.119Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44479f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44479f",
+      "cardName": "Swindler",
+      "creator": "Saber",
+      "animeName": "Akudama Drive",
+      "description": "Swindler from Akudama Drive",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:01:04.116Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44479b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44479b",
+      "cardName": "Kejoro",
+      "creator": "Popo",
+      "animeName": "Nurarihyon no Mago",
+      "description": "Kejoro from Nurarihyon no Mago",
+      "tier": "1",
+      "page": 467,
+      "scrapedAt": "2026-02-16T11:01:06.101Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:00:30.160Z",
+  "lastUpdated": "2026-02-16T11:01:06.102Z",
   "stats": {
     "successRate": 95,
-    "totalAttempts": 441,
-    "successfulAttempts": 417
+    "totalAttempts": 456,
+    "successfulAttempts": 432
   }
 }
