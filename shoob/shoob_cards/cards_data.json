@@ -1,5 +1,5 @@
 {
-  "totalCards": 7386,
+  "totalCards": 7401,
   "processedPages": [
     "1-1",
     "1-10",
@@ -461,6 +461,7 @@
     "1-510",
     "1-511",
     "1-512",
+    "1-513",
     "1-52",
     "1-53",
     "1-54",
@@ -81760,7 +81761,172 @@
       "tier": "1",
       "page": 512,
       "scrapedAt": "2026-02-16T12:04:16.008Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3ae?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3ae",
+      "cardName": "Cacao",
+      "creator": "Card Maker:Derp",
+      "animeName": "Nekopara",
+      "description": "Cacao from Nekopara",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:04:36.395Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3aa?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3aa",
+      "cardName": "Yoshino Takigawa",
+      "creator": "Card Maker:Colorlesswithau",
+      "animeName": "Zetsuen no Tempest",
+      "description": "Yoshino Takigawa from Zetsuen no Tempest",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:04:38.895Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3a8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3a8",
+      "cardName": "Crimson Kingbolt",
+      "creator": "Card Maker:Kimossab",
+      "animeName": "Accel World",
+      "description": "Crimson Kingbolt from Accel World",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:04:41.424Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3a6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3a6",
+      "cardName": "Pashmina",
+      "creator": "Card Maker:Piratax10",
+      "animeName": "Hamtaro",
+      "description": "Pashmina from Hamtaro",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:04:43.999Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3a4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3a4",
+      "cardName": "Yuriko Nishinotouin",
+      "creator": "Card Maker:Ely",
+      "animeName": "Kakegurui",
+      "description": "Yuriko Nishinotouin from Kakegurui",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:04:46.625Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3a2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3a2",
+      "cardName": "Nagisa Kashiwagi",
+      "creator": "Card Maker:Derp",
+      "animeName": "Kaguya-sama: Love is War",
+      "description": "Nagisa Kashiwagi from Kaguya-sama: Love is War",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:04:49.209Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f39c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f39c",
+      "cardName": "Takasugi Shinsaku",
+      "creator": "Card Maker:JyuVioleGrace",
+      "animeName": "Bakumatsu",
+      "description": "Takasugi Shinsaku from Bakumatsu",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:04:51.626Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f39a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f39a",
+      "cardName": "Shun Kuribayashi",
+      "creator": "Card Maker:Lee?",
+      "animeName": "Kanojo Okarishimasu",
+      "description": "Shun Kuribayashi from Kanojo Okarishimasu",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:04:54.215Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f398?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f398",
+      "cardName": "Chika Fujiwara",
+      "creator": "Card Maker:prezzie.",
+      "animeName": "Kaguya-sama: Love is War",
+      "description": "Chika Fujiwara from Kaguya-sama: Love is War",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:04:56.825Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f396?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f396",
+      "cardName": "Runaan",
+      "creator": "Card Maker:Skadoosh",
+      "animeName": "The Dragon Prince",
+      "description": "Runaan from The Dragon Prince",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:04:59.223Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f394?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f394",
+      "cardName": "Kaguya Shinomiya",
+      "creator": "Card Maker:Derp",
+      "animeName": "Kaguya-sama: Love is War",
+      "description": "Kaguya Shinomiya from Kaguya-sama: Love is War",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:05:01.928Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f392?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f392",
+      "cardName": "Hasegawa Taizou",
+      "creator": "Card Maker:MaricoMamaguevo",
+      "animeName": "Gintama",
+      "description": "Hasegawa Taizou from Gintama",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:05:04.509Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f390?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f390",
+      "cardName": "Shinichi Chiba",
+      "creator": "Card Maker:Kruggles",
+      "animeName": "Ahiru no Sora",
+      "description": "Shinichi Chiba from Ahiru no Sora",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:05:07.229Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f37c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f37c",
+      "cardName": "Tatsuma Ushiyama",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Golden Kamuy",
+      "description": "Tatsuma Ushiyama from Golden Kamuy",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:05:09.828Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f37a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f37a",
+      "cardName": "Nickel Doll",
+      "creator": "Card Maker:Kimossab",
+      "animeName": "Accel World",
+      "description": "Nickel Doll from Accel World",
+      "tier": "1",
+      "page": 513,
+      "scrapedAt": "2026-02-16T12:05:12.414Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:04:16.009Z"
+  "lastUpdated": "2026-02-16T12:05:12.417Z"
 }
