@@ -1,5 +1,5 @@
 {
-  "totalCards": 7761,
+  "totalCards": 7776,
   "processedPages": [
     "1-1",
     "1-10",
@@ -488,6 +488,7 @@
     "1-535",
     "1-536",
     "1-537",
+    "1-538",
     "1-54",
     "1-55",
     "1-56",
@@ -85910,7 +85911,172 @@
       "tier": "1",
       "page": 537,
       "scrapedAt": "2026-02-16T12:27:20.534Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19bfbb9c4af380d4b9ca6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19bfbb9c4af380d4b9ca6",
+      "cardName": "Habara",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Daily Lives of Highschool Boys",
+      "description": "Habara from Daily Lives of Highschool Boys",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:27:41.126Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19bf9b9c4af380d4b9c93?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19bf9b9c4af380d4b9c93",
+      "cardName": "Emi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Daily Lives of Highschool Boys",
+      "description": "Emi from Daily Lives of Highschool Boys",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:27:43.626Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19bf6b9c4af380d4b9c63?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19bf6b9c4af380d4b9c63",
+      "cardName": "Tsubasa Umeya",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Keppeki! Danshi! Aoyama Kun",
+      "description": "Tsubasa Umeya from Keppeki! Danshi! Aoyama Kun",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:27:46.208Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19bf1b9c4af380d4b9c56?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19bf1b9c4af380d4b9c56",
+      "cardName": "Seigo Ibuki",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Keppeki! Danshi! Aoyama Kun",
+      "description": "Seigo Ibuki from Keppeki! Danshi! Aoyama Kun",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:27:48.742Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19befb9c4af380d4b9c51?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19befb9c4af380d4b9c51",
+      "cardName": "Gaku Ishikawa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Keppeki! Danshi! Aoyama Kun",
+      "description": "Gaku Ishikawa from Keppeki! Danshi! Aoyama Kun",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:27:51.218Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19be6b9c4af380d4b9a24?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19be6b9c4af380d4b9a24",
+      "cardName": "Shion Narita",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Keppeki! Danshi! Aoyama Kun",
+      "description": "Shion Narita from Keppeki! Danshi! Aoyama Kun",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:27:53.895Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19be4b9c4af380d4b9a1a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19be4b9c4af380d4b9a1a",
+      "cardName": "Kiyoshi Satou",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Keppeki! Danshi! Aoyama Kun",
+      "description": "Kiyoshi Satou from Keppeki! Danshi! Aoyama Kun",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:27:56.417Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19be1b9c4af380d4b9a0f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19be1b9c4af380d4b9a0f",
+      "cardName": "Hikaru Tada",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Keppeki! Danshi! Aoyama Kun",
+      "description": "Hikaru Tada from Keppeki! Danshi! Aoyama Kun",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:27:59.031Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19bd0b9c4af380d4b985a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19bd0b9c4af380d4b985a",
+      "cardName": "Kaoru Sakakibara",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Gekidol",
+      "description": "Kaoru Sakakibara from Gekidol",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:28:01.805Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19bc8b9c4af380d4b9744?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19bc8b9c4af380d4b9744",
+      "cardName": "Miroku Shingari",
+      "creator": "Card Maker:Yukina",
+      "animeName": "B-Project",
+      "description": "Miroku Shingari from B-Project",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:28:04.491Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19bbeb9c4af380d4b9726?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19bbeb9c4af380d4b9726",
+      "cardName": "Abrego",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Black Lagoon",
+      "description": "Abrego from Black Lagoon",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:28:07.015Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19bbcb9c4af380d4b9723?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19bbcb9c4af380d4b9723",
+      "cardName": "Andromeda Shun",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Andromeda Shun from Saint Seiya",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:28:09.322Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19bb8b9c4af380d4b96e3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19bb8b9c4af380d4b96e3",
+      "cardName": "Virgo Shaka",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Virgo Shaka from Saint Seiya",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:28:11.822Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ba7b9c4af380d4b9687?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ba7b9c4af380d4b9687",
+      "cardName": "Hypnos",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Hypnos from Saint Seiya",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:28:14.318Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ba2b9c4af380d4b9654?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ba2b9c4af380d4b9654",
+      "cardName": "Ophiuchus Shaina",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Ophiuchus Shaina from Saint Seiya",
+      "tier": "1",
+      "page": 538,
+      "scrapedAt": "2026-02-16T12:28:16.845Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:27:20.590Z"
+  "lastUpdated": "2026-02-16T12:28:16.846Z"
 }
