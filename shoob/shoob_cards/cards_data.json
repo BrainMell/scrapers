@@ -1,5 +1,5 @@
 {
-  "totalCards": 7596,
+  "totalCards": 7611,
   "processedPages": [
     "1-1",
     "1-10",
@@ -476,6 +476,7 @@
     "1-524",
     "1-525",
     "1-526",
+    "1-527",
     "1-53",
     "1-54",
     "1-55",
@@ -84084,7 +84085,172 @@
       "tier": "1",
       "page": 526,
       "scrapedAt": "2026-02-16T12:17:07.309Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f74b9c4af380d4bc603?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f74b9c4af380d4bc603",
+      "cardName": "Shinobu Yuuki",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Shinobu Yuuki from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:27.528Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f72b9c4af380d4bc600?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f72b9c4af380d4bc600",
+      "cardName": "Sayo Aisaka",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Sayo Aisaka from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:29.935Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f70b9c4af380d4bc5fb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f70b9c4af380d4bc5fb",
+      "cardName": "Ruki",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Ruki from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:32.523Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f6fb9c4af380d4bc5f7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f6fb9c4af380d4bc5f7",
+      "cardName": "Nowa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Nowa from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:34.991Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f6bb9c4af380d4bc5a9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f6bb9c4af380d4bc5a9",
+      "cardName": "Kazuma and Takuma Mamizuka",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Kazuma and Takuma Mamizuka from Gakuen Babysitters",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:37.436Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f69b9c4af380d4bc5a3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f69b9c4af380d4bc5a3",
+      "cardName": "Nezu Chuukichi",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Nezu Chuukichi from Gakuen Babysitters",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:39.920Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f65b9c4af380d4bc483?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f65b9c4af380d4bc483",
+      "cardName": "Yogi Tomaya",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Yogi Tomaya from Gakuen Babysitters",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:42.229Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f63b9c4af380d4bc3e5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f63b9c4af380d4bc3e5",
+      "cardName": "Ushimaru Yuki",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Ushimaru Yuki from Gakuen Babysitters",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:44.713Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f5eb9c4af380d4bc3d7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f5eb9c4af380d4bc3d7",
+      "cardName": "Taka Kamitani",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Taka Kamitani from Gakuen Babysitters",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:47.202Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f5cb9c4af380d4bc3d1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f5cb9c4af380d4bc3d1",
+      "cardName": "Kirin Kumatsuka",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Kirin Kumatsuka from Gakuen Babysitters",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:49.600Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f5ab9c4af380d4bc3c8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f5ab9c4af380d4bc3c8",
+      "cardName": "Takuma Mamizuka",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Takuma Mamizuka from Gakuen Babysitters",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:52.022Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f58b9c4af380d4bc3c1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f58b9c4af380d4bc3c1",
+      "cardName": "Kazuma Mamizuka",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Kazuma Mamizuka from Gakuen Babysitters",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:54.425Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f56b9c4af380d4bc3be?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f56b9c4af380d4bc3be",
+      "cardName": "Kazuma and Takuma",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Kazuma and Takuma from Gakuen Babysitters",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:57.225Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f54b9c4af380d4bc3b9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f54b9c4af380d4bc3b9",
+      "cardName": "Ryuuichi Kashima",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Ryuuichi Kashima from Gakuen Babysitters",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:17:59.820Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f51b9c4af380d4bc3b3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f51b9c4af380d4bc3b3",
+      "cardName": "Hayato Kamitani",
+      "creator": "Card Maker:yuki",
+      "animeName": "Gakuen Babysitters",
+      "description": "Hayato Kamitani from Gakuen Babysitters",
+      "tier": "1",
+      "page": 527,
+      "scrapedAt": "2026-02-16T12:18:02.300Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:17:07.311Z"
+  "lastUpdated": "2026-02-16T12:18:02.302Z"
 }
