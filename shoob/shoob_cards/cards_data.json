@@ -1,5 +1,5 @@
 {
-  "totalCards": 6412,
+  "totalCards": 6427,
   "processedPages": [
     "1-1",
     "1-2",
@@ -445,6 +445,7 @@
     "1-442",
     "1-443",
     "1-444",
+    "1-445",
     "1-460",
     "1-461",
     "1-462"
@@ -70981,12 +70982,177 @@
       "tier": "1",
       "page": 444,
       "scrapedAt": "2026-02-16T10:49:05.318Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e0f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e0f",
+      "cardName": "Kiri Kato",
+      "creator": "Popo",
+      "animeName": "SKET Dance",
+      "description": "Kiri Kato from SKET Dance",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:12.597Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e0d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e0d",
+      "cardName": "Shin-Ah",
+      "creator": "Jean ™",
+      "animeName": "Yona of the Dawn",
+      "description": "Shin-Ah from Yona of the Dawn",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:14.559Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e05?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e05",
+      "cardName": "Karl Heinz Schneider",
+      "creator": "lust",
+      "animeName": "Captain Tsubasa",
+      "description": "Karl Heinz Schneider from Captain Tsubasa",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:16.560Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e03?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e03",
+      "cardName": "Suzaku Kururugi",
+      "creator": "Hakhu",
+      "animeName": "Code Geass",
+      "description": "Suzaku Kururugi from Code Geass",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:18.598Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e01?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e01",
+      "cardName": "Yuna",
+      "creator": "ShoXie",
+      "animeName": "B: The Beginning",
+      "description": "Yuna from B: The Beginning",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:20.599Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444dfd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444dfd",
+      "cardName": "Enko Onikuma",
+      "creator": "Lee?",
+      "animeName": "Boruto",
+      "description": "Enko Onikuma from Boruto",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:22.569Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444dfb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444dfb",
+      "cardName": "Rin Obami",
+      "creator": "Fish",
+      "animeName": "Kakegurui",
+      "description": "Rin Obami from Kakegurui",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:24.565Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444df3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444df3",
+      "cardName": "Graham Aker",
+      "creator": "lust",
+      "animeName": "Gundam",
+      "description": "Graham Aker from Gundam",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:26.513Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444def?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444def",
+      "cardName": "Bommon",
+      "creator": "Mui Mui むいちろ",
+      "animeName": "Digimon",
+      "description": "Bommon from Digimon",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:28.499Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444deb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444deb",
+      "cardName": "Kei Shirogane",
+      "creator": "Rici 💔🖤",
+      "animeName": "Kaguya-sama: Love is War",
+      "description": "Kei Shirogane from Kaguya-sama: Love is War",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:30.666Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444de9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444de9",
+      "cardName": "Jyarimon",
+      "creator": "Mui Mui むいちろ",
+      "animeName": "Digimon",
+      "description": "Jyarimon from Digimon",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:32.805Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444de7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444de7",
+      "cardName": "Sweet Mask",
+      "creator": "`Sap1q",
+      "animeName": "One Punch Man",
+      "description": "Sweet Mask from One Punch Man",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:34.817Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444de3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444de3",
+      "cardName": "Hiroshi Jito",
+      "creator": "Syololololo~",
+      "animeName": "Captain Tsubasa",
+      "description": "Hiroshi Jito from Captain Tsubasa",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:36.817Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ddf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ddf",
+      "cardName": "Omoi",
+      "creator": "Cynthia",
+      "animeName": "Naruto",
+      "description": "Omoi from Naruto",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:39.000Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444dd7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444dd7",
+      "cardName": "Hak Son",
+      "creator": "Jean ™",
+      "animeName": "Yona of the Dawn",
+      "description": "Hak Son from Yona of the Dawn",
+      "tier": "1",
+      "page": 445,
+      "scrapedAt": "2026-02-16T10:49:40.912Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:49:05.319Z",
+  "lastUpdated": "2026-02-16T10:49:40.959Z",
   "stats": {
-    "successRate": 85,
-    "totalAttempts": 155,
-    "successfulAttempts": 132
+    "successRate": 86,
+    "totalAttempts": 170,
+    "successfulAttempts": 147
   }
 }
