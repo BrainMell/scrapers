@@ -294,11 +294,30 @@ class ShoobCardScraper {
       const token = process.env.GITHUB_TOKEN;
       const repoUrl = `https://${token}@github.com/BrainMell/scrapers.git`;
       
-      await execPromise('git config user.email "bot@scrapers.com"');
-      await execPromise('git config user.name "Scraper Bot"');
+      // Check if git is initialized, if not, do it
+      try {
+        await execPromise('git rev-parse --is-inside-work-tree');
+      } catch (e) {
+        console.log('   🔧 Initializing git repo in container...');
+        await execPromise('git init');
+        await execPromise(`git remote add origin ${repoUrl}`);
+        await execPromise('git config user.email "bot@scrapers.com"');
+        await execPromise('git config user.name "Scraper Bot"');
+        await execPromise('git fetch origin master');
+        await execPromise('git checkout master || git checkout -b master');
+        await execPromise('git reset --soft origin/master');
+      }
+
       await execPromise(`git remote set-url origin ${repoUrl}`);
       await execPromise('git add shoob/shoob_cards/cards_data.json');
-      // [skip ci] prevents Railway from rebuilding every time we push data
+      
+      // Check for changes
+      const { stdout: status } = await execPromise('git status --porcelain');
+      if (!status.trim()) {
+        console.log('   ℹ️ No new data to sync yet.');
+        return;
+      }
+
       await execPromise('git commit -m "📊 Auto-update scraped cards data [skip ci]"');
       await execPromise('git push origin master');
       console.log('✅ GitHub Sync Successful');
