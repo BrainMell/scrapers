@@ -1,5 +1,5 @@
 {
-  "totalCards": 6667,
+  "totalCards": 6682,
   "processedPages": [
     "1-1",
     "1-2",
@@ -464,7 +464,8 @@
     "1-461",
     "1-462",
     "1-463",
-    "1-464"
+    "1-464",
+    "1-465"
   ],
   "cards": [
     {
@@ -73803,12 +73804,177 @@
       "tier": "1",
       "page": 464,
       "scrapedAt": "2026-02-16T10:59:18.660Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4448a3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4448a3",
+      "cardName": "Eriko Kuraishi",
+      "creator": "Derp",
+      "animeName": "Princess Connect! Re:Dive",
+      "description": "Eriko Kuraishi from Princess Connect! Re:Dive",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:25.922Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44489d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44489d",
+      "cardName": "Orga Itsuka",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "description": "Orga Itsuka from Mobile Suit Gundam: Iron-Blooded Orphans",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:27.904Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444899?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444899",
+      "cardName": "Akira Mosakuji",
+      "creator": "Derp",
+      "animeName": "Princess Connect! Re:Dive",
+      "description": "Akira Mosakuji from Princess Connect! Re:Dive",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:29.811Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44488d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44488d",
+      "cardName": "Sumire Kakei",
+      "creator": "HealingSoon",
+      "animeName": "Boruto",
+      "description": "Sumire Kakei from Boruto",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:31.962Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444889?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444889",
+      "cardName": "Hayato Yamagata",
+      "creator": "Kruggles",
+      "animeName": "Haikyuu!!",
+      "description": "Hayato Yamagata from Haikyuu!!",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:33.924Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444887?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444887",
+      "cardName": "Hideyoshi Nagachika",
+      "creator": "Winter 겨울",
+      "animeName": "Tokyo Ghoul",
+      "description": "Hideyoshi Nagachika from Tokyo Ghoul",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:35.913Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444885?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444885",
+      "cardName": "Haruka Ogasawara",
+      "creator": "hai",
+      "animeName": "Hibike! Euphonium",
+      "description": "Haruka Ogasawara from Hibike! Euphonium",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:37.868Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44487f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44487f",
+      "cardName": "Chang Lu Steiner",
+      "creator": "FireTheSummoner",
+      "animeName": "Revisions",
+      "description": "Chang Lu Steiner from Revisions",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:39.780Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44487d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44487d",
+      "cardName": "Megakaryocyte",
+      "creator": "rachel💜",
+      "animeName": "Cells at Work!",
+      "description": "Megakaryocyte from Cells at Work!",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:41.864Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444879?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444879",
+      "cardName": "Mikazuki Augus",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "description": "Mikazuki Augus from Mobile Suit Gundam: Iron-Blooded Orphans",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:43.817Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44486b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44486b",
+      "cardName": "Takumi Sakagami",
+      "creator": "Rakis29",
+      "animeName": "The anthem of the Heart",
+      "description": "Takumi Sakagami from The anthem of the Heart",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:45.766Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44485f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44485f",
+      "cardName": "Courier",
+      "creator": "Saber",
+      "animeName": "Akudama Drive",
+      "description": "Courier from Akudama Drive",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:47.698Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444859?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444859",
+      "cardName": "Kurotabo",
+      "creator": "Popo",
+      "animeName": "Nurarihyon no Mago",
+      "description": "Kurotabo from Nurarihyon no Mago",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:49.673Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444857?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444857",
+      "cardName": "Nanako Ohara",
+      "creator": "Arshhh",
+      "animeName": "Crayon Shin-chan",
+      "description": "Nanako Ohara from Crayon Shin-chan",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:51.709Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444853?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444853",
+      "cardName": "Nishiki Yatsuho",
+      "creator": "Kronus",
+      "animeName": "Miss Caretaker of Sunohara-sou",
+      "description": "Nishiki Yatsuho from Miss Caretaker of Sunohara-sou",
+      "tier": "1",
+      "page": 465,
+      "scrapedAt": "2026-02-16T10:59:53.611Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:59:18.661Z",
+  "lastUpdated": "2026-02-16T10:59:53.612Z",
   "stats": {
     "successRate": 94,
-    "totalAttempts": 411,
-    "successfulAttempts": 387
+    "totalAttempts": 426,
+    "successfulAttempts": 402
   }
 }
