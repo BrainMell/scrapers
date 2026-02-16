@@ -1,5 +1,5 @@
 {
-  "totalCards": 6294,
+  "totalCards": 6309,
   "processedPages": [
     "1-1",
     "1-2",
@@ -437,6 +437,7 @@
     "1-434",
     "1-435",
     "1-436",
+    "1-437",
     "1-460",
     "1-461",
     "1-462"
@@ -69675,12 +69676,177 @@
       "tier": "1",
       "page": 436,
       "scrapedAt": "2026-02-16T10:27:49.162Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acd4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acd4",
+      "cardName": "Airi",
+      "creator": "Lee?",
+      "animeName": "Queen's Blade",
+      "description": "Airi from Queen's Blade",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:27:59.066Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732accc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732accc",
+      "cardName": "Akushiba",
+      "creator": "xerx",
+      "animeName": "Bounen no Xamdou",
+      "description": "Akushiba from Bounen no Xamdou",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:01.210Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acca?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acca",
+      "cardName": "Sachi",
+      "creator": "Famzi",
+      "animeName": "Sword Art Online",
+      "description": "Sachi from Sword Art Online",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:03.472Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acc8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acc8",
+      "cardName": "Shinzo Hattori",
+      "creator": "Hoshiko [星子]",
+      "animeName": "Ninja Hattori",
+      "description": "Shinzo Hattori from Ninja Hattori",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:05.820Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acc6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acc6",
+      "cardName": "Hakuhei Sabi",
+      "creator": "VILLA • Legion💜",
+      "animeName": "Katanagatari",
+      "description": "Hakuhei Sabi from Katanagatari",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:08.148Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acc4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acc4",
+      "cardName": "Fumi Tachibana",
+      "creator": "hai",
+      "animeName": "Weathering With You",
+      "description": "Fumi Tachibana from Weathering With You",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:10.444Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acbe?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acbe",
+      "cardName": "Nataku Son",
+      "creator": "`Sap1q",
+      "animeName": "Fire Force",
+      "description": "Nataku Son from Fire Force",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:12.569Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acb2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acb2",
+      "cardName": "Ame",
+      "creator": "hai",
+      "animeName": "Weathering With You",
+      "description": "Ame from Weathering With You",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:14.722Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732acac?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732acac",
+      "cardName": "Yunan",
+      "creator": "Cin",
+      "animeName": "Magi",
+      "description": "Yunan from Magi",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:16.925Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732aca8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732aca8",
+      "cardName": "Shiori Kashiwazaki",
+      "creator": "Beta",
+      "animeName": "Princess Connect! Re:Dive",
+      "description": "Shiori Kashiwazaki from Princess Connect! Re:Dive",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:19.251Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732aca6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732aca6",
+      "cardName": "Ahm",
+      "creator": "xerx",
+      "animeName": "Bounen no Xamdou",
+      "description": "Ahm from Bounen no Xamdou",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:21.293Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac9e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac9e",
+      "cardName": "Hanako Tanaka",
+      "creator": "colorless3t",
+      "animeName": "Zetman",
+      "description": "Hanako Tanaka from Zetman",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:23.564Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac98?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac98",
+      "cardName": "Jae-Ha",
+      "creator": "𝕵𝖊𝖆𝖓™",
+      "animeName": "Yona of the Dawn",
+      "description": "Jae-Ha from Yona of the Dawn",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:25.899Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac88?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac88",
+      "cardName": "Anko Mitarashi",
+      "creator": "Hakhu",
+      "animeName": "Naruto",
+      "description": "Anko Mitarashi from Naruto",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:28.310Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac86?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac86",
+      "cardName": "Barbero",
+      "creator": "Cloud",
+      "animeName": "91 Days",
+      "description": "Barbero from 91 Days",
+      "tier": "1",
+      "page": 437,
+      "scrapedAt": "2026-02-16T10:28:30.565Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:27:52.368Z",
+  "lastUpdated": "2026-02-16T10:28:30.569Z",
   "stats": {
-    "successRate": 64,
-    "totalAttempts": 22,
-    "successfulAttempts": 14
+    "successRate": 78,
+    "totalAttempts": 37,
+    "successfulAttempts": 29
   }
 }
