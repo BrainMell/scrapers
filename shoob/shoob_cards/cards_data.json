@@ -1,5 +1,5 @@
 {
-  "totalCards": 6607,
+  "totalCards": 6622,
   "processedPages": [
     "1-1",
     "1-2",
@@ -458,6 +458,7 @@
     "1-455",
     "1-456",
     "1-457",
+    "1-458",
     "1-460",
     "1-461",
     "1-462"
@@ -73139,12 +73140,177 @@
       "tier": "1",
       "page": 457,
       "scrapedAt": "2026-02-16T10:56:48.361Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a97?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a97",
+      "cardName": "Mai Sunagawa",
+      "creator": "Sleepy Yui",
+      "animeName": "Harukana Receive",
+      "description": "Mai Sunagawa from Harukana Receive",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:56:59.165Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a93?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a93",
+      "cardName": "Ayasa Tachibana",
+      "creator": "Sleepy Yui",
+      "animeName": "Harukana Receive",
+      "description": "Ayasa Tachibana from Harukana Receive",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:01.280Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a91?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a91",
+      "cardName": "Noire Foschurose",
+      "creator": "Muldz.",
+      "animeName": "Kuma Kuma Kuma Bear",
+      "description": "Noire Foschurose from Kuma Kuma Kuma Bear",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:03.714Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a8f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a8f",
+      "cardName": "Narumi Toi",
+      "creator": "Sleepy Yui",
+      "animeName": "Harukana Receive",
+      "description": "Narumi Toi from Harukana Receive",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:05.664Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a8b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a8b",
+      "cardName": "Felix Argyle",
+      "creator": "Anime blaze~",
+      "animeName": "Re:Zero",
+      "description": "Felix Argyle from Re:Zero",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:07.698Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a89?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a89",
+      "cardName": "Kanao Tsuyuri",
+      "creator": "Kp wie ich heiße~",
+      "animeName": "Demon Slayer",
+      "description": "Kanao Tsuyuri from Demon Slayer",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:09.802Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a87?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a87",
+      "cardName": "Claire Thomas",
+      "creator": "Sleepy Yui",
+      "animeName": "Harukana Receive",
+      "description": "Claire Thomas from Harukana Receive",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:11.719Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a6f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a6f",
+      "cardName": "Emily Thomas",
+      "creator": "Sleepy Yui",
+      "animeName": "Harukana Receive",
+      "description": "Emily Thomas from Harukana Receive",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:13.618Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a67?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a67",
+      "cardName": "Cherry",
+      "creator": "Kronus",
+      "animeName": "Lucky Star",
+      "description": "Cherry from Lucky Star",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:15.598Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a65?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a65",
+      "cardName": "Hiroki",
+      "creator": "Arshhh",
+      "animeName": "Pet",
+      "description": "Hiroki from Pet",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:17.506Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a5f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a5f",
+      "cardName": "Zeref",
+      "creator": "Demon Hunter",
+      "animeName": "Fairy Tail",
+      "description": "Zeref from Fairy Tail",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:19.666Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a5d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a5d",
+      "cardName": "Kanata Higa",
+      "creator": "Sleepy Yui",
+      "animeName": "Harukana Receive",
+      "description": "Kanata Higa from Harukana Receive",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:21.614Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a59?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a59",
+      "cardName": "Irvin",
+      "creator": "TNT_Penguin",
+      "animeName": "Grancrest Senki",
+      "description": "Irvin from Grancrest Senki",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:23.521Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a49?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a49",
+      "cardName": "Soichiro Hague",
+      "creator": "Kruggles",
+      "animeName": "Fire Force",
+      "description": "Soichiro Hague from Fire Force",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:28.610Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a47?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a47",
+      "cardName": "Elizabeth and Patricia",
+      "creator": "Agera",
+      "animeName": "Soul Eater",
+      "description": "Elizabeth and Patricia from Soul Eater",
+      "tier": "1",
+      "page": 458,
+      "scrapedAt": "2026-02-16T10:57:30.566Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:56:48.362Z",
+  "lastUpdated": "2026-02-16T10:57:30.567Z",
   "stats": {
     "successRate": 93,
-    "totalAttempts": 350,
-    "successfulAttempts": 327
+    "totalAttempts": 366,
+    "successfulAttempts": 342
   }
 }
