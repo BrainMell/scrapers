@@ -1,5 +1,5 @@
 {
-  "totalCards": 6382,
+  "totalCards": 6397,
   "processedPages": [
     "1-1",
     "1-2",
@@ -443,6 +443,7 @@
     "1-440",
     "1-441",
     "1-442",
+    "1-443",
     "1-460",
     "1-461",
     "1-462"
@@ -70649,12 +70650,177 @@
       "tier": "1",
       "page": 442,
       "scrapedAt": "2026-02-16T10:47:52.898Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ea1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ea1",
+      "cardName": "Koito Nagase",
+      "creator": "Sleepy Yui",
+      "animeName": "Wonder Egg Priority",
+      "description": "Koito Nagase from Wonder Egg Priority",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:00.277Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e8d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e8d",
+      "cardName": "Moka Suga",
+      "creator": "hai",
+      "animeName": "Weathering With You",
+      "description": "Moka Suga from Weathering With You",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:02.214Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e89?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e89",
+      "cardName": "Emonn Snow",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Violet Evergarden",
+      "description": "Emonn Snow from Violet Evergarden",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:04.267Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e79?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e79",
+      "cardName": "Pagumon",
+      "creator": "Mui Mui むいちろ",
+      "animeName": "Digimon",
+      "description": "Pagumon from Digimon",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:06.386Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e77?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e77",
+      "cardName": "Shingo Takasugi",
+      "creator": "Syololololo~",
+      "animeName": "Captain Tsubasa",
+      "description": "Shingo Takasugi from Captain Tsubasa",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:08.315Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e75?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e75",
+      "cardName": "Shiki Tademaru",
+      "creator": "Rici 💔🖤",
+      "animeName": "Kemono Jihen",
+      "description": "Shiki Tademaru from Kemono Jihen",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:10.259Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e6f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e6f",
+      "cardName": "Moe Nishinosono",
+      "creator": "Anime blaze~",
+      "animeName": "The Perfect Insider",
+      "description": "Moe Nishinosono from The Perfect Insider",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:12.117Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e6b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e6b",
+      "cardName": "Inaho Kaizuka",
+      "creator": "[Grace]FromHeaven",
+      "animeName": "Aldnoah.Zero",
+      "description": "Inaho Kaizuka from Aldnoah.Zero",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:14.059Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e69?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e69",
+      "cardName": "Principal Shinoda",
+      "creator": "!!Shubhdeep!!",
+      "animeName": "Beyblade",
+      "description": "Principal Shinoda from Beyblade",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:16.014Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e63?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e63",
+      "cardName": "Eiji Niizuma",
+      "creator": "Cynthia",
+      "animeName": "Bakuman",
+      "description": "Eiji Niizuma from Bakuman",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:17.898Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e5f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e5f",
+      "cardName": "Painter",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Painter from Rage of Bahamut",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:19.860Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e5d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e5d",
+      "cardName": "Chizuru Takano",
+      "creator": "NCArchie",
+      "animeName": "Tsurezure Children",
+      "description": "Chizuru Takano from Tsurezure Children",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:21.821Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e5b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e5b",
+      "cardName": "Renga Kokubo",
+      "creator": "Lee?",
+      "animeName": "Boruto",
+      "description": "Renga Kokubo from Boruto",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:23.906Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e57?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e57",
+      "cardName": "Victor",
+      "creator": "Kakyoin",
+      "animeName": "Boruto",
+      "description": "Victor from Boruto",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:25.865Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444e55?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444e55",
+      "cardName": "Rumia Uru",
+      "creator": "Fish",
+      "animeName": "Kakegurui",
+      "description": "Rumia Uru from Kakegurui",
+      "tier": "1",
+      "page": 443,
+      "scrapedAt": "2026-02-16T10:48:28.160Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:47:52.899Z",
+  "lastUpdated": "2026-02-16T10:48:28.161Z",
   "stats": {
-    "successRate": 82,
-    "totalAttempts": 125,
-    "successfulAttempts": 102
+    "successRate": 84,
+    "totalAttempts": 140,
+    "successfulAttempts": 117
   }
 }
