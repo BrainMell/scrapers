@@ -1,5 +1,5 @@
 {
-  "totalCards": 7551,
+  "totalCards": 7566,
   "processedPages": [
     "1-1",
     "1-10",
@@ -473,6 +473,7 @@
     "1-521",
     "1-522",
     "1-523",
+    "1-524",
     "1-53",
     "1-54",
     "1-55",
@@ -83586,7 +83587,172 @@
       "tier": "1",
       "page": 523,
       "scrapedAt": "2026-02-16T12:14:21.938Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a09eb9c4af380d4bd2d9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a09eb9c4af380d4bd2d9",
+      "cardName": "Nakata",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Koi Wa Ameagari No You Ni",
+      "description": "Nakata from Koi Wa Ameagari No You Ni",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:14:42.238Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a07eb9c4af380d4bd228?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a07eb9c4af380d4bd228",
+      "cardName": "Naoko Moritaka",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Great Teacher Onizuka",
+      "description": "Naoko Moritaka from Great Teacher Onizuka",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:14:44.695Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a07ab9c4af380d4bd216?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a07ab9c4af380d4bd216",
+      "cardName": "Julia Murai",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Great Teacher Onizuka",
+      "description": "Julia Murai from Great Teacher Onizuka",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:14:47.031Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a076b9c4af380d4bd1ad?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a076b9c4af380d4bd1ad",
+      "cardName": "Hajime Fukuroda",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Great Teacher Onizuka",
+      "description": "Hajime Fukuroda from Great Teacher Onizuka",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:14:49.336Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a071b9c4af380d4bd180?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a071b9c4af380d4bd180",
+      "cardName": "Sophia Ascart",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "My Next Life As A Villainess",
+      "description": "Sophia Ascart from My Next Life As A Villainess",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:14:51.695Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a04cb9c4af380d4bcfa4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a04cb9c4af380d4bcfa4",
+      "cardName": "Suguru Teshigawara",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Great Teacher Onizuka",
+      "description": "Suguru Teshigawara from Great Teacher Onizuka",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:14:54.218Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a036b9c4af380d4bcee7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a036b9c4af380d4bcee7",
+      "cardName": "Nicole Ascart",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "My Next Life As A Villainess",
+      "description": "Nicole Ascart from My Next Life As A Villainess",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:14:56.614Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a034b9c4af380d4bcee3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a034b9c4af380d4bcee3",
+      "cardName": "Mary Hunt",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "My Next Life As A Villainess",
+      "description": "Mary Hunt from My Next Life As A Villainess",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:14:59.133Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a032b9c4af380d4bcedd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a032b9c4af380d4bcedd",
+      "cardName": "Maria Campbell",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "My Next Life As A Villainess",
+      "description": "Maria Campbell from My Next Life As A Villainess",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:15:01.811Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a030b9c4af380d4bce97?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a030b9c4af380d4bce97",
+      "cardName": "Keith Claes",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "My Next Life As A Villainess",
+      "description": "Keith Claes from My Next Life As A Villainess",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:15:04.515Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a02bb9c4af380d4bce0a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a02bb9c4af380d4bce0a",
+      "cardName": "Gerald Stuart",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "My Next Life As A Villainess",
+      "description": "Gerald Stuart from My Next Life As A Villainess",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:15:07.219Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a029b9c4af380d4bcdf4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a029b9c4af380d4bcdf4",
+      "cardName": "Alan Stuart",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "My Next Life As A Villainess",
+      "description": "Alan Stuart from My Next Life As A Villainess",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:15:09.559Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a027b9c4af380d4bcdec?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a027b9c4af380d4bcdec",
+      "cardName": "Marilla",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Princess Principal",
+      "description": "Marilla from Princess Principal",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:15:12.018Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a025b9c4af380d4bcde3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a025b9c4af380d4bcde3",
+      "cardName": "Lily Gaveston",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Princess Principal",
+      "description": "Lily Gaveston from Princess Principal",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:15:14.690Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1a023b9c4af380d4bcddd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1a023b9c4af380d4bcddd",
+      "cardName": "Jubei Todo",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Princess Principal",
+      "description": "Jubei Todo from Princess Principal",
+      "tier": "1",
+      "page": 524,
+      "scrapedAt": "2026-02-16T12:15:17.137Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:14:21.940Z"
+  "lastUpdated": "2026-02-16T12:15:17.139Z"
 }
