@@ -1,5 +1,5 @@
 {
-  "totalCards": 7041,
+  "totalCards": 7056,
   "processedPages": [
     "1-1",
     "1-10",
@@ -435,6 +435,7 @@
     "1-488",
     "1-489",
     "1-49",
+    "1-490",
     "1-5",
     "1-50",
     "1-51",
@@ -77942,7 +77943,172 @@
       "tier": "1",
       "page": 489,
       "scrapedAt": "2026-02-16T11:43:17.242Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffa8c5ded3d6f374d11f14b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffa8c5ded3d6f374d11f14b",
+      "cardName": "Yutaka Kobayakawa",
+      "creator": "Card Maker:Kronus",
+      "animeName": "Lucky Star",
+      "description": "Yutaka Kobayakawa from Lucky Star",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:43:40.418Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffa39cdc8ffaa094a013fec?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffa39cdc8ffaa094a013fec",
+      "cardName": "Selkie",
+      "creator": "Card Maker:MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Selkie from My Hero Academia",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:43:42.796Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff9c00a42494408fd728b53?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff9c00a42494408fd728b53",
+      "cardName": "Feitan Portor",
+      "creator": "Card Maker:ℛℯ𝓃",
+      "animeName": "Hunter x Hunter",
+      "description": "Feitan Portor from Hunter x Hunter",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:43:45.224Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff8fa0b469bd31a209c41a5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff8fa0b469bd31a209c41a5",
+      "cardName": "Pony Tsunotori",
+      "creator": "Card Maker:MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Pony Tsunotori from My Hero Academia",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:43:47.734Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff8cef9469bd31a209b9cd7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff8cef9469bd31a209b9cd7",
+      "cardName": "Kota Izumi",
+      "creator": "Card Maker:MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Kota Izumi from My Hero Academia",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:43:50.220Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff7d6bf18df373ae8b85942?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff7d6bf18df373ae8b85942",
+      "cardName": "Kiyotaka Ijichi",
+      "creator": "Card Maker:Mojo JOJO",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Kiyotaka Ijichi from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:43:52.734Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff7d3d018df373ae8b84a52?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff7d3d018df373ae8b84a52",
+      "cardName": "Sumire Yamanashi",
+      "creator": "Card Maker:Kronus",
+      "animeName": "Miss Caretaker of Sunohara-sou",
+      "description": "Sumire Yamanashi from Miss Caretaker of Sunohara-sou",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:43:54.914Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff7522406d4715553d5aa11?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff7522406d4715553d5aa11",
+      "cardName": "Choza Akimichi",
+      "creator": "Card Maker:RhinoStar",
+      "animeName": "Naruto",
+      "description": "Choza Akimichi from Naruto",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:43:57.295Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff68fb0617c931cd443d9cc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff68fb0617c931cd443d9cc",
+      "cardName": "Izabella",
+      "creator": "Card Maker:fifi",
+      "animeName": "The Misfit of Demon King Academy",
+      "description": "Izabella from The Misfit of Demon King Academy",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:43:59.630Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff652d0c6d88c2b213e5198?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff652d0c6d88c2b213e5198",
+      "cardName": "Nine Alpha",
+      "creator": "Card Maker:MEPHISTØ🔥",
+      "animeName": "Darling in the Franxx",
+      "description": "Nine Alpha from Darling in the Franxx",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:44:02.018Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff64a091285144510585587?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff64a091285144510585587",
+      "cardName": "Shino Sosaki",
+      "creator": "Card Maker:MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Shino Sosaki from My Hero Academia",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:44:04.637Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff63f811285144510580378?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff63f811285144510580378",
+      "cardName": "Tomoko Shiretoko",
+      "creator": "Card Maker:MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Tomoko Shiretoko from My Hero Academia",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:44:07.200Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff63ecb1285144510580219?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff63ecb1285144510580219",
+      "cardName": "Luan Espel",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Luan Espel from DanMachi",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:44:09.590Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff5ac43a7266f0dd42552c3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff5ac43a7266f0dd42552c3",
+      "cardName": "Gato",
+      "creator": "Card Maker:RhinoStar",
+      "animeName": "Naruto",
+      "description": "Gato from Naruto",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:44:12.098Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff5a7d285b74c2ea96e8fc4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff5a7d285b74c2ea96e8fc4",
+      "cardName": "Yoruka Kirihime",
+      "creator": "Card Maker:Kawaii",
+      "animeName": "Saijaku Muhai no Bahamut",
+      "description": "Yoruka Kirihime from Saijaku Muhai no Bahamut",
+      "tier": "1",
+      "page": 490,
+      "scrapedAt": "2026-02-16T11:44:14.503Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:43:17.243Z"
+  "lastUpdated": "2026-02-16T11:44:14.504Z"
 }
