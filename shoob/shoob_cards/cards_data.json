@@ -1,5 +1,5 @@
 {
-  "totalCards": 6832,
+  "totalCards": 6847,
   "processedPages": [
     "1-1",
     "1-2",
@@ -475,7 +475,8 @@
     "1-472",
     "1-473",
     "1-474",
-    "1-475"
+    "1-475",
+    "1-476"
   ],
   "cards": [
     {
@@ -75629,12 +75630,177 @@
       "tier": "1",
       "page": 475,
       "scrapedAt": "2026-02-16T11:05:57.764Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445a7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445a7",
+      "cardName": "Soraha Amano",
+      "creator": "RoseyRose",
+      "animeName": "Assault Lily: Bouquet",
+      "description": "Soraha Amano from Assault Lily: Bouquet",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:05.234Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445a5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445a5",
+      "cardName": "Michinari Akagi",
+      "creator": "Kruggles",
+      "animeName": "Haikyuu!!",
+      "description": "Michinari Akagi from Haikyuu!!",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:07.366Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445a1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445a1",
+      "cardName": "Fastener",
+      "creator": "Monokuma",
+      "animeName": "Panty & Stocking",
+      "description": "Fastener from Panty & Stocking",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:09.363Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44459d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44459d",
+      "cardName": "Stan",
+      "creator": "Piratax10",
+      "animeName": "Hamtaro",
+      "description": "Stan from Hamtaro",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:11.299Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44458d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44458d",
+      "cardName": "Yuu Otosaka",
+      "creator": "zax.",
+      "animeName": "Charlotte",
+      "description": "Yuu Otosaka from Charlotte",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:13.266Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44458b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44458b",
+      "cardName": "Kyouya Onodera",
+      "creator": "Death",
+      "animeName": "Munou na Nana",
+      "description": "Kyouya Onodera from Munou na Nana",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:15.200Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444587?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444587",
+      "cardName": "Yusa Kurobane",
+      "creator": "zax.",
+      "animeName": "Charlotte",
+      "description": "Yusa Kurobane from Charlotte",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:17.175Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444585?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444585",
+      "cardName": "Kaseki",
+      "creator": "Spruce - P",
+      "animeName": "Dr. Stone",
+      "description": "Kaseki from Dr. Stone",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:19.200Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444583?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444583",
+      "cardName": "Tasuku Takatoo",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Tasuku Takatoo from A3!",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:21.163Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444581?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444581",
+      "cardName": "Zero one",
+      "creator": "Anime blaze~",
+      "animeName": "Darling in the Franxx",
+      "description": "Zero one from Darling in the Franxx",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:23.313Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44457f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44457f",
+      "cardName": "Yui Shishido",
+      "creator": "Taiga Aisaka Fan Club",
+      "animeName": "Corpse Party",
+      "description": "Yui Shishido from Corpse Party",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:25.311Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44457d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44457d",
+      "cardName": "Sawako Sekijou",
+      "creator": "prater12",
+      "animeName": "We Never Learn",
+      "description": "Sawako Sekijou from We Never Learn",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:27.300Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44457b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44457b",
+      "cardName": "Bruce",
+      "creator": "Agera",
+      "animeName": "Pucca",
+      "description": "Bruce from Pucca",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:29.360Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444575?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444575",
+      "cardName": "Chikage Utsuki",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Chikage Utsuki from A3!",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:31.399Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444573?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444573",
+      "cardName": "Banri Settsu",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Banri Settsu from A3!",
+      "tier": "1",
+      "page": 476,
+      "scrapedAt": "2026-02-16T11:06:33.365Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:05:57.798Z",
+  "lastUpdated": "2026-02-16T11:06:33.398Z",
   "stats": {
     "successRate": 96,
-    "totalAttempts": 576,
-    "successfulAttempts": 552
+    "totalAttempts": 591,
+    "successfulAttempts": 567
   }
 }
