@@ -1,5 +1,5 @@
 {
-  "totalCards": 7791,
+  "totalCards": 7806,
   "processedPages": [
     "1-1",
     "1-10",
@@ -491,6 +491,7 @@
     "1-538",
     "1-539",
     "1-54",
+    "1-540",
     "1-55",
     "1-56",
     "1-57",
@@ -86242,7 +86243,172 @@
       "tier": "1",
       "page": 539,
       "scrapedAt": "2026-02-16T12:29:12.301Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19afeda1e9326feb16f59?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19afeda1e9326feb16f59",
+      "cardName": "Uro",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Uro from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:29:32.721Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19af8da1e9326feb16f4d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19af8da1e9326feb16f4d",
+      "cardName": "Iva",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Iva from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:29:35.225Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19af6da1e9326feb16f49?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19af6da1e9326feb16f49",
+      "cardName": "Jiki",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Jiki from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:29:37.796Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19af4da1e9326feb16f37?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19af4da1e9326feb16f37",
+      "cardName": "Kagiri",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Kagiri from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:29:40.225Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19af0da1e9326feb16f26?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19af0da1e9326feb16f26",
+      "cardName": "Kiharu",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Kiharu from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:29:42.813Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19aeeda1e9326feb16f23?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19aeeda1e9326feb16f23",
+      "cardName": "Kiichi",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Kiichi from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:29:45.321Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19aebda1e9326feb16f1a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19aebda1e9326feb16f1a",
+      "cardName": "Palnedo",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Palnedo from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:29:47.813Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ae9da1e9326feb16f17?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ae9da1e9326feb16f17",
+      "cardName": "Ryoushi",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Ryoushi from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:29:50.297Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ae8da1e9326feb16f14?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ae8da1e9326feb16f14",
+      "cardName": "Tsubaki",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Tsubaki from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:29:52.629Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ae6da1e9326feb16ef5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ae6da1e9326feb16ef5",
+      "cardName": "Tsubame",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Tsubame from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:29:55.125Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ae4da1e9326feb16ebe?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ae4da1e9326feb16ebe",
+      "cardName": "Tsukitachi",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Tsukitachi from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:29:57.618Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19adfda1e9326feb16e71?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19adfda1e9326feb16e71",
+      "cardName": "Hirato",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Karneval",
+      "description": "Hirato from Karneval",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:30:00.124Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ac4da1e9326feb16e17?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ac4da1e9326feb16e17",
+      "cardName": "I-400",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arpeggio Of Blue Steel Ars Nova",
+      "description": "I-400 from Arpeggio Of Blue Steel Ars Nova",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:30:02.836Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19abbda1e9326feb16d09?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19abbda1e9326feb16d09",
+      "cardName": "Shion Aoyagi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Ao No Kanata No Four Rhythm",
+      "description": "Shion Aoyagi from Ao No Kanata No Four Rhythm",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:30:05.522Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ab9da1e9326feb16d03?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ab9da1e9326feb16d03",
+      "cardName": "Kazunari Shindo",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Ao No Kanata No Four Rhythm",
+      "description": "Kazunari Shindo from Ao No Kanata No Four Rhythm",
+      "tier": "1",
+      "page": 540,
+      "scrapedAt": "2026-02-16T12:30:08.500Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:29:12.304Z"
+  "lastUpdated": "2026-02-16T12:30:08.502Z"
 }
