@@ -69522,10 +69522,10 @@
       "scrapedAt": "2026-02-16T08:39:25.973Z"
     }
   ],
-  "lastUpdated": "2026-02-16T08:41:49.147Z",
+  "lastUpdated": "2026-02-16T10:22:48.419Z",
   "stats": {
-    "successRate": 1,
-    "totalAttempts": 300,
-    "successfulAttempts": 3
+    "successRate": 100,
+    "totalAttempts": 0,
+    "successfulAttempts": 0
   }
 }
