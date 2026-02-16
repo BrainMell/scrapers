@@ -1,5 +1,5 @@
 {
-  "totalCards": 7581,
+  "totalCards": 7596,
   "processedPages": [
     "1-1",
     "1-10",
@@ -475,6 +475,7 @@
     "1-523",
     "1-524",
     "1-525",
+    "1-526",
     "1-53",
     "1-54",
     "1-55",
@@ -83918,7 +83919,172 @@
       "tier": "1",
       "page": 525,
       "scrapedAt": "2026-02-16T12:16:12.721Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19faeb9c4af380d4bc876?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19faeb9c4af380d4bc876",
+      "cardName": "Morrigan",
+      "creator": "Card Maker:Yukina",
+      "animeName": "As Miss Beelzebub Likes.",
+      "description": "Morrigan from As Miss Beelzebub Likes.",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:33.318Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19facb9c4af380d4bc84e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19facb9c4af380d4bc84e",
+      "cardName": "Akira Asagi",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Gekidol",
+      "description": "Akira Asagi from Gekidol",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:35.525Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19faab9c4af380d4bc841?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19faab9c4af380d4bc841",
+      "cardName": "Tsubaki Aoyagi",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "D4DJ: First Mix",
+      "description": "Tsubaki Aoyagi from D4DJ: First Mix",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:38.123Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fa8b9c4af380d4bc833?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fa8b9c4af380d4bc833",
+      "cardName": "Cruzkowa Bosyeltnov",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Ghost in the Shell",
+      "description": "Cruzkowa Bosyeltnov from Ghost in the Shell",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:40.423Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fa4b9c4af380d4bc806?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fa4b9c4af380d4bc806",
+      "cardName": "Boma",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Ghost in the Shell",
+      "description": "Boma from Ghost in the Shell",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:42.798Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19fa0b9c4af380d4bc7ab?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19fa0b9c4af380d4bc7ab",
+      "cardName": "Airi Kakumu",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Gekidol",
+      "description": "Airi Kakumu from Gekidol",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:45.139Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f9eb9c4af380d4bc782?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f9eb9c4af380d4bc782",
+      "cardName": "Nao Ishiwatari",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Flying Witch",
+      "description": "Nao Ishiwatari from Flying Witch",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:47.602Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f9db9c4af380d4bc77a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f9db9c4af380d4bc77a",
+      "cardName": "Nana Kuramoto",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Flying Witch",
+      "description": "Nana Kuramoto from Flying Witch",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:50.010Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f98b9c4af380d4bc75f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f98b9c4af380d4bc75f",
+      "cardName": "Al",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Flying Witch",
+      "description": "Al from Flying Witch",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:52.247Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f94b9c4af380d4bc720?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f94b9c4af380d4bc720",
+      "cardName": "Aurore",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Flying Witch",
+      "description": "Aurore from Flying Witch",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:54.443Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f8eb9c4af380d4bc6b9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f8eb9c4af380d4bc6b9",
+      "cardName": "Harbinger of Spirit",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Flying Witch",
+      "description": "Harbinger of Spirit from Flying Witch",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:56.858Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f8cb9c4af380d4bc6b6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f8cb9c4af380d4bc6b6",
+      "cardName": "Hina",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Flying Witch",
+      "description": "Hina from Flying Witch",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:16:59.417Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f87b9c4af380d4bc6aa?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f87b9c4af380d4bc6aa",
+      "cardName": "Keji Kuramoto",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Flying Witch",
+      "description": "Keji Kuramoto from Flying Witch",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:17:02.095Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f78b9c4af380d4bc60f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f78b9c4af380d4bc60f",
+      "cardName": "Tooru Mitsushashi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Tooru Mitsushashi from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:17:04.711Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f76b9c4af380d4bc606?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f76b9c4af380d4bc606",
+      "cardName": "Shiraishi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Shiraishi from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 526,
+      "scrapedAt": "2026-02-16T12:17:07.309Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:16:12.722Z"
+  "lastUpdated": "2026-02-16T12:17:07.311Z"
 }
