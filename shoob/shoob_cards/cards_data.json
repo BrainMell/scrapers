@@ -1,5 +1,5 @@
 {
-  "totalCards": 7446,
+  "totalCards": 7461,
   "processedPages": [
     "1-1",
     "1-10",
@@ -465,6 +465,7 @@
     "1-514",
     "1-515",
     "1-516",
+    "1-517",
     "1-52",
     "1-53",
     "1-54",
@@ -82424,7 +82425,172 @@
       "tier": "1",
       "page": 516,
       "scrapedAt": "2026-02-16T12:07:57.010Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2b6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2b6",
+      "cardName": "Baek Seungchul",
+      "creator": "Card Maker:ShoXie",
+      "animeName": "The God of High School",
+      "description": "Baek Seungchul from The God of High School",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:17.409Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2b2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2b2",
+      "cardName": "Tsunayoshi Sawada",
+      "creator": "Card Maker:Leteka",
+      "animeName": "Katekyo Hitman Reborn",
+      "description": "Tsunayoshi Sawada from Katekyo Hitman Reborn",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:19.709Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2ae?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2ae",
+      "cardName": "Yui Yumekawa",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Pripara",
+      "description": "Yui Yumekawa from Pripara",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:22.416Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2aa?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2aa",
+      "cardName": "Akira Shiodome",
+      "creator": "Card Maker:Cin",
+      "animeName": "Nagi no Asu kara",
+      "description": "Akira Shiodome from Nagi no Asu kara",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:24.899Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2a8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2a8",
+      "cardName": "Fremy Speeddraw",
+      "creator": "Card Maker:Anime blaze~",
+      "animeName": "Rokka no Yuusha",
+      "description": "Fremy Speeddraw from Rokka no Yuusha",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:27.198Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2a6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2a6",
+      "cardName": "Bijou",
+      "creator": "Card Maker:Piratax10",
+      "animeName": "Hamtaro",
+      "description": "Bijou from Hamtaro",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:29.501Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2a4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2a4",
+      "cardName": "Midori",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Divine Gate",
+      "description": "Midori from Divine Gate",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:31.811Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2a2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2a2",
+      "cardName": "Swim Swim",
+      "creator": "Card Maker:MiniMysteru",
+      "animeName": "Magical Girl Raising Project",
+      "description": "Swim Swim from Magical Girl Raising Project",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:34.319Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2a0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2a0",
+      "cardName": "Chino Kafuu",
+      "creator": "Card Maker:Reed",
+      "animeName": "Is The Order A Rabbit?",
+      "description": "Chino Kafuu from Is The Order A Rabbit?",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:36.528Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f29c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f29c",
+      "cardName": "Hibiki Shikyoin",
+      "creator": "Card Maker:Mashiro Shiina",
+      "animeName": "Pripara",
+      "description": "Hibiki Shikyoin from Pripara",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:39.014Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f298?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f298",
+      "cardName": "Cardinal",
+      "creator": "Card Maker:cool rp™",
+      "animeName": "Sword Art Online",
+      "description": "Cardinal from Sword Art Online",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:41.331Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f296?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f296",
+      "cardName": "Isami",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Log Horizon",
+      "description": "Isami from Log Horizon",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:43.705Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f294?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f294",
+      "cardName": "Hinako Sakuragi",
+      "creator": "Card Maker:Kakyoin",
+      "animeName": "Hinako Note",
+      "description": "Hinako Sakuragi from Hinako Note",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:46.117Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f292?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f292",
+      "cardName": "Akira Himi",
+      "creator": "Card Maker:Kimossab",
+      "animeName": "Accel World",
+      "description": "Akira Himi from Accel World",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:48.335Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f290?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f290",
+      "cardName": "Megumi Katou",
+      "creator": "Card Maker:Ersagate ✧",
+      "animeName": "Saenai Heroine no Sodatekata",
+      "description": "Megumi Katou from Saenai Heroine no Sodatekata",
+      "tier": "1",
+      "page": 517,
+      "scrapedAt": "2026-02-16T12:08:50.640Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:07:57.011Z"
+  "lastUpdated": "2026-02-16T12:08:50.694Z"
 }
