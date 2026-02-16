@@ -1,5 +1,5 @@
 {
-  "totalCards": 7071,
+  "totalCards": 7086,
   "processedPages": [
     "1-1",
     "1-10",
@@ -437,6 +437,7 @@
     "1-49",
     "1-490",
     "1-491",
+    "1-492",
     "1-5",
     "1-50",
     "1-51",
@@ -78274,7 +78275,172 @@
       "tier": "1",
       "page": 491,
       "scrapedAt": "2026-02-16T11:45:09.096Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff4672dcc135058be4a366e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff4672dcc135058be4a366e",
+      "cardName": "Zenith Greyrat",
+      "creator": "Card Maker:Daringa",
+      "animeName": "Mushoku Tensei",
+      "description": "Zenith Greyrat from Mushoku Tensei",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:29.544Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff466338cbeca19bb5efccc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff466338cbeca19bb5efccc",
+      "cardName": "Ren Omimi",
+      "creator": "Card Maker:Kruggles",
+      "animeName": "Haikyuu!!",
+      "description": "Ren Omimi from Haikyuu!!",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:32.127Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff465e98cbeca19bb5efb28?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff465e98cbeca19bb5efb28",
+      "cardName": "Nurarihyon",
+      "creator": "Card Maker:Popo",
+      "animeName": "Nurarihyon no Mago",
+      "description": "Nurarihyon from Nurarihyon no Mago",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:34.520Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff45f3062954e672a425c10?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff45f3062954e672a425c10",
+      "cardName": "Hazuki Okamoto",
+      "creator": "Card Maker:Monokuma",
+      "animeName": "Plastic Neesan",
+      "description": "Hazuki Okamoto from Plastic Neesan",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:36.799Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3eddefcdfbf7079c37602?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3eddefcdfbf7079c37602",
+      "cardName": "Scheta",
+      "creator": "Card Maker:Famzi",
+      "animeName": "Sword Art Online",
+      "description": "Scheta from Sword Art Online",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:39.316Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3ed64fcdfbf7079c37160?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3ed64fcdfbf7079c37160",
+      "cardName": "The Deer",
+      "creator": "Card Maker:Kronus",
+      "animeName": "Nichijou",
+      "description": "The Deer from Nichijou",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:41.625Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3e1fe9da264580da9c1d9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3e1fe9da264580da9c1d9",
+      "cardName": "Raita Oguma",
+      "creator": "Card Maker:seki",
+      "animeName": "Kamisama ni Natta Hi",
+      "description": "Raita Oguma from Kamisama ni Natta Hi",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:43.913Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3e1869da264580da9be90?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3e1869da264580da9be90",
+      "cardName": "Machi Kuragi",
+      "creator": "Card Maker:rachel💜",
+      "animeName": "Fruits Basket",
+      "description": "Machi Kuragi from Fruits Basket",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:46.427Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3e115f8ef6e227ac1fd7e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3e115f8ef6e227ac1fd7e",
+      "cardName": "Yuka Mochida",
+      "creator": "Card Maker:Taiga Aisaka Fan Club",
+      "animeName": "Corpse Party",
+      "description": "Yuka Mochida from Corpse Party",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:48.741Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3e0dff8ef6e227ac1fca0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3e0dff8ef6e227ac1fca0",
+      "cardName": "Matsuri Shina",
+      "creator": "Card Maker:Kronus",
+      "animeName": "Miss Caretaker of Sunohara-sou",
+      "description": "Matsuri Shina from Miss Caretaker of Sunohara-sou",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:50.995Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3c474114cc748071da396?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3c474114cc748071da396",
+      "cardName": "Babylon",
+      "creator": "Card Maker:Derp",
+      "animeName": "Infinite Dendrogram",
+      "description": "Babylon from Infinite Dendrogram",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:53.330Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3c464114cc748071da382?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3c464114cc748071da382",
+      "cardName": "CEO",
+      "creator": "Card Maker:seki",
+      "animeName": "Kamisama ni Natta Hi",
+      "description": "CEO from Kamisama ni Natta Hi",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:55.794Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3a3aee04e961771c46d0b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3a3aee04e961771c46d0b",
+      "cardName": "Kaisar Lidfard",
+      "creator": "Card Maker:Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Kaisar Lidfard from Rage of Bahamut",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:45:58.371Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3a325e74b2d17baa7c20c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3a325e74b2d17baa7c20c",
+      "cardName": "Memé Redon",
+      "creator": "Card Maker:Daringa",
+      "animeName": "Monster Girl Doctor",
+      "description": "Memé Redon from Monster Girl Doctor",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:46:01.462Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff3a2c3e74b2d17baa7bd32?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff3a2c3e74b2d17baa7bd32",
+      "cardName": "Kumasa",
+      "creator": "Card Maker:rachel💜",
+      "animeName": "Oshibudo",
+      "description": "Kumasa from Oshibudo",
+      "tier": "1",
+      "page": 492,
+      "scrapedAt": "2026-02-16T11:46:05.265Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:45:09.098Z"
+  "lastUpdated": "2026-02-16T11:46:05.267Z"
 }
