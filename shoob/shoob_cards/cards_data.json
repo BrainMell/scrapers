@@ -1,5 +1,5 @@
 {
-  "totalCards": 7461,
+  "totalCards": 7476,
   "processedPages": [
     "1-1",
     "1-10",
@@ -466,6 +466,7 @@
     "1-515",
     "1-516",
     "1-517",
+    "1-518",
     "1-52",
     "1-53",
     "1-54",
@@ -82590,7 +82591,172 @@
       "tier": "1",
       "page": 517,
       "scrapedAt": "2026-02-16T12:08:50.640Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f28e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f28e",
+      "cardName": "Kawara",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Log Horizon",
+      "description": "Kawara from Log Horizon",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:10.923Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f28a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f28a",
+      "cardName": "Minoru Kamiya",
+      "creator": "Card Maker:Haku",
+      "animeName": "Yu Yu Hakusho",
+      "description": "Minoru Kamiya from Yu Yu Hakusho",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:13.231Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f288?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f288",
+      "cardName": "Chika",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Log Horizon",
+      "description": "Chika from Log Horizon",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:15.521Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f286?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f286",
+      "cardName": "Liliana",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Log Horizon",
+      "description": "Liliana from Log Horizon",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:17.915Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f284?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f284",
+      "cardName": "Dolce",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Log Horizon",
+      "description": "Dolce from Log Horizon",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:20.210Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f282?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f282",
+      "cardName": "Fedor",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Log Horizon",
+      "description": "Fedor from Log Horizon",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:22.506Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f280?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f280",
+      "cardName": "Rieze",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Log Horizon",
+      "description": "Rieze from Log Horizon",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:25.017Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f27e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f27e",
+      "cardName": "Smash",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "Log Horizon",
+      "description": "Smash from Log Horizon",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:27.330Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f27a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f27a",
+      "cardName": "Rika Seto",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "D4DJ: First Mix",
+      "description": "Rika Seto from D4DJ: First Mix",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:29.801Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f26e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f26e",
+      "cardName": "Black Powder",
+      "creator": "Card Maker:Agera",
+      "animeName": "Pucca",
+      "description": "Black Powder from Pucca",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:32.130Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f26c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f26c",
+      "cardName": "Gain",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "By the Grace of the Gods",
+      "description": "Gain from By the Grace of the Gods",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:34.417Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f26a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f26a",
+      "cardName": "Goro Akechi",
+      "creator": "Card Maker:sus ♡",
+      "animeName": "Persona",
+      "description": "Goro Akechi from Persona",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:36.924Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f268?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f268",
+      "cardName": "Wolfgang Grimmer",
+      "creator": "Card Maker:Jele2Man",
+      "animeName": "Monster",
+      "description": "Wolfgang Grimmer from Monster",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:39.397Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f264?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f264",
+      "cardName": "Itaru Shiodome",
+      "creator": "Card Maker:Cin",
+      "animeName": "Nagi no Asu kara",
+      "description": "Itaru Shiodome from Nagi no Asu kara",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:41.697Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f262?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f262",
+      "cardName": "Isla",
+      "creator": "Card Maker:Anime blaze~",
+      "animeName": "Plastic Memories",
+      "description": "Isla from Plastic Memories",
+      "tier": "1",
+      "page": 518,
+      "scrapedAt": "2026-02-16T12:09:44.016Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:08:50.694Z"
+  "lastUpdated": "2026-02-16T12:09:44.018Z"
 }
