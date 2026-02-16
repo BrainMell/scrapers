@@ -1,5 +1,5 @@
 {
-  "totalCards": 6622,
+  "totalCards": 6637,
   "processedPages": [
     "1-1",
     "1-2",
@@ -459,6 +459,7 @@
     "1-456",
     "1-457",
     "1-458",
+    "1-459",
     "1-460",
     "1-461",
     "1-462"
@@ -73305,12 +73306,177 @@
       "tier": "1",
       "page": 458,
       "scrapedAt": "2026-02-16T10:57:30.566Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a45?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a45",
+      "cardName": "Mammon",
+      "creator": "Shiki ツ",
+      "animeName": "Umineko no Naku Koro ni",
+      "description": "Mammon from Umineko no Naku Koro ni",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:57:37.898Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a43?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a43",
+      "cardName": "Eggplant Seal",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Eggplant Seal from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:57:39.814Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a41?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a41",
+      "cardName": "Akitaru Obi",
+      "creator": "Kruggles",
+      "animeName": "Fire Force",
+      "description": "Akitaru Obi from Fire Force",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:57:41.720Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a3f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a3f",
+      "cardName": "Yuuko Aioi",
+      "creator": "Kronus",
+      "animeName": "Nichijou",
+      "description": "Yuuko Aioi from Nichijou",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:57:43.765Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a3b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a3b",
+      "cardName": "Kyosuke Karasuma",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "World Trigger",
+      "description": "Kyosuke Karasuma from World Trigger",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:57:45.819Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a33?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a33",
+      "cardName": "Ken Kaneki",
+      "creator": "Piratax10",
+      "animeName": "Tokyo Ghoul",
+      "description": "Ken Kaneki from Tokyo Ghoul",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:57:48.012Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a31?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a31",
+      "cardName": "Mitsuri Kanroji",
+      "creator": "Vibing Mui むいちろ",
+      "animeName": "Demon Slayer",
+      "description": "Mitsuri Kanroji from Demon Slayer",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:57:50.165Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a29?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a29",
+      "cardName": "Yuuka Sasaki",
+      "creator": "Saber",
+      "animeName": "Munou na Nana",
+      "description": "Yuuka Sasaki from Munou na Nana",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:57:52.098Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a23?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a23",
+      "cardName": "Michiru Inukai",
+      "creator": "Saber",
+      "animeName": "Munou na Nana",
+      "description": "Michiru Inukai from Munou na Nana",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:57:54.019Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444a1f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444a1f",
+      "cardName": "Jirobo",
+      "creator": "RhinoStar",
+      "animeName": "Naruto",
+      "description": "Jirobo from Naruto",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:57:56.161Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444a1b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444a1b",
+      "cardName": "Connie Lee",
+      "creator": "Spruce - P",
+      "animeName": "Dr. Stone",
+      "description": "Connie Lee from Dr. Stone",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:57:58.214Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444a19?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444a19",
+      "cardName": "Robin Hood",
+      "creator": "Chrystal",
+      "animeName": "Fate",
+      "description": "Robin Hood from Fate",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:58:00.315Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444a15?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444a15",
+      "cardName": "Kirara Habu",
+      "creator": "Saber",
+      "animeName": "Munou na Nana",
+      "description": "Kirara Habu from Munou na Nana",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:58:02.276Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444a13?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444a13",
+      "cardName": "Yomi Satsuki",
+      "creator": "Fish",
+      "animeName": "Toji no Miko",
+      "description": "Yomi Satsuki from Toji no Miko",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:58:04.260Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444a0f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444a0f",
+      "cardName": "Nanao Nakajima",
+      "creator": "Saber",
+      "animeName": "Munou na Nana",
+      "description": "Nanao Nakajima from Munou na Nana",
+      "tier": "1",
+      "page": 459,
+      "scrapedAt": "2026-02-16T10:58:06.125Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:57:30.567Z",
+  "lastUpdated": "2026-02-16T10:58:06.160Z",
   "stats": {
-    "successRate": 93,
-    "totalAttempts": 366,
-    "successfulAttempts": 342
+    "successRate": 94,
+    "totalAttempts": 381,
+    "successfulAttempts": 357
   }
 }
