@@ -1,5 +1,5 @@
 {
-  "totalCards": 6892,
+  "totalCards": 6907,
   "processedPages": [
     "1-1",
     "1-2",
@@ -479,7 +479,8 @@
     "1-476",
     "1-477",
     "1-478",
-    "1-479"
+    "1-479",
+    "1-480"
   ],
   "cards": [
     {
@@ -76293,12 +76294,177 @@
       "tier": "1",
       "page": 479,
       "scrapedAt": "2026-02-16T11:08:19.909Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444d7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444d7",
+      "cardName": "Gurasan",
+      "creator": "Caxify",
+      "animeName": "Warlords of Sigrdrifa",
+      "description": "Gurasan from Warlords of Sigrdrifa",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:27.268Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444d3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444d3",
+      "cardName": "Masahiro Adachi",
+      "creator": "Reis",
+      "animeName": "WWW.Working!!",
+      "description": "Masahiro Adachi from WWW.Working!!",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:29.209Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444cb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444cb",
+      "cardName": "Yoshiko Hanabatake",
+      "creator": "Lee?",
+      "animeName": "Aho Girl",
+      "description": "Yoshiko Hanabatake from Aho Girl",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:31.214Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444c9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444c9",
+      "cardName": "Shogo Kiryu",
+      "creator": "rachel💜",
+      "animeName": "Isshuukan Friends",
+      "description": "Shogo Kiryu from Isshuukan Friends",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:33.324Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444c5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444c5",
+      "cardName": "Shirou Ogami",
+      "creator": "hai",
+      "animeName": "Brand New Animal",
+      "description": "Shirou Ogami from Brand New Animal",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:35.213Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444c3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444c3",
+      "cardName": "Sisbell",
+      "creator": "stevethestevemon",
+      "animeName": "KimiSen",
+      "description": "Sisbell from KimiSen",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:37.267Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444c1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444c1",
+      "cardName": "Jiisan",
+      "creator": "Monokuma",
+      "animeName": "Kokkoku",
+      "description": "Jiisan from Kokkoku",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:39.261Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444bb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444bb",
+      "cardName": "Fujimura Chikage",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "Circlet Princess",
+      "description": "Fujimura Chikage from Circlet Princess",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:41.261Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444b7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444b7",
+      "cardName": "Shiomi",
+      "creator": "Monokuma",
+      "animeName": "Kokkoku",
+      "description": "Shiomi from Kokkoku",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:43.298Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444b5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444b5",
+      "cardName": "Mrs. Togashi",
+      "creator": "Agera",
+      "animeName": "Chuunibyou demo Koi ga Shitai!",
+      "description": "Mrs. Togashi from Chuunibyou demo Koi ga Shitai!",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:45.198Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444b3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444b3",
+      "cardName": "Kuroko Smith",
+      "creator": "Caboose",
+      "animeName": "Monster Musume no Iru Nichijou",
+      "description": "Kuroko Smith from Monster Musume no Iru Nichijou",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:47.114Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444b1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444b1",
+      "cardName": "Nene",
+      "creator": "stevethestevemon",
+      "animeName": "KimiSen",
+      "description": "Nene from KimiSen",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:49.160Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444ad?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444ad",
+      "cardName": "Ho",
+      "creator": "Agera",
+      "animeName": "Pucca",
+      "description": "Ho from Pucca",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:51.016Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444ab?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444ab",
+      "cardName": "Kei Shidou",
+      "creator": "Taiga Aisaka Fan Club",
+      "animeName": "Gakkougurashi!",
+      "description": "Kei Shidou from Gakkougurashi!",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:53.098Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4444a9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4444a9",
+      "cardName": "Rikka Takanashi",
+      "creator": "Agera",
+      "animeName": "Chuunibyou demo Koi ga Shitai!",
+      "description": "Rikka Takanashi from Chuunibyou demo Koi ga Shitai!",
+      "tier": "1",
+      "page": 480,
+      "scrapedAt": "2026-02-16T11:08:55.215Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:08:19.911Z",
+  "lastUpdated": "2026-02-16T11:08:55.216Z",
   "stats": {
     "successRate": 96,
-    "totalAttempts": 636,
-    "successfulAttempts": 612
+    "totalAttempts": 651,
+    "successfulAttempts": 627
   }
 }
