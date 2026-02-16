@@ -1,5 +1,5 @@
 {
-  "totalCards": 7626,
+  "totalCards": 7641,
   "processedPages": [
     "1-1",
     "1-10",
@@ -478,6 +478,7 @@
     "1-526",
     "1-527",
     "1-528",
+    "1-529",
     "1-53",
     "1-54",
     "1-55",
@@ -84416,7 +84417,172 @@
       "tier": "1",
       "page": 528,
       "scrapedAt": "2026-02-16T12:18:56.815Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f1eb9c4af380d4bbde0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f1eb9c4af380d4bbde0",
+      "cardName": "Setsuno",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Toriko",
+      "description": "Setsuno from Toriko",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:17.317Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f1db9c4af380d4bbdd9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f1db9c4af380d4bbdd9",
+      "cardName": "Uumen Umeda",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Toriko",
+      "description": "Uumen Umeda from Toriko",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:19.915Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f1bb9c4af380d4bbdd6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f1bb9c4af380d4bbdd6",
+      "cardName": "Zaus",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Toriko",
+      "description": "Zaus from Toriko",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:22.396Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f19b9c4af380d4bbdd2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f19b9c4af380d4bbdd2",
+      "cardName": "Zebra",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Toriko",
+      "description": "Zebra from Toriko",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:24.740Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f0cb9c4af380d4bbd89?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19f0cb9c4af380d4bbd89",
+      "cardName": "Komatsu",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Toriko",
+      "description": "Komatsu from Toriko",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:27.150Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ef6b9c4af380d4bbcaf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ef6b9c4af380d4bbcaf",
+      "cardName": "Yuu Sonoda",
+      "creator": "Card Maker:Chuuya",
+      "animeName": "Sakura Trick",
+      "description": "Yuu Sonoda from Sakura Trick",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:29.538Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ef1b9c4af380d4bbca7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ef1b9c4af380d4bbca7",
+      "cardName": "Negi Springfield",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Negi Springfield from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:32.199Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19eefb9c4af380d4bbca2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19eefb9c4af380d4bbca2",
+      "cardName": "Nikumaru Tanaka",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Nikumaru Tanaka from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:34.717Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ee9b9c4af380d4bbc95?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ee9b9c4af380d4bbc95",
+      "cardName": "Erika Suzuki",
+      "creator": "Card Maker:JyuVioleGrace",
+      "animeName": "Sakura Quest",
+      "description": "Erika Suzuki from Sakura Quest",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:37.108Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ee0b9c4af380d4bbbc6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ee0b9c4af380d4bbbc6",
+      "cardName": "Haruka Takayama",
+      "creator": "Card Maker:Chuuya",
+      "animeName": "Sakura Trick",
+      "description": "Haruka Takayama from Sakura Trick",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:39.646Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19edeb9c4af380d4bbbb5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19edeb9c4af380d4bbbb5",
+      "cardName": "Rina Sakai",
+      "creator": "Card Maker:Chuuya",
+      "animeName": "Sakura Trick",
+      "description": "Rina Sakai from Sakura Trick",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:41.940Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19eddb9c4af380d4bbb8a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19eddb9c4af380d4bbb8a",
+      "cardName": "Sumi Otokawa",
+      "creator": "Card Maker:Chuuya",
+      "animeName": "Sakura Trick",
+      "description": "Sumi Otokawa from Sakura Trick",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:44.326Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ed8b9c4af380d4bbb7d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ed8b9c4af380d4bbb7d",
+      "cardName": "Kuroumaru Tokisaka",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Kuroumaru Tokisaka from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:46.817Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ed6b9c4af380d4bbb78?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ed6b9c4af380d4bbb78",
+      "cardName": "Chachamaru Karakuri",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Chachamaru Karakuri from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:49.196Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ea4b9c4af380d4bba32?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ea4b9c4af380d4bba32",
+      "cardName": "Ayaka Yukihiro",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Ayaka Yukihiro from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 529,
+      "scrapedAt": "2026-02-16T12:19:51.719Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:18:56.816Z"
+  "lastUpdated": "2026-02-16T12:19:51.721Z"
 }
