@@ -1,5 +1,5 @@
 {
-  "totalCards": 6338,
+  "totalCards": 6352,
   "processedPages": [
     "1-1",
     "1-2",
@@ -440,6 +440,7 @@
     "1-437",
     "1-438",
     "1-439",
+    "1-440",
     "1-460",
     "1-461",
     "1-462"
@@ -70162,12 +70163,166 @@
       "tier": "1",
       "page": 439,
       "scrapedAt": "2026-02-16T10:43:23.798Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/602f576674f7d81ca45f9d47?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/602f576674f7d81ca45f9d47",
+      "cardName": "Inyo",
+      "creator": "Keiji Shiba",
+      "animeName": "Ultramarine Magmell",
+      "description": "Inyo from Ultramarine Magmell",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:43:31.002Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/602f4f883e06946c41914388?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/602f4f883e06946c41914388",
+      "cardName": "Michael",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Michael from Rage of Bahamut",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:43:33.013Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/602eab9b12e6d6725877f672?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/602eab9b12e6d6725877f672",
+      "cardName": "Aira Harune",
+      "creator": "Dead8oul",
+      "animeName": "Pretty Rhythm",
+      "description": "Aira Harune from Pretty Rhythm",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:43:34.913Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/602eab6a12e6d6725877f66d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/602eab6a12e6d6725877f66d",
+      "cardName": "Yuzu",
+      "creator": "Esshwar",
+      "animeName": "Log Horizon",
+      "description": "Yuzu from Log Horizon",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:43:36.864Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/602d9dd9f97b2336ae526717?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/602d9dd9f97b2336ae526717",
+      "cardName": "Eita Izumi",
+      "creator": "Addson",
+      "animeName": "Just Because!",
+      "description": "Eita Izumi from Just Because!",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:43:38.774Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/602bfffa10e07f5dcff75e06?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/602bfffa10e07f5dcff75e06",
+      "cardName": "Ayame Hatonami",
+      "creator": "klutz",
+      "animeName": "Gibiate",
+      "description": "Ayame Hatonami from Gibiate",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:46:27.397Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/602bff4c10e07f5dcff75db0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/602bff4c10e07f5dcff75db0",
+      "cardName": "Bacchus",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Bacchus from Rage of Bahamut",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:46:29.405Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/602bfa6bf7fe7f321f7fe1c3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/602bfa6bf7fe7f321f7fe1c3",
+      "cardName": "William Massachusetts",
+      "creator": "Esshwar",
+      "animeName": "Log Horizon",
+      "description": "William Massachusetts from Log Horizon",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:46:31.303Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/602bf99ff7fe7f321f7fe15c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/602bf99ff7fe7f321f7fe15c",
+      "cardName": "Sui",
+      "creator": "manuelsousa13",
+      "animeName": "Darwin's Game",
+      "description": "Sui from Darwin's Game",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:46:33.222Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/602a28f437cc857d6c273ac6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/602a28f437cc857d6c273ac6",
+      "cardName": "Ryuujirou Kotobuki",
+      "creator": "Beta",
+      "animeName": "Grand Blue",
+      "description": "Ryuujirou Kotobuki from Grand Blue",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:46:35.210Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/602a26b223a02025646541a4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/602a26b223a02025646541a4",
+      "cardName": "Kudou",
+      "creator": "Beta",
+      "animeName": "Grand Blue",
+      "description": "Kudou from Grand Blue",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:46:37.178Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60297151057bfd14d8fc53d7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60297151057bfd14d8fc53d7",
+      "cardName": "Mari Mutoh",
+      "creator": "Fe",
+      "animeName": "Japan Sinks",
+      "description": "Mari Mutoh from Japan Sinks",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:46:39.075Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60296e16057bfd14d8fc52b5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60296e16057bfd14d8fc52b5",
+      "cardName": "Erika Furudo",
+      "creator": "Rinn",
+      "animeName": "Umineko no Naku Koro ni",
+      "description": "Erika Furudo from Umineko no Naku Koro ni",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:46:41.103Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60296768256b1f02cb960e21?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60296768256b1f02cb960e21",
+      "cardName": "Satsuki Kururugi",
+      "creator": "Yukina",
+      "animeName": "I★Chu: Halfway Through the Idol",
+      "description": "Satsuki Kururugi from I★Chu: Halfway Through the Idol",
+      "tier": "1",
+      "page": 440,
+      "scrapedAt": "2026-02-16T10:46:43.066Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:43:23.799Z",
+  "lastUpdated": "2026-02-16T10:46:43.067Z",
   "stats": {
-    "successRate": 78,
-    "totalAttempts": 74,
-    "successfulAttempts": 58
+    "successRate": 76,
+    "totalAttempts": 95,
+    "successfulAttempts": 72
   }
 }
