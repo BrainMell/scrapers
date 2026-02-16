@@ -1,5 +1,5 @@
 {
-  "totalCards": 6309,
+  "totalCards": 6324,
   "processedPages": [
     "1-1",
     "1-2",
@@ -438,6 +438,7 @@
     "1-435",
     "1-436",
     "1-437",
+    "1-438",
     "1-460",
     "1-461",
     "1-462"
@@ -69841,12 +69842,177 @@
       "tier": "1",
       "page": 437,
       "scrapedAt": "2026-02-16T10:39:22.523Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac84?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac84",
+      "cardName": "Marguerite Breuil",
+      "creator": "AYUSH_🐍",
+      "animeName": "Dies Irae",
+      "description": "Marguerite Breuil from Dies Irae",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:33.067Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac82?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac82",
+      "cardName": "Judge Q",
+      "creator": "`Sap1q",
+      "animeName": "The God of High School",
+      "description": "Judge Q from The God of High School",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:35.098Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac7e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac7e",
+      "cardName": "Symboli Rudolf",
+      "creator": "Fang",
+      "animeName": "Uma Musume: Pretty Derby",
+      "description": "Symboli Rudolf from Uma Musume: Pretty Derby",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:37.502Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac7c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac7c",
+      "cardName": "Puppetmon",
+      "creator": "Mui Mui むいちろ",
+      "animeName": "Digimon",
+      "description": "Puppetmon from Digimon",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:39.572Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac74?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac74",
+      "cardName": "Souhei Saikawa",
+      "creator": "Anime blaze~",
+      "animeName": "The Perfect Insider",
+      "description": "Souhei Saikawa from The Perfect Insider",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:41.526Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac70?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac70",
+      "cardName": "Barouhcruz",
+      "creator": "[Grace]FromHeaven",
+      "animeName": "Aldnoah.Zero",
+      "description": "Barouhcruz from Aldnoah.Zero",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:43.398Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac6e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac6e",
+      "cardName": "Schlain Zagan Analeit",
+      "creator": "Esshwar",
+      "animeName": "So I'm a Spider, So What?",
+      "description": "Schlain Zagan Analeit from So I'm a Spider, So What?",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:45.422Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac6c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac6c",
+      "cardName": "Nawaki Senju",
+      "creator": "Cynthia",
+      "animeName": "Naruto",
+      "description": "Nawaki Senju from Naruto",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:47.599Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac6a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac6a",
+      "cardName": "Jin Kanzaki",
+      "creator": "colorless3t",
+      "animeName": "Zetman",
+      "description": "Jin Kanzaki from Zetman",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:49.519Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac68?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac68",
+      "cardName": "Kunou",
+      "creator": "VILLA • Legion💜",
+      "animeName": "High School DxD",
+      "description": "Kunou from High School DxD",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:51.520Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac60?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac60",
+      "cardName": "Hoshimiya Eiji",
+      "creator": "VILLA • Legion💜",
+      "animeName": "Big Order",
+      "description": "Hoshimiya Eiji from Big Order",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:53.418Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac5a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac5a",
+      "cardName": "Ranpo Edogawa",
+      "creator": "shinouji",
+      "animeName": "Bungou Stray Dogs",
+      "description": "Ranpo Edogawa from Bungou Stray Dogs",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:55.403Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603c74d0f482137fc732ac50?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603c74d0f482137fc732ac50",
+      "cardName": "Ayumu Mutoh",
+      "creator": "Fe",
+      "animeName": "Japan Sinks",
+      "description": "Ayumu Mutoh from Japan Sinks",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:39:57.316Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603be161ce054e02ebd6301e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603be161ce054e02ebd6301e",
+      "cardName": "Clown",
+      "creator": "Agera",
+      "animeName": "Pucca",
+      "description": "Clown from Pucca",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:40:02.159Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603be14dce054e02ebd6301b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603be14dce054e02ebd6301b",
+      "cardName": "Urashiki Otsutsuki",
+      "creator": "YogiCandra",
+      "animeName": "Boruto",
+      "description": "Urashiki Otsutsuki from Boruto",
+      "tier": "1",
+      "page": 438,
+      "scrapedAt": "2026-02-16T10:40:04.097Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:39:22.523Z",
+  "lastUpdated": "2026-02-16T10:40:04.098Z",
   "stats": {
-    "successRate": 78,
-    "totalAttempts": 37,
-    "successfulAttempts": 29
+    "successRate": 83,
+    "totalAttempts": 53,
+    "successfulAttempts": 44
   }
 }
