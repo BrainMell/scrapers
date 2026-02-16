@@ -1,5 +1,5 @@
 {
-  "totalCards": 7011,
+  "totalCards": 7026,
   "processedPages": [
     "1-1",
     "1-10",
@@ -432,6 +432,7 @@
     "1-485",
     "1-486",
     "1-487",
+    "1-488",
     "1-49",
     "1-5",
     "1-50",
@@ -77610,7 +77611,172 @@
       "tier": "1",
       "page": 487,
       "scrapedAt": "2026-02-16T11:27:36.155Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffffa3d855b106f29538644?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffffa3d855b106f29538644",
+      "cardName": "Dias Bardolomew",
+      "creator": "Card Maker:Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Dias Bardolomew from Rage of Bahamut",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:27.293Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffffa11855b106f295384a5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffffa11855b106f295384a5",
+      "cardName": "Ellen Kohagura",
+      "creator": "Card Maker:Fish",
+      "animeName": "Toji no Miko",
+      "description": "Ellen Kohagura from Toji no Miko",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:29.887Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fffef93d5af255319e033a9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fffef93d5af255319e033a9",
+      "cardName": "Sukari",
+      "creator": "Card Maker:Kruggles",
+      "animeName": "Kabaneri of the Iron Fortress",
+      "description": "Sukari from Kabaneri of the Iron Fortress",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:33.005Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fffef75d5af255319e03386?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fffef75d5af255319e03386",
+      "cardName": "Yukina",
+      "creator": "Card Maker:Kruggles",
+      "animeName": "Kabaneri of the Iron Fortress",
+      "description": "Yukina from Kabaneri of the Iron Fortress",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:35.294Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fffec17be3bfe70ce8edb01?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fffec17be3bfe70ce8edb01",
+      "cardName": "Yura Keikain",
+      "creator": "Card Maker:Popo",
+      "animeName": "Nurarihyon no Mago",
+      "description": "Yura Keikain from Nurarihyon no Mago",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:37.495Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fffd6bbd5af255319df9c74?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fffd6bbd5af255319df9c74",
+      "cardName": "Keisaku Asano",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Revisions",
+      "description": "Keisaku Asano from Revisions",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:39.710Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fffd2e3e8292869a22eda8c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fffd2e3e8292869a22eda8c",
+      "cardName": "Kazumi Schlierenzauer",
+      "creator": "Card Maker:manuelsousa13",
+      "animeName": "Brynhildr in the Darkness",
+      "description": "Kazumi Schlierenzauer from Brynhildr in the Darkness",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:41.998Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fffc64be8292869a22ea0a7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fffc64be8292869a22ea0a7",
+      "cardName": "Taiga Aisaka",
+      "creator": "Card Maker:Anime blaze~",
+      "animeName": "Toradora!",
+      "description": "Taiga Aisaka from Toradora!",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:44.406Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffdc13087e8f32fbbe566e2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffdc13087e8f32fbbe566e2",
+      "cardName": "Darya Nikitina",
+      "creator": "Card Maker:BL4Z3_09#4502",
+      "animeName": "Dr. Stone",
+      "description": "Darya Nikitina from Dr. Stone",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:46.689Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffdc12087e8f32fbbe56660?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffdc12087e8f32fbbe56660",
+      "cardName": "Sakon and Ukon",
+      "creator": "Card Maker:RhinoStar",
+      "animeName": "Naruto",
+      "description": "Sakon and Ukon from Naruto",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:49.168Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffdb4972407976be5b0b2b0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffdb4972407976be5b0b2b0",
+      "cardName": "Atalanta",
+      "creator": "Card Maker:Ghostko",
+      "animeName": "Fate",
+      "description": "Atalanta from Fate",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:51.668Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffdb20a3b009426e47e4ba3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffdb20a3b009426e47e4ba3",
+      "cardName": "Haruka Ozora",
+      "creator": "Card Maker:Sleepy Yui",
+      "animeName": "Harukana Receive",
+      "description": "Haruka Ozora from Harukana Receive",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:53.992Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffdb0833b009426e47e4159?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffdb0833b009426e47e4159",
+      "cardName": "Hayate Gekko",
+      "creator": "Card Maker:RhinoStar",
+      "animeName": "Naruto",
+      "description": "Hayate Gekko from Naruto",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:28:56.496Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffdae192cc0fc5b738cc32d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffdae192cc0fc5b738cc32d",
+      "cardName": "Yakov Nikitin",
+      "creator": "Card Maker:Spruce - P",
+      "animeName": "Dr. Stone",
+      "description": "Yakov Nikitin from Dr. Stone",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:29:00.925Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ffda63dffec216f53eeb83e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ffda63dffec216f53eeb83e",
+      "cardName": "Bartra Liones",
+      "creator": "Card Maker:Lee?",
+      "animeName": "The Seven Deadly Sins",
+      "description": "Bartra Liones from The Seven Deadly Sins",
+      "tier": "1",
+      "page": 488,
+      "scrapedAt": "2026-02-16T11:29:03.211Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:27:36.159Z"
+  "lastUpdated": "2026-02-16T11:29:03.213Z"
 }
