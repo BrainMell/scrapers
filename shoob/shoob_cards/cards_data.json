@@ -1,5 +1,5 @@
 {
-  "totalCards": 7266,
+  "totalCards": 7281,
   "processedPages": [
     "1-1",
     "1-10",
@@ -452,6 +452,7 @@
     "1-502",
     "1-503",
     "1-504",
+    "1-505",
     "1-51",
     "1-52",
     "1-53",
@@ -80432,7 +80433,172 @@
       "tier": "1",
       "page": 504,
       "scrapedAt": "2026-02-16T11:56:58.605Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec6b763adff0bf7e79ff9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec6b763adff0bf7e79ff9",
+      "cardName": "Carla Yeager",
+      "creator": "Artist:Devilish Mui むいちろ",
+      "animeName": "Attack on Titan",
+      "description": "Carla Yeager from Attack on Titan",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:19.327Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec6a763adff0bf7e79e42?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec6a763adff0bf7e79e42",
+      "cardName": "Ichiro Yamada",
+      "creator": "Artist:enjelia",
+      "animeName": "Hypnosis Mic",
+      "description": "Ichiro Yamada from Hypnosis Mic",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:21.627Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec67a63adff0bf7e79af5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec67a63adff0bf7e79af5",
+      "cardName": "Meis",
+      "creator": "Artist:Leah",
+      "animeName": "Promare",
+      "description": "Meis from Promare",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:23.827Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec67763adff0bf7e79ae8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec67763adff0bf7e79ae8",
+      "cardName": "Gueira",
+      "creator": "Artist:Leah",
+      "animeName": "Promare",
+      "description": "Gueira from Promare",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:26.128Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec67563adff0bf7e79ae6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec67563adff0bf7e79ae6",
+      "cardName": "Helga Ehrenburg",
+      "creator": "Artist:Tranuka",
+      "animeName": "Dies Irae",
+      "description": "Helga Ehrenburg from Dies Irae",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:28.425Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec67363adff0bf7e79ad2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec67363adff0bf7e79ad2",
+      "cardName": "Kasumi Ayase",
+      "creator": "Artist:Tranuka",
+      "animeName": "Dies Irae",
+      "description": "Kasumi Ayase from Dies Irae",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:30.946Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec67263adff0bf7e79ac2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec67263adff0bf7e79ac2",
+      "cardName": "Erii Honjou",
+      "creator": "Artist:Tranuka",
+      "animeName": "Dies Irae",
+      "description": "Erii Honjou from Dies Irae",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:33.140Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec67063adff0bf7e79a4e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec67063adff0bf7e79a4e",
+      "cardName": "Lotus Reuchhart",
+      "creator": "Artist:Tranuka",
+      "animeName": "Dies Irae",
+      "description": "Lotus Reuchhart from Dies Irae",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:35.430Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec66e63adff0bf7e799b5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec66e63adff0bf7e799b5",
+      "cardName": "Vulcan Haestus",
+      "creator": "Artist:Leah",
+      "animeName": "Promare",
+      "description": "Vulcan Haestus from Promare",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:37.711Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec66b63adff0bf7e79971?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec66b63adff0bf7e79971",
+      "cardName": "Vinny",
+      "creator": "Artist:Leah",
+      "animeName": "Promare",
+      "description": "Vinny from Promare",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:39.931Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec65d63adff0bf7e7984c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec65d63adff0bf7e7984c",
+      "cardName": "Ignis Ex",
+      "creator": "Artist:Leah",
+      "animeName": "Promare",
+      "description": "Ignis Ex from Promare",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:42.196Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec63763adff0bf7e792c8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec63763adff0bf7e792c8",
+      "cardName": "Rin",
+      "creator": "Artist:Devilish Mui むいちろ",
+      "animeName": "Jewelpet",
+      "description": "Rin from Jewelpet",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:44.524Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec62963adff0bf7e7928a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec62963adff0bf7e7928a",
+      "cardName": "Makino Arisu",
+      "creator": "Artist:Leah",
+      "animeName": "Saiki Kusuo No Psi Nan",
+      "description": "Makino Arisu from Saiki Kusuo No Psi Nan",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:46.901Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec62163adff0bf7e79273?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec62163adff0bf7e79273",
+      "cardName": "Saiki Kumi",
+      "creator": "Artist:Leah",
+      "animeName": "Saiki Kusuo No Psi Nan",
+      "description": "Saiki Kumi from Saiki Kusuo No Psi Nan",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:49.391Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec61463adff0bf7e79249?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec61463adff0bf7e79249",
+      "cardName": "Paulamoni",
+      "creator": "Artist:Leah",
+      "animeName": "Princess Tutu",
+      "description": "Paulamoni from Princess Tutu",
+      "tier": "1",
+      "page": 505,
+      "scrapedAt": "2026-02-16T11:57:51.725Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:56:58.606Z"
+  "lastUpdated": "2026-02-16T11:57:51.726Z"
 }
