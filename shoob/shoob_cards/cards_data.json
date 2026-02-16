@@ -1,5 +1,5 @@
 {
-  "totalCards": 6772,
+  "totalCards": 6787,
   "processedPages": [
     "1-1",
     "1-2",
@@ -471,7 +471,8 @@
     "1-468",
     "1-469",
     "1-470",
-    "1-471"
+    "1-471",
+    "1-472"
   ],
   "cards": [
     {
@@ -74965,12 +74966,177 @@
       "tier": "1",
       "page": 471,
       "scrapedAt": "2026-02-16T11:03:31.699Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446af?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446af",
+      "cardName": "Miki Okudera",
+      "creator": "hai",
+      "animeName": "Kimi no Na wa.",
+      "description": "Miki Okudera from Kimi no Na wa.",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:03:39.103Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446ad?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446ad",
+      "cardName": "Galatea",
+      "creator": "iMilkTea",
+      "animeName": "Claymore",
+      "description": "Galatea from Claymore",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:03:41.071Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446a9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446a9",
+      "cardName": "Gren",
+      "creator": "Skadoosh",
+      "animeName": "The Dragon Prince",
+      "description": "Gren from The Dragon Prince",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:03:43.003Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446a3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446a3",
+      "cardName": "Shute Sutherland",
+      "creator": "Vibing Mui むいちろ",
+      "animeName": "Haruka Nogizaka's Secret",
+      "description": "Shute Sutherland from Haruka Nogizaka's Secret",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:03:44.879Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446a1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446a1",
+      "cardName": "Ginkaku",
+      "creator": "RhinoStar",
+      "animeName": "Naruto",
+      "description": "Ginkaku from Naruto",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:03:47.012Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44469f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44469f",
+      "cardName": "Yuzuki Seo",
+      "creator": "rachel💜",
+      "animeName": "Gekkan Shoujo Nozaki-kun",
+      "description": "Yuzuki Seo from Gekkan Shoujo Nozaki-kun",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:03:49.012Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44469d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44469d",
+      "cardName": "Iroe Genma",
+      "creator": "Monokuma",
+      "animeName": "Plastic Neesan",
+      "description": "Iroe Genma from Plastic Neesan",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:03:50.866Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44469b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44469b",
+      "cardName": "Sakutarou Yashamaru",
+      "creator": "Yukina",
+      "animeName": "B-Project",
+      "description": "Sakutarou Yashamaru from B-Project",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:03:52.798Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444699?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444699",
+      "cardName": "Centarumon",
+      "creator": "Rakis29",
+      "animeName": "Digimon",
+      "description": "Centarumon from Digimon",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:03:54.805Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44468d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44468d",
+      "cardName": "July",
+      "creator": "Winter 겨울",
+      "animeName": "Darker than Black",
+      "description": "July from Darker than Black",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:03:56.801Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444689?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444689",
+      "cardName": "Fenn",
+      "creator": "stevethestevemon",
+      "animeName": "Overlord",
+      "description": "Fenn from Overlord",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:03:58.706Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444685?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444685",
+      "cardName": "Tarou Kabachi",
+      "creator": "Kruggles",
+      "animeName": "Ahiru no Sora",
+      "description": "Tarou Kabachi from Ahiru no Sora",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:04:00.703Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444681?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444681",
+      "cardName": "Yohime",
+      "creator": "Popo",
+      "animeName": "Nurarihyon no Mago",
+      "description": "Yohime from Nurarihyon no Mago",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:04:02.805Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44467f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44467f",
+      "cardName": "Camilla",
+      "creator": "FizzyBrian",
+      "animeName": "Lapis Re:LiGHTs",
+      "description": "Camilla from Lapis Re:LiGHTs",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:04:04.863Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44467d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44467d",
+      "cardName": "On Zoa Nebulis",
+      "creator": "Saber",
+      "animeName": "KimiSen",
+      "description": "On Zoa Nebulis from KimiSen",
+      "tier": "1",
+      "page": 472,
+      "scrapedAt": "2026-02-16T11:04:06.819Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:03:31.700Z",
+  "lastUpdated": "2026-02-16T11:04:06.820Z",
   "stats": {
     "successRate": 95,
-    "totalAttempts": 516,
-    "successfulAttempts": 492
+    "totalAttempts": 531,
+    "successfulAttempts": 507
   }
 }
