@@ -1,5 +1,5 @@
 {
-  "totalCards": 6592,
+  "totalCards": 6607,
   "processedPages": [
     "1-1",
     "1-2",
@@ -457,6 +457,7 @@
     "1-454",
     "1-455",
     "1-456",
+    "1-457",
     "1-460",
     "1-461",
     "1-462"
@@ -72973,12 +72974,177 @@
       "tier": "1",
       "page": 456,
       "scrapedAt": "2026-02-16T10:56:13.407Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ad9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ad9",
+      "cardName": "Alazif",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Alazif from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:20.703Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ad7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ad7",
+      "cardName": "Fire Venom Dragon",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Fire Venom Dragon from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:22.579Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ad5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ad5",
+      "cardName": "Bussy",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Bussy from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:24.497Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ad3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ad3",
+      "cardName": "Scissors Sorcerer",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Scissors Sorcerer from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:26.420Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ad1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ad1",
+      "cardName": "Hades",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Hades from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:28.407Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444acf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444acf",
+      "cardName": "Harpy",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Harpy from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:30.460Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444acd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444acd",
+      "cardName": "Misana Farrengram",
+      "creator": "Muldz.",
+      "animeName": "Kuma Kuma Kuma Bear",
+      "description": "Misana Farrengram from Kuma Kuma Kuma Bear",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:32.401Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444acb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444acb",
+      "cardName": "Shuri",
+      "creator": "Muldz.",
+      "animeName": "Kuma Kuma Kuma Bear",
+      "description": "Shuri from Kuma Kuma Kuma Bear",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:34.298Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444abf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444abf",
+      "cardName": "Tsukasa",
+      "creator": "Arshhh",
+      "animeName": "Pet",
+      "description": "Tsukasa from Pet",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:36.199Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444abb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444abb",
+      "cardName": "Nezuko Kamado",
+      "creator": "Kp wie ich heiße~",
+      "animeName": "Demon Slayer",
+      "description": "Nezuko Kamado from Demon Slayer",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:38.303Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ab9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ab9",
+      "cardName": "Kajika",
+      "creator": "Kruggles",
+      "animeName": "Kabaneri of the Iron Fortress",
+      "description": "Kajika from Kabaneri of the Iron Fortress",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:40.311Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ab7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ab7",
+      "cardName": "Kibito Araka",
+      "creator": "Kruggles",
+      "animeName": "Kabaneri of the Iron Fortress",
+      "description": "Kibito Araka from Kabaneri of the Iron Fortress",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:42.298Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444aa7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444aa7",
+      "cardName": "Shia Foschurose",
+      "creator": "Muldz.",
+      "animeName": "Kuma Kuma Kuma Bear",
+      "description": "Shia Foschurose from Kuma Kuma Kuma Bear",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:44.260Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444aa5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444aa5",
+      "cardName": "Megumin",
+      "creator": "Rici 💔🖤",
+      "animeName": "KonoSuba",
+      "description": "Megumin from KonoSuba",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:46.404Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444aa1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444aa1",
+      "cardName": "Akari Ooshiro",
+      "creator": "Sleepy Yui",
+      "animeName": "Harukana Receive",
+      "description": "Akari Ooshiro from Harukana Receive",
+      "tier": "1",
+      "page": 457,
+      "scrapedAt": "2026-02-16T10:56:48.361Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:56:13.408Z",
+  "lastUpdated": "2026-02-16T10:56:48.362Z",
   "stats": {
     "successRate": 93,
-    "totalAttempts": 335,
-    "successfulAttempts": 312
+    "totalAttempts": 350,
+    "successfulAttempts": 327
   }
 }
