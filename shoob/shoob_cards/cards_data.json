@@ -1,5 +1,5 @@
 {
-  "totalCards": 7896,
+  "totalCards": 7911,
   "processedPages": [
     "1-1",
     "1-10",
@@ -498,6 +498,7 @@
     "1-544",
     "1-545",
     "1-546",
+    "1-547",
     "1-55",
     "1-56",
     "1-57",
@@ -87404,7 +87405,172 @@
       "tier": "1",
       "page": 546,
       "scrapedAt": "2026-02-16T12:35:45.205Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1967dda1e9326feb13315?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1967dda1e9326feb13315",
+      "cardName": "Nike",
+      "creator": "Card Maker:NarkOfficial",
+      "animeName": "Break Blade",
+      "description": "Nike from Break Blade",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:06.038Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19679da1e9326feb132fc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19679da1e9326feb132fc",
+      "cardName": "Nile Stryze",
+      "creator": "Card Maker:NarkOfficial",
+      "animeName": "Break Blade",
+      "description": "Nile Stryze from Break Blade",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:08.725Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19678da1e9326feb132f8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19678da1e9326feb132f8",
+      "cardName": "Regarz Arrow",
+      "creator": "Card Maker:NarkOfficial",
+      "animeName": "Break Blade",
+      "description": "Regarz Arrow from Break Blade",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:11.209Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19677da1e9326feb1329b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19677da1e9326feb1329b",
+      "cardName": "Colonel Io",
+      "creator": "Card Maker:NarkOfficial",
+      "animeName": "Break Blade",
+      "description": "Colonel Io from Break Blade",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:13.496Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1965c7e8fc526dc839615?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1965c7e8fc526dc839615",
+      "cardName": "Girge",
+      "creator": "Card Maker:NarkOfficial",
+      "animeName": "Break Blade",
+      "description": "Girge from Break Blade",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:15.919Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1965a7e8fc526dc839612?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1965a7e8fc526dc839612",
+      "cardName": "Eriko Nagai",
+      "creator": "Card Maker:Snowy",
+      "animeName": "Ajin",
+      "description": "Eriko Nagai from Ajin",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:18.330Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196587e8fc526dc839608?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196587e8fc526dc839608",
+      "cardName": "Captain Kidd",
+      "creator": "Card Maker:Chancyhaze",
+      "animeName": "Persona",
+      "description": "Captain Kidd from Persona",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:20.801Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196537e8fc526dc839579?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196537e8fc526dc839579",
+      "cardName": "Lee",
+      "creator": "Card Maker:NarkOfficial",
+      "animeName": "Break Blade",
+      "description": "Lee from Break Blade",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:23.294Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196517e8fc526dc839573?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196517e8fc526dc839573",
+      "cardName": "Captain Sakura",
+      "creator": "Card Maker:NarkOfficial",
+      "animeName": "Break Blade",
+      "description": "Captain Sakura from Break Blade",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:25.616Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196507e8fc526dc839568?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196507e8fc526dc839568",
+      "cardName": "Borcuse",
+      "creator": "Card Maker:NarkOfficial",
+      "animeName": "Break Blade",
+      "description": "Borcuse from Break Blade",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:28.041Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1964e7e8fc526dc83950e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1964e7e8fc526dc83950e",
+      "cardName": "General Baldr",
+      "creator": "Card Maker:NarkOfficial",
+      "animeName": "Break Blade",
+      "description": "General Baldr from Break Blade",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:30.328Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1964c7e8fc526dc839442?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1964c7e8fc526dc839442",
+      "cardName": "General True",
+      "creator": "Card Maker:NarkOfficial",
+      "animeName": "Break Blade",
+      "description": "General True from Break Blade",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:32.629Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196087e8fc526dc839131?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196087e8fc526dc839131",
+      "cardName": "Uragami",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Uragami from A Certain Series",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:35.113Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196087e8fc526dc83912c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196087e8fc526dc83912c",
+      "cardName": "Unabara Mitsuki",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Unabara Mitsuki from A Certain Series",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:37.795Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196087e8fc526dc83912a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196087e8fc526dc83912a",
+      "cardName": "Touma's mother",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Touma's mother from A Certain Series",
+      "tier": "1",
+      "page": 547,
+      "scrapedAt": "2026-02-16T12:36:40.199Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:35:45.206Z"
+  "lastUpdated": "2026-02-16T12:36:40.203Z"
 }
