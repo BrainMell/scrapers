@@ -1,5 +1,5 @@
 {
-  "totalCards": 7521,
+  "totalCards": 7536,
   "processedPages": [
     "1-1",
     "1-10",
@@ -471,6 +471,7 @@
     "1-52",
     "1-520",
     "1-521",
+    "1-522",
     "1-53",
     "1-54",
     "1-55",
@@ -83254,7 +83255,172 @@
       "tier": "1",
       "page": 521,
       "scrapedAt": "2026-02-16T12:12:31.597Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe5003487d77b1c3c868dfb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe5003487d77b1c3c868dfb",
+      "cardName": "Kobachi Osaragi",
+      "creator": "Card Maker:MigNuggets",
+      "animeName": "Kaguya-sama: Love is War",
+      "description": "Kobachi Osaragi from Kaguya-sama: Love is War",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:12:51.926Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe43fdcaa07112d3d997d2a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe43fdcaa07112d3d997d2a",
+      "cardName": "Galand",
+      "creator": "Card Maker:Senpaiii",
+      "animeName": "The Seven Deadly Sins",
+      "description": "Galand from The Seven Deadly Sins",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:12:54.230Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe43ae6aa07112d3d995baf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe43ae6aa07112d3d995baf",
+      "cardName": "Therese Alexanderite",
+      "creator": "Card Maker:Cin",
+      "animeName": "The Rising of the Shield Hero",
+      "description": "Therese Alexanderite from The Rising of the Shield Hero",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:12:56.720Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe43a649c51c906124a4177?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe43a649c51c906124a4177",
+      "cardName": "Filo",
+      "creator": "Card Maker:Derp",
+      "animeName": "The Rising of the Shield Hero",
+      "description": "Filo from The Rising of the Shield Hero",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:12:59.214Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe438e97cbb4338f8a3800c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe438e97cbb4338f8a3800c",
+      "cardName": "Eucliwood Hellscythe",
+      "creator": "Card Maker:Anime blaze~",
+      "animeName": "Kore wa Zombie Desu ka?",
+      "description": "Eucliwood Hellscythe from Kore wa Zombie Desu ka?",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:13:01.610Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe438d77cbb4338f8a37fe3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe438d77cbb4338f8a37fe3",
+      "cardName": "Aijimi Kiki",
+      "creator": "Card Maker:Mashiro Shiina",
+      "animeName": "Pripara",
+      "description": "Aijimi Kiki from Pripara",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:13:04.404Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe438c77cbb4338f8a37ef7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe438c77cbb4338f8a37ef7",
+      "cardName": "Faruru",
+      "creator": "Card Maker:Mashiro Shiina",
+      "animeName": "Pripara",
+      "description": "Faruru from Pripara",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:13:07.129Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe438b87cbb4338f8a37e8d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe438b87cbb4338f8a37e8d",
+      "cardName": "Aroma Kurosu",
+      "creator": "Card Maker:Mashiro Shiina",
+      "animeName": "Pripara",
+      "description": "Aroma Kurosu from Pripara",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:13:09.531Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe42c5dde557f53b252b961?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe42c5dde557f53b252b961",
+      "cardName": "Tsunade",
+      "creator": "Card Maker:sus ♡",
+      "animeName": "Naruto",
+      "description": "Tsunade from Naruto",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:13:12.200Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe42ba09c51c9061249c8ac?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe42ba09c51c9061249c8ac",
+      "cardName": "Bait",
+      "creator": "Card Maker:Skadoosh",
+      "animeName": "The Dragon Prince",
+      "description": "Bait from The Dragon Prince",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:13:14.524Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe42b2fef2b0152b285825b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe42b2fef2b0152b285825b",
+      "cardName": "Falco Grice",
+      "creator": "Card Maker:zax.",
+      "animeName": "Attack on Titan",
+      "description": "Falco Grice from Attack on Titan",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:13:17.124Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe428e327c76352e2ace85a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe428e327c76352e2ace85a",
+      "cardName": "Eliaria",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "By the Grace of the Gods",
+      "description": "Eliaria from By the Grace of the Gods",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:13:19.423Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe428ad9c51c9061249ae89?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe428ad9c51c9061249ae89",
+      "cardName": "Lux Arcadia",
+      "creator": "Card Maker:banana.",
+      "animeName": "Saijaku Muhai no Bahamut",
+      "description": "Lux Arcadia from Saijaku Muhai no Bahamut",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:13:21.720Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe4289b9c51c9061249ae15?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe4289b9c51c9061249ae15",
+      "cardName": "Edogawa Conan",
+      "creator": "Card Maker:! Ln - ' S 8 R , 🍁",
+      "animeName": "Detective Conan",
+      "description": "Edogawa Conan from Detective Conan",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:13:23.924Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe4280527c76352e2acd8bf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe4280527c76352e2acd8bf",
+      "cardName": "Miko Iino",
+      "creator": "Card Maker:MigNuggets",
+      "animeName": "Kaguya-sama: Love is War",
+      "description": "Miko Iino from Kaguya-sama: Love is War",
+      "tier": "1",
+      "page": 522,
+      "scrapedAt": "2026-02-16T12:13:26.505Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:12:31.598Z"
+  "lastUpdated": "2026-02-16T12:13:26.506Z"
 }
