@@ -1,5 +1,5 @@
 {
-  "totalCards": 7146,
+  "totalCards": 7161,
   "processedPages": [
     "1-1",
     "1-10",
@@ -442,6 +442,7 @@
     "1-494",
     "1-495",
     "1-496",
+    "1-497",
     "1-5",
     "1-50",
     "1-51",
@@ -79104,7 +79105,172 @@
       "tier": "1",
       "page": 496,
       "scrapedAt": "2026-02-16T11:49:39.690Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff0289a6a33323723b0c8d6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff0289a6a33323723b0c8d6",
+      "cardName": "Sayuri Muranushi",
+      "creator": "Card Maker:Reis",
+      "animeName": "WWW.Working!!",
+      "description": "Sayuri Muranushi from WWW.Working!!",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:49:59.823Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff0282f6d36bc7dcd2bbafa?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff0282f6d36bc7dcd2bbafa",
+      "cardName": "Katsumi Takahashi",
+      "creator": "Card Maker:Kruggles",
+      "animeName": "Ahiru no Sora",
+      "description": "Katsumi Takahashi from Ahiru no Sora",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:02.323Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff0247630e52f3d8de2f19b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff0247630e52f3d8de2f19b",
+      "cardName": "Debito",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Arcana Famiglia",
+      "description": "Debito from Arcana Famiglia",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:04.819Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff01e8e66769571ba60bd17?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff01e8e66769571ba60bd17",
+      "cardName": "Kyouichi Ozaki",
+      "creator": "Card Maker:FizzyBrian",
+      "animeName": "Ikebukuro West Gate Park",
+      "description": "Kyouichi Ozaki from Ikebukuro West Gate Park",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:07.324Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff01e8366769571ba60bd0c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff01e8366769571ba60bd0c",
+      "cardName": "Taeko Kondou",
+      "creator": "Unknown Creator",
+      "animeName": "Girls und Panzer",
+      "description": "Taeko Kondou from Girls und Panzer",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:09.841Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff00b6e93a0702995c9653b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff00b6e93a0702995c9653b",
+      "cardName": "Naomi Misora",
+      "creator": "Card Maker:Your Local E-Girl",
+      "animeName": "Death Note",
+      "description": "Naomi Misora from Death Note",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:12.314Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fefe40329a4ef6603e57bab?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fefe40329a4ef6603e57bab",
+      "cardName": "Kanade Tachibana",
+      "creator": "Card Maker:Anime blaze~",
+      "animeName": "Angel Beats!",
+      "description": "Kanade Tachibana from Angel Beats!",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:14.795Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecfbe25428d787cdc96c0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecfbe25428d787cdc96c0",
+      "cardName": "Seishirou Klaus",
+      "creator": "Artist:Mui Mui むいちろ",
+      "animeName": "Hayate the Combat Butler",
+      "description": "Seishirou Klaus from Hayate the Combat Butler",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:17.315Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecfb325428d787cdc9437?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecfb325428d787cdc9437",
+      "cardName": "Diabal",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Radiant",
+      "description": "Diabal from Radiant",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:19.605Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecfb125428d787cdc93d2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecfb125428d787cdc93d2",
+      "cardName": "Don Bossman",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Radiant",
+      "description": "Don Bossman from Radiant",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:21.929Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecfb025428d787cdc938e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecfb025428d787cdc938e",
+      "cardName": "Draccoon",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Radiant",
+      "description": "Draccoon from Radiant",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:24.222Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecfaf25428d787cdc933f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecfaf25428d787cdc933f",
+      "cardName": "Hameline",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Radiant",
+      "description": "Hameline from Radiant",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:26.594Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecfad25428d787cdc92fd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecfad25428d787cdc92fd",
+      "cardName": "Lord Brangoire",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Radiant",
+      "description": "Lord Brangoire from Radiant",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:28.907Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecfab25428d787cdc92a3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecfab25428d787cdc92a3",
+      "cardName": "Miss Melba",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Radiant",
+      "description": "Miss Melba from Radiant",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:31.495Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecfaa25428d787cdc9249?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecfaa25428d787cdc9249",
+      "cardName": "Mister Bobley",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Radiant",
+      "description": "Mister Bobley from Radiant",
+      "tier": "1",
+      "page": 497,
+      "scrapedAt": "2026-02-16T11:50:33.707Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:49:39.691Z"
+  "lastUpdated": "2026-02-16T11:50:33.708Z"
 }
