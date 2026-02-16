@@ -1,5 +1,5 @@
 {
-  "totalCards": 7836,
+  "totalCards": 7851,
   "processedPages": [
     "1-1",
     "1-10",
@@ -494,6 +494,7 @@
     "1-540",
     "1-541",
     "1-542",
+    "1-543",
     "1-55",
     "1-56",
     "1-57",
@@ -86740,7 +86741,172 @@
       "tier": "1",
       "page": 542,
       "scrapedAt": "2026-02-16T12:32:05.242Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19844da1e9326feb150b8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19844da1e9326feb150b8",
+      "cardName": "Hyoudou Masato",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Hinomaru Sumo",
+      "description": "Hyoudou Masato from Hinomaru Sumo",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:25.798Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19829da1e9326feb14cb1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19829da1e9326feb14cb1",
+      "cardName": "Mamiya Keiichi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Hinomaru Sumo",
+      "description": "Mamiya Keiichi from Hinomaru Sumo",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:28.295Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1981cda1e9326feb14bab?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1981cda1e9326feb14bab",
+      "cardName": "Ui Tamaki",
+      "creator": "Card Maker:Jaylen",
+      "animeName": "Magia Record",
+      "description": "Ui Tamaki from Magia Record",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:30.619Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1981ada1e9326feb14b5e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1981ada1e9326feb14b5e",
+      "cardName": "Lil Kyubey",
+      "creator": "Card Maker:Jaylen",
+      "animeName": "Magia Record",
+      "description": "Lil Kyubey from Magia Record",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:33.115Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19818da1e9326feb14a01?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19818da1e9326feb14a01",
+      "cardName": "Karin Misono",
+      "creator": "Card Maker:Jaylen",
+      "animeName": "Magia Record",
+      "description": "Karin Misono from Magia Record",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:35.533Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19816da1e9326feb149e0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19816da1e9326feb149e0",
+      "cardName": "Kanagi Izumi",
+      "creator": "Card Maker:Jaylen",
+      "animeName": "Magia Record",
+      "description": "Kanagi Izumi from Magia Record",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:37.999Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19813da1e9326feb149dd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19813da1e9326feb149dd",
+      "cardName": "Hagumu Azumi",
+      "creator": "Card Maker:Jaylen",
+      "animeName": "Magia Record",
+      "description": "Hagumu Azumi from Magia Record",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:40.524Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19811da1e9326feb149d7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19811da1e9326feb149d7",
+      "cardName": "Azusa Mifuyu",
+      "creator": "Card Maker:Jaylen",
+      "animeName": "Magia Record",
+      "description": "Azusa Mifuyu from Magia Record",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:42.722Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19807da1e9326feb149a6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19807da1e9326feb149a6",
+      "cardName": "Kanamori Tsuyushi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Hinomaru Sumo",
+      "description": "Kanamori Tsuyushi from Hinomaru Sumo",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:45.191Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19804da1e9326feb14926?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19804da1e9326feb14926",
+      "cardName": "Enoki Shintarou",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Hinomaru Sumo",
+      "description": "Enoki Shintarou from Hinomaru Sumo",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:47.514Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197fcda1e9326feb148a2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197fcda1e9326feb148a2",
+      "cardName": "Shourinji Ayumu",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Shourinji Ayumu from Inazuma Eleven",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:49.918Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197f3da1e9326feb1488b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197f3da1e9326feb1488b",
+      "cardName": "Aizawa Ryou",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Hinomaru Sumo",
+      "description": "Aizawa Ryou from Hinomaru Sumo",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:52.091Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197efda1e9326feb14882?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197efda1e9326feb14882",
+      "cardName": "Araki Gennosuke",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Hinomaru Sumo",
+      "description": "Araki Gennosuke from Hinomaru Sumo",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:54.319Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197ebda1e9326feb1487b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197ebda1e9326feb1487b",
+      "cardName": "Batmunkh Batbayar",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Hinomaru Sumo",
+      "description": "Batmunkh Batbayar from Hinomaru Sumo",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:56.699Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197e7da1e9326feb1486f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197e7da1e9326feb1486f",
+      "cardName": "Daniel Stefanov",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Hinomaru Sumo",
+      "description": "Daniel Stefanov from Hinomaru Sumo",
+      "tier": "1",
+      "page": 543,
+      "scrapedAt": "2026-02-16T12:32:58.918Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:32:05.246Z"
+  "lastUpdated": "2026-02-16T12:32:58.920Z"
 }
