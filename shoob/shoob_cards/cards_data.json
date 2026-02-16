@@ -1,5 +1,5 @@
 {
-  "totalCards": 6712,
+  "totalCards": 6727,
   "processedPages": [
     "1-1",
     "1-2",
@@ -467,7 +467,8 @@
     "1-464",
     "1-465",
     "1-466",
-    "1-467"
+    "1-467",
+    "1-468"
   ],
   "cards": [
     {
@@ -74301,12 +74302,177 @@
       "tier": "1",
       "page": 467,
       "scrapedAt": "2026-02-16T11:01:06.101Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444797?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444797",
+      "cardName": "Ryuko Tsuchikawa",
+      "creator": "MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Ryuko Tsuchikawa from My Hero Academia",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:13.912Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444795?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444795",
+      "cardName": "Cooler",
+      "creator": "究極無敵の合体 超サイヤ人ゴッドSSベジット",
+      "animeName": "Dragon Ball",
+      "description": "Cooler from Dragon Ball",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:16.066Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44478b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44478b",
+      "cardName": "Kahabell",
+      "creator": "Saber",
+      "animeName": "I'm Standing on a Million Lives",
+      "description": "Kahabell from I'm Standing on a Million Lives",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:18.014Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444789?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444789",
+      "cardName": "Chief",
+      "creator": "Agera",
+      "animeName": "Pucca",
+      "description": "Chief from Pucca",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:19.960Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444787?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444787",
+      "cardName": "Kurenai",
+      "creator": "Him 123",
+      "animeName": "Deca-Dence",
+      "description": "Kurenai from Deca-Dence",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:21.978Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444785?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444785",
+      "cardName": "Milo",
+      "creator": "FireTheSummoner",
+      "animeName": "Revisions",
+      "description": "Milo from Revisions",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:23.998Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44477b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44477b",
+      "cardName": "Lwai Aura Tibesti",
+      "creator": "Dead8oul",
+      "animeName": "Dimension W",
+      "description": "Lwai Aura Tibesti from Dimension W",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:25.960Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444777?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444777",
+      "cardName": "Yonro",
+      "creator": "Arshhh",
+      "animeName": "Crayon Shin-chan",
+      "description": "Yonro from Crayon Shin-chan",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:27.965Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44476f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44476f",
+      "cardName": "Sofia",
+      "creator": "Rhianne Furukawa",
+      "animeName": "Arte",
+      "description": "Sofia from Arte",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:29.924Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444769?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444769",
+      "cardName": "Atsuko Kutsuzoko",
+      "creator": "Arshhh",
+      "animeName": "Crayon Shin-chan",
+      "description": "Atsuko Kutsuzoko from Crayon Shin-chan",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:31.913Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444767?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444767",
+      "cardName": "Lan Fan",
+      "creator": "seki",
+      "animeName": "Fullmetal Alchemist",
+      "description": "Lan Fan from Fullmetal Alchemist",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:34.159Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44475f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44475f",
+      "cardName": "Wakana Nura",
+      "creator": "Popo",
+      "animeName": "Nurarihyon no Mago",
+      "description": "Wakana Nura from Nurarihyon no Mago",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:36.101Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44475d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44475d",
+      "cardName": "Takemikazuchi",
+      "creator": "stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Takemikazuchi from DanMachi",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:38.111Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44475b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44475b",
+      "cardName": "Darcia",
+      "creator": "Rhianne Furukawa",
+      "animeName": "Arte",
+      "description": "Darcia from Arte",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:40.060Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44474d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44474d",
+      "cardName": "Fluder Paradyne",
+      "creator": "stevethestevemon",
+      "animeName": "Overlord",
+      "description": "Fluder Paradyne from Overlord",
+      "tier": "1",
+      "page": 468,
+      "scrapedAt": "2026-02-16T11:01:42.101Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:01:06.102Z",
+  "lastUpdated": "2026-02-16T11:01:42.102Z",
   "stats": {
     "successRate": 95,
-    "totalAttempts": 456,
-    "successfulAttempts": 432
+    "totalAttempts": 471,
+    "successfulAttempts": 447
   }
 }
