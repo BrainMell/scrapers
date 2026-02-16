@@ -1,5 +1,5 @@
 {
-  "totalCards": 6922,
+  "totalCards": 6936,
   "processedPages": [
     "1-1",
     "1-2",
@@ -481,7 +481,8 @@
     "1-478",
     "1-479",
     "1-480",
-    "1-481"
+    "1-481",
+    "1-482"
   ],
   "cards": [
     {
@@ -76625,12 +76626,166 @@
       "tier": "1",
       "page": 481,
       "scrapedAt": "2026-02-16T11:09:36.914Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44446f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44446f",
+      "cardName": "Cheshire",
+      "creator": "Arshhh",
+      "animeName": "Infinite Dendrogram",
+      "description": "Cheshire from Infinite Dendrogram",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:09:45.304Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44446d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44446d",
+      "cardName": "Sako",
+      "creator": "Monokuma",
+      "animeName": "Kokkoku",
+      "description": "Sako from Kokkoku",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:09:47.214Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44446b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44446b",
+      "cardName": "Sanji",
+      "creator": "VaneGlzBr",
+      "animeName": "One Piece",
+      "description": "Sanji from One Piece",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:09:49.565Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44445f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44445f",
+      "cardName": "Tadashi Yamaguchi",
+      "creator": "Kruggles",
+      "animeName": "Haikyuu!!",
+      "description": "Tadashi Yamaguchi from Haikyuu!!",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:09:51.714Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44445d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44445d",
+      "cardName": "Makoto Yukawa",
+      "creator": "Monokuma",
+      "animeName": "Kokkoku",
+      "description": "Makoto Yukawa from Kokkoku",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:09:53.718Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44445b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44445b",
+      "cardName": "Kumin Tsuyuri",
+      "creator": "Agera",
+      "animeName": "Chuunibyou demo Koi ga Shitai!",
+      "description": "Kumin Tsuyuri from Chuunibyou demo Koi ga Shitai!",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:09:55.660Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444459?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444459",
+      "cardName": "Jean Kirstein",
+      "creator": "Spruce - P",
+      "animeName": "Attack on Titan",
+      "description": "Jean Kirstein from Attack on Titan",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:09:57.700Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444451?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444451",
+      "cardName": "Chartreux Westia",
+      "creator": "Anime blaze~",
+      "animeName": "Boarding School Juliet",
+      "description": "Chartreux Westia from Boarding School Juliet",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:09:59.661Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44444f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44444f",
+      "cardName": "Yuuta Togashi",
+      "creator": "Agera",
+      "animeName": "Chuunibyou demo Koi ga Shitai!",
+      "description": "Yuuta Togashi from Chuunibyou demo Koi ga Shitai!",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:10:01.669Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44444d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44444d",
+      "cardName": "Yumeha Togashi",
+      "creator": "Agera",
+      "animeName": "Chuunibyou demo Koi ga Shitai!",
+      "description": "Yumeha Togashi from Chuunibyou demo Koi ga Shitai!",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:10:03.620Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44443d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44443d",
+      "cardName": "Akuru Akutsu",
+      "creator": "Lee?",
+      "animeName": "Aho Girl",
+      "description": "Akuru Akutsu from Aho Girl",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:12:52.225Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44443b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44443b",
+      "cardName": "Colt",
+      "creator": "Agera",
+      "animeName": "Gangsta",
+      "description": "Colt from Gangsta",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:12:54.113Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444433?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444433",
+      "cardName": "Shin Uchiha",
+      "creator": "Hoshiko [星子]",
+      "animeName": "Boruto",
+      "description": "Shin Uchiha from Boruto",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:12:56.060Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44442d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44442d",
+      "cardName": "Kufo",
+      "creator": "stevethestevemon",
+      "animeName": "By the Grace of the Gods",
+      "description": "Kufo from By the Grace of the Gods",
+      "tier": "1",
+      "page": 482,
+      "scrapedAt": "2026-02-16T11:12:57.923Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:09:36.915Z",
+  "lastUpdated": "2026-02-16T11:12:57.961Z",
   "stats": {
-    "successRate": 96,
-    "totalAttempts": 667,
-    "successfulAttempts": 642
+    "successRate": 95,
+    "totalAttempts": 688,
+    "successfulAttempts": 656
   }
 }
