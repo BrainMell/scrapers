@@ -1,5 +1,5 @@
 {
-  "totalCards": 7476,
+  "totalCards": 7491,
   "processedPages": [
     "1-1",
     "1-10",
@@ -467,6 +467,7 @@
     "1-516",
     "1-517",
     "1-518",
+    "1-519",
     "1-52",
     "1-53",
     "1-54",
@@ -82756,7 +82757,172 @@
       "tier": "1",
       "page": 518,
       "scrapedAt": "2026-02-16T12:09:44.016Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f25e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f25e",
+      "cardName": "Emilia",
+      "creator": "Card Maker:Xlay",
+      "animeName": "Re:Zero",
+      "description": "Emilia from Re:Zero",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:05.128Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f25a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f25a",
+      "cardName": "Maki Zenin",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Maki Zenin from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:07.729Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f250?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f250",
+      "cardName": "Fran",
+      "creator": "Card Maker:Agera",
+      "animeName": "Majo no Tabitabi",
+      "description": "Fran from Majo no Tabitabi",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:10.298Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f240?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f240",
+      "cardName": "Nagomi Kinoshita",
+      "creator": "Card Maker:rachel💜",
+      "animeName": "Kanojo Okarishimasu",
+      "description": "Nagomi Kinoshita from Kanojo Okarishimasu",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:12.809Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f23a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f23a",
+      "cardName": "Hamtaro",
+      "creator": "Card Maker:Piratax10",
+      "animeName": "Hamtaro",
+      "description": "Hamtaro from Hamtaro",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:15.199Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f232?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f232",
+      "cardName": "Elaina",
+      "creator": "Card Maker:Agera",
+      "animeName": "Majo no Tabitabi",
+      "description": "Elaina from Majo no Tabitabi",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:17.720Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f230?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f230",
+      "cardName": "Rio Kanzaki",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Rio Kanzaki from Idoly Pride",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:20.221Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f22c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f22c",
+      "cardName": "Reinhart Jamil",
+      "creator": "Card Maker:stevethestevemon",
+      "animeName": "By the Grace of the Gods",
+      "description": "Reinhart Jamil from By the Grace of the Gods",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:22.618Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f22a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f22a",
+      "cardName": "Ougi Oshino",
+      "creator": "Card Maker:Daringa",
+      "animeName": "Monogatari Series",
+      "description": "Ougi Oshino from Monogatari Series",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:25.122Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f226?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f226",
+      "cardName": "Cikapasi",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Golden Kamuy",
+      "description": "Cikapasi from Golden Kamuy",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:27.524Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f21a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f21a",
+      "cardName": "Ienaga Kano",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Golden Kamuy",
+      "description": "Ienaga Kano from Golden Kamuy",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:29.907Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f216?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f216",
+      "cardName": "Kiroranke",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Golden Kamuy",
+      "description": "Kiroranke from Golden Kamuy",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:32.216Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f214?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f214",
+      "cardName": "Kamishibai",
+      "creator": "Card Maker:Monokuma",
+      "animeName": "Yami Shibai",
+      "description": "Kamishibai from Yami Shibai",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:34.496Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f212?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f212",
+      "cardName": "Mahito",
+      "creator": "Card Maker:ՏႮᏴᎪᎡႮ",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Mahito from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:36.903Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f20e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f20e",
+      "cardName": "Ai Ebihara",
+      "creator": "Card Maker:Chancyhaze",
+      "animeName": "Persona",
+      "description": "Ai Ebihara from Persona",
+      "tier": "1",
+      "page": 519,
+      "scrapedAt": "2026-02-16T12:10:39.199Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:09:44.018Z"
+  "lastUpdated": "2026-02-16T12:10:39.202Z"
 }
