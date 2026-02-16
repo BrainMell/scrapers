@@ -1,5 +1,5 @@
 {
-  "totalCards": 7881,
+  "totalCards": 7896,
   "processedPages": [
     "1-1",
     "1-10",
@@ -497,6 +497,7 @@
     "1-543",
     "1-544",
     "1-545",
+    "1-546",
     "1-55",
     "1-56",
     "1-57",
@@ -87238,7 +87239,172 @@
       "tier": "1",
       "page": 545,
       "scrapedAt": "2026-02-16T12:34:49.632Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19713da1e9326feb13c10?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19713da1e9326feb13c10",
+      "cardName": "Sumako Aotsuki",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Ushio to Tora",
+      "description": "Sumako Aotsuki from Ushio to Tora",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:10.291Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196f7da1e9326feb13a32?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196f7da1e9326feb13a32",
+      "cardName": "Ushio Aotsuki",
+      "creator": "Card Maker:Jobosama",
+      "animeName": "Ushio to Tora",
+      "description": "Ushio Aotsuki from Ushio to Tora",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:12.829Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196d7da1e9326feb138b7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196d7da1e9326feb138b7",
+      "cardName": "Rei Ichinose",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Rei Ichinose from Idoly Pride",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:15.523Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196d5da1e9326feb138b4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196d5da1e9326feb138b4",
+      "cardName": "Mana Nagase",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Mana Nagase from Idoly Pride",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:18.006Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196bbda1e9326feb137ae?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196bbda1e9326feb137ae",
+      "cardName": "Kokoro Akazaki",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Kokoro Akazaki from Idoly Pride",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:20.525Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196b8da1e9326feb13739?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196b8da1e9326feb13739",
+      "cardName": "Haruko Saeki",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Haruko Saeki from Idoly Pride",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:23.032Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196b7da1e9326feb13735?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196b7da1e9326feb13735",
+      "cardName": "Nagisa Ibuki",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Nagisa Ibuki from Idoly Pride",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:25.423Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196b5da1e9326feb13731?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196b5da1e9326feb13731",
+      "cardName": "Mei Hayasaka",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Mei Hayasaka from Idoly Pride",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:27.837Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196b3da1e9326feb13719?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196b3da1e9326feb13719",
+      "cardName": "Kotono Nagase",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Idoly Pride",
+      "description": "Kotono Nagase from Idoly Pride",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:30.590Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1969dda1e9326feb134eb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1969dda1e9326feb134eb",
+      "cardName": "Noah",
+      "creator": "Card Maker:Yukina",
+      "animeName": "I★Chu: Halfway Through the Idol",
+      "description": "Noah from I★Chu: Halfway Through the Idol",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:33.024Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1969bda1e9326feb134e5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1969bda1e9326feb134e5",
+      "cardName": "Koji Tanaka",
+      "creator": "Card Maker:Snowy",
+      "animeName": "Ajin",
+      "description": "Koji Tanaka from Ajin",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:35.406Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1969ada1e9326feb134b0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1969ada1e9326feb134b0",
+      "cardName": "Okuyama",
+      "creator": "Card Maker:Snowy",
+      "animeName": "Ajin",
+      "description": "Okuyama from Ajin",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:37.925Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1968eda1e9326feb133c1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1968eda1e9326feb133c1",
+      "cardName": "Aki",
+      "creator": "Card Maker:Snowy",
+      "animeName": "Anohana",
+      "description": "Aki from Anohana",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:40.141Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1968dda1e9326feb133b8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1968dda1e9326feb133b8",
+      "cardName": "Haruna",
+      "creator": "Card Maker:Snowy",
+      "animeName": "Anohana",
+      "description": "Haruna from Anohana",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:42.730Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1968ada1e9326feb133ae?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1968ada1e9326feb133ae",
+      "cardName": "Yama",
+      "creator": "Card Maker:Snowy",
+      "animeName": "Anohana",
+      "description": "Yama from Anohana",
+      "tier": "1",
+      "page": 546,
+      "scrapedAt": "2026-02-16T12:35:45.205Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:34:49.635Z"
+  "lastUpdated": "2026-02-16T12:35:45.206Z"
 }
