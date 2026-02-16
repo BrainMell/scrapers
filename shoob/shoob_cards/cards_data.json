@@ -1,5 +1,5 @@
 {
-  "totalCards": 6547,
+  "totalCards": 6562,
   "processedPages": [
     "1-1",
     "1-2",
@@ -454,6 +454,7 @@
     "1-451",
     "1-452",
     "1-453",
+    "1-454",
     "1-460",
     "1-461",
     "1-462"
@@ -72475,12 +72476,177 @@
       "tier": "1",
       "page": 453,
       "scrapedAt": "2026-02-16T10:54:25.025Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bbb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bbb",
+      "cardName": "Senketsu",
+      "creator": "Kronus",
+      "animeName": "Kill la Kill",
+      "description": "Senketsu from Kill la Kill",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:33.173Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bb9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bb9",
+      "cardName": "White Zetsu",
+      "creator": "Cynthia",
+      "animeName": "Naruto",
+      "description": "White Zetsu from Naruto",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:35.373Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bb1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bb1",
+      "cardName": "Dagon",
+      "creator": "za",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Dagon from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:37.411Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ba9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ba9",
+      "cardName": "Takako Suzuki",
+      "creator": "Taiga Aisaka Fan Club",
+      "animeName": "Girls und Panzer",
+      "description": "Takako Suzuki from Girls und Panzer",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:39.401Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ba5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ba5",
+      "cardName": "Soue Arata",
+      "creator": "Kruggles",
+      "animeName": "Kabaneri of the Iron Fortress",
+      "description": "Soue Arata from Kabaneri of the Iron Fortress",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:41.320Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ba3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ba3",
+      "cardName": "Horobi",
+      "creator": "Kruggles",
+      "animeName": "Kabaneri of the Iron Fortress",
+      "description": "Horobi from Kabaneri of the Iron Fortress",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:43.359Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b9b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b9b",
+      "cardName": "Rindou Kobayashi",
+      "creator": "Hakhu",
+      "animeName": "Food Wars!",
+      "description": "Rindou Kobayashi from Food Wars!",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:45.420Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b97?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b97",
+      "cardName": "Cerberus",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Cerberus from Rage of Bahamut",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:47.408Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b95?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b95",
+      "cardName": "Kuro",
+      "creator": "Muldz.",
+      "animeName": "Kai Byoui Ramune",
+      "description": "Kuro from Kai Byoui Ramune",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:49.323Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b91?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b91",
+      "cardName": "Sion Ogura",
+      "creator": "Kronus",
+      "animeName": "Machikado Mazoku",
+      "description": "Sion Ogura from Machikado Mazoku",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:51.311Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b8f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b8f",
+      "cardName": "Tuff",
+      "creator": "Piratax10",
+      "animeName": "Kirby",
+      "description": "Tuff from Kirby",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:53.265Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b8d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b8d",
+      "cardName": "Kotori Matsunohara",
+      "creator": "Popo",
+      "animeName": "Mushibugyou",
+      "description": "Kotori Matsunohara from Mushibugyou",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:55.299Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b8b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b8b",
+      "cardName": "Estarossa",
+      "creator": "Rici 💔🖤",
+      "animeName": "The Seven Deadly Sins",
+      "description": "Estarossa from The Seven Deadly Sins",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:57.405Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b89?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b89",
+      "cardName": "Kabane Kusaka",
+      "creator": "Rici 💔🖤",
+      "animeName": "Kemono Jihen",
+      "description": "Kabane Kusaka from Kemono Jihen",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:54:59.360Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b87?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b87",
+      "cardName": "Adam White",
+      "creator": "Cloud",
+      "animeName": "Solo Leveling",
+      "description": "Adam White from Solo Leveling",
+      "tier": "1",
+      "page": 454,
+      "scrapedAt": "2026-02-16T10:55:01.306Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:54:25.026Z",
+  "lastUpdated": "2026-02-16T10:55:01.307Z",
   "stats": {
     "successRate": 92,
-    "totalAttempts": 290,
-    "successfulAttempts": 267
+    "totalAttempts": 305,
+    "successfulAttempts": 282
   }
 }
