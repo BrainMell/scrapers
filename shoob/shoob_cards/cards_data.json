@@ -1,5 +1,5 @@
 {
-  "totalCards": 6352,
+  "totalCards": 6367,
   "processedPages": [
     "1-1",
     "1-2",
@@ -441,6 +441,7 @@
     "1-438",
     "1-439",
     "1-440",
+    "1-441",
     "1-460",
     "1-461",
     "1-462"
@@ -70317,12 +70318,177 @@
       "tier": "1",
       "page": 440,
       "scrapedAt": "2026-02-16T10:46:43.066Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6028a5326bcefa643b590d87?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6028a5326bcefa643b590d87",
+      "cardName": "Gaap",
+      "creator": "Rinn",
+      "animeName": "Umineko no Naku Koro ni",
+      "description": "Gaap from Umineko no Naku Koro ni",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:46:50.465Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60271d732325f417f9151538?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60271d732325f417f9151538",
+      "cardName": "Judge P",
+      "creator": "`Sap1q",
+      "animeName": "The God of High School",
+      "description": "Judge P from The God of High School",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:46:52.379Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6027145702024e29a58f6575?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6027145702024e29a58f6575",
+      "cardName": "Yasui",
+      "creator": "hai",
+      "animeName": "Weathering With You",
+      "description": "Yasui from Weathering With You",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:46:54.364Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60246533d9d8f5249bbab614?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60246533d9d8f5249bbab614",
+      "cardName": "Risty",
+      "creator": "Lee?",
+      "animeName": "Queen's Blade",
+      "description": "Risty from Queen's Blade",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:46:56.313Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60224b4a49202d0304f62945?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60224b4a49202d0304f62945",
+      "cardName": "Nanami Yasuri",
+      "creator": "VILLA • Legion💜",
+      "animeName": "Katanagatari",
+      "description": "Nanami Yasuri from Katanagatari",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:46:58.298Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/601f333a7fd8111d3e06cf24?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/601f333a7fd8111d3e06cf24",
+      "cardName": "Makoto Ninomiya",
+      "creator": "AYUSH_🐍",
+      "animeName": "Amanchu!",
+      "description": "Makoto Ninomiya from Amanchu!",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:47:00.119Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/601c7801f8a6f33989489c7e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/601c7801f8a6f33989489c7e",
+      "cardName": "Moe-P",
+      "creator": "Arshhh",
+      "animeName": "Crayon Shin-chan",
+      "description": "Moe-P from Crayon Shin-chan",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:47:02.113Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/601c042f3f12531337ad4777?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/601c042f3f12531337ad4777",
+      "cardName": "Makoto Isshiki",
+      "creator": "Agera",
+      "animeName": "Chuunibyou demo Koi ga Shitai!",
+      "description": "Makoto Isshiki from Chuunibyou demo Koi ga Shitai!",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:47:04.064Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/601ba8b1fcad3d25527f5e32?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/601ba8b1fcad3d25527f5e32",
+      "cardName": "Nicolas Brown",
+      "creator": "manuelsousa13",
+      "animeName": "Gangsta",
+      "description": "Nicolas Brown from Gangsta",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:47:05.985Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/601951243c93884021920721?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/601951243c93884021920721",
+      "cardName": "Action Kamen",
+      "creator": "Arshhh",
+      "animeName": "Crayon Shin-chan",
+      "description": "Action Kamen from Crayon Shin-chan",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:47:07.879Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6018e773ccf6c97000705794?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6018e773ccf6c97000705794",
+      "cardName": "Souichi Aida",
+      "creator": "Cynthia",
+      "animeName": "Bakuman",
+      "description": "Souichi Aida from Bakuman",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:47:09.898Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444f0d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444f0d",
+      "cardName": "Beelzebub",
+      "creator": "Shiki ツ",
+      "animeName": "Umineko no Naku Koro ni",
+      "description": "Beelzebub from Umineko no Naku Koro ni",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:47:11.814Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444f05?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444f05",
+      "cardName": "Ayane Hanazawa",
+      "creator": "hai",
+      "animeName": "Weathering With You",
+      "description": "Ayane Hanazawa from Weathering With You",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:47:13.778Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444efb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444efb",
+      "cardName": "Momiji",
+      "creator": "Fe",
+      "animeName": "Tamako Market",
+      "description": "Momiji from Tamako Market",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:47:15.776Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ef1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ef1",
+      "cardName": "Koji Makaino",
+      "creator": "Cynthia",
+      "animeName": "Bakuman",
+      "description": "Koji Makaino from Bakuman",
+      "tier": "1",
+      "page": 441,
+      "scrapedAt": "2026-02-16T10:47:17.721Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:46:43.067Z",
+  "lastUpdated": "2026-02-16T10:47:17.722Z",
   "stats": {
-    "successRate": 76,
-    "totalAttempts": 95,
-    "successfulAttempts": 72
+    "successRate": 79,
+    "totalAttempts": 110,
+    "successfulAttempts": 87
   }
 }
