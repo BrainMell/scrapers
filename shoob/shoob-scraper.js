@@ -343,6 +343,13 @@ class ShoobCardScraper {
     const pageKey = `${tier}-${pageNum}`;
     if (this.processedPages.has(pageKey)) return;
 
+    // Restart browser every 20 pages to clear memory leaks
+    if (this.processedPages.size > 0 && this.processedPages.size % 20 === 0) {
+      console.log('♻️ RAM Cleanup: Restarting browser engine...');
+      if (this.browser) await this.browser.close().catch(() => {});
+      await this.initialize();
+    }
+
     // BAD INTERNET DETECTION
     if (this.consecutiveFailures >= 10) {
       const successRate = this.getSuccessRate();
@@ -376,9 +383,11 @@ class ShoobCardScraper {
         return;
       }
 
-      const cardPromises = extraction.cards.map(async (card, index) => {
-        if (this.cardUrlSet.has(card.imageUrl)) return;
-        await new Promise(r => setTimeout(r, index * 200));
+      // SEQUENTIAL PROCESSING (RAM Friendly)
+      // Instead of opening 15 tabs at once, we do them one by one.
+      // This ensures 1GB RAM is never exceeded.
+      for (const card of extraction.cards) {
+        if (this.cardUrlSet.has(card.imageUrl)) continue;
         
         try {
           const meta = await this.fetchMetadataByOpeningTab(card.detailUrl, card.cardName);
@@ -386,20 +395,20 @@ class ShoobCardScraper {
             const enrichedCard = { ...card, ...meta, tier, page: pageNum, scrapedAt: new Date().toISOString() };
             this.cards.push(enrichedCard);
             this.cardUrlSet.add(card.imageUrl);
+            console.log(`      ✨ [${enrichedCard.creator}] ${enrichedCard.cardName}`);
           }
         } catch (e) {
           if (e.message === 'INTERNET_DOWN') throw e;
         }
-      });
+      }
 
-      await Promise.all(cardPromises);
       this.processedPages.add(pageKey);
       await this.saveProgress();
       
       console.log(`📄 [DONE] TIER ${tier} | PAGE ${pageNum} (${this.getSuccessRate()}% success)`);
       
       await listPage.close();
-      await new Promise(r => setTimeout(r, 5000)); // Cool down per page flow
+      await new Promise(r => setTimeout(r, 2000)); 
 
     } catch (error) {
       if (listPage) await listPage.close().catch(() => {});
