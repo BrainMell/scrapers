@@ -1,5 +1,5 @@
 {
-  "totalCards": 6757,
+  "totalCards": 6772,
   "processedPages": [
     "1-1",
     "1-2",
@@ -470,7 +470,8 @@
     "1-467",
     "1-468",
     "1-469",
-    "1-470"
+    "1-470",
+    "1-471"
   ],
   "cards": [
     {
@@ -74799,12 +74800,177 @@
       "tier": "1",
       "page": 470,
       "scrapedAt": "2026-02-16T11:02:53.772Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446d3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446d3",
+      "cardName": "Kinkaku",
+      "creator": "RhinoStar",
+      "animeName": "Naruto",
+      "description": "Kinkaku from Naruto",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:03.261Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446d1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446d1",
+      "cardName": "Doll",
+      "creator": "Daringa",
+      "animeName": "Gekidol",
+      "description": "Doll from Gekidol",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:05.220Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446cf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446cf",
+      "cardName": "Suika",
+      "creator": "Derp",
+      "animeName": "Dr. Stone",
+      "description": "Suika from Dr. Stone",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:07.404Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446cd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446cd",
+      "cardName": "Iu Shindo",
+      "creator": "Saber",
+      "animeName": "I'm Standing on a Million Lives",
+      "description": "Iu Shindo from I'm Standing on a Million Lives",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:09.376Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446cb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446cb",
+      "cardName": "Nyokimon",
+      "creator": "Monokuma",
+      "animeName": "Digimon",
+      "description": "Nyokimon from Digimon",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:11.473Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446c9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446c9",
+      "cardName": "Taichi Kawanishi",
+      "creator": "Kruggles",
+      "animeName": "Haikyuu!!",
+      "description": "Taichi Kawanishi from Haikyuu!!",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:13.663Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446c5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446c5",
+      "cardName": "Yuuya Kizami",
+      "creator": "Taiga Aisaka Fan Club",
+      "animeName": "Corpse Party",
+      "description": "Yuuya Kizami from Corpse Party",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:15.611Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446c3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446c3",
+      "cardName": "Ray Starling",
+      "creator": "Derp",
+      "animeName": "Infinite Dendrogram",
+      "description": "Ray Starling from Infinite Dendrogram",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:17.599Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446c1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446c1",
+      "cardName": "Yukari Miyako",
+      "creator": "rachel💜",
+      "animeName": "Gekkan Shoujo Nozaki-kun",
+      "description": "Yukari Miyako from Gekkan Shoujo Nozaki-kun",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:19.599Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446bf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446bf",
+      "cardName": "Eita Semi",
+      "creator": "Kruggles",
+      "animeName": "Haikyuu!!",
+      "description": "Eita Semi from Haikyuu!!",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:21.563Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446bd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446bd",
+      "cardName": "Botamon",
+      "creator": "Monokuma",
+      "animeName": "Digimon",
+      "description": "Botamon from Digimon",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:23.507Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446bb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446bb",
+      "cardName": "Xunyu",
+      "creator": "Derp",
+      "animeName": "Infinite Dendrogram",
+      "description": "Xunyu from Infinite Dendrogram",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:25.515Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446b7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446b7",
+      "cardName": "Sayaka Koyanagi",
+      "creator": "Monokuma",
+      "animeName": "Gleipnir",
+      "description": "Sayaka Koyanagi from Gleipnir",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:27.501Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446b5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446b5",
+      "cardName": "Chariot Requiem",
+      "creator": "bleepblop",
+      "animeName": "JoJo's Bizarre Adventure",
+      "description": "Chariot Requiem from JoJo's Bizarre Adventure",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:29.565Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4446b3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4446b3",
+      "cardName": "Miach",
+      "creator": "stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Miach from DanMachi",
+      "tier": "1",
+      "page": 471,
+      "scrapedAt": "2026-02-16T11:03:31.699Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:02:53.798Z",
+  "lastUpdated": "2026-02-16T11:03:31.700Z",
   "stats": {
     "successRate": 95,
-    "totalAttempts": 501,
-    "successfulAttempts": 477
+    "totalAttempts": 516,
+    "successfulAttempts": 492
   }
 }
