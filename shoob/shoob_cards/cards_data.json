@@ -1,5 +1,5 @@
 {
-  "totalCards": 6682,
+  "totalCards": 6697,
   "processedPages": [
     "1-1",
     "1-2",
@@ -465,7 +465,8 @@
     "1-462",
     "1-463",
     "1-464",
-    "1-465"
+    "1-465",
+    "1-466"
   ],
   "cards": [
     {
@@ -73969,12 +73970,177 @@
       "tier": "1",
       "page": 465,
       "scrapedAt": "2026-02-16T10:59:53.611Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444851?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444851",
+      "cardName": "Molech",
+      "creator": "Yukina",
+      "animeName": "As Miss Beelzebub Likes.",
+      "description": "Molech from As Miss Beelzebub Likes.",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:01.616Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44484d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44484d",
+      "cardName": "Isao",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "How to Keep a Mummy",
+      "description": "Isao from How to Keep a Mummy",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:03.702Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44483f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44483f",
+      "cardName": "Kaoru Shindou",
+      "creator": "Rhianne Furukawa",
+      "animeName": "Tokyo 24th Ward",
+      "description": "Kaoru Shindou from Tokyo 24th Ward",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:05.620Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44482f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44482f",
+      "cardName": "Asa Motegi",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "How to Keep a Mummy",
+      "description": "Asa Motegi from How to Keep a Mummy",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:07.663Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444823?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444823",
+      "cardName": "Emilia Ludowell",
+      "creator": "fifi",
+      "animeName": "The Misfit of Demon King Academy",
+      "description": "Emilia Ludowell from The Misfit of Demon King Academy",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:09.660Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44481b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44481b",
+      "cardName": "Leo",
+      "creator": "Rhianne Furukawa",
+      "animeName": "Arte",
+      "description": "Leo from Arte",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:11.617Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44480f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44480f",
+      "cardName": "Thoma",
+      "creator": "stevethestevemon",
+      "animeName": "The Promised Neverland",
+      "description": "Thoma from The Promised Neverland",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:13.598Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44480d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44480d",
+      "cardName": "Nat",
+      "creator": "stevethestevemon",
+      "animeName": "The Promised Neverland",
+      "description": "Nat from The Promised Neverland",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:15.622Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44480b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44480b",
+      "cardName": "Pichimon",
+      "creator": "Daringa",
+      "animeName": "Digimon",
+      "description": "Pichimon from Digimon",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:17.913Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444801?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444801",
+      "cardName": "Master Soo",
+      "creator": "Agera",
+      "animeName": "Pucca",
+      "description": "Master Soo from Pucca",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:19.915Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447ff?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447ff",
+      "cardName": "Tobe",
+      "creator": "Agera",
+      "animeName": "Pucca",
+      "description": "Tobe from Pucca",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:21.960Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447fd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447fd",
+      "cardName": "Muscular",
+      "creator": "MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Muscular from My Hero Academia",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:24.100Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447f9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447f9",
+      "cardName": "Mio",
+      "creator": "Agera",
+      "animeName": "Pucca",
+      "description": "Mio from Pucca",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:26.103Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447f7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447f7",
+      "cardName": "Yuri",
+      "creator": "Rhianne Furukawa",
+      "animeName": "Arte",
+      "description": "Yuri from Arte",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:28.115Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4447ed?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4447ed",
+      "cardName": "Veronica",
+      "creator": "Rhianne Furukawa",
+      "animeName": "Arte",
+      "description": "Veronica from Arte",
+      "tier": "1",
+      "page": 466,
+      "scrapedAt": "2026-02-16T11:00:30.118Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:59:53.612Z",
+  "lastUpdated": "2026-02-16T11:00:30.160Z",
   "stats": {
-    "successRate": 94,
-    "totalAttempts": 426,
-    "successfulAttempts": 402
+    "successRate": 95,
+    "totalAttempts": 441,
+    "successfulAttempts": 417
   }
 }
