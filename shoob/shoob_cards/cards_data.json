@@ -1,5 +1,5 @@
 {
-  "totalCards": 7206,
+  "totalCards": 7221,
   "processedPages": [
     "1-1",
     "1-10",
@@ -448,6 +448,7 @@
     "1-5",
     "1-50",
     "1-500",
+    "1-501",
     "1-51",
     "1-52",
     "1-53",
@@ -79768,7 +79769,172 @@
       "tier": "1",
       "page": 500,
       "scrapedAt": "2026-02-16T11:53:14.034Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecc015509673e8eb29244?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecc015509673e8eb29244",
+      "cardName": "Risa Asakaze",
+      "creator": "Artist:Mui Mui むいちろ",
+      "animeName": "Hayate the Combat Butler",
+      "description": "Risa Asakaze from Hayate the Combat Butler",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:53:38.535Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbfd5509673e8eb29204?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbfd5509673e8eb29204",
+      "cardName": "Unogawa",
+      "creator": "Artist:laina",
+      "animeName": "How Clumsy You Are, Miss Ueno",
+      "description": "Unogawa from How Clumsy You Are, Miss Ueno",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:53:41.001Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbfd5509673e8eb291f5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbfd5509673e8eb291f5",
+      "cardName": "Kitanaga",
+      "creator": "Artist:laina",
+      "animeName": "How Clumsy You Are, Miss Ueno",
+      "description": "Kitanaga from How Clumsy You Are, Miss Ueno",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:53:43.331Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbfa5509673e8eb291d8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbfa5509673e8eb291d8",
+      "cardName": "Nishihara",
+      "creator": "Artist:laina",
+      "animeName": "How Clumsy You Are, Miss Ueno",
+      "description": "Nishihara from How Clumsy You Are, Miss Ueno",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:53:45.738Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbe55509673e8eb28fe7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbe55509673e8eb28fe7",
+      "cardName": "Rei Kiriyama",
+      "creator": "Card Maker:Fake Kung Fu",
+      "animeName": "March comes in like a lion",
+      "description": "Rei Kiriyama from March comes in like a lion",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:53:48.128Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbe35509673e8eb28fdf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbe35509673e8eb28fdf",
+      "cardName": "Yuusuke Takahashi",
+      "creator": "Card Maker:Fake Kung Fu",
+      "animeName": "March comes in like a lion",
+      "description": "Yuusuke Takahashi from March comes in like a lion",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:53:50.327Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbe15509673e8eb28fd9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbe15509673e8eb28fd9",
+      "cardName": "Eisaku Noguchi",
+      "creator": "Card Maker:Fake Kung Fu",
+      "animeName": "March comes in like a lion",
+      "description": "Eisaku Noguchi from March comes in like a lion",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:53:52.504Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbdf5509673e8eb28f5a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbdf5509673e8eb28f5a",
+      "cardName": "Issa Matsumoto",
+      "creator": "Card Maker:Fake Kung Fu",
+      "animeName": "March comes in like a lion",
+      "description": "Issa Matsumoto from March comes in like a lion",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:53:54.725Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbde5509673e8eb28eea?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbde5509673e8eb28eea",
+      "cardName": "Misaki",
+      "creator": "Card Maker:Fake Kung Fu",
+      "animeName": "March comes in like a lion",
+      "description": "Misaki from March comes in like a lion",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:53:56.933Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbdc5509673e8eb28ea4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbdc5509673e8eb28ea4",
+      "cardName": "Hanaoka",
+      "creator": "Card Maker:Fake Kung Fu",
+      "animeName": "March comes in like a lion",
+      "description": "Hanaoka from March comes in like a lion",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:53:59.201Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbda5509673e8eb28e90?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbda5509673e8eb28e90",
+      "cardName": "Takeshi Tsujii",
+      "creator": "Card Maker:Fake Kung Fu",
+      "animeName": "March comes in like a lion",
+      "description": "Takeshi Tsujii from March comes in like a lion",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:54:01.624Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbd15509673e8eb28d12?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbd15509673e8eb28d12",
+      "cardName": "Raidou Fujimoto",
+      "creator": "Card Maker:Fake Kung Fu",
+      "animeName": "March comes in like a lion",
+      "description": "Raidou Fujimoto from March comes in like a lion",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:54:04.144Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecbcf5509673e8eb28d0e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecbcf5509673e8eb28d0e",
+      "cardName": "Kengo Kumakura",
+      "creator": "Card Maker:Fake Kung Fu",
+      "animeName": "March comes in like a lion",
+      "description": "Kengo Kumakura from March comes in like a lion",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:54:06.630Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9f9eda1840a9e482bd3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9f9eda1840a9e482bd3",
+      "cardName": "Saki Kijima",
+      "creator": "Artist:Mui Mui むいちろ",
+      "animeName": "Hayate the Combat Butler",
+      "description": "Saki Kijima from Hayate the Combat Butler",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:54:10.932Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec9f0eda1840a9e482aff?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec9f0eda1840a9e482aff",
+      "cardName": "Danzo",
+      "creator": "Artist:chawizard",
+      "animeName": "Naruto",
+      "description": "Danzo from Naruto",
+      "tier": "1",
+      "page": 501,
+      "scrapedAt": "2026-02-16T11:54:13.524Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:53:14.036Z"
+  "lastUpdated": "2026-02-16T11:54:13.524Z"
 }
