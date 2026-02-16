@@ -1,5 +1,5 @@
 {
-  "totalCards": 6324,
+  "totalCards": 6338,
   "processedPages": [
     "1-1",
     "1-2",
@@ -439,6 +439,7 @@
     "1-436",
     "1-437",
     "1-438",
+    "1-439",
     "1-460",
     "1-461",
     "1-462"
@@ -70007,12 +70008,166 @@
       "tier": "1",
       "page": 438,
       "scrapedAt": "2026-02-16T10:40:04.097Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603be142ce054e02ebd63018?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603be142ce054e02ebd63018",
+      "cardName": "Yui Hanasaka",
+      "creator": "Esshwar",
+      "animeName": "One Room",
+      "description": "Yui Hanasaka from One Room",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:11.402Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603ad69955eaa514b914b119?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603ad69955eaa514b914b119",
+      "cardName": "Shigeru Kamado",
+      "creator": "Mui Mui むいちろ",
+      "animeName": "Demon Slayer",
+      "description": "Shigeru Kamado from Demon Slayer",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:13.482Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603ad4d355eaa514b914b0e7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603ad4d355eaa514b914b0e7",
+      "cardName": "Shouji Aizawa",
+      "creator": "manuelsousa13",
+      "animeName": "Beelzebub",
+      "description": "Shouji Aizawa from Beelzebub",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:15.414Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603ad10444e43978bb018612?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603ad10444e43978bb018612",
+      "cardName": "Marco Pagot",
+      "creator": "VILLA • Legion💜",
+      "animeName": "Porco Rosso",
+      "description": "Marco Pagot from Porco Rosso",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:17.314Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603ace22dc59f12d33a69627?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603ace22dc59f12d33a69627",
+      "cardName": "Thor von Flegel",
+      "creator": "seki",
+      "animeName": "Wise Man's Grandchild",
+      "description": "Thor von Flegel from Wise Man's Grandchild",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:19.219Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603acde5dc59f12d33a69624?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603acde5dc59f12d33a69624",
+      "cardName": "Charlie",
+      "creator": "HaveANiceDay",
+      "animeName": "Fullmetal Alchemist",
+      "description": "Charlie from Fullmetal Alchemist",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:21.300Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603acd7bdc59f12d33a69609?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603acd7bdc59f12d33a69609",
+      "cardName": "Zorome",
+      "creator": "Shubhdeep",
+      "animeName": "Darling in the Franxx",
+      "description": "Zorome from Darling in the Franxx",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:23.178Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6039edb99f35b83fcf5d70a1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6039edb99f35b83fcf5d70a1",
+      "cardName": "Olivia Stone",
+      "creator": "seki",
+      "animeName": "Wise Man's Grandchild",
+      "description": "Olivia Stone from Wise Man's Grandchild",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:25.231Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6039ec6c9f35b83fcf5d7075?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6039ec6c9f35b83fcf5d7075",
+      "cardName": "Kurenai Yuhi",
+      "creator": "Cynthia",
+      "animeName": "Naruto",
+      "description": "Kurenai Yuhi from Naruto",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:27.325Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60382f0828f17650a9083b37?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60382f0828f17650a9083b37",
+      "cardName": "Mitsuru",
+      "creator": "Shubhdeep",
+      "animeName": "Darling in the Franxx",
+      "description": "Mitsuru from Darling in the Franxx",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:29.224Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6036ccf8c93bed7829352c15?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6036ccf8c93bed7829352c15",
+      "cardName": "Aria",
+      "creator": "AYUSH_🐍",
+      "animeName": "Amanchu!",
+      "description": "Aria from Amanchu!",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:31.131Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60342ce4c49d856489a33fda?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60342ce4c49d856489a33fda",
+      "cardName": "Mari Kurihara",
+      "creator": "VILLA • Legion💜",
+      "animeName": "Prison School",
+      "description": "Mari Kurihara from Prison School",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:33.098Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/603308506ce7c7711692e039?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/603308506ce7c7711692e039",
+      "cardName": "Tensai Ikkyuu",
+      "creator": "Cin",
+      "animeName": "Nanana's Buried Treasure",
+      "description": "Tensai Ikkyuu from Nanana's Buried Treasure",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:40:35.170Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6031a5c8e75d566406740f34?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6031a5c8e75d566406740f34",
+      "cardName": "Ronove",
+      "creator": "Rinn",
+      "animeName": "Umineko no Naku Koro ni",
+      "description": "Ronove from Umineko no Naku Koro ni",
+      "tier": "1",
+      "page": 439,
+      "scrapedAt": "2026-02-16T10:43:23.798Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:40:04.098Z",
+  "lastUpdated": "2026-02-16T10:43:23.799Z",
   "stats": {
-    "successRate": 83,
-    "totalAttempts": 53,
-    "successfulAttempts": 44
+    "successRate": 78,
+    "totalAttempts": 74,
+    "successfulAttempts": 58
   }
 }
