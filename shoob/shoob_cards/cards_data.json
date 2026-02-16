@@ -1,5 +1,5 @@
 {
-  "totalCards": 7776,
+  "totalCards": 7791,
   "processedPages": [
     "1-1",
     "1-10",
@@ -489,6 +489,7 @@
     "1-536",
     "1-537",
     "1-538",
+    "1-539",
     "1-54",
     "1-55",
     "1-56",
@@ -86076,7 +86077,172 @@
       "tier": "1",
       "page": 538,
       "scrapedAt": "2026-02-16T12:28:16.845Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19ba0b9c4af380d4b960a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19ba0b9c4af380d4b960a",
+      "cardName": "Aries Shion",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Aries Shion from Saint Seiya",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:28:37.202Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b90b9c4af380d4b9551?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b90b9c4af380d4b9551",
+      "cardName": "Cygnus Hyouga",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Cygnus Hyouga from Saint Seiya",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:28:39.711Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b7eb9c4af380d4b92d5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b7eb9c4af380d4b92d5",
+      "cardName": "Aries Mu",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Aries Mu from Saint Seiya",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:28:42.112Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b7db9c4af380d4b92ca?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b7db9c4af380d4b92ca",
+      "cardName": "Sagitta Ptolemy",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Sagitta Ptolemy from Saint Seiya",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:28:44.613Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b76b9c4af380d4b9289?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b76b9c4af380d4b9289",
+      "cardName": "Seika",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Seika from Saint Seiya",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:28:47.102Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b5bb9c4af380d4b8e7a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b5bb9c4af380d4b8e7a",
+      "cardName": "Homare Kagayaki",
+      "creator": "Card Maker:Yukina",
+      "animeName": "Precure",
+      "description": "Homare Kagayaki from Precure",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:28:49.510Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b52b9c4af380d4b8dd4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b52b9c4af380d4b8dd4",
+      "cardName": "Alexei",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Alexei from Saint Seiya",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:28:51.896Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b4cb9c4af380d4b8dc7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b4cb9c4af380d4b8dc7",
+      "cardName": "Black Dragon",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Black Dragon from Saint Seiya",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:28:54.226Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b4bb9c4af380d4b8dc4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b4bb9c4af380d4b8dc4",
+      "cardName": "Aquarius Camus",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Saint Seiya",
+      "description": "Aquarius Camus from Saint Seiya",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:28:56.598Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b2eda1e9326feb1724b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b2eda1e9326feb1724b",
+      "cardName": "Shizuka Hozumi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arpeggio Of Blue Steel Ars Nova",
+      "description": "Shizuka Hozumi from Arpeggio Of Blue Steel Ars Nova",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:28:59.095Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b29da1e9326feb1712d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b29da1e9326feb1712d",
+      "cardName": "Toujuurou Osakabe",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arpeggio Of Blue Steel Ars Nova",
+      "description": "Toujuurou Osakabe from Arpeggio Of Blue Steel Ars Nova",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:29:01.811Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b20da1e9326feb170fa?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b20da1e9326feb170fa",
+      "cardName": "Tomohisa Kitakado",
+      "creator": "Card Maker:Yukina",
+      "animeName": "B-Project",
+      "description": "Tomohisa Kitakado from B-Project",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:29:04.528Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b1eda1e9326feb170f5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b1eda1e9326feb170f5",
+      "cardName": "Ryuuji Korekuni",
+      "creator": "Card Maker:Yukina",
+      "animeName": "B-Project",
+      "description": "Ryuuji Korekuni from B-Project",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:29:07.300Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b19da1e9326feb170b0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b19da1e9326feb170b0",
+      "cardName": "Momotarou Onzai",
+      "creator": "Card Maker:Yukina",
+      "animeName": "B-Project",
+      "description": "Momotarou Onzai from B-Project",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:29:09.817Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19b13da1e9326feb170a7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19b13da1e9326feb170a7",
+      "cardName": "Ryuujirou Kamikage",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arpeggio Of Blue Steel Ars Nova",
+      "description": "Ryuujirou Kamikage from Arpeggio Of Blue Steel Ars Nova",
+      "tier": "1",
+      "page": 539,
+      "scrapedAt": "2026-02-16T12:29:12.301Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:28:16.846Z"
+  "lastUpdated": "2026-02-16T12:29:12.304Z"
 }
