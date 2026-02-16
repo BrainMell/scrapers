@@ -1,4 +1,5 @@
 node_modules
 npm-debug.log
 pinterest/anime_memes_reactions.json
-.gitignore
+.git
+shoob/shoob_cards/*.tmp

@@ -140,12 +140,18 @@ class ShoobCardScraper {
     try {
       const token = process.env.GITHUB_TOKEN;
       const repoUrl = `https://${token}@github.com/BrainMell/scrapers.git`;
-      await execPromise('git config user.email "bot@scrapers.com"');
-      await execPromise('git config user.name "Scraper Bot"');
-      try { await execPromise('git rev-parse --is-inside-work-tree'); } catch (e) {
+      
+      // ENSURE GIT IS INITIALIZED FIRST
+      try { 
+        await execPromise('git rev-parse --is-inside-work-tree'); 
+      } catch (e) {
+        console.log('   🔧 Initializing git repository...');
         await execPromise('git init');
         await execPromise(`git remote add origin ${repoUrl}`);
       }
+
+      await execPromise('git config user.email "bot@scrapers.com"');
+      await execPromise('git config user.name "Scraper Bot"');
       await execPromise(`git remote set-url origin ${repoUrl}`);
       
       // ALIGN WITH REMOTE BEFORE COMMITTING
