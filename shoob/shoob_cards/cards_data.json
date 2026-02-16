@@ -1,5 +1,5 @@
 {
-  "totalCards": 6502,
+  "totalCards": 6517,
   "processedPages": [
     "1-1",
     "1-2",
@@ -451,6 +451,7 @@
     "1-448",
     "1-449",
     "1-450",
+    "1-451",
     "1-460",
     "1-461",
     "1-462"
@@ -71977,12 +71978,177 @@
       "tier": "1",
       "page": 450,
       "scrapedAt": "2026-02-16T10:52:37.515Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ca5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ca5",
+      "cardName": "Mitsuki",
+      "creator": "Cynthia",
+      "animeName": "Boruto",
+      "description": "Mitsuki from Boruto",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:52:45.922Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c9f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c9f",
+      "cardName": "Isami Toma",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "World Trigger",
+      "description": "Isami Toma from World Trigger",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:52:48.160Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c9d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c9d",
+      "cardName": "Chocho Akimichi",
+      "creator": "Lee?",
+      "animeName": "Boruto",
+      "description": "Chocho Akimichi from Boruto",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:52:50.063Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c9b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c9b",
+      "cardName": "Ryo Ishizaki",
+      "creator": "lust",
+      "animeName": "Captain Tsubasa",
+      "description": "Ryo Ishizaki from Captain Tsubasa",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:52:52.060Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c85?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c85",
+      "cardName": "Shinji Fuyushima",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "World Trigger",
+      "description": "Shinji Fuyushima from World Trigger",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:52:54.001Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c81?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c81",
+      "cardName": "Reo Shinozaki",
+      "creator": "Cloud",
+      "animeName": "Skate Leading Stars",
+      "description": "Reo Shinozaki from Skate Leading Stars",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:52:55.871Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c7f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c7f",
+      "cardName": "Akimitsu Mochizuki",
+      "creator": "Cloud",
+      "animeName": "Skate Leading Stars",
+      "description": "Akimitsu Mochizuki from Skate Leading Stars",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:52:57.862Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c79?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c79",
+      "cardName": "Mecha-Naruto",
+      "creator": "RhinoStar",
+      "animeName": "Naruto",
+      "description": "Mecha-Naruto from Naruto",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:52:59.918Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c75?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c75",
+      "cardName": "Kaoru Mizutani",
+      "creator": "hai",
+      "animeName": "A Whisker Away",
+      "description": "Kaoru Mizutani from A Whisker Away",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:53:02.004Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c73?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c73",
+      "cardName": "Kuroageha",
+      "creator": "Popo",
+      "animeName": "Mushibugyou",
+      "description": "Kuroageha from Mushibugyou",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:53:04.003Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c71?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c71",
+      "cardName": "Izumi Himekawa",
+      "creator": "Cloud",
+      "animeName": "Skate Leading Stars",
+      "description": "Izumi Himekawa from Skate Leading Stars",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:53:05.966Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c6f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c6f",
+      "cardName": "Kitsuchi",
+      "creator": "RhinoStar",
+      "animeName": "Naruto",
+      "description": "Kitsuchi from Naruto",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:53:08.078Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c6d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c6d",
+      "cardName": "Tomoyuki Kubota",
+      "creator": "Cloud",
+      "animeName": "Skate Leading Stars",
+      "description": "Tomoyuki Kubota from Skate Leading Stars",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:53:10.014Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c69?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c69",
+      "cardName": "Hayato Sasugai",
+      "creator": "Cloud",
+      "animeName": "Skate Leading Stars",
+      "description": "Hayato Sasugai from Skate Leading Stars",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:53:12.003Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c63?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c63",
+      "cardName": "Kojiro Hyuga",
+      "creator": "lust",
+      "animeName": "Captain Tsubasa",
+      "description": "Kojiro Hyuga from Captain Tsubasa",
+      "tier": "1",
+      "page": 451,
+      "scrapedAt": "2026-02-16T10:53:13.968Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:52:37.560Z",
+  "lastUpdated": "2026-02-16T10:53:13.970Z",
   "stats": {
     "successRate": 91,
-    "totalAttempts": 245,
-    "successfulAttempts": 222
+    "totalAttempts": 260,
+    "successfulAttempts": 237
   }
 }
