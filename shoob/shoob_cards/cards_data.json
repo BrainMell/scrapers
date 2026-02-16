@@ -1,5 +1,5 @@
 {
-  "totalCards": 7116,
+  "totalCards": 7131,
   "processedPages": [
     "1-1",
     "1-10",
@@ -440,6 +440,7 @@
     "1-492",
     "1-493",
     "1-494",
+    "1-495",
     "1-5",
     "1-50",
     "1-51",
@@ -78772,7 +78773,172 @@
       "tier": "1",
       "page": 494,
       "scrapedAt": "2026-02-16T11:47:53.425Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2a033e654e71a8beeb9e3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2a033e654e71a8beeb9e3",
+      "cardName": "Aya Arisugawa",
+      "creator": "Card Maker:Taiga Aisaka Fan Club",
+      "animeName": "Tonikaku Kawaii",
+      "description": "Aya Arisugawa from Tonikaku Kawaii",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:13.623Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff2746e9ac2cf368fe0aabf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff2746e9ac2cf368fe0aabf",
+      "cardName": "Quin",
+      "creator": "Card Maker:Famzi",
+      "animeName": "Death Parade",
+      "description": "Quin from Death Parade",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:16.026Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff260ef8fd97d70bf44cdc5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff260ef8fd97d70bf44cdc5",
+      "cardName": "Mondo",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Arcana Famiglia",
+      "description": "Mondo from Arcana Famiglia",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:18.395Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff20ed77bb8653be5c6dc15?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff20ed77bb8653be5c6dc15",
+      "cardName": "Hitoshi Ginjima",
+      "creator": "Card Maker:Kruggles",
+      "animeName": "Haikyuu!!",
+      "description": "Hitoshi Ginjima from Haikyuu!!",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:20.924Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff18f1f4ab1737ea04a517c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff18f1f4ab1737ea04a517c",
+      "cardName": "Numemon",
+      "creator": "Card Maker:Rakis29",
+      "animeName": "Digimon",
+      "description": "Numemon from Digimon",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:23.424Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff1429b2713b20706fcb3f7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff1429b2713b20706fcb3f7",
+      "cardName": "Saki Yamagishi",
+      "creator": "Card Maker:rachel💜",
+      "animeName": "Isshuukan Friends",
+      "description": "Saki Yamagishi from Isshuukan Friends",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:25.696Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff12dd703b7b475223ea2b8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff12dd703b7b475223ea2b8",
+      "cardName": "Morgiana",
+      "creator": "Card Maker:seki",
+      "animeName": "Magi",
+      "description": "Morgiana from Magi",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:28.017Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff12b56608dc057b6b72ede?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff12b56608dc057b6b72ede",
+      "cardName": "Pace",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Arcana Famiglia",
+      "description": "Pace from Arcana Famiglia",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:30.427Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff1268a4a97541b8f18155b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff1268a4a97541b8f18155b",
+      "cardName": "Abigail Jones",
+      "creator": "Card Maker:Cupid",
+      "animeName": "Great Pretender",
+      "description": "Abigail Jones from Great Pretender",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:32.703Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff121957bfc537345784a1c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff121957bfc537345784a1c",
+      "cardName": "Sandy",
+      "creator": "Card Maker:Piratax10",
+      "animeName": "Hamtaro",
+      "description": "Sandy from Hamtaro",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:35.042Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff121847bfc537345784a02?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff121847bfc537345784a02",
+      "cardName": "Nova",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Arcana Famiglia",
+      "description": "Nova from Arcana Famiglia",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:37.297Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff120f99316521be6f344be?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff120f99316521be6f344be",
+      "cardName": "Alibaba Saluja",
+      "creator": "Card Maker:seki",
+      "animeName": "Magi",
+      "description": "Alibaba Saluja from Magi",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:39.436Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff0f5ddcf2aaf6116b89203?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff0f5ddcf2aaf6116b89203",
+      "cardName": "Dexter",
+      "creator": "Card Maker:Piratax10",
+      "animeName": "Hamtaro",
+      "description": "Dexter from Hamtaro",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:41.648Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff0f4870b474207507a095e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff0f4870b474207507a095e",
+      "cardName": "Jolly",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Arcana Famiglia",
+      "description": "Jolly from Arcana Famiglia",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:43.938Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff0547c56538c0a2e009923?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff0547c56538c0a2e009923",
+      "cardName": "Dante",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Arcana Famiglia",
+      "description": "Dante from Arcana Famiglia",
+      "tier": "1",
+      "page": 495,
+      "scrapedAt": "2026-02-16T11:48:46.307Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:47:53.426Z"
+  "lastUpdated": "2026-02-16T11:48:46.309Z"
 }
