@@ -1,5 +1,5 @@
 {
-  "totalCards": 6907,
+  "totalCards": 6922,
   "processedPages": [
     "1-1",
     "1-2",
@@ -480,7 +480,8 @@
     "1-477",
     "1-478",
     "1-479",
-    "1-480"
+    "1-480",
+    "1-481"
   ],
   "cards": [
     {
@@ -76459,12 +76460,177 @@
       "tier": "1",
       "page": 480,
       "scrapedAt": "2026-02-16T11:08:55.215Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44449b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44449b",
+      "cardName": "Monzaemon",
+      "creator": "Rakis29",
+      "animeName": "Digimon",
+      "description": "Monzaemon from Digimon",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:06.007Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444499?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444499",
+      "cardName": "Ronge",
+      "creator": "Caxify",
+      "animeName": "Warlords of Sigrdrifa",
+      "description": "Ronge from Warlords of Sigrdrifa",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:08.116Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444497?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444497",
+      "cardName": "Schwi Dola",
+      "creator": "Anime blaze~",
+      "animeName": "No Game No Life",
+      "description": "Schwi Dola from No Game No Life",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:10.563Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44448d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44448d",
+      "cardName": "Tomomi Isogai",
+      "creator": "FizzyBrian",
+      "animeName": "Ikebukuro West Gate Park",
+      "description": "Tomomi Isogai from Ikebukuro West Gate Park",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:12.512Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444487?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444487",
+      "cardName": "Illy",
+      "creator": "Daringa",
+      "animeName": "Monster Girl Doctor",
+      "description": "Illy from Monster Girl Doctor",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:14.414Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444485?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444485",
+      "cardName": "Shichika Yasuri",
+      "creator": "Him 123",
+      "animeName": "Katanagatari",
+      "description": "Shichika Yasuri from Katanagatari",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:16.326Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444483?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444483",
+      "cardName": "Mismis",
+      "creator": "stevethestevemon",
+      "animeName": "KimiSen",
+      "description": "Mismis from KimiSen",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:18.336Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444481?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444481",
+      "cardName": "Yuri Kazami",
+      "creator": "Kronus",
+      "animeName": "Miss Caretaker of Sunohara-sou",
+      "description": "Yuri Kazami from Miss Caretaker of Sunohara-sou",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:20.215Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44447f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44447f",
+      "cardName": "Kyon's Sister",
+      "creator": "🍊✨ Yui ✨🍊",
+      "animeName": "The Melancholy of Haruhi Suzumiya",
+      "description": "Kyon's Sister from The Melancholy of Haruhi Suzumiya",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:22.203Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44447d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44447d",
+      "cardName": "Nono Kazuura",
+      "creator": "Caxify",
+      "animeName": "Warlords of Sigrdrifa",
+      "description": "Nono Kazuura from Warlords of Sigrdrifa",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:24.197Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44447b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44447b",
+      "cardName": "Lizbet Crown",
+      "creator": "Caxify",
+      "animeName": "Warlords of Sigrdrifa",
+      "description": "Lizbet Crown from Warlords of Sigrdrifa",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:26.125Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444479?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444479",
+      "cardName": "Sayaka Sumino",
+      "creator": "Lee?",
+      "animeName": "Aho Girl",
+      "description": "Sayaka Sumino from Aho Girl",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:28.078Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444477?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444477",
+      "cardName": "Atsushi Daikoku",
+      "creator": "Yukina",
+      "animeName": "B-Project",
+      "description": "Atsushi Daikoku from B-Project",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:30.067Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444475?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444475",
+      "cardName": "Glenn Litbeit",
+      "creator": "Daringa",
+      "animeName": "Monster Girl Doctor",
+      "description": "Glenn Litbeit from Monster Girl Doctor",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:34.910Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444471?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444471",
+      "cardName": "Mr. Asai",
+      "creator": "🍊✨ Yui ✨🍊",
+      "animeName": "Uzaki-chan Wants to Hang Out!",
+      "description": "Mr. Asai from Uzaki-chan Wants to Hang Out!",
+      "tier": "1",
+      "page": 481,
+      "scrapedAt": "2026-02-16T11:09:36.914Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:08:55.216Z",
+  "lastUpdated": "2026-02-16T11:09:36.915Z",
   "stats": {
     "successRate": 96,
-    "totalAttempts": 651,
-    "successfulAttempts": 627
+    "totalAttempts": 667,
+    "successfulAttempts": 642
   }
 }
