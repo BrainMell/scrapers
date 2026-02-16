@@ -1,5 +1,5 @@
 {
-  "totalCards": 6847,
+  "totalCards": 6862,
   "processedPages": [
     "1-1",
     "1-2",
@@ -476,7 +476,8 @@
     "1-473",
     "1-474",
     "1-475",
-    "1-476"
+    "1-476",
+    "1-477"
   ],
   "cards": [
     {
@@ -75795,12 +75796,177 @@
       "tier": "1",
       "page": 476,
       "scrapedAt": "2026-02-16T11:06:33.365Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444571?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444571",
+      "cardName": "Ken Sakoda",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Ken Sakoda from A3!",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:06:41.000Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44456d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44456d",
+      "cardName": "Isuke Matsukawa",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Isuke Matsukawa from A3!",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:06:42.969Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444569?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444569",
+      "cardName": "Daikoku",
+      "creator": "Famzi",
+      "animeName": "Noragami",
+      "description": "Daikoku from Noragami",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:06:44.922Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444563?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444563",
+      "cardName": "Zero Two",
+      "creator": "Agera",
+      "animeName": "Darling in the Franxx",
+      "description": "Zero Two from Darling in the Franxx",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:06:47.115Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444561?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444561",
+      "cardName": "Omi Fushimi",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Omi Fushimi from A3!",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:06:49.111Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44455f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44455f",
+      "cardName": "Yoichi Saotome",
+      "creator": "seki",
+      "animeName": "Owari no Seraph",
+      "description": "Yoichi Saotome from Owari no Seraph",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:06:51.024Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44455d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44455d",
+      "cardName": "Hatsu",
+      "creator": "Agera",
+      "animeName": "Tower of God",
+      "description": "Hatsu from Tower of God",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:06:53.098Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44455b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44455b",
+      "cardName": "Sakyou Furuichi",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Sakyou Furuichi from A3!",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:06:55.105Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444557?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444557",
+      "cardName": "Natsume",
+      "creator": "Him 123",
+      "animeName": "Deca-Dence",
+      "description": "Natsume from Deca-Dence",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:06:57.067Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444553?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444553",
+      "cardName": "Haruto Asuka",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Haruto Asuka from A3!",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:06:59.101Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44454f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44454f",
+      "cardName": "Hamsuke",
+      "creator": "Agera",
+      "animeName": "Overlord",
+      "description": "Hamsuke from Overlord",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:07:01.103Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e44454d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e44454d",
+      "cardName": "Mayu Suzumoto",
+      "creator": "Taiga Aisaka Fan Club",
+      "animeName": "Corpse Party",
+      "description": "Mayu Suzumoto from Corpse Party",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:07:03.106Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444549?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444549",
+      "cardName": "Yuki Yoshikawa",
+      "creator": "Agera",
+      "animeName": "Horimiya",
+      "description": "Yuki Yoshikawa from Horimiya",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:07:05.076Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444547?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444547",
+      "cardName": "Masumi Usui",
+      "creator": "zax.",
+      "animeName": "A3!",
+      "description": "Masumi Usui from A3!",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:07:07.099Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e444545?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e444545",
+      "cardName": "Tooru Ishikawa",
+      "creator": "Agera",
+      "animeName": "Horimiya",
+      "description": "Tooru Ishikawa from Horimiya",
+      "tier": "1",
+      "page": 477,
+      "scrapedAt": "2026-02-16T11:07:09.016Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:06:33.398Z",
+  "lastUpdated": "2026-02-16T11:07:09.017Z",
   "stats": {
     "successRate": 96,
-    "totalAttempts": 591,
-    "successfulAttempts": 567
+    "totalAttempts": 606,
+    "successfulAttempts": 582
   }
 }
