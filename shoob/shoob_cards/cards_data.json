@@ -1,5 +1,5 @@
 {
-  "totalCards": 6442,
+  "totalCards": 6457,
   "processedPages": [
     "1-1",
     "1-2",
@@ -447,6 +447,7 @@
     "1-444",
     "1-445",
     "1-446",
+    "1-447",
     "1-460",
     "1-461",
     "1-462"
@@ -71313,12 +71314,177 @@
       "tier": "1",
       "page": 446,
       "scrapedAt": "2026-02-16T10:50:15.576Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d8b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d8b",
+      "cardName": "Kyojuro Rengoku",
+      "creator": "Demon Hunter",
+      "animeName": "Demon Slayer",
+      "description": "Kyojuro Rengoku from Demon Slayer",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:23.111Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d85?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d85",
+      "cardName": "Erimi Mushibami",
+      "creator": "Fish",
+      "animeName": "Kakegurui",
+      "description": "Erimi Mushibami from Kakegurui",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:25.125Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d81?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d81",
+      "cardName": "Rhodrich",
+      "creator": "Cin",
+      "animeName": "The 8th Son, Are You Kidding Me?",
+      "description": "Rhodrich from The 8th Son, Are You Kidding Me?",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:27.072Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d7f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d7f",
+      "cardName": "Yuuzou Morisaki",
+      "creator": "lust",
+      "animeName": "Captain Tsubasa",
+      "description": "Yuuzou Morisaki from Captain Tsubasa",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:29.064Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d7b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d7b",
+      "cardName": "Lily Hoshina",
+      "creator": "ShoXie",
+      "animeName": "B: The Beginning",
+      "description": "Lily Hoshina from B: The Beginning",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:30.922Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d77?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d77",
+      "cardName": "Budmon",
+      "creator": "Mui Mui むいちろ Add me on ASN",
+      "animeName": "Digimon",
+      "description": "Budmon from Digimon",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:32.972Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d71?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d71",
+      "cardName": "Kallen Kozuki",
+      "creator": "Hakhu",
+      "animeName": "Code Geass",
+      "description": "Kallen Kozuki from Code Geass",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:34.898Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d61?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d61",
+      "cardName": "Tajima Uchiha",
+      "creator": "Cynthia",
+      "animeName": "Naruto",
+      "description": "Tajima Uchiha from Naruto",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:37.024Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d5f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d5f",
+      "cardName": "Kaela Yoshinaga",
+      "creator": "ShoXie",
+      "animeName": "B: The Beginning",
+      "description": "Kaela Yoshinaga from B: The Beginning",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:39.018Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d5d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d5d",
+      "cardName": "Gintoki Sakata",
+      "creator": "Nightshadow0234",
+      "animeName": "Gintama",
+      "description": "Gintoki Sakata from Gintama",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:40.959Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d59?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d59",
+      "cardName": "Akira Hayama",
+      "creator": "Hakhu",
+      "animeName": "Food Wars!",
+      "description": "Akira Hayama from Food Wars!",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:42.960Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d53?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d53",
+      "cardName": "Alfred Reinford",
+      "creator": "Cin",
+      "animeName": "The 8th Son, Are You Kidding Me?",
+      "description": "Alfred Reinford from The 8th Son, Are You Kidding Me?",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:44.986Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d4b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d4b",
+      "cardName": "Mitsuha Miyamizu",
+      "creator": "Onta",
+      "animeName": "Kimi no Na wa.",
+      "description": "Mitsuha Miyamizu from Kimi no Na wa.",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:47.002Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d49?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d49",
+      "cardName": "Makoto Soda",
+      "creator": "lust",
+      "animeName": "Captain Tsubasa",
+      "description": "Makoto Soda from Captain Tsubasa",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:48.998Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d47?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d47",
+      "cardName": "Keith Kazama Flick",
+      "creator": "ShoXie",
+      "animeName": "B: The Beginning",
+      "description": "Keith Kazama Flick from B: The Beginning",
+      "tier": "1",
+      "page": 447,
+      "scrapedAt": "2026-02-16T10:50:50.912Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:50:15.598Z",
+  "lastUpdated": "2026-02-16T10:50:50.915Z",
   "stats": {
-    "successRate": 88,
-    "totalAttempts": 185,
-    "successfulAttempts": 162
+    "successRate": 89,
+    "totalAttempts": 200,
+    "successfulAttempts": 177
   }
 }
