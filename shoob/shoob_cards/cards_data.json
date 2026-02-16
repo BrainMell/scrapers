@@ -1,5 +1,5 @@
 {
-  "totalCards": 7161,
+  "totalCards": 7176,
   "processedPages": [
     "1-1",
     "1-10",
@@ -443,6 +443,7 @@
     "1-495",
     "1-496",
     "1-497",
+    "1-498",
     "1-5",
     "1-50",
     "1-51",
@@ -79270,7 +79271,172 @@
       "tier": "1",
       "page": 497,
       "scrapedAt": "2026-02-16T11:50:33.707Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecfa825428d787cdc9210?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecfa825428d787cdc9210",
+      "cardName": "Mordred",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Radiant",
+      "description": "Mordred from Radiant",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:50:53.801Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecfa725428d787cdc91e8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecfa725428d787cdc91e8",
+      "cardName": "Queen Boudica",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Radiant",
+      "description": "Queen Boudica from Radiant",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:50:56.034Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecfa625428d787cdc91b2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecfa625428d787cdc91b2",
+      "cardName": "Sagramore",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Radiant",
+      "description": "Sagramore from Radiant",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:50:58.321Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf6c25428d787cdc8802?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf6c25428d787cdc8802",
+      "cardName": "Atsuko Urameshi",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Yu Yu Hakusho",
+      "description": "Atsuko Urameshi from Yu Yu Hakusho",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:00.711Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf6b25428d787cdc87d4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf6b25428d787cdc87d4",
+      "cardName": "Genkai",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Yu Yu Hakusho",
+      "description": "Genkai from Yu Yu Hakusho",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:03.315Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf6b25428d787cdc87cc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf6b25428d787cdc87cc",
+      "cardName": "Hiei",
+      "creator": "Artist:Battle Hardened",
+      "animeName": "Yu Yu Hakusho",
+      "description": "Hiei from Yu Yu Hakusho",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:05.722Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf6725428d787cdc87a9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf6725428d787cdc87a9",
+      "cardName": "Jorge Soatome",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Yu Yu Hakusho",
+      "description": "Jorge Soatome from Yu Yu Hakusho",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:08.123Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf6725428d787cdc87a3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf6725428d787cdc87a3",
+      "cardName": "Keiko Yukimura",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Yu Yu Hakusho",
+      "description": "Keiko Yukimura from Yu Yu Hakusho",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:10.424Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf6725428d787cdc8798?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf6725428d787cdc8798",
+      "cardName": "Koenma Jr",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Yu Yu Hakusho",
+      "description": "Koenma Jr from Yu Yu Hakusho",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:12.716Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf6725428d787cdc8794?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf6725428d787cdc8794",
+      "cardName": "Kurama",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Yu Yu Hakusho",
+      "description": "Kurama from Yu Yu Hakusho",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:15.136Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf6225428d787cdc860b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf6225428d787cdc860b",
+      "cardName": "Puu",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Yu Yu Hakusho",
+      "description": "Puu from Yu Yu Hakusho",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:17.328Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf6025428d787cdc84a7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf6025428d787cdc84a7",
+      "cardName": "Shinobu Sensui",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Yu Yu Hakusho",
+      "description": "Shinobu Sensui from Yu Yu Hakusho",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:19.550Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf3925428d787cdc7e44?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf3925428d787cdc7e44",
+      "cardName": "Boota",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Gurren Lagann",
+      "description": "Boota from Gurren Lagann",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:21.723Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf3725428d787cdc7e3c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf3725428d787cdc7e3c",
+      "cardName": "Father Magin",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Gurren Lagann",
+      "description": "Father Magin from Gurren Lagann",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:24.136Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feecf3525428d787cdc7e33?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feecf3525428d787cdc7e33",
+      "cardName": "Maosha",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Gurren Lagann",
+      "description": "Maosha from Gurren Lagann",
+      "tier": "1",
+      "page": 498,
+      "scrapedAt": "2026-02-16T11:51:26.425Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:50:33.708Z"
+  "lastUpdated": "2026-02-16T11:51:26.426Z"
 }
