@@ -1,5 +1,5 @@
 {
-  "totalCards": 7746,
+  "totalCards": 7761,
   "processedPages": [
     "1-1",
     "1-10",
@@ -487,6 +487,7 @@
     "1-534",
     "1-535",
     "1-536",
+    "1-537",
     "1-54",
     "1-55",
     "1-56",
@@ -85744,7 +85745,172 @@
       "tier": "1",
       "page": 536,
       "scrapedAt": "2026-02-16T12:26:24.022Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19cdfb9c4af380d4ba79d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19cdfb9c4af380d4ba79d",
+      "cardName": "Yoshinori Sakai",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Giant Killing",
+      "description": "Yoshinori Sakai from Giant Killing",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:26:44.521Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19cd0b9c4af380d4ba772?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19cd0b9c4af380d4ba772",
+      "cardName": "Kosei Goto",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Giant Killing",
+      "description": "Kosei Goto from Giant Killing",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:26:47.023Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19cc4b9c4af380d4ba6de?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19cc4b9c4af380d4ba6de",
+      "cardName": "Miss Omiya",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Kiniro Mosaic",
+      "description": "Miss Omiya from Kiniro Mosaic",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:26:49.414Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19cc2b9c4af380d4ba6cd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19cc2b9c4af380d4ba6cd",
+      "cardName": "Mrs Cartelet",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Kiniro Mosaic",
+      "description": "Mrs Cartelet from Kiniro Mosaic",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:26:51.923Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19cbcb9c4af380d4ba686?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19cbcb9c4af380d4ba686",
+      "cardName": "Mitsuki Inokuma",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Kiniro Mosaic",
+      "description": "Mitsuki Inokuma from Kiniro Mosaic",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:26:54.334Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19cbbb9c4af380d4ba67e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19cbbb9c4af380d4ba67e",
+      "cardName": "Kota Inokuma",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Kiniro Mosaic",
+      "description": "Kota Inokuma from Kiniro Mosaic",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:26:56.813Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19cb9b9c4af380d4ba67a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19cb9b9c4af380d4ba67a",
+      "cardName": "Kana Higurashi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Kiniro Mosaic",
+      "description": "Kana Higurashi from Kiniro Mosaic",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:26:59.500Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19c82b9c4af380d4ba41e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19c82b9c4af380d4ba41e",
+      "cardName": "Yukana",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Daily Lives of Highschool Boys",
+      "description": "Yukana from Daily Lives of Highschool Boys",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:27:02.433Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19c7bb9c4af380d4ba3d6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19c7bb9c4af380d4ba3d6",
+      "cardName": "Karin Zaizen",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Keppeki! Danshi! Aoyama Kun",
+      "description": "Karin Zaizen from Keppeki! Danshi! Aoyama Kun",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:27:05.205Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19c51b9c4af380d4b9f47?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19c51b9c4af380d4b9f47",
+      "cardName": "Vice President",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Daily Lives of Highschool Boys",
+      "description": "Vice President from Daily Lives of Highschool Boys",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:27:07.916Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19c4fb9c4af380d4b9f40?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19c4fb9c4af380d4b9f40",
+      "cardName": "Takahiro Mastumoto",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Daily Lives of Highschool Boys",
+      "description": "Takahiro Mastumoto from Daily Lives of Highschool Boys",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:27:10.399Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19c09b9c4af380d4b9dae?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19c09b9c4af380d4b9dae",
+      "cardName": "Principal",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Daily Lives of Highschool Boys",
+      "description": "Principal from Daily Lives of Highschool Boys",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:27:12.909Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19c07b9c4af380d4b9d89?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19c07b9c4af380d4b9d89",
+      "cardName": "Student Council President",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Daily Lives of Highschool Boys",
+      "description": "Student Council President from Daily Lives of Highschool Boys",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:27:15.527Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19c04b9c4af380d4b9d6c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19c04b9c4af380d4b9d6c",
+      "cardName": "Mitsuo",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Daily Lives of Highschool Boys",
+      "description": "Mitsuo from Daily Lives of Highschool Boys",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:27:18.144Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19c02b9c4af380d4b9d60?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19c02b9c4af380d4b9d60",
+      "cardName": "Tadakuni's Little Sister",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Daily Lives of Highschool Boys",
+      "description": "Tadakuni's Little Sister from Daily Lives of Highschool Boys",
+      "tier": "1",
+      "page": 537,
+      "scrapedAt": "2026-02-16T12:27:20.534Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:26:24.024Z"
+  "lastUpdated": "2026-02-16T12:27:20.590Z"
 }
