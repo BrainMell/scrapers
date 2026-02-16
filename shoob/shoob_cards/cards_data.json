@@ -1,5 +1,5 @@
 {
-  "totalCards": 7671,
+  "totalCards": 7686,
   "processedPages": [
     "1-1",
     "1-10",
@@ -482,6 +482,7 @@
     "1-53",
     "1-530",
     "1-531",
+    "1-532",
     "1-54",
     "1-55",
     "1-56",
@@ -84914,7 +84915,172 @@
       "tier": "1",
       "page": 531,
       "scrapedAt": "2026-02-16T12:21:41.520Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e1fb9c4af380d4bb362?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e1fb9c4af380d4bb362",
+      "cardName": "Allos Piruluk",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Lostorage Incited Wixoss",
+      "description": "Allos Piruluk from Lostorage Incited Wixoss",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:01.897Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e0eb9c4af380d4bb2de?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e0eb9c4af380d4bb2de",
+      "cardName": "Yukime",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Lostorage Incited Wixoss",
+      "description": "Yukime from Lostorage Incited Wixoss",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:04.602Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19df8b9c4af380d4bb267?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19df8b9c4af380d4bb267",
+      "cardName": "Kagari Yukino",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Lostorage Incited Wixoss",
+      "description": "Kagari Yukino from Lostorage Incited Wixoss",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:07.124Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19df4b9c4af380d4bb201?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19df4b9c4af380d4bb201",
+      "cardName": "Guzuko",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Lostorage Incited Wixoss",
+      "description": "Guzuko from Lostorage Incited Wixoss",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:09.595Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19dd0b9c4af380d4bb051?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19dd0b9c4af380d4bb051",
+      "cardName": "Shou Sa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Kingdom",
+      "description": "Shou Sa from Kingdom",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:12.025Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19dceb9c4af380d4bb04d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19dceb9c4af380d4bb04d",
+      "cardName": "Shinobu Inuyose",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "D4DJ: First Mix",
+      "description": "Shinobu Inuyose from D4DJ: First Mix",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:14.607Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19dbfb9c4af380d4baf8c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19dbfb9c4af380d4baf8c",
+      "cardName": "Saori Hidaka",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "D4DJ: First Mix",
+      "description": "Saori Hidaka from D4DJ: First Mix",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:17.118Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19dbbb9c4af380d4baf56?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19dbbb9c4af380d4baf56",
+      "cardName": "Saki Izumo",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "D4DJ: First Mix",
+      "description": "Saki Izumo from D4DJ: First Mix",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:19.627Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19db9b9c4af380d4baf3a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19db9b9c4af380d4baf3a",
+      "cardName": "Li Chaoyang",
+      "creator": "Card Maker:Yukina",
+      "animeName": "I★Chu: Halfway Through the Idol",
+      "description": "Li Chaoyang from I★Chu: Halfway Through the Idol",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:22.318Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19db5b9c4af380d4baf1a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19db5b9c4af380d4baf1a",
+      "cardName": "Usui Yuuta",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Usui Yuuta from Days",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:24.724Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19db3b9c4af380d4baf15?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19db3b9c4af380d4baf15",
+      "cardName": "Ubukata Chikako",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Ubukata Chikako from Days",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:27.304Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19db1b9c4af380d4baf11?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19db1b9c4af380d4baf11",
+      "cardName": "Tsukamoto Tsukushi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Tsukamoto Tsukushi from Days",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:29.792Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19da9b9c4af380d4bae1f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19da9b9c4af380d4bae1f",
+      "cardName": "Nakijin Shou",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Nakijin Shou from Days",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:32.316Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19da7b9c4af380d4bae15?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19da7b9c4af380d4bae15",
+      "cardName": "Narukami Shuuji",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Narukami Shuuji from Days",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:34.797Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19da6b9c4af380d4bae0f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19da6b9c4af380d4bae0f",
+      "cardName": "Nitobe Tetsuya",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Nitobe Tetsuya from Days",
+      "tier": "1",
+      "page": 532,
+      "scrapedAt": "2026-02-16T12:22:37.226Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:21:41.522Z"
+  "lastUpdated": "2026-02-16T12:22:37.228Z"
 }
