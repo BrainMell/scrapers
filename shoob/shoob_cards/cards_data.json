@@ -1,5 +1,5 @@
 {
-  "totalCards": 6966,
+  "totalCards": 6981,
   "processedPages": [
     "1-1",
     "1-10",
@@ -429,6 +429,7 @@
     "1-482",
     "1-483",
     "1-484",
+    "1-485",
     "1-49",
     "1-5",
     "1-50",
@@ -77112,7 +77113,172 @@
       "tier": "1",
       "page": 484,
       "scrapedAt": "2026-02-16T11:24:11.007Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600a05dd27e1932691974407?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600a05dd27e1932691974407",
+      "cardName": "Moeha Fujiwara",
+      "creator": "Card Maker:Rici 💔🖤",
+      "animeName": "Kaguya-sama: Love is War",
+      "description": "Moeha Fujiwara from Kaguya-sama: Love is War",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:24:55.902Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6009ea9d97cba6441cb63c0b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6009ea9d97cba6441cb63c0b",
+      "cardName": "Chapmon",
+      "creator": "Card Maker:Mui Mui むいちろ Add me on ASN",
+      "animeName": "Digimon",
+      "description": "Chapmon from Digimon",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:24:58.450Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60097a5217a43f26d7e9386e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60097a5217a43f26d7e9386e",
+      "cardName": "Mikhail Jirov",
+      "creator": "Card Maker:Rici 💔🖤",
+      "animeName": "Sirius",
+      "description": "Mikhail Jirov from Sirius",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:01.598Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600979ca856d347c9603c431?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600979ca856d347c9603c431",
+      "cardName": "Masaoka Yuuya",
+      "creator": "Card Maker:Fish",
+      "animeName": "Domestic Girlfriend",
+      "description": "Masaoka Yuuya from Domestic Girlfriend",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:03.926Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6008c59c8c934e24a70d5480?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6008c59c8c934e24a70d5480",
+      "cardName": "Terano Totobami",
+      "creator": "Card Maker:Fish",
+      "animeName": "Kakegurui",
+      "description": "Terano Totobami from Kakegurui",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:06.434Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60089c7b05be864173b2c989?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60089c7b05be864173b2c989",
+      "cardName": "Moguza",
+      "creator": "Card Maker:Mui Mui むいちろ Add me on ASN",
+      "animeName": "Hai to Gensou no Grimgar",
+      "description": "Moguza from Hai to Gensou no Grimgar",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:08.801Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6007c1514aecd64ebbb8695c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6007c1514aecd64ebbb8695c",
+      "cardName": "Ena Saito",
+      "creator": "Card Maker:ShoXie",
+      "animeName": "Yuru Camp",
+      "description": "Ena Saito from Yuru Camp",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:11.042Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60079fb1a1af021f3a7ee380?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60079fb1a1af021f3a7ee380",
+      "cardName": "Kuraha",
+      "creator": "Card Maker:`Sap1q",
+      "animeName": "Noragami",
+      "description": "Kuraha from Noragami",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:13.352Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60079f5fa1af021f3a7ee2df?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60079f5fa1af021f3a7ee2df",
+      "cardName": "Kotarou Katsura",
+      "creator": "Card Maker:Nightshadow0234",
+      "animeName": "Gintama",
+      "description": "Kotarou Katsura from Gintama",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:16.017Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60079f4ca1af021f3a7ee238?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60079f4ca1af021f3a7ee238",
+      "cardName": "Nagatomi Maru",
+      "creator": "Card Maker:Popo",
+      "animeName": "Mushibugyou",
+      "description": "Nagatomi Maru from Mushibugyou",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:18.300Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60079ed3dd06ec089ad3417e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60079ed3dd06ec089ad3417e",
+      "cardName": "Kazue Sonokawa",
+      "creator": "Card Maker:Piratax10",
+      "animeName": "Sabagebu!",
+      "description": "Kazue Sonokawa from Sabagebu!",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:20.627Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60079ec7dd06ec089ad3415e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60079ec7dd06ec089ad3415e",
+      "cardName": "Wendelin Von Benno Baumeister",
+      "creator": "Card Maker:Cin",
+      "animeName": "The 8th Son, Are You Kidding Me?",
+      "description": "Wendelin Von Benno Baumeister from The 8th Son, Are You Kidding Me?",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:23.105Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60078061b4f863665c689450?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60078061b4f863665c689450",
+      "cardName": "Dragon Village Elder",
+      "creator": "Card Maker:Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Dragon Village Elder from Rage of Bahamut",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:25.529Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60070f69cfce8b58da6e0e7f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60070f69cfce8b58da6e0e7f",
+      "cardName": "Reigen Arataka",
+      "creator": "Card Maker:VILLA • Legion💜",
+      "animeName": "Mob Psycho 100",
+      "description": "Reigen Arataka from Mob Psycho 100",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:29.924Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60070d60404d00594ec32312?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60070d60404d00594ec32312",
+      "cardName": "Yuliy",
+      "creator": "Card Maker:Rici 💔🖤",
+      "animeName": "Sirius",
+      "description": "Yuliy from Sirius",
+      "tier": "1",
+      "page": 485,
+      "scrapedAt": "2026-02-16T11:25:32.425Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:24:11.009Z"
+  "lastUpdated": "2026-02-16T11:25:32.427Z"
 }
