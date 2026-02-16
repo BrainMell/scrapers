@@ -1,5 +1,5 @@
 {
-  "totalCards": 7356,
+  "totalCards": 7371,
   "processedPages": [
     "1-1",
     "1-10",
@@ -459,6 +459,7 @@
     "1-509",
     "1-51",
     "1-510",
+    "1-511",
     "1-52",
     "1-53",
     "1-54",
@@ -81428,7 +81429,172 @@
       "tier": "1",
       "page": 510,
       "scrapedAt": "2026-02-16T12:02:25.814Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec49263adff0bf7e77973?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec49263adff0bf7e77973",
+      "cardName": "Michitaka",
+      "creator": "Artist:Uncle Hap",
+      "animeName": "Log Horizon",
+      "description": "Michitaka from Log Horizon",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:02:46.227Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec48963adff0bf7e778fa?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec48963adff0bf7e778fa",
+      "cardName": "Sukamon",
+      "creator": "Artist:chawizard",
+      "animeName": "Digimon",
+      "description": "Sukamon from Digimon",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:02:48.798Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec47a63adff0bf7e7777a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec47a63adff0bf7e7777a",
+      "cardName": "Hiro Ryugasaki",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Shadowverse",
+      "description": "Hiro Ryugasaki from Shadowverse",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:02:51.037Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec47963adff0bf7e77778?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec47963adff0bf7e77778",
+      "cardName": "Kai Ijuin",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Shadowverse",
+      "description": "Kai Ijuin from Shadowverse",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:02:53.410Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec47763adff0bf7e77776?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec47763adff0bf7e77776",
+      "cardName": "Kazuki Shindo",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Shadowverse",
+      "description": "Kazuki Shindo from Shadowverse",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:02:55.718Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec47663adff0bf7e77765?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec47663adff0bf7e77765",
+      "cardName": "Lucia Yonazuki",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Shadowverse",
+      "description": "Lucia Yonazuki from Shadowverse",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:02:58.018Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec47463adff0bf7e77760?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec47463adff0bf7e77760",
+      "cardName": "Maura Aberald",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Shadowverse",
+      "description": "Maura Aberald from Shadowverse",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:03:00.517Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec47363adff0bf7e7775b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec47363adff0bf7e7775b",
+      "cardName": "Mimori Amamiya",
+      "creator": "Artist:RoseyRose",
+      "animeName": "Shadowverse",
+      "description": "Mimori Amamiya from Shadowverse",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:03:03.113Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec47263adff0bf7e77756?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec47263adff0bf7e77756",
+      "cardName": "Henrietta",
+      "creator": "Artist:Uncle Hap",
+      "animeName": "Log Horizon",
+      "description": "Henrietta from Log Horizon",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:03:05.520Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec47063adff0bf7e77752?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec47063adff0bf7e77752",
+      "cardName": "Isaac",
+      "creator": "Artist:Uncle Hap",
+      "animeName": "Log Horizon",
+      "description": "Isaac from Log Horizon",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:03:07.913Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec46e63adff0bf7e7771a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec46e63adff0bf7e7771a",
+      "cardName": "Isuzu",
+      "creator": "Artist:Uncle Hap",
+      "animeName": "Log Horizon",
+      "description": "Isuzu from Log Horizon",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:03:10.210Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec46d63adff0bf7e77712?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec46d63adff0bf7e77712",
+      "cardName": "Kanami",
+      "creator": "Artist:Uncle Hap",
+      "animeName": "Log Horizon",
+      "description": "Kanami from Log Horizon",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:03:12.707Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec46b63adff0bf7e7770d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec46b63adff0bf7e7770d",
+      "cardName": "Karashin",
+      "creator": "Artist:Uncle Hap",
+      "animeName": "Log Horizon",
+      "description": "Karashin from Log Horizon",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:03:15.032Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec46a63adff0bf7e7770b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec46a63adff0bf7e7770b",
+      "cardName": "Krusty",
+      "creator": "Artist:Uncle Hap",
+      "animeName": "Log Horizon",
+      "description": "Krusty from Log Horizon",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:03:17.421Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f3ea?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f3ea",
+      "cardName": "Hougetsu Shimamura",
+      "creator": "Card Maker:Agera",
+      "animeName": "Adachi to Shimamura",
+      "description": "Hougetsu Shimamura from Adachi to Shimamura",
+      "tier": "1",
+      "page": 511,
+      "scrapedAt": "2026-02-16T12:03:19.696Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:02:25.815Z"
+  "lastUpdated": "2026-02-16T12:03:19.696Z"
 }
