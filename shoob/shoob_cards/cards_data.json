@@ -1,5 +1,5 @@
 {
-  "totalCards": 7641,
+  "totalCards": 7656,
   "processedPages": [
     "1-1",
     "1-10",
@@ -480,6 +480,7 @@
     "1-528",
     "1-529",
     "1-53",
+    "1-530",
     "1-54",
     "1-55",
     "1-56",
@@ -84582,7 +84583,172 @@
       "tier": "1",
       "page": 529,
       "scrapedAt": "2026-02-16T12:19:51.719Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e9db9c4af380d4bba12?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e9db9c4af380d4bba12",
+      "cardName": "Albireo Imma",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "UQ Holder! Mahou Sensi Negima 2",
+      "description": "Albireo Imma from UQ Holder! Mahou Sensi Negima 2",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:11.929Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e98b9c4af380d4bb9fd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e98b9c4af380d4bb9fd",
+      "cardName": "Nao Shinkawa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Nao Shinkawa from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:14.412Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e96b9c4af380d4bb9f4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e96b9c4af380d4bb9f4",
+      "cardName": "Hironori Madoka",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Hironori Madoka from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:16.919Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e94b9c4af380d4bb9d6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e94b9c4af380d4bb9d6",
+      "cardName": "Mitsuhide Kisa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Mitsuhide Kisa from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:19.316Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e92b9c4af380d4bb9cd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e92b9c4af380d4bb9cd",
+      "cardName": "Mui Kayana",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Mui Kayana from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:21.831Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e90b9c4af380d4bb9be?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e90b9c4af380d4bb9be",
+      "cardName": "Hisamitsu Isokawa",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Hisamitsu Isokawa from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:24.302Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e8eb9c4af380d4bb9b3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e8eb9c4af380d4bb9b3",
+      "cardName": "Hiroshi Iketani",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Hiroshi Iketani from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:26.721Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e8bb9c4af380d4bb9ac?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e8bb9c4af380d4bb9ac",
+      "cardName": "Ryosuke Endo",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Ryosuke Endo from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:29.121Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e82b9c4af380d4bb95b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e82b9c4af380d4bb95b",
+      "cardName": "Tarou Takanashi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Tarou Takanashi from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:31.696Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e80b9c4af380d4bb956?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e80b9c4af380d4bb956",
+      "cardName": "Kouichi Tateishi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Kouichi Tateishi from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:34.195Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e7fb9c4af380d4bb950?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e7fb9c4af380d4bb950",
+      "cardName": "Mari Tateo",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Mari Tateo from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:36.709Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e7bb9c4af380d4bb947?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e7bb9c4af380d4bb947",
+      "cardName": "Tomigaya",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Tomigaya from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:39.118Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e76b9c4af380d4bb929?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e76b9c4af380d4bb929",
+      "cardName": "Takumi Yarase",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Takumi Yarase from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:41.715Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e6bb9c4af380d4bb908?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e6bb9c4af380d4bb908",
+      "cardName": "Shigeru's Wife",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Shigeru's Wife from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:44.197Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19e65b9c4af380d4bb820?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19e65b9c4af380d4bb820",
+      "cardName": "Sara Satou",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Shirobako",
+      "description": "Sara Satou from Shirobako",
+      "tier": "1",
+      "page": 530,
+      "scrapedAt": "2026-02-16T12:20:46.734Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:19:51.721Z"
+  "lastUpdated": "2026-02-16T12:20:46.735Z"
 }
