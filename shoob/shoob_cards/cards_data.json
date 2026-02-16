@@ -1,5 +1,5 @@
 {
-  "totalCards": 7326,
+  "totalCards": 7341,
   "processedPages": [
     "1-1",
     "1-10",
@@ -456,6 +456,7 @@
     "1-506",
     "1-507",
     "1-508",
+    "1-509",
     "1-51",
     "1-52",
     "1-53",
@@ -81096,7 +81097,172 @@
       "tier": "1",
       "page": 508,
       "scrapedAt": "2026-02-16T12:00:35.826Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec52b63adff0bf7e780a2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec52b63adff0bf7e780a2",
+      "cardName": "Homura",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Homura from Dog Days",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:00:57.529Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec52963adff0bf7e78077?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec52963adff0bf7e78077",
+      "cardName": "Evita Salles",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Evita Salles from Dog Days",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:00.638Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec52863adff0bf7e77fda?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec52863adff0bf7e77fda",
+      "cardName": "Emilio Alcide",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Emilio Alcide from Dog Days",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:03.143Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec52663adff0bf7e77fd4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec52663adff0bf7e77fd4",
+      "cardName": "Callaway Risler",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Callaway Risler from Dog Days",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:05.695Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec52563adff0bf7e77fcc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec52563adff0bf7e77fcc",
+      "cardName": "Amelita Tremper",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Amelita Tremper from Dog Days",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:08.229Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4fa63adff0bf7e77ebe?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4fa63adff0bf7e77ebe",
+      "cardName": "Redd White",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Redd White from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:10.630Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4db63adff0bf7e77dc1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4db63adff0bf7e77dc1",
+      "cardName": "Frank Sahwit",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Frank Sahwit from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:13.090Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4d963adff0bf7e77d9a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4d963adff0bf7e77d9a",
+      "cardName": "Franziska Von Karma",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Franziska Von Karma from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:15.616Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4d863adff0bf7e77d96?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4d863adff0bf7e77d96",
+      "cardName": "Godot",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Godot from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:18.010Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4d663adff0bf7e77d94?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4d663adff0bf7e77d94",
+      "cardName": "Hannah England",
+      "creator": "Artist:Leah",
+      "animeName": "Little Witch Academia",
+      "description": "Hannah England from Little Witch Academia",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:20.325Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4d563adff0bf7e77d92?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4d563adff0bf7e77d92",
+      "cardName": "Kay Faraday",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Kay Faraday from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:22.724Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4d363adff0bf7e77d5b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4d363adff0bf7e77d5b",
+      "cardName": "Lotta Hart",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Lotta Hart from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:25.095Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4d163adff0bf7e77d56?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4d163adff0bf7e77d56",
+      "cardName": "Manfred Von Karma",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Manfred Von Karma from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:27.417Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4d063adff0bf7e77d54?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4d063adff0bf7e77d54",
+      "cardName": "Marijolaine",
+      "creator": "Artist:Leah",
+      "animeName": "Little Witch Academia",
+      "description": "Marijolaine from Little Witch Academia",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:29.801Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec4cf63adff0bf7e77d4e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec4cf63adff0bf7e77d4e",
+      "cardName": "Matt Engarde",
+      "creator": "Artist:Leah",
+      "animeName": "Phoenix Wright: Ace Attorney",
+      "description": "Matt Engarde from Phoenix Wright: Ace Attorney",
+      "tier": "1",
+      "page": 509,
+      "scrapedAt": "2026-02-16T12:01:32.329Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:00:35.895Z"
+  "lastUpdated": "2026-02-16T12:01:32.330Z"
 }
