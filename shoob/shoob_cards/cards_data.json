@@ -1,5 +1,5 @@
 {
-  "totalCards": 6996,
+  "totalCards": 7011,
   "processedPages": [
     "1-1",
     "1-10",
@@ -431,6 +431,7 @@
     "1-484",
     "1-485",
     "1-486",
+    "1-487",
     "1-49",
     "1-5",
     "1-50",
@@ -77444,7 +77445,172 @@
       "tier": "1",
       "page": 486,
       "scrapedAt": "2026-02-16T11:26:14.405Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6003132001ebff443f1f97f1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6003132001ebff443f1f97f1",
+      "cardName": "Daisuke Ono",
+      "creator": "Card Maker:Kronus",
+      "animeName": "Lucky Star",
+      "description": "Daisuke Ono from Lucky Star",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:00.082Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600312a801ebff443f1f95cb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600312a801ebff443f1f95cb",
+      "cardName": "Momoe Sawaki",
+      "creator": "Card Maker:Sleepy Yui",
+      "animeName": "Wonder Egg Priority",
+      "description": "Momoe Sawaki from Wonder Egg Priority",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:02.763Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600312a601ebff443f1f95c5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600312a601ebff443f1f95c5",
+      "cardName": "Rika Kawai",
+      "creator": "Card Maker:Sleepy Yui",
+      "animeName": "Wonder Egg Priority",
+      "description": "Rika Kawai from Wonder Egg Priority",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:06.253Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600312a101ebff443f1f9562?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600312a101ebff443f1f9562",
+      "cardName": "Neiru Aonuma",
+      "creator": "Card Maker:Sleepy Yui",
+      "animeName": "Wonder Egg Priority",
+      "description": "Neiru Aonuma from Wonder Egg Priority",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:08.562Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6003127a01ebff443f1f9467?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6003127a01ebff443f1f9467",
+      "cardName": "Frankenzombie",
+      "creator": "Card Maker:Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Frankenzombie from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:10.973Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6003123701ebff443f1f914b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6003123701ebff443f1f914b",
+      "cardName": "Castle Grunt Goblin",
+      "creator": "Card Maker:Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Castle Grunt Goblin from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:13.430Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60027af925a2d735d70613cd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60027af925a2d735d70613cd",
+      "cardName": "Shinji Ikari",
+      "creator": "Card Maker:Jean horse face",
+      "animeName": "Neon Genesis Evangelion",
+      "description": "Shinji Ikari from Neon Genesis Evangelion",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:16.078Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600049af821cfe60969de2c7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600049af821cfe60969de2c7",
+      "cardName": "Hiruzen Sarutobi",
+      "creator": "Card Maker:Cynthia",
+      "animeName": "Naruto",
+      "description": "Hiruzen Sarutobi from Naruto",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:18.730Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60003924fa06a65a1f16c964?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60003924fa06a65a1f16c964",
+      "cardName": "Masumi Okuyama",
+      "creator": "Card Maker:Onta",
+      "animeName": "Nodame Cantabile",
+      "description": "Masumi Okuyama from Nodame Cantabile",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:21.154Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600038d3821cfe60969d4a82?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600038d3821cfe60969d4a82",
+      "cardName": "Rikuo Uozumi",
+      "creator": "Card Maker:Rici 💔🖤",
+      "animeName": "Yesterday wo Utatte",
+      "description": "Rikuo Uozumi from Yesterday wo Utatte",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:23.581Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6000341432bdc36072401322?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6000341432bdc36072401322",
+      "cardName": "Gusta Raizeo",
+      "creator": "Card Maker:Ray7Scout",
+      "animeName": "The Misfit of Demon King Academy",
+      "description": "Gusta Raizeo from The Misfit of Demon King Academy",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:25.925Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6000337faa269b463ea32ef8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6000337faa269b463ea32ef8",
+      "cardName": "Haru Nonaka",
+      "creator": "Card Maker:Rici 💔🖤",
+      "animeName": "Yesterday wo Utatte",
+      "description": "Haru Nonaka from Yesterday wo Utatte",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:28.354Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6000330932bdc360723ffeb5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6000330932bdc360723ffeb5",
+      "cardName": "Kinue Hayase",
+      "creator": "Card Maker:Kp wie ich heiße~",
+      "animeName": "Masamune-kun no Revenge",
+      "description": "Kinue Hayase from Masamune-kun no Revenge",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:30.838Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6000309aab6e2146fc5b4af9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6000309aab6e2146fc5b4af9",
+      "cardName": "Tsubone",
+      "creator": "Card Maker:Dead8oul",
+      "animeName": "Hunter x Hunter",
+      "description": "Tsubone from Hunter x Hunter",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:33.567Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600023b832bdc360723fa1b6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600023b832bdc360723fa1b6",
+      "cardName": "Kaito Kuroba",
+      "creator": "Card Maker:Niconii",
+      "animeName": "Magic Kaito 1412",
+      "description": "Kaito Kuroba from Magic Kaito 1412",
+      "tier": "1",
+      "page": 487,
+      "scrapedAt": "2026-02-16T11:27:36.155Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:26:14.406Z"
+  "lastUpdated": "2026-02-16T11:27:36.159Z"
 }
