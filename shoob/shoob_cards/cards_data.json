@@ -1,5 +1,5 @@
 {
-  "totalCards": 7311,
+  "totalCards": 7326,
   "processedPages": [
     "1-1",
     "1-10",
@@ -455,6 +455,7 @@
     "1-505",
     "1-506",
     "1-507",
+    "1-508",
     "1-51",
     "1-52",
     "1-53",
@@ -80930,7 +80931,172 @@
       "tier": "1",
       "page": 507,
       "scrapedAt": "2026-02-16T11:59:39.614Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec58663adff0bf7e787b0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec58663adff0bf7e787b0",
+      "cardName": "Rouka Numachi",
+      "creator": "Artist:Leah",
+      "animeName": "Monogatari Series",
+      "description": "Rouka Numachi from Monogatari Series",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:00.246Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec58063adff0bf7e78749?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec58063adff0bf7e78749",
+      "cardName": "Tetsuo Shima",
+      "creator": "Artist:Leah",
+      "animeName": "Akira",
+      "description": "Tetsuo Shima from Akira",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:03.000Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec57963adff0bf7e784f6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec57963adff0bf7e784f6",
+      "cardName": "Kei",
+      "creator": "Artist:Leah",
+      "animeName": "Akira",
+      "description": "Kei from Akira",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:05.694Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec57863adff0bf7e784a1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec57863adff0bf7e784a1",
+      "cardName": "Doctor Onishi",
+      "creator": "Artist:Leah",
+      "animeName": "Akira",
+      "description": "Doctor Onishi from Akira",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:08.324Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec54063adff0bf7e781b8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec54063adff0bf7e781b8",
+      "cardName": "Konoha",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Konoha from Dog Days",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:10.897Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec53f63adff0bf7e781a0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec53f63adff0bf7e781a0",
+      "cardName": "Lorrain Martinozzi",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Lorrain Martinozzi from Dog Days",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:13.340Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec53b63adff0bf7e78181?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec53b63adff0bf7e78181",
+      "cardName": "Rouge Piedmont",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Rouge Piedmont from Dog Days",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:15.926Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec53863adff0bf7e7814e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec53863adff0bf7e7814e",
+      "cardName": "Anju",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Anju from Dog Days",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:18.515Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec53663adff0bf7e78146?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec53663adff0bf7e78146",
+      "cardName": "Clarifier Einz Pastillage",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Clarifier Einz Pastillage from Dog Days",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:20.832Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec53563adff0bf7e780e7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec53563adff0bf7e780e7",
+      "cardName": "Isuka Makishima",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Isuka Makishima from Dog Days",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:23.290Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec53463adff0bf7e780c2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec53463adff0bf7e780c2",
+      "cardName": "Leaf Lang Du Sha Halver",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Leaf Lang Du Sha Halver from Dog Days",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:25.626Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec53263adff0bf7e780ba?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec53263adff0bf7e780ba",
+      "cardName": "Liscia Enrobez",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Liscia Enrobez from Dog Days",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:28.196Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec53163adff0bf7e780b7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec53163adff0bf7e780b7",
+      "cardName": "Sky Priestess Farine",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Sky Priestess Farine from Dog Days",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:30.832Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec52f63adff0bf7e780b2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec52f63adff0bf7e780b2",
+      "cardName": "Songstress Aria",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Songstress Aria from Dog Days",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:33.422Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec52e63adff0bf7e780ae?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec52e63adff0bf7e780ae",
+      "cardName": "Verde",
+      "creator": "Artist:Leah",
+      "animeName": "Dog Days",
+      "description": "Verde from Dog Days",
+      "tier": "1",
+      "page": 508,
+      "scrapedAt": "2026-02-16T12:00:35.826Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:59:39.615Z"
+  "lastUpdated": "2026-02-16T12:00:35.895Z"
 }
