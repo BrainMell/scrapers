@@ -1,5 +1,5 @@
 {
-  "totalCards": 7911,
+  "totalCards": 7926,
   "processedPages": [
     "1-1",
     "1-10",
@@ -499,6 +499,7 @@
     "1-545",
     "1-546",
     "1-547",
+    "1-548",
     "1-55",
     "1-56",
     "1-57",
@@ -87570,7 +87571,172 @@
       "tier": "1",
       "page": 547,
       "scrapedAt": "2026-02-16T12:36:40.199Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb196087e8fc526dc839127?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb196087e8fc526dc839127",
+      "cardName": "Touma's father",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Touma's father from A Certain Series",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:00.900Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb195ef7e8fc526dc839024?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb195ef7e8fc526dc839024",
+      "cardName": "Maika",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Maika from A Certain Series",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:03.531Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb195ed7e8fc526dc838fdb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb195ed7e8fc526dc838fdb",
+      "cardName": "Mikoto's mother",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Mikoto's mother from A Certain Series",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:06.210Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb195e17e8fc526dc838dd2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb195e17e8fc526dc838dd2",
+      "cardName": "Seria Morino",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Gekidol",
+      "description": "Seria Morino from Gekidol",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:08.719Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb195c57e8fc526dc83896b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb195c57e8fc526dc83896b",
+      "cardName": "Index",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Index from A Certain Series",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:11.135Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb195ba7e8fc526dc838771?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb195ba7e8fc526dc838771",
+      "cardName": "Seike",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Seike from A Certain Series",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:13.624Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb195ac7e8fc526dc838669?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb195ac7e8fc526dc838669",
+      "cardName": "Accelerator",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Accelerator from A Certain Series",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:15.940Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb195a57e8fc526dc838649?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb195a57e8fc526dc838649",
+      "cardName": "Angelene",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Angelene from A Certain Series",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:18.423Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb195a17e8fc526dc8385d6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb195a17e8fc526dc8385d6",
+      "cardName": "Saten Ruiko",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Saten Ruiko from A Certain Series",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:20.996Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1959b7e8fc526dc838572?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1959b7e8fc526dc838572",
+      "cardName": "Uiharu Kazari",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Uiharu Kazari from A Certain Series",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:23.607Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb195917e8fc526dc83847a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb195917e8fc526dc83847a",
+      "cardName": "Yomikawa Aiho",
+      "creator": "Card Maker:HaveANiceDay",
+      "animeName": "A Certain Series",
+      "description": "Yomikawa Aiho from A Certain Series",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:26.096Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fa46241f92f4a37dfeed12b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fa46241f92f4a37dfeed12b",
+      "cardName": "Yuzuha",
+      "creator": "Card Maker:Leah",
+      "animeName": "Utawarerumono",
+      "description": "Yuzuha from Utawarerumono",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:28.624Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f8266dbcfcd615c4c3cb27c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f8266dbcfcd615c4c3cb27c",
+      "cardName": "San",
+      "creator": "Card Maker:Chancyhaze",
+      "animeName": "Princess Mononoke",
+      "description": "San from Princess Mononoke",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:31.106Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f8266dbcfcd615c4c3cb27a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f8266dbcfcd615c4c3cb27a",
+      "cardName": "Ashitaka",
+      "creator": "Card Maker:Chancyhaze",
+      "animeName": "Princess Mononoke",
+      "description": "Ashitaka from Princess Mononoke",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:33.543Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f8266dbcfcd615c4c3cb278?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f8266dbcfcd615c4c3cb278",
+      "cardName": "Gonza",
+      "creator": "Card Maker:Chancyhaze",
+      "animeName": "Princess Mononoke",
+      "description": "Gonza from Princess Mononoke",
+      "tier": "1",
+      "page": 548,
+      "scrapedAt": "2026-02-16T12:37:35.948Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:36:40.203Z"
+  "lastUpdated": "2026-02-16T12:37:35.950Z"
 }
