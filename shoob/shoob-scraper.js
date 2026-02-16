@@ -13,6 +13,7 @@ class ShoobCardScraper {
     this.outputFolder = config.outputFolder || path.join(__dirname, 'shoob_cards');
     this.outputFile = path.join(this.outputFolder, 'cards_data.json');
     this.backupFile = path.join(this.outputFolder, 'cards_data.backup.json');
+    this.concurrency = config.concurrency || 3; // Number of main pages to process in parallel
     
     this.cards = [];
     this.cardUrlSet = new Set();
@@ -23,7 +24,7 @@ class ShoobCardScraper {
     this.successfulAttempts = 0;
     
     this.browser = null;
-    this.page = null;
+    this.isSaving = false;
   }
 
   async cleanup() {
@@ -47,8 +48,30 @@ class ShoobCardScraper {
     });
   }
 
+  async setupPage(page) {
+    // Enhanced stealth
+    await page.evaluateOnNewDocument(() => {
+      Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+      Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+      Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
+      window.chrome = { runtime: {} };
+    });
+    
+    await page.setViewport({ width: 1920, height: 1080 });
+    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
+    
+    await page.setExtraHTTPHeaders({
+      'Accept-Language': 'en-US,en;q=0.9',
+      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+      'Accept-Encoding': 'gzip, deflate, br',
+      'Connection': 'keep-alive',
+      'Upgrade-Insecure-Requests': '1'
+    });
+  }
+
   async initialize() {
-    console.log('🚀 AGGRESSIVE MODE - 32GB RAM - ALL 15 TABS AT ONCE');
+    console.log(`🚀 ULTRA AGGRESSIVE MODE - 32GB RAM UTILIZED`);
+    console.log(`🚀 Processing ${this.concurrency} pages at once (~${this.concurrency * 15} tabs)`);
     console.log('🧹 Cleaning up old Chrome processes...');
     await this.cleanup();
     
@@ -75,33 +98,12 @@ class ShoobCardScraper {
     for (const page of pages) {
       await page.close().catch(() => {});
     }
-
-    this.page = await this.browser.newPage();
     
-    // Enhanced stealth
-    await this.page.evaluateOnNewDocument(() => {
-      Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
-      Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
-      Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
-      window.chrome = { runtime: {} };
-    });
-    
-    await this.page.setViewport({ width: 1920, height: 1080 });
-    await this.page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
-    
-    await this.page.setExtraHTTPHeaders({
-      'Accept-Language': 'en-US,en;q=0.9',
-      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-      'Accept-Encoding': 'gzip, deflate, br',
-      'Connection': 'keep-alive',
-      'Upgrade-Insecure-Requests': '1'
-    });
-    
-    console.log('✅ Browser Ready\n');
+    console.log('✅ Browser Engine Ready\n');
   }
 
-  async extractCardsFromPage() {
-    return await this.page.evaluate(() => {
+  async extractCardsFromPage(targetPage) {
+    return await targetPage.evaluate(() => {
       const results = { cards: [] };
       const allImages = Array.from(document.querySelectorAll('img'));
       
@@ -135,7 +137,7 @@ class ShoobCardScraper {
     let detailPage = null;
     try {
       detailPage = await this.browser.newPage();
-      await detailPage.setViewport({ width: 1024, height: 768 });
+      await this.setupPage(detailPage);
       await detailPage.goto(detailUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
 
       // AGGRESSIVE WAIT - 4 RETRIES
@@ -219,47 +221,54 @@ class ShoobCardScraper {
   }
 
   async saveProgress() {
-    const data = {
-      totalCards: this.cards.length,
-      processedPages: Array.from(this.processedPages),
-      cards: this.cards,
-      lastUpdated: new Date().toISOString(),
-      stats: {
-        successRate: this.getSuccessRate(),
-        totalAttempts: this.totalAttempts,
-        successfulAttempts: this.successfulAttempts
+    if (this.isSaving) return;
+    this.isSaving = true;
+    
+    try {
+      // Sort cards to keep them in order
+      this.cards.sort((a, b) => {
+        if (a.tier !== b.tier) return String(a.tier).localeCompare(String(b.tier));
+        return a.page - b.page;
+      });
+
+      const data = {
+        totalCards: this.cards.length,
+        processedPages: Array.from(this.processedPages).sort((a, b) => {
+          const [tierA, pageA] = a.split("-");
+          const [tierB, pageB] = b.split("-");
+          if (tierA !== tierB) return tierA.localeCompare(tierB);
+          return parseInt(pageA) - parseInt(pageB);
+        }),
+        cards: this.cards,
+        lastUpdated: new Date().toISOString(),
+        stats: {
+          successRate: this.getSuccessRate(),
+          totalAttempts: this.totalAttempts,
+          successfulAttempts: this.successfulAttempts
+        }
+      };
+      
+      const tmpFile = this.outputFile + '.tmp';
+      await fs.writeFile(tmpFile, JSON.stringify(data, null, 2), 'utf-8');
+      await fs.rename(tmpFile, this.outputFile);
+      await fs.copyFile(this.outputFile, this.backupFile).catch(() => {});
+      
+      if (this.cards.length % 50 === 0 && this.cards.length > 0) {
+        const timestamp = new Date().toISOString().replace(/[:.]/g, '-').split('T')[0];
+        const timestampedBackup = path.join(this.outputFolder, `backup-${timestamp}-${this.cards.length}cards.json`);
+        await fs.copyFile(this.outputFile, timestampedBackup).catch(() => {});
       }
-    };
-    
-    // TRIPLE BACKUP SYSTEM
-    // 1. Write to .tmp file first (atomic save)
-    const tmpFile = this.outputFile + '.tmp';
-    await fs.writeFile(tmpFile, JSON.stringify(data, null, 2), 'utf-8');
-    
-    // 2. Rename to main file (atomic operation)
-    await fs.rename(tmpFile, this.outputFile);
-    
-    // 3. Copy to backup file
-    await fs.copyFile(this.outputFile, this.backupFile).catch(() => {});
-    
-    // 4. Timestamped backup every 50 cards
-    if (this.cards.length % 50 === 0 && this.cards.length > 0) {
-      const timestamp = new Date().toISOString().replace(/[:.]/g, '-').split('T')[0];
-      const timestampedBackup = path.join(this.outputFolder, `backup-${timestamp}-${this.cards.length}cards.json`);
-      await fs.copyFile(this.outputFile, timestampedBackup).catch(() => {});
+    } finally {
+      this.isSaving = false;
     }
-    
-    console.log(`   💾 Saved: ${this.cards.length} total cards (${this.getSuccessRate()}% success rate)\n`);
   }
 
   async loadProgress() {
     let loadedFrom = null;
-    
-    // Try main file first
     try {
       const data = await fs.readFile(this.outputFile, 'utf-8');
       const parsed = JSON.parse(data);
-      if (parsed.cards && parsed.cards.length > 0) {
+      if (parsed.cards) {
         this.cards = parsed.cards;
         parsed.cards.forEach(card => this.cardUrlSet.add(card.imageUrl));
         if (parsed.processedPages) {
@@ -268,49 +277,20 @@ class ShoobCardScraper {
         loadedFrom = 'main';
       }
     } catch (error) {
-      // Try backup
       try {
-        console.log('⚠️  Main file corrupted, trying backup...');
         const data = await fs.readFile(this.backupFile, 'utf-8');
         const parsed = JSON.parse(data);
-        if (parsed.cards && parsed.cards.length > 0) {
+        if (parsed.cards) {
           this.cards = parsed.cards;
           parsed.cards.forEach(card => this.cardUrlSet.add(card.imageUrl));
-          if (parsed.processedPages) {
-            this.processedPages = new Set(parsed.processedPages);
-          }
+          this.processedPages = new Set(parsed.processedPages || []);
           loadedFrom = 'backup';
         }
-      } catch (backupError) {
-        // Try timestamped backups
-        try {
-          const files = await fs.readdir(this.outputFolder);
-          const backups = files
-            .filter(f => f.startsWith('backup-') && f.endsWith('.json'))
-            .sort()
-            .reverse();
-          
-          if (backups.length > 0) {
-            console.log('⚠️  Backup corrupted, trying timestamped backup...');
-            const latestBackup = path.join(this.outputFolder, backups[0]);
-            const data = await fs.readFile(latestBackup, 'utf-8');
-            const parsed = JSON.parse(data);
-            if (parsed.cards && parsed.cards.length > 0) {
-              this.cards = parsed.cards;
-              parsed.cards.forEach(card => this.cardUrlSet.add(card.imageUrl));
-              if (parsed.processedPages) {
-                this.processedPages = new Set(parsed.processedPages);
-              }
-              loadedFrom = 'timestamped';
-              console.log(`   Loaded from: ${backups[0]}`);
-            }
-          }
-        } catch (e) {}
-      }
+      } catch (e) {}
     }
     
     if (loadedFrom) {
-      console.log(`📂 Resuming: ${this.cards.length} cards, ${this.processedPages.size} pages done (from ${loadedFrom} file)\n`);
+      console.log(`📂 Resuming: ${this.cards.length} cards, ${this.processedPages.size} pages done\n`);
     } else {
       console.log('📝 Starting fresh\n');
     }
@@ -318,154 +298,117 @@ class ShoobCardScraper {
 
   async scrapePage(tier, pageNum) {
     const pageKey = `${tier}-${pageNum}`;
-    if (this.processedPages.has(pageKey)) {
-      if (pageNum % 10 === 0) {
-        console.log(`⏭️  Skipping tier ${tier} up to page ${pageNum}`);
-      }
-      return;
-    }
+    if (this.processedPages.has(pageKey)) return;
 
     // BAD INTERNET DETECTION
-    if (this.consecutiveFailures >= 5) {
+    if (this.consecutiveFailures >= 10) {
       const successRate = this.getSuccessRate();
       if (successRate < 30) {
-        console.log(`\n⚠️  ============================================`);
-        console.log(`⚠️  BAD INTERNET DETECTED!`);
-        console.log(`⚠️  Success rate: ${successRate}%`);
-        console.log(`⚠️  Consecutive failures: ${this.consecutiveFailures}`);
-        console.log(`⚠️  ============================================`);
-        console.log(`⚠️  Pausing for 60 seconds...`);
-        console.log(`⚠️  Press Ctrl+C to stop, or wait to retry\n`);
-        
+        console.log(`\n⚠️  BAD INTERNET DETECTED! Success rate: ${successRate}%`);
         await this.saveProgress();
         await new Promise(r => setTimeout(r, 60000));
-        
         this.consecutiveFailures = 0;
-        console.log(`🔄 Resuming...\n`);
       }
     }
 
+    let listPage = null;
     try {
-      console.log(`📄 TIER ${tier} | PAGE ${pageNum} (Success: ${this.getSuccessRate()}%)`);
-      const url = `https://shoob.gg/cards?page=${pageNum}&tier=${tier}`;
+      console.log(`📄 [START] TIER ${tier} | PAGE ${pageNum}`);
+      listPage = await this.browser.newPage();
+      await this.setupPage(listPage);
       
-      await this.page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+      const url = `https://shoob.gg/cards?page=${pageNum}&tier=${tier}`;
+      await listPage.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
 
-      // WAIT FOR CARDS TO LOAD
       let extraction = { cards: [] };
       for (let i = 0; i < 20; i++) {
-        extraction = await this.extractCardsFromPage();
-        if (extraction.cards.length >= 15) {
-          console.log(`   ✅ Found ${extraction.cards.length} cards`);
-          break;
-        }
+        extraction = await this.extractCardsFromPage(listPage);
+        if (extraction.cards.length >= 15) break;
         if (i < 19) await new Promise(r => setTimeout(r, 1500));
       }
 
       if (extraction.cards.length === 0) {
-        console.log('   ⚠️ No cards found - skipping\n');
+        console.log(`   ⚠️  No cards on page ${pageNum} - skipping`);
+        await listPage.close();
         return;
       }
 
-      console.log(`   ⚡ Opening ALL ${extraction.cards.length} tabs at once...`);
-
-      // 15 TABS AT ONCE - USE THAT RAM
-      let successCount = 0;
-      let unknownCount = 0;
-
       const cardPromises = extraction.cards.map(async (card, index) => {
         if (this.cardUrlSet.has(card.imageUrl)) return;
-        
-        // Tiny stagger to prevent OS freakout
         await new Promise(r => setTimeout(r, index * 200));
         
         try {
           const meta = await this.fetchMetadataByOpeningTab(card.detailUrl, card.cardName);
-          
           if (meta.animeName !== 'Unknown Anime' && meta.creator !== 'Unknown Creator') {
-            const enrichedCard = {
-              ...card,
-              ...meta,
-              tier,
-              page: pageNum,
-              scrapedAt: new Date().toISOString()
-            };
+            const enrichedCard = { ...card, ...meta, tier, page: pageNum, scrapedAt: new Date().toISOString() };
             this.cards.push(enrichedCard);
             this.cardUrlSet.add(card.imageUrl);
-            console.log(`      ✨ [${enrichedCard.creator}] ${enrichedCard.cardName} from ${enrichedCard.animeName}`);
-            successCount++;
-          } else {
-            console.log(`      ❌ [Unknown] ${card.cardName}`);
-            unknownCount++;
           }
         } catch (e) {
-          if (e.message === 'INTERNET_DOWN') {
-            throw e;
-          }
-          unknownCount++;
+          if (e.message === 'INTERNET_DOWN') throw e;
         }
       });
 
       await Promise.all(cardPromises);
-
-      console.log(`   📊 ${successCount} success, ${unknownCount} unknown`);
-
-      // Only mark as done if we got GOOD data (more than half successful)
-      if (unknownCount < extraction.cards.length / 2) {
-        this.processedPages.add(pageKey);
-        await this.saveProgress();
-      } else {
-        console.log(`   ⚠️ Too many unknowns - will retry this page\n`);
-      }
+      this.processedPages.add(pageKey);
+      await this.saveProgress();
       
-      // Cool down
-      await new Promise(r => setTimeout(r, 8000));
+      console.log(`📄 [DONE] TIER ${tier} | PAGE ${pageNum} (${this.getSuccessRate()}% success)`);
+      
+      await listPage.close();
+      await new Promise(r => setTimeout(r, 5000)); // Cool down per page flow
 
     } catch (error) {
+      if (listPage) await listPage.close().catch(() => {});
+      console.error(`   ❌ Error on page ${pageNum}: ${error.message}`);
       if (error.message === 'INTERNET_DOWN') {
-        console.log('\n🔴 INTERNET CONNECTION LOST!');
-        console.log('   Saving progress and pausing for 2 minutes...');
-        await this.saveProgress();
         await new Promise(r => setTimeout(r, 120000));
-        console.log('   Retrying...\n');
-      } else {
-        console.error(`   ❌ Error: ${error.message}\n`);
       }
     }
   }
 
   async start() {
-    const shutdown = async (signal) => {
+    const shutdown = async () => {
       console.log(`\n⚠️  Shutting down...`);
       await this.saveProgress().catch(() => {});
-      if (this.browser) {
-        await this.browser.close().catch(() => {});
-      }
+      if (this.browser) await this.browser.close().catch(() => {});
       process.exit(0);
     };
 
-    process.on('SIGINT', () => shutdown('SIGINT'));
-    process.on('SIGTERM', () => shutdown('SIGTERM'));
+    process.on('SIGINT', shutdown);
+    process.on('SIGTERM', shutdown);
     
     try {
       await this.loadProgress();
       await this.initialize();
       
+      const allTasks = [];
       for (const tier of this.tiers) {
         for (let p = this.startPage; p <= this.endPage; p++) {
-          await this.scrapePage(tier, p);
+          allTasks.push({ tier, page: p });
+        }
+      }
+
+      console.log(`📋 Total tasks: ${allTasks.length} pages`);
+      
+      // Process in batches for parallel execution
+      for (let i = 0; i < allTasks.length; i += this.concurrency) {
+        const batch = allTasks.slice(i, i + this.concurrency);
+        console.log(`\n⚡ Processing batch ${Math.floor(i/this.concurrency) + 1} (${batch.length} pages)...`);
+        await Promise.all(batch.map(task => this.scrapePage(task.tier, task.page)));
+        
+        if (i % (this.concurrency * 5) === 0) {
+          console.log(`   💾 Interval Save: ${this.cards.length} cards total`);
+          await this.saveProgress();
         }
       }
       
-      console.log('\n✅ Done!');
-      console.log(`📊 Total: ${this.cards.length} cards`);
+      console.log('\n✅ All tiers completed!');
     } catch (error) {
       console.error('\n❌ Fatal:', error.message);
       await this.saveProgress().catch(() => {});
     } finally {
-      if (this.browser) {
-        await this.browser.close().catch(() => {});
-      }
+      if (this.browser) await this.browser.close().catch(() => {});
     }
   }
 }
@@ -473,7 +416,8 @@ class ShoobCardScraper {
 const config = {
   startPage: 1,
   endPage: 2332,
-  tiers: ['1', '2', '3', '4', '5', '6', 'S']
+  tiers: ['1', '2', '3', '4', '5', '6', 'S'],
+  concurrency: 3 // SET TO 3 AS REQUESTED
 };
 
 (async () => {

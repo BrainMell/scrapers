@@ -4,7 +4,7 @@ package-lock.json
 yarn.lock
 
 # Output files
-*.json
+
 !package.json
 
 # Reports
