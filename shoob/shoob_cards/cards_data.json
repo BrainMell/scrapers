@@ -1,5 +1,5 @@
 {
-  "totalCards": 6532,
+  "totalCards": 6547,
   "processedPages": [
     "1-1",
     "1-2",
@@ -453,6 +453,7 @@
     "1-450",
     "1-451",
     "1-452",
+    "1-453",
     "1-460",
     "1-461",
     "1-462"
@@ -72309,12 +72310,177 @@
       "tier": "1",
       "page": 452,
       "scrapedAt": "2026-02-16T10:53:49.215Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c0d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c0d",
+      "cardName": "Ayane Mizuno",
+      "creator": "NCArchie",
+      "animeName": "Tsuki ga Kirei",
+      "description": "Ayane Mizuno from Tsuki ga Kirei",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:53:56.860Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c0b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c0b",
+      "cardName": "Kohime",
+      "creator": "Fish",
+      "animeName": "Toji no Miko",
+      "description": "Kohime from Toji no Miko",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:53:58.863Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c09?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c09",
+      "cardName": "Ebisu",
+      "creator": "Jean ™",
+      "animeName": "Noragami",
+      "description": "Ebisu from Noragami",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:00.819Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c05?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c05",
+      "cardName": "Ayame",
+      "creator": "Muldz.",
+      "animeName": "Kai Byoui Ramune",
+      "description": "Ayame from Kai Byoui Ramune",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:02.859Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c03?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c03",
+      "cardName": "Yuu Kunichika",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "World Trigger",
+      "description": "Yuu Kunichika from World Trigger",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:04.804Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bfd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bfd",
+      "cardName": "Fusunani",
+      "creator": "Cin",
+      "animeName": "Kuromukuro",
+      "description": "Fusunani from Kuromukuro",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:06.760Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bfb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bfb",
+      "cardName": "Midori Yoshinaga",
+      "creator": "Arshhh",
+      "animeName": "Crayon Shin-chan",
+      "description": "Midori Yoshinaga from Crayon Shin-chan",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:08.774Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bf7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bf7",
+      "cardName": "Miria",
+      "creator": "iMilkTea",
+      "animeName": "Claymore",
+      "description": "Miria from Claymore",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:10.810Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bd9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bd9",
+      "cardName": "Shiharu Satomi",
+      "creator": "Agera",
+      "animeName": "Inou-Battle wa Nichijou-kei no Naka de",
+      "description": "Shiharu Satomi from Inou-Battle wa Nichijou-kei no Naka de",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:12.816Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bcf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bcf",
+      "cardName": "Sophie Noel",
+      "creator": "Cin",
+      "animeName": "Kuromukuro",
+      "description": "Sophie Noel from Kuromukuro",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:14.718Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bcd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bcd",
+      "cardName": "Takeko Nogami",
+      "creator": "Taiga Aisaka Fan Club",
+      "animeName": "Girls und Panzer",
+      "description": "Takeko Nogami from Girls und Panzer",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:16.710Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bc5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bc5",
+      "cardName": "Enoku",
+      "creator": "Kruggles",
+      "animeName": "Kabaneri of the Iron Fortress",
+      "description": "Enoku from Kabaneri of the Iron Fortress",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:18.704Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bc3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bc3",
+      "cardName": "Mavis Vermillion",
+      "creator": "Demon Hunter",
+      "animeName": "Fairy Tail",
+      "description": "Mavis Vermillion from Fairy Tail",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:20.918Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bbf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bbf",
+      "cardName": "Akira",
+      "creator": "Rici 💔🖤",
+      "animeName": "Kemono Jihen",
+      "description": "Akira from Kemono Jihen",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:23.039Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444bbd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444bbd",
+      "cardName": "Nico",
+      "creator": "Muldz.",
+      "animeName": "Kai Byoui Ramune",
+      "description": "Nico from Kai Byoui Ramune",
+      "tier": "1",
+      "page": 453,
+      "scrapedAt": "2026-02-16T10:54:25.025Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:53:49.216Z",
+  "lastUpdated": "2026-02-16T10:54:25.026Z",
   "stats": {
     "successRate": 92,
-    "totalAttempts": 275,
-    "successfulAttempts": 252
+    "totalAttempts": 290,
+    "successfulAttempts": 267
   }
 }
