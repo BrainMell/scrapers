@@ -1,5 +1,5 @@
 {
-  "totalCards": 6981,
+  "totalCards": 6996,
   "processedPages": [
     "1-1",
     "1-10",
@@ -430,6 +430,7 @@
     "1-483",
     "1-484",
     "1-485",
+    "1-486",
     "1-49",
     "1-5",
     "1-50",
@@ -77278,7 +77279,172 @@
       "tier": "1",
       "page": 485,
       "scrapedAt": "2026-02-16T11:25:32.425Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6006f44396f06c1e1d65ec74?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6006f44396f06c1e1d65ec74",
+      "cardName": "Yorba",
+      "creator": "Card Maker:Cin",
+      "animeName": "Kuromukuro",
+      "description": "Yorba from Kuromukuro",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:25:41.224Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6006ecfeaaf22649b0f3392d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6006ecfeaaf22649b0f3392d",
+      "cardName": "Shirase Kobuchizawa",
+      "creator": "Card Maker:ShoXie",
+      "animeName": "Sora yori mo Tooi Basho",
+      "description": "Shirase Kobuchizawa from Sora yori mo Tooi Basho",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:25:43.743Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60063a5c393958262790d1be?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60063a5c393958262790d1be",
+      "cardName": "Seth",
+      "creator": "Card Maker:Nightshadow0234",
+      "animeName": "Radiant",
+      "description": "Seth from Radiant",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:25:46.227Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60063528c47ce817c29aab26?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60063528c47ce817c29aab26",
+      "cardName": "Toni Anji",
+      "creator": "Card Maker:Fish",
+      "animeName": "Golden Kamuy",
+      "description": "Toni Anji from Golden Kamuy",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:25:48.595Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600503611add5440f311272e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600503611add5440f311272e",
+      "cardName": "Oynx Task Force Captain",
+      "creator": "Card Maker:Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Oynx Task Force Captain from Rage of Bahamut",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:25:50.936Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6004b3ad04d2f57195ea1c3f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6004b3ad04d2f57195ea1c3f",
+      "cardName": "Twigo",
+      "creator": "Card Maker:Mojo JOJO",
+      "animeName": "The Seven Deadly Sins",
+      "description": "Twigo from The Seven Deadly Sins",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:25:53.320Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600468778c84a63ded182638?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600468778c84a63ded182638",
+      "cardName": "Hange Zoe",
+      "creator": "Card Maker:Onta",
+      "animeName": "Attack on Titan",
+      "description": "Hange Zoe from Attack on Titan",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:25:55.824Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60037da85515cd436377a03e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60037da85515cd436377a03e",
+      "cardName": "Mirai Kuriyama",
+      "creator": "Card Maker:Rici 💔🖤",
+      "animeName": "Beyond the Boundary",
+      "description": "Mirai Kuriyama from Beyond the Boundary",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:25:58.237Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6003784c7dc5ac64759a265e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6003784c7dc5ac64759a265e",
+      "cardName": "Slader",
+      "creator": "Card Maker:Rici 💔🖤",
+      "animeName": "The Seven Deadly Sins",
+      "description": "Slader from The Seven Deadly Sins",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:26:00.701Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6003147d6a08943aedda4823?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6003147d6a08943aedda4823",
+      "cardName": "Kotori Takatori",
+      "creator": "Card Maker:manuelsousa13",
+      "animeName": "Brynhildr in the Darkness",
+      "description": "Kotori Takatori from Brynhildr in the Darkness",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:26:02.933Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6003145f6a08943aedda473c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6003145f6a08943aedda473c",
+      "cardName": "Liddy",
+      "creator": "Card Maker:Cin",
+      "animeName": "Kuromukuro",
+      "description": "Liddy from Kuromukuro",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:26:05.304Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6003141d6a08943aedda4681?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6003141d6a08943aedda4681",
+      "cardName": "Genjuurou Tsukishima",
+      "creator": "Card Maker:Popo",
+      "animeName": "Mushibugyou",
+      "description": "Genjuurou Tsukishima from Mushibugyou",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:26:07.532Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/600313cd6a08943aedda4356?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/600313cd6a08943aedda4356",
+      "cardName": "Tiff",
+      "creator": "Card Maker:Piratax10",
+      "animeName": "Kirby",
+      "description": "Tiff from Kirby",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:26:09.794Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6003138b6a08943aedda409d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6003138b6a08943aedda409d",
+      "cardName": "Ramune",
+      "creator": "Card Maker:Muldz.",
+      "animeName": "Kai Byoui Ramune",
+      "description": "Ramune from Kai Byoui Ramune",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:26:11.935Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/6003135101ebff443f1f986b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/6003135101ebff443f1f986b",
+      "cardName": "Keicho Nijimura",
+      "creator": "Card Maker:Zorion_Nara",
+      "animeName": "JoJo's Bizarre Adventure",
+      "description": "Keicho Nijimura from JoJo's Bizarre Adventure",
+      "tier": "1",
+      "page": 486,
+      "scrapedAt": "2026-02-16T11:26:14.405Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:25:32.427Z"
+  "lastUpdated": "2026-02-16T11:26:14.406Z"
 }
