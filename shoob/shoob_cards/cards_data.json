@@ -1,5 +1,5 @@
 {
-  "totalCards": 7131,
+  "totalCards": 7146,
   "processedPages": [
     "1-1",
     "1-10",
@@ -441,6 +441,7 @@
     "1-493",
     "1-494",
     "1-495",
+    "1-496",
     "1-5",
     "1-50",
     "1-51",
@@ -78938,7 +78939,172 @@
       "tier": "1",
       "page": 495,
       "scrapedAt": "2026-02-16T11:48:46.307Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff0536c5350844cba8f2ce8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff0536c5350844cba8f2ce8",
+      "cardName": "Arahnia Taranterra Arachnida",
+      "creator": "Card Maker:Daringa",
+      "animeName": "Monster Girl Doctor",
+      "description": "Arahnia Taranterra Arachnida from Monster Girl Doctor",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:06.695Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff03fcd30e52f3d8de464bf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff03fcd30e52f3d8de464bf",
+      "cardName": "Alejandro Walker",
+      "creator": "Card Maker:Arshhh",
+      "animeName": "Infinite Dendrogram",
+      "description": "Alejandro Walker from Infinite Dendrogram",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:09.103Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff03fc630e52f3d8de46463?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff03fc630e52f3d8de46463",
+      "cardName": "Sanae Dekomori",
+      "creator": "Card Maker:Agera",
+      "animeName": "Chuunibyou demo Koi ga Shitai!",
+      "description": "Sanae Dekomori from Chuunibyou demo Koi ga Shitai!",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:11.608Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff03eaad4a9d80d4466deb4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff03eaad4a9d80d4466deb4",
+      "cardName": "Danjuro Tobita",
+      "creator": "Card Maker:MEPHISTØ🔥",
+      "animeName": "My Hero Academia",
+      "description": "Danjuro Tobita from My Hero Academia",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:14.014Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff03dc6a825f35d7c3d7ddb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff03dc6a825f35d7c3d7ddb",
+      "cardName": "Ami Asai",
+      "creator": "Card Maker:🍊✨ Yui ✨🍊",
+      "animeName": "Uzaki-chan Wants to Hang Out!",
+      "description": "Ami Asai from Uzaki-chan Wants to Hang Out!",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:16.331Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff03b352c1eeb09719f837b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff03b352c1eeb09719f837b",
+      "cardName": "Rin Vispose",
+      "creator": "Card Maker:Ano",
+      "animeName": "KimiSen",
+      "description": "Rin Vispose from KimiSen",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:18.691Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff03a406a33323723b1b1c2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff03a406a33323723b1b1c2",
+      "cardName": "Fuuki Iinchou",
+      "creator": "Card Maker:Lee?",
+      "animeName": "Aho Girl",
+      "description": "Fuuki Iinchou from Aho Girl",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:20.927Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff0384ad4a9d80d4466899e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff0384ad4a9d80d4466899e",
+      "cardName": "Akebi Sasaki",
+      "creator": "Unknown Creator",
+      "animeName": "Girls und Panzer",
+      "description": "Akebi Sasaki from Girls und Panzer",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:23.209Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff037e6d4a9d80d446685e6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff037e6d4a9d80d446685e6",
+      "cardName": "Felicita",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Arcana Famiglia",
+      "description": "Felicita from Arcana Famiglia",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:25.426Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff034846a33323723b16420?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff034846a33323723b16420",
+      "cardName": "Kuzuha Togashi",
+      "creator": "Card Maker:Agera",
+      "animeName": "Chuunibyou demo Koi ga Shitai!",
+      "description": "Kuzuha Togashi from Chuunibyou demo Koi ga Shitai!",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:27.703Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff02fbad4a9d80d44662356?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff02fbad4a9d80d44662356",
+      "cardName": "Hitagi Senjougahara",
+      "creator": "Card Maker:Him 123",
+      "animeName": "Monogatari Series",
+      "description": "Hitagi Senjougahara from Monogatari Series",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:30.303Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff02ea66d36bc7dcd2c12ed?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff02ea66d36bc7dcd2c12ed",
+      "cardName": "Shigenobu Yakuma",
+      "creator": "Card Maker:Kruggles",
+      "animeName": "Ahiru no Sora",
+      "description": "Shigenobu Yakuma from Ahiru no Sora",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:32.523Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff02df6d4a9d80d44661216?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff02df6d4a9d80d44661216",
+      "cardName": "Liberta",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Arcana Famiglia",
+      "description": "Liberta from Arcana Famiglia",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:34.916Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff02bd36a33323723b0f7c6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff02bd36a33323723b0f7c6",
+      "cardName": "Panda",
+      "creator": "Card Maker:Blitz",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Panda from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:37.296Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5ff029ce96209a50c17fc29f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5ff029ce96209a50c17fc29f",
+      "cardName": "Conny Springer",
+      "creator": "Card Maker:Fish",
+      "animeName": "Attack on Titan",
+      "description": "Conny Springer from Attack on Titan",
+      "tier": "1",
+      "page": 496,
+      "scrapedAt": "2026-02-16T11:49:39.690Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:48:46.309Z"
+  "lastUpdated": "2026-02-16T11:49:39.691Z"
 }
