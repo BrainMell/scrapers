@@ -1,5 +1,5 @@
 {
-  "totalCards": 6457,
+  "totalCards": 6472,
   "processedPages": [
     "1-1",
     "1-2",
@@ -448,6 +448,7 @@
     "1-445",
     "1-446",
     "1-447",
+    "1-448",
     "1-460",
     "1-461",
     "1-462"
@@ -71479,12 +71480,177 @@
       "tier": "1",
       "page": 447,
       "scrapedAt": "2026-02-16T10:50:50.912Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d45?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d45",
+      "cardName": "Butsuma Senju",
+      "creator": "Cynthia",
+      "animeName": "Naruto",
+      "description": "Butsuma Senju from Naruto",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:50:58.460Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d43?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d43",
+      "cardName": "Ken Wakashimazu",
+      "creator": "Syololololo~",
+      "animeName": "Captain Tsubasa",
+      "description": "Ken Wakashimazu from Captain Tsubasa",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:00.315Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d3b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d3b",
+      "cardName": "Cardinal Hohenheim",
+      "creator": "Cin",
+      "animeName": "The 8th Son, Are You Kidding Me?",
+      "description": "Cardinal Hohenheim from The 8th Son, Are You Kidding Me?",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:02.298Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d39?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d39",
+      "cardName": "Rika Saionji",
+      "creator": "Cloud",
+      "animeName": "Yamada Kun And The Seven Witches",
+      "description": "Rika Saionji from Yamada Kun And The Seven Witches",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:04.268Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d37?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d37",
+      "cardName": "Tazuna",
+      "creator": "RhinoStar",
+      "animeName": "Naruto",
+      "description": "Tazuna from Naruto",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:06.398Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d35?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d35",
+      "cardName": "Akagi Masafumi",
+      "creator": "NCArchie",
+      "animeName": "Tsurezure Children",
+      "description": "Akagi Masafumi from Tsurezure Children",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:08.283Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d33?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d33",
+      "cardName": "Toranosuke Miyamura",
+      "creator": "Cloud",
+      "animeName": "Yamada Kun And The Seven Witches",
+      "description": "Toranosuke Miyamura from Yamada Kun And The Seven Witches",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:10.216Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d31?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d31",
+      "cardName": "Konosuke Jii",
+      "creator": "Niconii",
+      "animeName": "Magic Kaito 1412",
+      "description": "Konosuke Jii from Magic Kaito 1412",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:12.219Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d29?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d29",
+      "cardName": "Betamon",
+      "creator": "Mui Mui むいちろ Add me on ASN",
+      "animeName": "Digimon",
+      "description": "Betamon from Digimon",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:14.175Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d27?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d27",
+      "cardName": "Ritsu Kageyama",
+      "creator": "VILLA • Legion💜",
+      "animeName": "Mob Psycho 100",
+      "description": "Ritsu Kageyama from Mob Psycho 100",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:16.120Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d25?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d25",
+      "cardName": "Emilia Mikogami",
+      "creator": "ShoXie",
+      "animeName": "Btooom!",
+      "description": "Emilia Mikogami from Btooom!",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:18.160Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d23?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d23",
+      "cardName": "Noir Starga",
+      "creator": "Kp wie ich heiße~",
+      "animeName": "The Hidden Dungeon Only I Can Enter",
+      "description": "Noir Starga from The Hidden Dungeon Only I Can Enter",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:20.226Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d21?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d21",
+      "cardName": "Air Groove",
+      "creator": "Fang",
+      "animeName": "Uma Musume: Pretty Derby",
+      "description": "Air Groove from Uma Musume: Pretty Derby",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:22.162Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d1f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d1f",
+      "cardName": "Takeshi Sawada",
+      "creator": "lust",
+      "animeName": "Captain Tsubasa",
+      "description": "Takeshi Sawada from Captain Tsubasa",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:24.100Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444d1d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444d1d",
+      "cardName": "Jun Misugi",
+      "creator": "lust",
+      "animeName": "Captain Tsubasa",
+      "description": "Jun Misugi from Captain Tsubasa",
+      "tier": "1",
+      "page": 448,
+      "scrapedAt": "2026-02-16T10:51:26.015Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:50:50.915Z",
+  "lastUpdated": "2026-02-16T10:51:26.016Z",
   "stats": {
     "successRate": 89,
-    "totalAttempts": 200,
-    "successfulAttempts": 177
+    "totalAttempts": 215,
+    "successfulAttempts": 192
   }
 }
