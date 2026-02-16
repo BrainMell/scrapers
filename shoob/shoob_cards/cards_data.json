@@ -1,5 +1,5 @@
 {
-  "totalCards": 6817,
+  "totalCards": 6832,
   "processedPages": [
     "1-1",
     "1-2",
@@ -474,7 +474,8 @@
     "1-471",
     "1-472",
     "1-473",
-    "1-474"
+    "1-474",
+    "1-475"
   ],
   "cards": [
     {
@@ -75463,12 +75464,177 @@
       "tier": "1",
       "page": 474,
       "scrapedAt": "2026-02-16T11:05:21.398Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445e1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445e1",
+      "cardName": "Esal",
+      "creator": "[AFK] Tanjiro_Kamado",
+      "animeName": "The Beast Player",
+      "description": "Esal from The Beast Player",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:29.523Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445db?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445db",
+      "cardName": "White Blood Cell",
+      "creator": "rachel💜",
+      "animeName": "Cells at Work!",
+      "description": "White Blood Cell from Cells at Work!",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:31.764Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445d7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445d7",
+      "cardName": "Ogremon",
+      "creator": "Rakis29",
+      "animeName": "Digimon",
+      "description": "Ogremon from Digimon",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:33.912Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445d5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445d5",
+      "cardName": "Tokiko Narukami",
+      "creator": "seki",
+      "animeName": "Kamisama ni Natta Hi",
+      "description": "Tokiko Narukami from Kamisama ni Natta Hi",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:35.966Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445d3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445d3",
+      "cardName": "Aki Shina",
+      "creator": "Kronus",
+      "animeName": "Miss Caretaker of Sunohara-sou",
+      "description": "Aki Shina from Miss Caretaker of Sunohara-sou",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:37.879Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445cf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445cf",
+      "cardName": "Rua Nakamachi",
+      "creator": "RoseyRose",
+      "animeName": "Ochikobore Fruit Tart",
+      "description": "Rua Nakamachi from Ochikobore Fruit Tart",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:39.819Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445cb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445cb",
+      "cardName": "Tisalia Scythia",
+      "creator": "Daringa",
+      "animeName": "Monster Girl Doctor",
+      "description": "Tisalia Scythia from Monster Girl Doctor",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:41.807Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445c5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445c5",
+      "cardName": "Vaccine Man",
+      "creator": "Fish",
+      "animeName": "One Punch Man",
+      "description": "Vaccine Man from One Punch Man",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:43.820Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445c1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445c1",
+      "cardName": "Motoi",
+      "creator": "rachel💜",
+      "animeName": "Oshibudo",
+      "description": "Motoi from Oshibudo",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:45.799Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445bf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445bf",
+      "cardName": "Gros",
+      "creator": "stevethestevemon",
+      "animeName": "DanMachi",
+      "description": "Gros from DanMachi",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:47.806Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445b9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445b9",
+      "cardName": "Nua Nakamachi",
+      "creator": "RoseyRose",
+      "animeName": "Ochikobore Fruit Tart",
+      "description": "Nua Nakamachi from Ochikobore Fruit Tart",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:49.862Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445b7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445b7",
+      "cardName": "Chiko Sekino",
+      "creator": "RoseyRose",
+      "animeName": "Ochikobore Fruit Tart",
+      "description": "Chiko Sekino from Ochikobore Fruit Tart",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:51.799Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445b5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445b5",
+      "cardName": "Nameless",
+      "creator": "Saber",
+      "animeName": "KimiSen",
+      "description": "Nameless from KimiSen",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:53.805Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445ab?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445ab",
+      "cardName": "Ruri Gokou",
+      "creator": "Winter 겨울",
+      "animeName": "Oreimo",
+      "description": "Ruri Gokou from Oreimo",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:55.763Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad0663aa03a2e4445a9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad0663aa03a2e4445a9",
+      "cardName": "Red Blood Cell",
+      "creator": "rachel💜",
+      "animeName": "Cells at Work!",
+      "description": "Red Blood Cell from Cells at Work!",
+      "tier": "1",
+      "page": 475,
+      "scrapedAt": "2026-02-16T11:05:57.764Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:05:21.400Z",
+  "lastUpdated": "2026-02-16T11:05:57.798Z",
   "stats": {
     "successRate": 96,
-    "totalAttempts": 561,
-    "successfulAttempts": 537
+    "totalAttempts": 576,
+    "successfulAttempts": 552
   }
 }
