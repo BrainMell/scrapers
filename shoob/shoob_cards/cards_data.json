@@ -1,5 +1,5 @@
 {
-  "totalCards": 7851,
+  "totalCards": 7866,
   "processedPages": [
     "1-1",
     "1-10",
@@ -495,6 +495,7 @@
     "1-541",
     "1-542",
     "1-543",
+    "1-544",
     "1-55",
     "1-56",
     "1-57",
@@ -86906,7 +86907,172 @@
       "tier": "1",
       "page": 543,
       "scrapedAt": "2026-02-16T12:32:58.918Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197e0da1e9326feb14829?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197e0da1e9326feb14829",
+      "cardName": "Shishido Sakichi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Shishido Sakichi from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:19.495Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197deda1e9326feb14824?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197deda1e9326feb14824",
+      "cardName": "Yamino Kageto",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Yamino Kageto from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:21.934Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197dada1e9326feb147f7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197dada1e9326feb147f7",
+      "cardName": "Midorikawa Ryuuji",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Midorikawa Ryuuji from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:24.409Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197d4da1e9326feb147ee?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197d4da1e9326feb147ee",
+      "cardName": "Yani",
+      "creator": "Card Maker:Agera",
+      "animeName": "Pucca",
+      "description": "Yani from Pucca",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:26.823Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197d3da1e9326feb147e9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197d3da1e9326feb147e9",
+      "cardName": "Muji",
+      "creator": "Card Maker:Agera",
+      "animeName": "Pucca",
+      "description": "Muji from Pucca",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:29.232Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197d1da1e9326feb147e3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197d1da1e9326feb147e3",
+      "cardName": "Kurimatsu Teppei",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Kurimatsu Teppei from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:31.812Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197c4da1e9326feb147d2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197c4da1e9326feb147d2",
+      "cardName": "Nagumo Haruya",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Nagumo Haruya from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:34.223Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197c0da1e9326feb147cb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197c0da1e9326feb147cb",
+      "cardName": "Saginuma Osamu",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Saginuma Osamu from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:36.721Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197beda1e9326feb147c8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197beda1e9326feb147c8",
+      "cardName": "Endou Mamoru",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Endou Mamoru from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:39.295Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197bada1e9326feb147bf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197bada1e9326feb147bf",
+      "cardName": "Suzuno Fuusuke",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Suzuno Fuusuke from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:41.795Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197b8da1e9326feb147bb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197b8da1e9326feb147bb",
+      "cardName": "Gouenji Shuuya",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Gouenji Shuuya from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:44.319Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197b7da1e9326feb147a4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197b7da1e9326feb147a4",
+      "cardName": "Kiyama Hiroto",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Kiyama Hiroto from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:46.816Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197b5da1e9326feb1479e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197b5da1e9326feb1479e",
+      "cardName": "Handa Shinichi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Handa Shinichi from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:49.219Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb197b0da1e9326feb14768?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb197b0da1e9326feb14768",
+      "cardName": "Kageno Jin",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Inazuma Eleven",
+      "description": "Kageno Jin from Inazuma Eleven",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:51.722Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb1978ada1e9326feb14522?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb1978ada1e9326feb14522",
+      "cardName": "Shapur",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Arslan Senki",
+      "description": "Shapur from Arslan Senki",
+      "tier": "1",
+      "page": 544,
+      "scrapedAt": "2026-02-16T12:33:54.210Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:32:58.920Z"
+  "lastUpdated": "2026-02-16T12:33:54.212Z"
 }
