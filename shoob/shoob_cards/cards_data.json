@@ -1,5 +1,5 @@
 {
-  "totalCards": 6517,
+  "totalCards": 6532,
   "processedPages": [
     "1-1",
     "1-2",
@@ -452,6 +452,7 @@
     "1-449",
     "1-450",
     "1-451",
+    "1-452",
     "1-460",
     "1-461",
     "1-462"
@@ -72143,12 +72144,177 @@
       "tier": "1",
       "page": 451,
       "scrapedAt": "2026-02-16T10:53:13.968Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c5b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c5b",
+      "cardName": "Nina's Mother",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Nina's Mother from Rage of Bahamut",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:21.271Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c57?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c57",
+      "cardName": "Lucifer",
+      "creator": "Shiki ツ",
+      "animeName": "Umineko no Naku Koro ni",
+      "description": "Lucifer from Umineko no Naku Koro ni",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:23.262Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c53?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c53",
+      "cardName": "Muetta",
+      "creator": "Cin",
+      "animeName": "Kuromukuro",
+      "description": "Muetta from Kuromukuro",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:25.228Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c4f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c4f",
+      "cardName": "Jinpachi Munashi",
+      "creator": "Cynthia",
+      "animeName": "Naruto",
+      "description": "Jinpachi Munashi from Naruto",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:27.422Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c4b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c4b",
+      "cardName": "Sebastian Moran",
+      "creator": "Jobosama",
+      "animeName": "Moriarty the Patriot",
+      "description": "Sebastian Moran from Moriarty the Patriot",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:29.459Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c47?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c47",
+      "cardName": "Amon",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Amon from Rage of Bahamut",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:31.360Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c45?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c45",
+      "cardName": "Joker",
+      "creator": "` Vigo.",
+      "animeName": "Fire Force",
+      "description": "Joker from Fire Force",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:33.360Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c2b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c2b",
+      "cardName": "Kennosuke Tokisada Ouma",
+      "creator": "Cin",
+      "animeName": "Kuromukuro",
+      "description": "Kennosuke Tokisada Ouma from Kuromukuro",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:35.306Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c27?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c27",
+      "cardName": "Imusa",
+      "creator": "Cin",
+      "animeName": "Kuromukuro",
+      "description": "Imusa from Kuromukuro",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:37.321Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c25?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c25",
+      "cardName": "Killer T Cell",
+      "creator": "Cloud",
+      "animeName": "Cells at Work!",
+      "description": "Killer T Cell from Cells at Work!",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:39.300Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c21?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c21",
+      "cardName": "Anubis",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "How to Keep a Mummy",
+      "description": "Anubis from How to Keep a Mummy",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:41.317Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c1f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c1f",
+      "cardName": "Lefil",
+      "creator": "Cin",
+      "animeName": "Kuromukuro",
+      "description": "Lefil from Kuromukuro",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:43.300Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c1b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c1b",
+      "cardName": "Masamichi Isami",
+      "creator": "hai",
+      "animeName": "A Whisker Away",
+      "description": "Masamichi Isami from A Whisker Away",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:45.261Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c15?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c15",
+      "cardName": "Fumiya Kurimoto",
+      "creator": "Fish",
+      "animeName": "Domestic Girlfriend",
+      "description": "Fumiya Kurimoto from Domestic Girlfriend",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:47.274Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444c13?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444c13",
+      "cardName": "Mirasa",
+      "creator": "Cin",
+      "animeName": "Kuromukuro",
+      "description": "Mirasa from Kuromukuro",
+      "tier": "1",
+      "page": 452,
+      "scrapedAt": "2026-02-16T10:53:49.215Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:53:13.970Z",
+  "lastUpdated": "2026-02-16T10:53:49.216Z",
   "stats": {
-    "successRate": 91,
-    "totalAttempts": 260,
-    "successfulAttempts": 237
+    "successRate": 92,
+    "totalAttempts": 275,
+    "successfulAttempts": 252
   }
 }
