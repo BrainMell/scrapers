@@ -1,5 +1,5 @@
 {
-  "totalCards": 6487,
+  "totalCards": 6502,
   "processedPages": [
     "1-1",
     "1-2",
@@ -450,6 +450,7 @@
     "1-447",
     "1-448",
     "1-449",
+    "1-450",
     "1-460",
     "1-461",
     "1-462"
@@ -71811,12 +71812,177 @@
       "tier": "1",
       "page": 449,
       "scrapedAt": "2026-02-16T10:52:01.329Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444cd3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444cd3",
+      "cardName": "Yukina Shirahane",
+      "creator": "Cin",
+      "animeName": "Kuromukuro",
+      "description": "Yukina Shirahane from Kuromukuro",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:09.619Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444cd1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444cd1",
+      "cardName": "Genzo Wakabayashi",
+      "creator": "Syololololo~",
+      "animeName": "Captain Tsubasa",
+      "description": "Genzo Wakabayashi from Captain Tsubasa",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:11.602Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ccf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ccf",
+      "cardName": "Kizashi Haruno",
+      "creator": "Cynthia",
+      "animeName": "Naruto",
+      "description": "Kizashi Haruno from Naruto",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:13.773Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ccd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ccd",
+      "cardName": "Lina Suzane Hirenbrant",
+      "creator": "Cin",
+      "animeName": "The 8th Son, Are You Kidding Me?",
+      "description": "Lina Suzane Hirenbrant from The 8th Son, Are You Kidding Me?",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:15.960Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444cc9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444cc9",
+      "cardName": "Ayano Toki",
+      "creator": "ShoXie",
+      "animeName": "Yuru Camp",
+      "description": "Ayano Toki from Yuru Camp",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:17.809Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444cc7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444cc7",
+      "cardName": "Wilmal Etol von Asgahan",
+      "creator": "Cin",
+      "animeName": "The 8th Son, Are You Kidding Me?",
+      "description": "Wilmal Etol von Asgahan from The 8th Son, Are You Kidding Me?",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:19.866Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444cc3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444cc3",
+      "cardName": "Christoph von Armstrong",
+      "creator": "Cin",
+      "animeName": "The 8th Son, Are You Kidding Me?",
+      "description": "Christoph von Armstrong from The 8th Son, Are You Kidding Me?",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:21.771Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444cc1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444cc1",
+      "cardName": "Raphael",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Raphael from Rage of Bahamut",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:23.666Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444cbf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444cbf",
+      "cardName": "Yami Sukehiro",
+      "creator": "Demon Hunter",
+      "animeName": "Black Clover",
+      "description": "Yami Sukehiro from Black Clover",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:25.814Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444cbb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444cbb",
+      "cardName": "Brantark Ringstat",
+      "creator": "Cin",
+      "animeName": "The 8th Son, Are You Kidding Me?",
+      "description": "Brantark Ringstat from The 8th Son, Are You Kidding Me?",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:27.720Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444cb7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444cb7",
+      "cardName": "Elise Katharina von Hohenheim",
+      "creator": "Cin",
+      "animeName": "The 8th Son, Are You Kidding Me?",
+      "description": "Elise Katharina von Hohenheim from The 8th Son, Are You Kidding Me?",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:29.707Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444cb5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444cb5",
+      "cardName": "Uriel",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Uriel from Rage of Bahamut",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:31.662Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444cb1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444cb1",
+      "cardName": "Chiaki Ogaki",
+      "creator": "ShoXie",
+      "animeName": "Yuru Camp",
+      "description": "Chiaki Ogaki from Yuru Camp",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:33.609Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ca9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ca9",
+      "cardName": "Belphegor",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Belphegor from Rage of Bahamut",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:35.560Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ca7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ca7",
+      "cardName": "Youji Sasaki",
+      "creator": "hai",
+      "animeName": "A Whisker Away",
+      "description": "Youji Sasaki from A Whisker Away",
+      "tier": "1",
+      "page": 450,
+      "scrapedAt": "2026-02-16T10:52:37.515Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:52:01.333Z",
+  "lastUpdated": "2026-02-16T10:52:37.560Z",
   "stats": {
-    "successRate": 90,
-    "totalAttempts": 230,
-    "successfulAttempts": 207
+    "successRate": 91,
+    "totalAttempts": 245,
+    "successfulAttempts": 222
   }
 }
