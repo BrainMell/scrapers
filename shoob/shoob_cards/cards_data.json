@@ -1,5 +1,5 @@
 {
-  "totalCards": 7296,
+  "totalCards": 7311,
   "processedPages": [
     "1-1",
     "1-10",
@@ -454,6 +454,7 @@
     "1-504",
     "1-505",
     "1-506",
+    "1-507",
     "1-51",
     "1-52",
     "1-53",
@@ -80764,7 +80765,172 @@
       "tier": "1",
       "page": 506,
       "scrapedAt": "2026-02-16T11:58:46.315Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5d863adff0bf7e78dfc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5d863adff0bf7e78dfc",
+      "cardName": "Sakuya",
+      "creator": "Artist:Leah",
+      "animeName": "Utawarerumono",
+      "description": "Sakuya from Utawarerumono",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:06.832Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5cd63adff0bf7e78c11?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5cd63adff0bf7e78c11",
+      "cardName": "Dii",
+      "creator": "Artist:Leah",
+      "animeName": "Utawarerumono",
+      "description": "Dii from Utawarerumono",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:09.119Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5c763adff0bf7e78be7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5c763adff0bf7e78be7",
+      "cardName": "Sybil Rowan",
+      "creator": "Artist:Leah",
+      "animeName": "The Big O",
+      "description": "Sybil Rowan from The Big O",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:11.522Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5c563adff0bf7e78bde?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5c563adff0bf7e78bde",
+      "cardName": "Schwarzwald",
+      "creator": "Artist:Leah",
+      "animeName": "The Big O",
+      "description": "Schwarzwald from The Big O",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:14.035Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5c263adff0bf7e78bd2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5c263adff0bf7e78bd2",
+      "cardName": "R. Instro",
+      "creator": "Artist:Leah",
+      "animeName": "The Big O",
+      "description": "R. Instro from The Big O",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:16.427Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5bd63adff0bf7e78ba0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5bd63adff0bf7e78ba0",
+      "cardName": "Jason Beck",
+      "creator": "Artist:Leah",
+      "animeName": "The Big O",
+      "description": "Jason Beck from The Big O",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:18.698Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5bb63adff0bf7e78b9b?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5bb63adff0bf7e78b9b",
+      "cardName": "Gordon Rosewater",
+      "creator": "Artist:Leah",
+      "animeName": "The Big O",
+      "description": "Gordon Rosewater from The Big O",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:20.960Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5b863adff0bf7e78b90?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5b863adff0bf7e78b90",
+      "cardName": "Mr. Gentlemen",
+      "creator": "Artist:Leah",
+      "animeName": "Read or Die Series",
+      "description": "Mr. Gentlemen from Read or Die Series",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:23.196Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5b463adff0bf7e78b7c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5b463adff0bf7e78b7c",
+      "cardName": "Natsume Nishizono",
+      "creator": "Artist:Leah",
+      "animeName": "Read or Die Series",
+      "description": "Natsume Nishizono from Read or Die Series",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:25.624Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5b263adff0bf7e78b52?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5b263adff0bf7e78b52",
+      "cardName": "Sonny Wong",
+      "creator": "Artist:Leah",
+      "animeName": "Read or Die Series",
+      "description": "Sonny Wong from Read or Die Series",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:28.211Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec5b163adff0bf7e78b4d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec5b163adff0bf7e78b4d",
+      "cardName": "Tohru Okahara",
+      "creator": "Artist:Leah",
+      "animeName": "Read or Die Series",
+      "description": "Tohru Okahara from Read or Die Series",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:30.524Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec59b63adff0bf7e7890e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec59b63adff0bf7e7890e",
+      "cardName": "Tadatsuru Teori",
+      "creator": "Artist:Leah",
+      "animeName": "Monogatari Series",
+      "description": "Tadatsuru Teori from Monogatari Series",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:32.900Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec59963adff0bf7e78907?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec59963adff0bf7e78907",
+      "cardName": "Alice Alice Arquette",
+      "creator": "Artist:Leah",
+      "animeName": "Read or Die Series",
+      "description": "Alice Alice Arquette from Read or Die Series",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:35.095Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec59563adff0bf7e788f9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec59563adff0bf7e788f9",
+      "cardName": "Haruhi Nishizono",
+      "creator": "Artist:Leah",
+      "animeName": "Read or Die Series",
+      "description": "Haruhi Nishizono from Read or Die Series",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:37.330Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feec59363adff0bf7e788f7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feec59363adff0bf7e788f7",
+      "cardName": "Hisami Hishishii",
+      "creator": "Artist:Leah",
+      "animeName": "Read or Die Series",
+      "description": "Hisami Hishishii from Read or Die Series",
+      "tier": "1",
+      "page": 507,
+      "scrapedAt": "2026-02-16T11:59:39.614Z"
     }
   ],
-  "lastUpdated": "2026-02-16T11:58:46.316Z"
+  "lastUpdated": "2026-02-16T11:59:39.615Z"
 }
