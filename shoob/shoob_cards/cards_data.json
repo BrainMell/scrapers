@@ -1,5 +1,5 @@
 {
-  "totalCards": 7506,
+  "totalCards": 7521,
   "processedPages": [
     "1-1",
     "1-10",
@@ -470,6 +470,7 @@
     "1-519",
     "1-52",
     "1-520",
+    "1-521",
     "1-53",
     "1-54",
     "1-55",
@@ -83088,7 +83089,172 @@
       "tier": "1",
       "page": 520,
       "scrapedAt": "2026-02-16T12:11:33.437Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5febf30d948b283cbe43d12d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5febf30d948b283cbe43d12d",
+      "cardName": "Sylph",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Divine Gate",
+      "description": "Sylph from Divine Gate",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:11:58.104Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5febcf62948b283cbe436586?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5febcf62948b283cbe436586",
+      "cardName": "Wilk",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Golden Kamuy",
+      "description": "Wilk from Golden Kamuy",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:00.693Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5febccc84bf6d83ce8096d8e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5febccc84bf6d83ce8096d8e",
+      "cardName": "Shinpachi Nagakura",
+      "creator": "Card Maker:Battle Hardened",
+      "animeName": "Golden Kamuy",
+      "description": "Shinpachi Nagakura from Golden Kamuy",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:03.197Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5febcbec1b96223d90617128?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5febcbec1b96223d90617128",
+      "cardName": "Cthulhy Squele",
+      "creator": "Card Maker:Daringa",
+      "animeName": "Monster Girl Doctor",
+      "description": "Cthulhy Squele from Monster Girl Doctor",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:05.740Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feab47eb59cfa7222ca4987?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feab47eb59cfa7222ca4987",
+      "cardName": "Hiroto Ikeuchi",
+      "creator": "Card Maker:FizzyBrian",
+      "animeName": "Ikebukuro West Gate Park",
+      "description": "Hiroto Ikeuchi from Ikebukuro West Gate Park",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:08.228Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feab368e477782bb6b27c84?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feab368e477782bb6b27c84",
+      "cardName": "Tobio Kageyama",
+      "creator": "Card Maker:VaneGlzBr",
+      "animeName": "Haikyuu!!",
+      "description": "Tobio Kageyama from Haikyuu!!",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:10.699Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feab34be477782bb6b27a1d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feab34be477782bb6b27a1d",
+      "cardName": "Kokichi Ouma",
+      "creator": "Card Maker:sus ♡",
+      "animeName": "Danganronpa",
+      "description": "Kokichi Ouma from Danganronpa",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:13.021Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feab1b9b60bae3d7c78c524?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feab1b9b60bae3d7c78c524",
+      "cardName": "Miku Nakano",
+      "creator": "Card Maker:BL4Z3_09",
+      "animeName": "The Quintessential Quintuplets",
+      "description": "Miku Nakano from The Quintessential Quintuplets",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:15.648Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feab18cb60bae3d7c78c2f2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feab18cb60bae3d7c78c2f2",
+      "cardName": "Megumi Wakamiya",
+      "creator": "Card Maker:Kimossab",
+      "animeName": "Accel World",
+      "description": "Megumi Wakamiya from Accel World",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:17.918Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feab15ab60bae3d7c78c1d6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feab15ab60bae3d7c78c1d6",
+      "cardName": "Rak Wraithraiser",
+      "creator": "Card Maker:Saber",
+      "animeName": "Tower of God",
+      "description": "Rak Wraithraiser from Tower of God",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:20.319Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe53e78b469b56559e20bc3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe53e78b469b56559e20bc3",
+      "cardName": "Boy K",
+      "creator": "Card Maker:FireTheSummoner",
+      "animeName": "Divine Gate",
+      "description": "Boy K from Divine Gate",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:22.498Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe53a6bf43be971ad6359b0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe53a6bf43be971ad6359b0",
+      "cardName": "Nobara Kugisaki",
+      "creator": "Card Maker:Droid",
+      "animeName": "Jujutsu Kaisen",
+      "description": "Nobara Kugisaki from Jujutsu Kaisen",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:24.726Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe537fc5b64a43727f0741a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe537fc5b64a43727f0741a",
+      "cardName": "Akari Sakishima",
+      "creator": "Card Maker:Cin",
+      "animeName": "Nagi no Asu kara",
+      "description": "Akari Sakishima from Nagi no Asu kara",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:26.895Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe537660245590a362e64d3?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe537660245590a362e64d3",
+      "cardName": "Elise",
+      "creator": "Card Maker:Anes",
+      "animeName": "By the Grace of the Gods",
+      "description": "Elise from By the Grace of the Gods",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:29.026Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fe535c1f43be971ad6341cd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fe535c1f43be971ad6341cd",
+      "cardName": "Takeru Nakashima",
+      "creator": "Card Maker:Kruggles",
+      "animeName": "Haikyuu!!",
+      "description": "Takeru Nakashima from Haikyuu!!",
+      "tier": "1",
+      "page": 521,
+      "scrapedAt": "2026-02-16T12:12:31.597Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:11:33.438Z"
+  "lastUpdated": "2026-02-16T12:12:31.598Z"
 }
