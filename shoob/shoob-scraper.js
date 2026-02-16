@@ -25,6 +25,7 @@ class ShoobCardScraper {
     
     this.browser = null;
     this.isSaving = false;
+    this.lastPushedCount = 0; // Track last push
   }
 
   async cleanup() {
@@ -268,9 +269,10 @@ class ShoobCardScraper {
         await fs.copyFile(this.outputFile, this.backupFile).catch(() => {});
       }
       
-      // Auto-sync to GitHub every 500 cards if GITHUB_TOKEN is present
-      if (process.env.GITHUB_TOKEN && this.cards.length % 500 === 0 && this.cards.length > 0) {
+      // Auto-sync to GitHub every 500 new cards
+      if (process.env.GITHUB_TOKEN && this.cards.length >= this.lastPushedCount + 500) {
         await this.syncToGitHub();
+        this.lastPushedCount = this.cards.length;
       }
       
       if (this.cards.length % 50 === 0 && this.cards.length > 0) {
