@@ -40,18 +40,26 @@ class ShoobCardScraper {
   }
 
   async setupPage(page) {
+    // BLOCK IMAGES AND CSS TO SAVE RAM AND SPEED UP
+    await page.setRequestInterception(true);
+    page.on('request', (req) => {
+      const type = req.resourceType();
+      if (['image', 'stylesheet', 'font', 'media'].includes(type)) {
+        req.abort();
+      } else {
+        req.continue();
+      }
+    });
+
     await page.evaluateOnNewDocument(() => {
       Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
-      Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
-      Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
-      window.chrome = { runtime: {} };
     });
-    await page.setViewport({ width: 1280, height: 720 });
+    await page.setViewport({ width: 800, height: 600 });
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
   }
 
   async initialize() {
-    console.log(`🚀 1GB RAM OPTIMIZED - Sequential Processing`);
+    console.log(`🚀 1GB RAM OPTIMIZED - FAST MODE`);
     await this.cleanup();
     try { await fs.mkdir(this.outputFolder, { recursive: true }); } catch (e) {}
     this.browser = await puppeteer.launch({
@@ -62,7 +70,7 @@ class ShoobCardScraper {
         '--disable-dev-shm-usage', 
         '--disable-gpu', 
         '--js-flags="--max-old-space-size=512"',
-        '--window-size=1920,1080',
+        '--window-size=1280,720',
         '--disable-blink-features=AutomationControlled'
       ]
     });
@@ -77,8 +85,8 @@ class ShoobCardScraper {
         const alt = img.alt || '';
         const link = img.closest('a');
         if (link && link.href && (link.href.includes('/cards/info/') || link.href.includes('/card/'))) {
-          if (src.includes('card_back.png')) return;
-          if (!results.cards.some(c => c.imageUrl === src)) {
+          // Note: src might be blocked by interception, so we rely on DOM structure
+          if (!results.cards.some(c => c.detailUrl === link.href)) {
             results.cards.push({ imageUrl: src, detailUrl: link.href, cardName: alt.trim() || 'Unknown' });
           }
         }
@@ -87,15 +95,13 @@ class ShoobCardScraper {
     });
   }
 
-  async fetchMetadataByOpeningTab(detailUrl, cardName, retryCount = 0) {
+  async fetchMetadata(page, detailUrl, cardName, retryCount = 0) {
     if (!detailUrl) return { animeName: 'Unknown Anime', creator: 'Unknown Creator' };
-    let detailPage = null;
     try {
-      detailPage = await this.browser.newPage();
-      await this.setupPage(detailPage);
-      await detailPage.goto(detailUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
-      await detailPage.waitForFunction(() => document.querySelectorAll('.breadcrumb-new span[itemprop="name"]').length >= 3, { timeout: 15000 });
-      const meta = await detailPage.evaluate(() => {
+      await page.goto(detailUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
+      await page.waitForFunction(() => document.querySelectorAll('.breadcrumb-new span[itemprop].name, .breadcrumb-new span[itemprop="name"]').length >= 2, { timeout: 10000 });
+      
+      const meta = await page.evaluate(() => {
         const bread = Array.from(document.querySelectorAll('.breadcrumb-new li'));
         const seriesLi = bread.find(li => li.querySelector('meta[itemprop="position"]')?.getAttribute('content') === '3') || bread[bread.length - 2];
         const animeName = seriesLi?.querySelector('span[itemprop="name"]')?.textContent.trim() || 'Unknown Anime';
@@ -107,13 +113,11 @@ class ShoobCardScraper {
         }
         return { animeName, creatorName };
       });
-      await detailPage.close();
       return { creator: meta.creatorName, animeName: meta.animeName, description: `${cardName} from ${meta.animeName}` };
     } catch (e) {
-      if (detailPage) await detailPage.close().catch(() => {});
-      if (retryCount < 6) {
-        await new Promise(r => setTimeout(r, 2000));
-        return await this.fetchMetadataByOpeningTab(detailUrl, cardName, retryCount + 1);
+      if (retryCount < 3) {
+        await new Promise(r => setTimeout(r, 1000));
+        return await this.fetchMetadata(page, detailUrl, cardName, retryCount + 1);
       }
       return { creator: 'Unknown Creator', animeName: 'Unknown Anime', description: `${cardName} from Unknown Anime` };
     }
@@ -144,46 +148,27 @@ class ShoobCardScraper {
     const { exec } = require('child_process');
     const util = require('util');
     const execPromise = util.promisify(exec);
-    console.log('📤 Syncing to GitHub...');
     try {
       const token = process.env.GITHUB_TOKEN;
       const repoUrl = `https://${token}@github.com/BrainMell/scrapers.git`;
-      
-      // ENSURE GIT IS INITIALIZED FIRST
-      try { 
-        await execPromise('git rev-parse --is-inside-work-tree'); 
-      } catch (e) {
-        console.log('   🔧 Initializing git repository...');
+      await execPromise('git config user.email "bot@scrapers.com"');
+      await execPromise('git config user.name "Scraper Bot"');
+      try { await execPromise('git rev-parse --is-inside-work-tree'); } catch (e) {
         await execPromise('git init');
         await execPromise(`git remote add origin ${repoUrl}`);
       }
-
-      await execPromise('git config user.email "bot@scrapers.com"');
-      await execPromise('git config user.name "Scraper Bot"');
       await execPromise(`git remote set-url origin ${repoUrl}`);
-      
-      // ALIGN WITH REMOTE BEFORE COMMITTING
       await execPromise('git fetch origin master');
-      await execPromise('git reset origin/master'); // Unstages everything, aligns HEAD to remote
-      
+      await execPromise('git reset origin/master'); 
       await execPromise('git add shoob/shoob_cards/cards_data.json');
       const { stdout: status } = await execPromise('git status --porcelain');
-      if (!status.trim()) {
-        console.log('   ℹ️ No changes.');
-        return;
-      }
-
+      if (!status.trim()) return;
       await execPromise('git commit -m "📊 Auto-update scraped cards data [skip ci]"');
-      
-      try {
-        await execPromise('git push origin master');
-      } catch (pushErr) {
-        console.log('   ⚠️ Standard push failed, attempting force push...');
+      try { await execPromise('git push origin master'); } catch (pushErr) {
         await execPromise('git push origin master --force');
       }
-      console.log('✅ Sync Successful');
     } catch (e) {
-      console.error('❌ Sync Failed:', e.message);
+      console.error('   ❌ Sync Failed:', e.message);
     }
   }
 
@@ -207,36 +192,38 @@ class ShoobCardScraper {
       await this.initialize();
     }
     let listPage = null;
+    let metaPage = null;
     try {
       console.log(`📄 TIER ${tier} | PAGE ${pageNum}`);
       listPage = await this.browser.newPage();
       await this.setupPage(listPage);
       await listPage.goto(`https://shoob.gg/cards?page=${pageNum}&tier=${tier}`, { waitUntil: 'networkidle2', timeout: 60000 });
       
-      // Wait for at least one card image to appear
+      // Wait for at least one card element to appear (images are blocked so we check the links)
       try {
-        await listPage.waitForSelector('img[src*="/cards/"]', { timeout: 15000 });
+        await listPage.waitForSelector('a[href*="/cards/info/"], a[href*="/card/"]', { timeout: 15000 });
       } catch (e) {
-        console.log(`   📸 [DEBUG] Page ${pageNum} didn't load cards in time. Saving screenshot...`);
-        await listPage.screenshot({ path: path.join(this.outputFolder, `debug-p${pageNum}.png`) });
+        console.log(`   📸 [DEBUG] Page ${pageNum} didn't load in time.`);
       }
 
       const extraction = await this.extractCardsFromPage(listPage);
-      
       if (extraction.cards.length === 0) {
-        console.log(`   ⚠️ No cards found on page ${pageNum} (Empty or Blocked)`);
+        console.log(`   ⚠️ No cards found on page ${pageNum}`);
         this.processedPages.add(pageKey);
         await listPage.close();
         return;
       }
 
+      metaPage = await this.browser.newPage();
+      await this.setupPage(metaPage);
+
       let newCardsOnPage = 0;
       for (const card of extraction.cards) {
-        if (this.cardUrlSet.has(card.imageUrl)) continue;
+        // Since images are blocked, imageUrl might be empty, so we check detailUrl
+        if (this.cards.some(c => c.detailUrl === card.detailUrl)) continue;
         newCardsOnPage++;
-        const meta = await this.fetchMetadataByOpeningTab(card.detailUrl, card.cardName);
+        const meta = await this.fetchMetadata(metaPage, card.detailUrl, card.cardName);
         this.cards.push({ ...card, ...meta, tier, page: pageNum, scrapedAt: new Date().toISOString() });
-        this.cardUrlSet.add(card.imageUrl);
         console.log(`   ✨ [${meta.creator}] ${card.cardName}`);
       }
 
@@ -244,8 +231,10 @@ class ShoobCardScraper {
       this.processedPages.add(pageKey);
       await this.saveProgress();
       await listPage.close();
+      if (metaPage) await metaPage.close();
     } catch (error) {
       if (listPage) await listPage.close().catch(() => {});
+      if (metaPage) await metaPage.close().catch(() => {});
       console.error(`❌ Error P${pageNum}: ${error.message}`);
     }
   }
