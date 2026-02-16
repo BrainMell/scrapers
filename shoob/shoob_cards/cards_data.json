@@ -1,5 +1,5 @@
 {
-  "totalCards": 6577,
+  "totalCards": 6592,
   "processedPages": [
     "1-1",
     "1-2",
@@ -456,6 +456,7 @@
     "1-453",
     "1-454",
     "1-455",
+    "1-456",
     "1-460",
     "1-461",
     "1-462"
@@ -72807,12 +72808,177 @@
       "tier": "1",
       "page": 455,
       "scrapedAt": "2026-02-16T10:55:38.360Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b21?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b21",
+      "cardName": "Amane",
+      "creator": "Dead8oul",
+      "animeName": "Hunter x Hunter",
+      "description": "Amane from Hunter x Hunter",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:55:45.600Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b1f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b1f",
+      "cardName": "Asmodeus",
+      "creator": "Shiki ツ",
+      "animeName": "Umineko no Naku Koro ni",
+      "description": "Asmodeus from Umineko no Naku Koro ni",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:55:47.603Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b1d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b1d",
+      "cardName": "Namida Suzumeno",
+      "creator": "Cynthia",
+      "animeName": "Boruto",
+      "description": "Namida Suzumeno from Boruto",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:55:49.775Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b13?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b13",
+      "cardName": "Illumi Zoldyck",
+      "creator": "` Vigo.",
+      "animeName": "Hunter x Hunter",
+      "description": "Illumi Zoldyck from Hunter x Hunter",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:55:51.767Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b0d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b0d",
+      "cardName": "Kenshou Yomogawa",
+      "creator": "Kruggles",
+      "animeName": "Kabaneri of the Iron Fortress",
+      "description": "Kenshou Yomogawa from Kabaneri of the Iron Fortress",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:55:53.711Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b07?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b07",
+      "cardName": "Zora Ideale",
+      "creator": "MEPHISTØ🔥",
+      "animeName": "Black Clover",
+      "description": "Zora Ideale from Black Clover",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:55:55.810Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444b05?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444b05",
+      "cardName": "Miss Yuki",
+      "creator": "ThunderAB_2004™💜",
+      "animeName": "Idaten Jump",
+      "description": "Miss Yuki from Idaten Jump",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:55:57.800Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444afd?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444afd",
+      "cardName": "Alessand Visponti",
+      "creator": "Mitsuri 🌸🌺",
+      "animeName": "Rage of Bahamut",
+      "description": "Alessand Visponti from Rage of Bahamut",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:55:59.710Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444af9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444af9",
+      "cardName": "Chiaki Shinichi",
+      "creator": "Onta",
+      "animeName": "Nodame Cantabile",
+      "description": "Chiaki Shinichi from Nodame Cantabile",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:56:01.612Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444af7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444af7",
+      "cardName": "Satoru",
+      "creator": "Arshhh",
+      "animeName": "Pet",
+      "description": "Satoru from Pet",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:56:03.518Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444af5?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444af5",
+      "cardName": "Kobory",
+      "creator": "Fish",
+      "animeName": "Amagi Brilliant Park",
+      "description": "Kobory from Amagi Brilliant Park",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:56:05.462Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444af1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444af1",
+      "cardName": "Komugi",
+      "creator": "` Vigo.",
+      "animeName": "Hunter x Hunter",
+      "description": "Komugi from Hunter x Hunter",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:56:07.420Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444ae1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444ae1",
+      "cardName": "Kana Iwata",
+      "creator": "Piratax10",
+      "animeName": "Hamtaro",
+      "description": "Kana Iwata from Hamtaro",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:56:09.325Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444adf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444adf",
+      "cardName": "Rou Hayakawa",
+      "creator": "Rici 💔🖤",
+      "animeName": "Yesterday wo Utatte",
+      "description": "Rou Hayakawa from Yesterday wo Utatte",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:56:11.315Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/60178ad1663aa03a2e444adb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/60178ad1663aa03a2e444adb",
+      "cardName": "Quilladillo",
+      "creator": "Agera",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Quilladillo from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 456,
+      "scrapedAt": "2026-02-16T10:56:13.407Z"
     }
   ],
-  "lastUpdated": "2026-02-16T10:55:38.362Z",
+  "lastUpdated": "2026-02-16T10:56:13.408Z",
   "stats": {
     "successRate": 93,
-    "totalAttempts": 320,
-    "successfulAttempts": 297
+    "totalAttempts": 335,
+    "successfulAttempts": 312
   }
 }
