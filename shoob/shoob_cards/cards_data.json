@@ -1,5 +1,5 @@
 {
-  "totalCards": 7431,
+  "totalCards": 7446,
   "processedPages": [
     "1-1",
     "1-10",
@@ -464,6 +464,7 @@
     "1-513",
     "1-514",
     "1-515",
+    "1-516",
     "1-52",
     "1-53",
     "1-54",
@@ -82258,7 +82259,172 @@
       "tier": "1",
       "page": 515,
       "scrapedAt": "2026-02-16T12:07:01.902Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2de?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2de",
+      "cardName": "Higa Takeru",
+      "creator": "Card Maker:cool rp™",
+      "animeName": "Sword Art Online",
+      "description": "Higa Takeru from Sword Art Online",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:22.895Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2dc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2dc",
+      "cardName": "Shion Todo",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "Pripara",
+      "description": "Shion Todo from Pripara",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:25.329Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2d8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2d8",
+      "cardName": "Lelouch Lamperouge",
+      "creator": "Card Maker:BL4Z3_09",
+      "animeName": "Code Geass",
+      "description": "Lelouch Lamperouge from Code Geass",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:27.823Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2d6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2d6",
+      "cardName": "Ririka Momobami",
+      "creator": "Card Maker:Senpaiii",
+      "animeName": "Kakegurui",
+      "description": "Ririka Momobami from Kakegurui",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:30.405Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2d2?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2d2",
+      "cardName": "Sister Nana",
+      "creator": "Card Maker:MiniMysteru",
+      "animeName": "Magical Girl Raising Project",
+      "description": "Sister Nana from Magical Girl Raising Project",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:32.798Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2d0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2d0",
+      "cardName": "Weiss Winterprison",
+      "creator": "Card Maker:MiniMysteru",
+      "animeName": "Magical Girl Raising Project",
+      "description": "Weiss Winterprison from Magical Girl Raising Project",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:35.117Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2ce?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2ce",
+      "cardName": "Ripple",
+      "creator": "Card Maker:MiniMysteru",
+      "animeName": "Magical Girl Raising Project",
+      "description": "Ripple from Magical Girl Raising Project",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:37.512Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2cc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2cc",
+      "cardName": "Shiho Kamakura",
+      "creator": "Card Maker:rachel💜",
+      "animeName": "WWW.Working!!",
+      "description": "Shiho Kamakura from WWW.Working!!",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:39.807Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2ca?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2ca",
+      "cardName": "Barius",
+      "creator": "Card Maker:Skadoosh",
+      "animeName": "The Dragon Prince",
+      "description": "Barius from The Dragon Prince",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:42.106Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2c6?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2c6",
+      "cardName": "Princess Syalis",
+      "creator": "Card Maker:S E N P A I | 影",
+      "animeName": "Maoujou de Oyasumi",
+      "description": "Princess Syalis from Maoujou de Oyasumi",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:44.622Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2c4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2c4",
+      "cardName": "Mina",
+      "creator": "Card Maker:Agera",
+      "animeName": "Majo no Tabitabi",
+      "description": "Mina from Majo no Tabitabi",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:47.130Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2c0?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2c0",
+      "cardName": "Hana Miyakoshi",
+      "creator": "Card Maker:Reis",
+      "animeName": "WWW.Working!!",
+      "description": "Hana Miyakoshi from WWW.Working!!",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:49.525Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2be?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2be",
+      "cardName": "Noa Fukushima",
+      "creator": "Card Maker:Mashiro",
+      "animeName": "D4DJ: First Mix",
+      "description": "Noa Fukushima from D4DJ: First Mix",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:52.112Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2ba?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2ba",
+      "cardName": "Iska",
+      "creator": "Card Maker:Ano",
+      "animeName": "KimiSen",
+      "description": "Iska from KimiSen",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:54.534Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5feeac50ae4d52753255f2b8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5feeac50ae4d52753255f2b8",
+      "cardName": "Tiese and Ronye",
+      "creator": "Card Maker:cool rp™",
+      "animeName": "Sword Art Online",
+      "description": "Tiese and Ronye from Sword Art Online",
+      "tier": "1",
+      "page": 516,
+      "scrapedAt": "2026-02-16T12:07:57.010Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:07:01.903Z"
+  "lastUpdated": "2026-02-16T12:07:57.011Z"
 }
