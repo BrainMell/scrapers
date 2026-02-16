@@ -1,5 +1,5 @@
 {
-  "totalCards": 7686,
+  "totalCards": 7701,
   "processedPages": [
     "1-1",
     "1-10",
@@ -483,6 +483,7 @@
     "1-530",
     "1-531",
     "1-532",
+    "1-533",
     "1-54",
     "1-55",
     "1-56",
@@ -85080,7 +85081,172 @@
       "tier": "1",
       "page": 532,
       "scrapedAt": "2026-02-16T12:22:37.226Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19da4b9c4af380d4bae07?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19da4b9c4af380d4bae07",
+      "cardName": "Tsukamoto Nozomi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Tsukamoto Nozomi from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:22:57.699Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19da2b9c4af380d4bae04?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19da2b9c4af380d4bae04",
+      "cardName": "Ooshiba Kiichi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Ooshiba Kiichi from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:00.159Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19da0b9c4af380d4badfc?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19da0b9c4af380d4badfc",
+      "cardName": "Tachibana Sayuri",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Tachibana Sayuri from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:02.811Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d9eb9c4af380d4baddf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d9eb9c4af380d4baddf",
+      "cardName": "Shitatori Naoki",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Shitatori Naoki from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:05.499Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d9db9c4af380d4badd4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d9db9c4af380d4badd4",
+      "cardName": "Ura Shizuka",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Ura Shizuka from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:08.099Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d9bb9c4af380d4badce?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d9bb9c4af380d4badce",
+      "cardName": "Taira Genichirou",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Taira Genichirou from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:10.514Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d99b9c4af380d4badca?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d99b9c4af380d4badca",
+      "cardName": "Takanobu Hayase",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Takanobu Hayase from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:13.030Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d8eb9c4af380d4bacfb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d8eb9c4af380d4bacfb",
+      "cardName": "Himura Mayumi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Himura Mayumi from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:15.598Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d8cb9c4af380d4bacf4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d8cb9c4af380d4bacf4",
+      "cardName": "Hoshina Takumi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Hoshina Takumi from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:18.096Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d8ab9c4af380d4bacf1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d8ab9c4af380d4bacf1",
+      "cardName": "Indou Kaoru",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Indou Kaoru from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:20.516Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d88b9c4af380d4bacca?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d88b9c4af380d4bacca",
+      "cardName": "Inohara Susumu",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Inohara Susumu from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:23.102Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d86b9c4af380d4bacc4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d86b9c4af380d4bacc4",
+      "cardName": "Kazama Jin",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Kazama Jin from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:25.601Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d83b9c4af380d4bacba?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d83b9c4af380d4bacba",
+      "cardName": "Kai Takafumi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Kai Takafumi from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:27.939Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d80b9c4af380d4bacb4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d80b9c4af380d4bacb4",
+      "cardName": "Nakazawa Katsutoshi",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Nakazawa Katsutoshi from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:30.524Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19d7cb9c4af380d4bac53?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5fb19d7cb9c4af380d4bac53",
+      "cardName": "Maruoka Yuuji",
+      "creator": "Card Maker:Warcrift - Lucas",
+      "animeName": "Days",
+      "description": "Maruoka Yuuji from Days",
+      "tier": "1",
+      "page": 533,
+      "scrapedAt": "2026-02-16T12:23:33.109Z"
     }
   ],
-  "lastUpdated": "2026-02-16T12:22:37.228Z"
+  "lastUpdated": "2026-02-16T12:23:33.110Z"
 }
