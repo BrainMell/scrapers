@@ -3,9 +3,12 @@ node_modules/
 package-lock.json
 yarn.lock
 
-# Output files
-
-!package.json
+# Data and Backups
+shoob/shoob_cards/backup-*.json
+shoob/shoob_cards/cards_data.backup.json
+shoob/shoob_cards/cards_data.before_organize.json
+shoob/shoob_cards/*.tmp
+shoob/shoob_cards/*.png
 
 # Reports
 report_*.json

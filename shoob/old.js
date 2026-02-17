@@ -18,10 +18,11 @@ class ShoobCardScraper {
     this.processedPages = new Set();
     
     this.browser = null;
-    this.activeTabs = 0;
+    this.page = null;
   }
 
   async cleanup() {
+    // Kill any lingering Chrome processes
     const { exec } = require('child_process');
     const isWindows = process.platform === 'win32';
     
@@ -29,7 +30,7 @@ class ShoobCardScraper {
       if (isWindows) {
         exec('taskkill /F /IM chrome.exe /T 2>nul', () => {
           exec('taskkill /F /IM chromium.exe /T 2>nul', () => {
-            setTimeout(resolve, 1000);
+            setTimeout(resolve, 1000); // Wait for processes to die
           });
         });
       } else {
@@ -43,320 +44,606 @@ class ShoobCardScraper {
   }
 
   async initialize() {
-    console.log('🚀 Initializing Robust Scraper (1GB RAM Optimized)...');
+    console.log('🚀 Initializing Shoob Scraper...');
+    console.log('🧹 Cleaning up old Chrome processes...');
     await this.cleanup();
     
     try { await fs.mkdir(this.outputFolder, { recursive: true }); } catch (e) {}
     
     this.browser = await puppeteer.launch({
-      headless: 'new',
+      headless: false,
       args: [
         '--no-sandbox', 
         '--disable-setuid-sandbox', 
-        '--disable-dev-shm-usage',
+        '--window-size=1920,1080',
+        '--disable-blink-features=AutomationControlled',
+        '--disable-features=IsolateOrigins,site-per-process',
         '--disable-gpu',
         '--no-first-run',
-        '--no-default-browser-check',
-        '--window-size=1280,800'
-      ]
+        '--no-default-browser-check'
+      ],
+      ignoreDefaultArgs: ['--enable-automation']
     });
 
-    // Enhanced stealth and identification
-    const page = await this.browser.newPage();
-    await page.evaluateOnNewDocument(() => {
+    // Close the default blank page and create a fresh one
+    const pages = await this.browser.pages();
+    for (const page of pages) {
+      await page.close().catch(() => {});
+    }
+    
+    this.page = await this.browser.newPage();
+    
+    // Enhanced stealth
+    await this.page.evaluateOnNewDocument(() => {
       Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
       Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
       Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
       window.chrome = { runtime: {} };
     });
     
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
-    await page.setExtraHTTPHeaders({
+    await this.page.setViewport({ width: 1920, height: 1080 });
+    await this.page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
+    
+    // Set extra headers
+    await this.page.setExtraHTTPHeaders({
       'Accept-Language': 'en-US,en;q=0.9',
       'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-      'Connection': 'keep-alive'
+      'Accept-Encoding': 'gzip, deflate, br',
+      'Connection': 'keep-alive',
+      'Upgrade-Insecure-Requests': '1'
     });
-    await page.close();
     
     console.log('✅ Browser Ready');
+  }
+
+  async waitForPageLoad(maxAttempts = 20) {
+    console.log('   ⏳ Waiting for page content...');
+    
+    for (let attempt = 0; attempt < maxAttempts; attempt++) {
+      const status = await this.page.evaluate(() => {
+        return {
+          bodyLength: document.body?.innerHTML?.length || 0,
+          imageCount: document.querySelectorAll('img').length,
+          linkCount: document.querySelectorAll('a').length,
+          hasContent: document.body?.textContent?.trim().length > 100,
+          title: document.title,
+          readyState: document.readyState
+        };
+      });
+      
+      if (attempt === 0) {
+        console.log(`      Page title: "${status.title}"`);
+        console.log(`      Ready state: ${status.readyState}`);
+      }
+      
+      // Check if page has loaded with content
+      if (status.hasContent && status.imageCount > 5 && status.linkCount > 10) {
+        console.log(`      ✓ Page loaded (${status.imageCount} images, ${status.linkCount} links)`);
+        return true;
+      }
+      
+      // Check for blocking/error pages
+      if (status.bodyLength > 0 && status.bodyLength < 5000) {
+        const bodyText = await this.page.evaluate(() => document.body.textContent.toLowerCase());
+        if (bodyText.includes('blocked') || bodyText.includes('access denied') || 
+            bodyText.includes('captcha') || bodyText.includes('cloudflare')) {
+          console.log('      ⚠️  Possible blocking detected!');
+          await this.page.screenshot({ 
+            path: path.join(this.outputFolder, `block-detection-${Date.now()}.png`) 
+          });
+          return false;
+        }
+      }
+      
+      if (attempt < maxAttempts - 1) {
+        await new Promise(r => setTimeout(r, 1500));
+      }
+    }
+    
+    console.log('      ⚠️  Page load timeout - taking diagnostic screenshot');
+    await this.page.screenshot({ 
+      path: path.join(this.outputFolder, `load-timeout-${Date.now()}.png`),
+      fullPage: true 
+    });
+    return false;
+  }
+
+  async extractCardsFromPage() {
+    return await this.page.evaluate(() => {
+      const results = { cards: [], hasCardBack: false, debug: {} };
+      
+      // Blacklist of non-card elements to ignore
+      const blacklist = [
+        'shoob home',
+        'home',
+        'shoob logo',
+        'navigation',
+        'nav',
+        'menu',
+        'header',
+        'footer'
+      ];
+      
+      let filteredCount = 0;
+      
+      const isBlacklisted = (name) => {
+        const lower = name.toLowerCase().trim();
+        const blocked = blacklist.some(term => lower === term || lower.includes(term));
+        if (blocked) filteredCount++;
+        return blocked;
+      };
+      
+      // Try multiple strategies to find cards
+      const strategies = [
+        // Strategy 1: Links with /cards/info/ or /card/
+        () => {
+          const cards = [];
+          const links = document.querySelectorAll('a[href*="/cards/info/"], a[href*="/card/"]');
+          links.forEach(link => {
+            const img = link.querySelector('img');
+            if (img && img.src && !img.src.includes('card_back')) {
+              const cardName = img.alt?.trim() || 'Unknown';
+              if (!isBlacklisted(cardName)) {
+                cards.push({
+                  imageUrl: img.src,
+                  detailUrl: link.href,
+                  cardName: cardName,
+                  method: 'link-selector'
+                });
+              }
+            }
+          });
+          return cards;
+        },
+        
+        // Strategy 2: All images with card-like parents
+        () => {
+          const cards = [];
+          const images = document.querySelectorAll('img');
+          images.forEach(img => {
+            if (!img.src || img.src.includes('card_back')) return;
+            
+            const link = img.closest('a');
+            if (link && link.href && 
+                (link.href.includes('shoob.gg') || link.href.includes('/card'))) {
+              // Check if image looks like a card (reasonable size)
+              const width = img.naturalWidth || img.width;
+              const height = img.naturalHeight || img.height;
+              
+              if ((width > 200 || width === 0) && (height > 200 || height === 0)) {
+                const cardName = img.alt?.trim() || 'Unknown';
+                if (!isBlacklisted(cardName)) {
+                  cards.push({
+                    imageUrl: img.src,
+                    detailUrl: link.href,
+                    cardName: cardName,
+                    method: 'image-scan'
+                  });
+                }
+              }
+            }
+          });
+          return cards;
+        },
+        
+        // Strategy 3: Grid/card containers
+        () => {
+          const cards = [];
+          const containers = document.querySelectorAll('[class*="card"], [class*="grid"], [class*="item"]');
+          containers.forEach(container => {
+            const img = container.querySelector('img');
+            const link = container.querySelector('a') || container.closest('a');
+            
+            if (img && link && img.src && !img.src.includes('card_back')) {
+              const cardName = img.alt?.trim() || 'Unknown';
+              if (!isBlacklisted(cardName)) {
+                cards.push({
+                  imageUrl: img.src,
+                  detailUrl: link.href,
+                  cardName: cardName,
+                  method: 'container-scan'
+                });
+              }
+            }
+          });
+          return cards;
+        }
+      ];
+      
+      // Try each strategy and use the one that finds the most cards
+      let bestCards = [];
+      let bestMethod = 'none';
+      
+      strategies.forEach(strategy => {
+        try {
+          const foundCards = strategy();
+          if (foundCards.length > bestCards.length) {
+            bestCards = foundCards;
+            bestMethod = foundCards[0]?.method || 'unknown';
+          }
+        } catch(e) {}
+      });
+      
+      // Deduplicate
+      const seen = new Set();
+      bestCards.forEach(card => {
+        if (!seen.has(card.imageUrl)) {
+          results.cards.push(card);
+          seen.add(card.imageUrl);
+        }
+      });
+      
+      results.debug = {
+        method: bestMethod,
+        totalImages: document.querySelectorAll('img').length,
+        totalLinks: document.querySelectorAll('a').length,
+        foundCards: results.cards.length,
+        filtered: filteredCount
+      };
+      
+      // Check for card back
+      const allImages = document.querySelectorAll('img');
+      allImages.forEach(img => {
+        if (img.src?.includes('card_back') || img.alt?.toLowerCase().includes('card back')) {
+          const width = img.naturalWidth || img.width;
+          if (width > 100) results.hasCardBack = true;
+        }
+      });
+      
+      return results;
+    });
   }
 
   async fetchMetadataByOpeningTab(detailUrl, cardName, retryCount = 0) {
     if (!detailUrl) return { animeName: 'Unknown Anime', creator: 'Unknown Creator' };
     
     let detailPage = null;
-    this.activeTabs++;
     try {
       detailPage = await this.browser.newPage();
+      await detailPage.setViewport({ width: 1280, height: 800 });
       
-      // 1GB OPTIMIZATION: Block heavy resources in sub-tabs
-      await detailPage.setRequestInterception(true);
-      detailPage.on('request', (req) => {
-        const type = req.resourceType();
-        if (['image', 'stylesheet', 'font', 'media', 'other'].includes(type)) {
-          req.abort();
-        } else {
-          req.continue();
-        }
+      // Navigate
+      await detailPage.goto(detailUrl, { 
+        waitUntil: 'domcontentloaded', 
+        timeout: 30000 
       });
-
-      await detailPage.setViewport({ width: 800, height: 600 });
-      await detailPage.goto(detailUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
-      await new Promise(r => setTimeout(r, 2000)); // Wait for JS to render breadcrumbs
+      
+      // Wait for dynamic content
+      await new Promise(r => setTimeout(r, 3000));
+      
+      // Try to wait for specific elements, but don't fail if they timeout
+      await detailPage.waitForFunction(() => {
+        const hasText = document.body.textContent.trim().length > 100;
+        const hasImages = document.querySelectorAll('img').length > 0;
+        return hasText && hasImages;
+      }, { timeout: 10000 }).catch(() => {});
 
       const meta = await detailPage.evaluate(() => {
         let animeName = 'Unknown Anime';
         let creatorName = 'Unknown Creator';
         
-        // Strategy 1: Breadcrumbs
+        // Strategy 1: Breadcrumbs with position="3"
         try {
           const breadcrumbs = Array.from(document.querySelectorAll('.breadcrumb-new li, .breadcrumb li, [class*="breadcrumb"] li'));
           const seriesLi = breadcrumbs.find(li => {
             const meta = li.querySelector('meta[itemprop="position"]');
             return meta && meta.getAttribute('content') === '3';
           });
+          
           if (seriesLi) {
             const span = seriesLi.querySelector('span[itemprop="name"]');
             if (span) animeName = span.textContent.trim();
           }
-          if (animeName === 'Unknown Anime' && breadcrumbs.length >= 2) {
+          
+          // Fallback: second-to-last breadcrumb
+          if (animeName === 'Unknown Anime' && breadcrumbs.length >= 3) {
             const span = breadcrumbs[breadcrumbs.length - 2].querySelector('span[itemprop="name"], span');
             if (span) animeName = span.textContent.trim();
           }
         } catch(e) {}
         
-        // Strategy 2: Title elements fallback
+        // Strategy 2: Look for series name in various places
         if (animeName === 'Unknown Anime') {
-          const selectors = ['.series-name', '[class*="series"]', 'h1', 'h2'];
-          for (const sel of selectors) {
-            const el = document.querySelector(sel);
-            if (el && el.textContent.trim().length > 0 && el.textContent.trim().length < 100) {
-              animeName = el.textContent.trim();
-              break;
+          try {
+            const selectors = [
+              '.series-name',
+              '[class*="series"]',
+              'h1', 
+              'h2',
+              '.title'
+            ];
+            
+            for (const sel of selectors) {
+              const el = document.querySelector(sel);
+              if (el && el.textContent.trim().length > 0 && el.textContent.trim().length < 100) {
+                animeName = el.textContent.trim();
+                break;
+              }
             }
-          }
+          } catch(e) {}
         }
         
-        // Strategy 3: Creator extraction
+        // Creator extraction
         try {
-          const creatorLink = Array.from(document.querySelectorAll('a[href*="/u/"]')).find(a => {
-            const text = a.textContent.toLowerCase();
-            return !text.includes('see') && !text.includes('view') && !text.includes('maker');
-          });
-          if (creatorLink) {
-            creatorName = creatorLink.textContent.trim();
-          } else {
-            const block = document.querySelector('.user_purchased, [class*="creator"], [class*="maker"]');
-            if (block) creatorName = block.textContent.replace('Card Maker:', '').trim().split('\n')[0];
+          const creatorBlock = document.querySelector('.user_purchased.padded20, .user_purchased, [class*="creator"], [class*="maker"]');
+          if (creatorBlock) {
+            const p = creatorBlock.querySelector('p');
+            if (p) {
+              const clone = p.cloneNode(true);
+              // Remove badge/label elements
+              const badges = clone.querySelectorAll('span.padr5, .badge, .label');
+              badges.forEach(b => b.remove());
+              const text = clone.textContent.trim();
+              if (text.length > 0 && text.length < 50) {
+                creatorName = text;
+              }
+            } else {
+              const text = creatorBlock.textContent.trim();
+              if (text.length > 0 && text.length < 50) {
+                creatorName = text;
+              }
+            }
           }
         } catch(e) {}
+        
+        // Fallback: search for "Card Maker:" or "Creator:" labels
+        if (creatorName === 'Unknown Creator') {
+          try {
+            const bodyText = document.body.textContent;
+            const patterns = [
+              /Card Maker:\s*([^\n]+)/,
+              /Creator:\s*([^\n]+)/,
+              /Made by:\s*([^\n]+)/,
+              /Artist:\s*([^\n]+)/
+            ];
+            
+            for (const pattern of patterns) {
+              const match = bodyText.match(pattern);
+              if (match && match[1]) {
+                creatorName = match[1].trim();
+                break;
+              }
+            }
+          } catch(e) {}
+        }
         
         return { animeName, creatorName };
       });
 
       await detailPage.close();
-      this.activeTabs--;
 
-      // Retry ONLY if series is missing
-      if (meta.animeName === 'Unknown Anime' && retryCount < 2) {
-        await new Promise(r => setTimeout(r, 2000));
+      // Retry logic
+      if ((meta.animeName === 'Unknown Anime' || meta.creatorName === 'Unknown Creator') && retryCount < 2) {
+        console.log(`      🔄 Retry ${retryCount + 1}/2 for "${cardName}"`);
+        await new Promise(r => setTimeout(r, 3000));
         return await this.fetchMetadataByOpeningTab(detailUrl, cardName, retryCount + 1);
       }
 
       return {
-        creator: meta.creatorName === 'Unknown Creator' ? 'Official' : meta.creatorName,
+        creator: meta.creatorName,
         animeName: meta.animeName,
         description: `${cardName} from ${meta.animeName}`
       };
     } catch (e) {
-      if (detailPage) { await detailPage.close().catch(() => {}); this.activeTabs--; }
+      if (detailPage) await detailPage.close();
       if (retryCount < 2) {
+        console.log(`      ⚠️ Error on "${cardName}": ${e.message.substring(0, 50)}`);
         await new Promise(r => setTimeout(r, 3000));
         return await this.fetchMetadataByOpeningTab(detailUrl, cardName, retryCount + 1);
       }
-      return { creator: 'Official', animeName: 'Unknown Anime', description: `${cardName} from Unknown Anime` };
+      return { 
+        creator: 'Unknown Creator', 
+        animeName: 'Unknown Anime', 
+        description: `${cardName} from Unknown Anime` 
+      };
     }
   }
 
   async saveProgress() {
-    // Natural Sort for JSON organization
-    const tierOrder = { '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, 'S': 7 };
-    this.cards.sort((a, b) => {
-      const tierDiff = (tierOrder[a.tier] || 0) - (tierOrder[b.tier] || 0);
-      if (tierDiff !== 0) return tierDiff;
-      return (a.animeName || '').localeCompare(b.animeName || '');
-    });
-
     const data = {
-      stats: { totalCards: this.cards.length, pagesProcessed: this.processedPages.size, lastUpdate: new Date().toISOString() },
-      processedPages: Array.from(this.processedPages).sort((a, b) => {
-        const [aT, aP] = a.split('-').map(Number);
-        const [bT, bP] = b.split('-').map(Number);
-        return aT !== bT ? aT - bT : aP - bP;
-      }),
-      cards: this.cards
+      totalCards: this.cards.length,
+      processedPages: Array.from(this.processedPages),
+      cards: this.cards,
+      lastUpdated: new Date().toISOString()
     };
-
-    const tempFile = `${this.outputFile}.tmp`;
-    const backupFile = path.join(this.outputFolder, 'cards_data.backup.json');
-
-    try {
-      await fs.writeFile(tempFile, JSON.stringify(data, null, 2), 'utf-8');
-      try {
-        await fs.access(this.outputFile);
-        await fs.copyFile(this.outputFile, backupFile);
-      } catch (e) {}
-      await fs.rename(tempFile, this.outputFile);
-      console.log(`   💾 Progress Saved: ${this.cards.length} cards total`);
-    } catch (error) {
-      console.error(`   ❌ Failed to save progress: ${error.message}`);
-    }
+    await fs.writeFile(this.outputFile, JSON.stringify(data, null, 2), 'utf-8');
+    console.log(`   💾 Saved: ${this.cards.length} total cards`);
   }
 
   async loadProgress() {
-    const backupFile = path.join(this.outputFolder, 'cards_data.backup.json');
-    const filesToTry = [this.outputFile, backupFile];
-    
-    // Check for any timestamped backups too
     try {
-      const files = await fs.readdir(this.outputFolder);
-      const timestamps = files.filter(f => f.startsWith('backup-') && f.endsWith('.json')).sort().reverse().map(f => path.join(this.outputFolder, f));
-      filesToTry.push(...timestamps);
-    } catch (e) {}
-
-    for (const file of filesToTry) {
-      try {
-        const data = await fs.readFile(file, 'utf-8');
-        if (!data) continue;
-        const parsed = JSON.parse(data);
-        if (parsed.cards) {
-          this.cards = parsed.cards;
-          this.cardUrlSet = new Set();
-          parsed.cards.forEach(card => this.cardUrlSet.add(card.imageUrl));
-          this.processedPages = new Set(parsed.processedPages || []);
-          console.log(`📂 Resuming from ${this.cards.length} cards, ${this.processedPages.size} pages (Loaded from ${path.basename(file)})`);
-          return;
-        }
-      } catch (error) {}
+      const data = await fs.readFile(this.outputFile, 'utf-8');
+      const parsed = JSON.parse(data);
+      if (parsed.cards) {
+        this.cards = parsed.cards;
+        parsed.cards.forEach(card => this.cardUrlSet.add(card.imageUrl));
+      }
+      if (parsed.processedPages) {
+        this.processedPages = new Set(parsed.processedPages);
+      }
+      console.log(`📂 Resuming from ${this.cards.length} cards, ${this.processedPages.size} pages done`);
+    } catch (error) {
+      console.log('📝 Starting fresh');
     }
-    console.log('📝 Starting Fresh Database');
   }
 
   async scrapePage(tier, pageNum) {
     const pageKey = `${tier}-${pageNum}`;
-    if (this.processedPages.has(pageKey)) return;
+    if (this.processedPages.has(pageKey)) {
+      // Only log every 10th skipped page to reduce spam
+      if (pageNum % 10 === 0) {
+        console.log(`⏭️  Skipping tier ${tier} pages up to ${pageNum} (already done)`);
+      }
+      return;
+    }
 
-    let page = null;
-    let attempts = 0;
     try {
-      page = await this.browser.newPage();
+      console.log(`\n📄 TIER ${tier} | PAGE ${pageNum}`);
       const url = `https://shoob.gg/cards?page=${pageNum}&tier=${tier}`;
-
-      while (attempts < 3) {
-        attempts++;
-        console.log(`📑 [Tier ${tier} P${pageNum}] Loading... Attempt ${attempts}/3`);
-        await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
-        
-        // Anti-block detection
-        const content = await page.evaluate(() => document.body.textContent);
-        if (content.includes('Cloudflare') || content.includes('Access Denied')) {
-          console.log('⚠️  Block detected! Waiting 30s...');
-          await new Promise(r => setTimeout(r, 30000));
-          continue;
-        }
-
-        // Strategy-based Extraction
-        const extraction = await page.evaluate(() => {
-          const cards = [];
-          const seen = new Set();
-          // Look for all card-like links
-          const links = document.querySelectorAll('a[href*="/cards/info/"], a[href*="/card/"]');
-          links.forEach(link => {
-            const img = link.querySelector('img');
-            if (img && img.src && !img.src.includes('card_back')) {
-              if (!seen.has(img.src)) {
-                cards.push({ imageUrl: img.src, detailUrl: link.href, cardName: img.alt?.trim() || 'Unknown' });
-                seen.add(img.src);
-              }
-            }
+      
+      // Navigate with retry
+      let navigationSuccess = false;
+      for (let navAttempt = 0; navAttempt < 3; navAttempt++) {
+        try {
+          await this.page.goto(url, { 
+            waitUntil: 'domcontentloaded',
+            timeout: 45000 
           });
-          return cards;
-        });
-
-        if (extraction.length > 0) {
-          console.log(`🚀 [Tier ${tier} P${pageNum}] Scraping ${extraction.length} cards...`);
-          
-          // Small batches of 2 for 1GB RAM stability
-          const batchSize = 2;
-          for (let i = 0; i < extraction.length; i += batchSize) {
-            const batch = extraction.slice(i, i + batchSize);
-            await Promise.all(batch.map(async (card) => {
-              if (this.cardUrlSet.has(card.imageUrl)) return;
-              const meta = await this.fetchMetadataByOpeningTab(card.detailUrl, card.cardName);
-              if (meta.animeName !== 'Unknown Anime') {
-                const enriched = { 
-                  ...card, ...meta, 
-                  tier, page: pageNum, 
-                  scrapedAt: new Date().toISOString() 
-                };
-                this.cards.push(enriched);
-                this.cardUrlSet.add(card.imageUrl);
-                console.log(`      ✨ [${enriched.creator}] ${enriched.description}`);
-              }
-            }));
-            await new Promise(r => setTimeout(r, 1500));
-          }
-          this.processedPages.add(pageKey);
+          navigationSuccess = true;
           break;
-        } else {
-          console.log(`⚠️  No cards found on P${pageNum}. Retrying...`);
-          await new Promise(r => setTimeout(r, 5000));
+        } catch(e) {
+          console.log(`   ⚠️ Navigation attempt ${navAttempt + 1}/3 failed`);
+          if (navAttempt < 2) await new Promise(r => setTimeout(r, 5000));
         }
       }
       
-      if (attempts >= 3 && !this.processedPages.has(pageKey)) {
-        await page.screenshot({ path: path.join(this.outputFolder, `error-p${pageNum}.png`) });
+      if (!navigationSuccess) {
+        console.log('   ❌ Failed to load page after 3 attempts');
+        return;
       }
 
-      await page.close();
+      // Wait for content to load
+      const pageLoaded = await this.waitForPageLoad();
+      if (!pageLoaded) {
+        console.log('   ❌ Page did not load properly - check screenshots');
+        return;
+      }
+
+      // Extract cards with retry
+      let extraction = { cards: [], debug: {} };
+      for (let attempt = 0; attempt < 10; attempt++) {
+        extraction = await this.extractCardsFromPage();
+        
+        if (attempt === 0) {
+          console.log(`   🔍 Detection method: ${extraction.debug.method}`);
+          const filterMsg = extraction.debug.filtered > 0 ? ` (${extraction.debug.filtered} filtered)` : '';
+          console.log(`   📊 Found: ${extraction.debug.foundCards} cards${filterMsg}, ${extraction.debug.totalImages} images, ${extraction.debug.totalLinks} links`);
+        }
+        
+        if (extraction.cards.length >= 12) break;
+        if (attempt < 9) await new Promise(r => setTimeout(r, 2000));
+      }
+
+      if (extraction.cards.length === 0) {
+        console.log('   ⚠️ No cards found - taking screenshot for diagnosis');
+        await this.page.screenshot({ 
+          path: path.join(this.outputFolder, `no-cards-tier${tier}-page${pageNum}.png`),
+          fullPage: true 
+        });
+        return;
+      }
+
+      console.log(`   ⚡ Processing ${extraction.cards.length} cards...`);
+
+      let successCount = 0;
+      let unknownCount = 0;
+
+      // Process cards with staggered parallel execution
+      const batchSize = 5; // Process 5 at a time
+      for (let i = 0; i < extraction.cards.length; i += batchSize) {
+        const batch = extraction.cards.slice(i, i + batchSize);
+        
+        const batchPromises = batch.map(async (card, batchIndex) => {
+          if (this.cardUrlSet.has(card.imageUrl)) return;
+          
+          // Stagger within batch
+          await new Promise(r => setTimeout(r, batchIndex * 1000));
+          
+          const meta = await this.fetchMetadataByOpeningTab(card.detailUrl, card.cardName);
+          
+          if (meta.animeName !== 'Unknown Anime' && meta.creator !== 'Unknown Creator') {
+            const enrichedCard = {
+              ...card,
+              ...meta,
+              tier,
+              page: pageNum,
+              scrapedAt: new Date().toISOString()
+            };
+            this.cards.push(enrichedCard);
+            this.cardUrlSet.add(card.imageUrl);
+            console.log(`      ✨ [${enrichedCard.creator}] ${enrichedCard.description}`);
+            successCount++;
+          } else {
+            console.log(`      ❌ [Unknown] ${card.cardName}`);
+            unknownCount++;
+          }
+        });
+
+        await Promise.all(batchPromises);
+        
+        // Pause between batches
+        if (i + batchSize < extraction.cards.length) {
+          await new Promise(r => setTimeout(r, 2000));
+        }
+      }
+
+      console.log(`   📊 Results: ${successCount} success, ${unknownCount} unknown`);
+
+      // Save progress if we got good data
+      if (unknownCount < extraction.cards.length / 2) {
+        this.processedPages.add(pageKey);
+        await this.saveProgress();
+      } else {
+        console.log(`   ⚠️ Too many unknowns (${unknownCount}/${extraction.cards.length}) - will retry this page`);
+      }
+      
+      // Cool down between pages
+      console.log('   ⏸️ Cooling down 8s...');
+      await new Promise(r => setTimeout(r, 8000));
+
     } catch (error) {
-      console.error(`❌ [Tier ${tier} P${pageNum}] Fatal: ${error.message}`);
-      if (page) await page.close().catch(() => {});
+      console.error(`   ❌ Error: ${error.message}`);
+      await this.page.screenshot({ 
+        path: path.join(this.outputFolder, `error-tier${tier}-page${pageNum}.png`) 
+      }).catch(() => {});
     }
   }
 
   async start() {
-    process.on('SIGINT', async () => {
-      console.log('\n⚠️  Emergency Save...');
-      await this.saveProgress();
+    // Setup graceful shutdown handlers
+    const shutdown = async (signal) => {
+      console.log(`\n⚠️  Received ${signal}, shutting down gracefully...`);
+      await this.saveProgress().catch(() => {});
+      if (this.browser) {
+        await this.browser.close().catch(() => {});
+      }
       process.exit(0);
-    });
+    };
 
+    process.on('SIGINT', () => shutdown('SIGINT'));
+    process.on('SIGTERM', () => shutdown('SIGTERM'));
+    
     try {
       await this.loadProgress();
       await this.initialize();
       
+      // Run the full scrape
       for (const tier of this.tiers) {
-        console.log(`\n🌀 STARTING TIER ${tier}...`);
         for (let p = this.startPage; p <= this.endPage; p++) {
-          if (this.processedPages.has(`${tier}-${p}`)) {
-            if (p % 100 === 0) console.log(`⏩ Fast-forwarding P${p}...`);
-            continue;
-          }
           await this.scrapePage(tier, p);
-          // Save every 5 pages
-          if (p % 5 === 0) await this.saveProgress();
         }
       }
-      console.log('\n👑 ALL FINISHED!');
+      
+      console.log('\n✅ Scraping complete!');
+      console.log(`📊 Total cards collected: ${this.cards.length}`);
     } catch (error) {
-      console.error('\n❌ CRASH:', error.message);
+      console.error('\n❌ Fatal error:', error.message);
       await this.saveProgress().catch(() => {});
     } finally {
-      if (this.browser) await this.browser.close().catch(() => {});
+      if (this.browser) {
+        await this.browser.close().catch(() => {});
+      }
     }
   }
 }
 
-const config = { startPage: 1, endPage: 2332, tiers: ['1', '2', '3', '4', '5', '6', 'S'] };
-(async () => { await new ShoobCardScraper(config).start(); })();
+const config = {
+  startPage: 1,
+  endPage: 2332,
+  tiers: ['1', '2', '3', '4', '5', '6', 'S']
+};
+
+(async () => {
+  const scraper = new ShoobCardScraper(config);
+  await scraper.start();
+})();
