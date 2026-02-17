@@ -1,5 +1,5 @@
 {
-  "totalCards": 8631,
+  "totalCards": 8661,
   "processedPages": [
     "1-1",
     "1-2",
@@ -595,7 +595,9 @@
     "1-605",
     "1-606",
     "1-607",
-    "1-608"
+    "1-608",
+    "1-609",
+    "1-610"
   ],
   "cards": [
     {
@@ -5800,6 +5802,17 @@
       "page": 579,
       "creator": "Official",
       "scrapedAt": "2026-02-17T06:07:38.532Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3abd39e0d431ee8c12c8?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3abd39e0d431ee8c12c8",
+      "cardName": "Barnes",
+      "animeName": "Baccano!",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:12.104Z"
     },
     {
       "imageUrl": "https://api.shoob.gg/site/api/cardr/621da850e0f13c186a8c4934?size=400",
@@ -73342,6 +73355,17 @@
       "scrapedAt": "2026-02-16T10:55:01.306Z"
     },
     {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a74a5a84e32a258e08e?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a74a5a84e32a258e08e",
+      "cardName": "Atsushi Kumanoto",
+      "animeName": "Solo Leveling",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:32.838Z"
+    },
+    {
       "imageUrl": "https://api.shoob.gg/site/api/cardr/68b4e2001068a700122898d2?size=400",
       "detailUrl": "https://shoob.gg/cards/info/68b4e2001068a700122898d2",
       "cardName": "Cheese",
@@ -86586,6 +86610,314 @@
       "scrapedAt": "2026-02-17T06:28:58.601Z"
     },
     {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3adec990fd31f4cbe0b1?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3adec990fd31f4cbe0b1",
+      "cardName": "Lullaby",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:14.480Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3aceed80f032572ed915?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3aceed80f032572ed915",
+      "cardName": "Shut",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:14.653Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3ac939e0d431ee8c1302?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3ac939e0d431ee8c1302",
+      "cardName": "Lizzie Garland",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:14.654Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3ad7a5a84e32a258e12a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3ad7a5a84e32a258e12a",
+      "cardName": "Berga Gandor",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:14.767Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a96faa5cf7a68a5a52a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a96faa5cf7a68a5a52a",
+      "cardName": "Sheele",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:24.878Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3aacf9a16332281eee04?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3aacf9a16332281eee04",
+      "cardName": "Libra",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:24.947Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3abb6f0f57315fc80a03?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3abb6f0f57315fc80a03",
+      "cardName": "Shiki Maboro",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:25.037Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3aa4a5a84e32a258e0ec?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3aa4a5a84e32a258e0ec",
+      "cardName": "Banaboster",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:25.119Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3aa94b99db329b1daa26?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3aa94b99db329b1daa26",
+      "cardName": "Sherria Blendy",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:25.156Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a96c990fd31f4cbe08a?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a96c990fd31f4cbe08a",
+      "cardName": "Leone",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:35.532Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a824b99db329b1daa24?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a824b99db329b1daa24",
+      "cardName": "Seraphim",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:35.545Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a8aa5a84e32a258e0be?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a8aa5a84e32a258e0be",
+      "cardName": "Ayano Hanesaki",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:35.612Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a756f0f57315fc80949?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a756f0f57315fc80949",
+      "cardName": "Lee Ju-Hee",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 609,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:35.661Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a444b99db329b1daa20?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a444b99db329b1daa20",
+      "cardName": "Seigen Amawaka",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:56.230Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a5c4b99db329b1daa21?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a5c4b99db329b1daa21",
+      "cardName": "Laki Olietta",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:56.333Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a5c39e0d431ee8c127c?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a5c39e0d431ee8c127c",
+      "cardName": "Sekibayashi Jun",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:56.390Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a4c39e0d431ee8c1278?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a4c39e0d431ee8c1278",
+      "cardName": "Aroma",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:56.394Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a7039e0d431ee8c127d?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a7039e0d431ee8c127d",
+      "cardName": "Semmes",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:29:56.543Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a19c8224a39cb438fde?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a19c8224a39cb438fde",
+      "cardName": "Scorpio",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:30:06.561Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a346f0f57315fc808ba?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a346f0f57315fc808ba",
+      "cardName": "Kyon",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:30:06.650Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a29ed80f032572ed852?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a29ed80f032572ed852",
+      "cardName": "Aries",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:30:06.779Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a326f0f57315fc808b9?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a326f0f57315fc808b9",
+      "cardName": "Scythe Master",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:30:06.794Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a1fc8224a39cb438fdf?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a1fc8224a39cb438fdf",
+      "cardName": "Kyoko",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:30:06.812Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b39edbc8e0e31a419e65f?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b39edbc8e0e31a419e65f",
+      "cardName": "Aria",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:30:17.198Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a0d4b99db329b1da9fb?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a0d4b99db329b1da9fb",
+      "cardName": "Ariel",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:30:17.574Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a0339e0d431ee8c11d4?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a0339e0d431ee8c11d4",
+      "cardName": "Kurumu Kurono",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:30:17.575Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b3a00faa5cf7a68a5a4e7?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b3a00faa5cf7a68a5a4e7",
+      "cardName": "Sasha",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:30:17.575Z"
+    },
+    {
+      "imageUrl": "https://api.shoob.gg/site/api/cardr/5f2b39ef6f0f57315fc80886?size=400",
+      "detailUrl": "https://shoob.gg/cards/info/5f2b39ef6f0f57315fc80886",
+      "cardName": "Sarasvati",
+      "animeName": "Unknown Anime",
+      "creatorName": "Official",
+      "tier": "1",
+      "page": 610,
+      "creator": "Official",
+      "scrapedAt": "2026-02-17T06:30:17.606Z"
+    },
+    {
       "imageUrl": "https://api.shoob.gg/site/api/cardr/5fb19f78b9c4af380d4bc60f?size=400",
       "detailUrl": "https://shoob.gg/cards/info/5fb19f78b9c4af380d4bc60f",
       "cardName": "Tooru Mitsushashi",
@@ -95540,5 +95872,5 @@
       "scrapedAt": "2026-02-16T02:55:08.943Z"
     }
   ],
-  "lastUpdated": "2026-02-17T06:28:58.634Z"
+  "lastUpdated": "2026-02-17T06:30:17.636Z"
 }
