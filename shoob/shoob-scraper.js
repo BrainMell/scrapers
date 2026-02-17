@@ -195,8 +195,24 @@ class ShoobCardScraper {
     try {
       const data = await fs.readFile(this.outputFile, 'utf-8');
       const parsed = JSON.parse(data);
-      this.cards = parsed.cards || [];
+      let loadedCards = parsed.cards || [];
       this.processedPages = new Set(parsed.processedPages || []);
+
+      // 🧹 Cleanup logic for range 572-653 with Unknown Anime
+      const beforeCount = loadedCards.length;
+      this.cards = loadedCards.filter(c => {
+        const isUnknownTarget = (c.animeName === 'Unknown Anime' || c.animeName === 'Anonymous') && c.page >= 572 && c.page <= 653;
+        if (isUnknownTarget) {
+          this.processedPages.delete(`${c.tier}-${c.page}`);
+          return false;
+        }
+        return true;
+      });
+
+      if (beforeCount !== this.cards.length) {
+        console.log(`🧹 Found ${beforeCount - this.cards.length} cards with Unknown Anime in range 572-653. Removing for re-scrape...`);
+      }
+
       this.cards.forEach(c => this.cardUrlSet.add(c.imageUrl));
       console.log(`📂 Resuming: ${this.cards.length} cards, ${this.processedPages.size} pages done\n`);
     } catch (e) {}
