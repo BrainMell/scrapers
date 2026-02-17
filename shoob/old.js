@@ -72,6 +72,7 @@ class ShoobCardScraper {
         }
       });
 
+      await detailPage.setViewport({ width: 800, height: 600 });
       await detailPage.goto(detailUrl, { waitUntil: 'domcontentloaded', timeout: 20000 });
       await new Promise(r => setTimeout(r, 1500));
 
