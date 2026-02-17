@@ -151,7 +151,7 @@ class ShoobCardScraper {
         lastUpdated: new Date().toISOString()
       };
       await fs.writeFile(this.outputFile, JSON.stringify(data, null, 2), 'utf-8');
-      if (process.env.GITHUB_TOKEN && this.processedPages.size % 5 === 0) await this.syncToGitHub();
+      if (process.env.GITHUB_TOKEN) await this.syncToGitHub();
     } finally { this.isSaving = false; }
   }
 
@@ -161,16 +161,17 @@ class ShoobCardScraper {
     const execPromise = util.promisify(exec);
     const token = process.env.GITHUB_TOKEN;
     const repoUrl = `https://${token}@github.com/BrainMell/scrapers.git`;
+    const gitOptions = { cwd: path.join(__dirname, '..') };
     try {
-      await execPromise('git config user.email "bot@scrapers.com"');
-      await execPromise('git config user.name "Scraper Bot"');
-      await execPromise(`git remote set-url origin ${repoUrl}`);
-      await execPromise('git fetch origin master');
-      await execPromise('git add shoob/shoob_cards/cards_data.json');
-      const { stdout: status } = await execPromise('git status --porcelain');
+      await execPromise('git config user.email "bot@scrapers.com"', gitOptions);
+      await execPromise('git config user.name "Scraper Bot"', gitOptions);
+      await execPromise(`git remote set-url origin ${repoUrl}`, gitOptions);
+      await execPromise('git fetch origin master', gitOptions);
+      await execPromise('git add shoob/shoob_cards/cards_data.json', gitOptions);
+      const { stdout: status } = await execPromise('git status --porcelain', gitOptions);
       if (!status.trim()) return;
-      await execPromise('git commit -m "📊 Auto-update data"');
-      await execPromise('git push origin master --force');
+      await execPromise('git commit -m "📊 Auto-update data"', gitOptions);
+      await execPromise('git push origin master --force', gitOptions);
       console.log('✅ GitHub Synced');
     } catch (e) { console.error('   ❌ Sync Failed:', e.message); }
   }
@@ -279,9 +280,8 @@ class ShoobCardScraper {
                 }));
 
                 console.log(`      ✓ Batch ${Math.floor(i/batchSize) + 1} complete`);
-
+                await this.saveProgress();
               }
-
             }
 
       this.processedPages.add(pageKey);
