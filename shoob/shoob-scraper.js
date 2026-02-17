@@ -106,8 +106,11 @@ class ShoobCardScraper {
         await this.setupPage(page);
         
         // Use a longer timeout and wait for networkidle2 to ensure images/content load
-        await page.goto(card.detailUrl, { waitUntil: 'networkidle2', timeout: 45000 });
-        await page.waitForSelector('.breadcrumb-new', { timeout: 30000 });
+        await page.goto(card.detailUrl, { waitUntil: 'networkidle2', timeout: 60000 });
+        
+        // Wait for breadcrumb AND creator block to be sure
+        await page.waitForSelector('.breadcrumb-new, .user_purchased.padded20', { timeout: 30000 });
+        await new Promise(r => setTimeout(r, 1500)); // Stability delay
         
         const meta = await page.evaluate(() => {
           const bread = Array.from(document.querySelectorAll('.breadcrumb-new li'));
@@ -173,16 +176,33 @@ class ShoobCardScraper {
       console.log(`📄 TIER ${tier} | PAGE ${pageNum} (Scanning)`);
       listPage = await this.browser.newPage();
       await this.setupPage(listPage);
-      await listPage.goto(`https://shoob.gg/cards?page=${pageNum}&tier=${tier}`, { waitUntil: 'networkidle2', timeout: 60000 });
+      
+      // Increased timeout and wait condition
+      await listPage.goto(`https://shoob.gg/cards?page=${pageNum}&tier=${tier}`, { waitUntil: 'networkidle2', timeout: 90000 });
+      
+      // Mandatory wait for cards to actually render
+      try {
+        await listPage.waitForSelector('.card-name, .card-box, .padded20, a[href*="/cards/info/"]', { timeout: 30000 });
+        await new Promise(r => setTimeout(r, 2000)); // Extra 2s for stability
+      } catch (e) {
+        // Selector failed, might be end of tier or slow load
+      }
       
       const extraction = await this.extractCardsFromPage(listPage);
       
       if (extraction.cards.length === 0) {
-        const isEnd = await listPage.evaluate(() => document.body.innerText.includes('No cards found'));
+        // Double check for "No cards found" text
+        const bodyText = await listPage.evaluate(() => document.body.innerText);
+        const isEnd = bodyText.includes('No cards found') || bodyText.includes('There are no cards matching');
+        
         if (isEnd) {
           console.log(`   🏁 Tier ${tier} finished at page ${pageNum - 1}`);
           await listPage.close();
           return 'TIER_END';
+        } else {
+          // If 0 cards and NOT end of tier, it's a loading error
+          console.log(`   ⚠️ 0 cards found on P${pageNum}. Capturing error screenshot...`);
+          await listPage.screenshot({ path: path.join(this.outputFolder, `error-tier${tier}-p${pageNum}.png`) });
         }
       }
 
