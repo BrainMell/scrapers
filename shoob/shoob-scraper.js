@@ -50,12 +50,16 @@ class ShoobCardScraper {
     
     // Concurrency Settings
     this.pageLimit = pLimit(config.pageConcurrency || 6);
-    this.metaLimit = pLimit(config.metaConcurrency || 15); // Total concurrent metadata tabs
+    this.metaLimit = pLimit(config.metaConcurrency || 15); 
   }
 
   async setupPage(page) {
     await page.setCacheEnabled(true);
-    // Explicitly NO resource interception to allow images
+    // Pipe browser logs to terminal for debugging
+    page.on('console', msg => {
+      const text = msg.text();
+      if (text.includes('DEBUG:')) console.log(`      [Browser] ${text}`);
+    });
     await page.evaluateOnNewDocument(() => {
       Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
     });
@@ -68,7 +72,7 @@ class ShoobCardScraper {
     try { await fs.mkdir(this.outputFolder, { recursive: true }); } catch (e) {}
     
     this.browser = await puppeteer.launch({
-      headless: 'new', 
+      headless: false, 
       args: [
         '--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', 
         '--disable-gpu', '--js-flags="--max-old-space-size=4096"',
@@ -81,30 +85,38 @@ class ShoobCardScraper {
   async extractCardsFromPage(targetPage) {
     return await targetPage.evaluate(() => {
       const results = { cards: [] };
-      // Broaden selector to find any card-related links
       const allLinks = Array.from(document.querySelectorAll('a'));
-      const cardElements = allLinks.filter(a => {
-        const href = a.href || '';
-        return href.includes('/cards/info/') || href.includes('/card/') || a.querySelector('img[src*="/cards/"]');
-      });
       
-      cardElements.forEach(link => {
+      allLinks.forEach(link => {
+        const href = link.href || '';
+        const isCardLink = href.includes('/cards/info/') || href.includes('/card/');
+        if (!isCardLink) return;
+
         const isHeaderFooter = link.closest('nav') || link.closest('footer') || link.closest('.navbar') || link.closest('.pagination');
         if (isHeaderFooter) return;
 
         const img = link.querySelector('img');
-        const src = img ? (img.src || img.getAttribute('data-src') || '') : '';
-        const alt = img ? (img.alt || '') : (link.textContent.trim() || 'Unknown');
+        if (!img) return;
+
+        const src = img.src || img.getAttribute('data-src') || img.getAttribute('data-original') || '';
+        const alt = img.alt || link.textContent.trim() || 'Unknown';
         
-        if (src.includes('card_back.png') || alt.toLowerCase().includes('card back')) return;
-        
-        const detailUrl = link.href;
-        if (detailUrl && !results.cards.some(c => c.detailUrl === detailUrl)) {
-          results.cards.push({ 
-            imageUrl: src, 
-            detailUrl: detailUrl, 
-            cardName: alt.split('\n')[0].trim() || 'Unknown' 
-          });
+        if (src.includes('card_back.png')) {
+          console.log(`DEBUG: Found card back at ${href}`);
+          return;
+        }
+
+        if (src && (src.includes('/cards/') || src.includes('shoob.gg'))) {
+          const detailUrl = link.href;
+          if (detailUrl && !results.cards.some(c => c.detailUrl === detailUrl)) {
+            results.cards.push({ 
+              imageUrl: src, 
+              detailUrl: detailUrl, 
+              cardName: alt.split('\n')[0].trim() || 'Unknown' 
+            });
+          }
+        } else {
+          console.log(`DEBUG: Skipping link ${href} - invalid src: ${src}`);
         }
       });
       return results;
@@ -120,12 +132,9 @@ class ShoobCardScraper {
         page = await this.browser.newPage();
         await this.setupPage(page);
         
-        // Use a longer timeout and wait for networkidle2 to ensure images/content load
         await page.goto(card.detailUrl, { waitUntil: 'networkidle2', timeout: 60000 });
-        
-        // Wait for breadcrumb AND creator block to be sure
         await page.waitForSelector('.breadcrumb-new, .user_purchased.padded20', { timeout: 30000 });
-        await new Promise(r => setTimeout(r, 2000)); // Stability delay
+        await new Promise(r => setTimeout(r, 2000)); 
         
         const meta = await page.evaluate(() => {
           const bread = Array.from(document.querySelectorAll('.breadcrumb-new li'));
@@ -194,15 +203,27 @@ class ShoobCardScraper {
       
       await listPage.goto(`https://shoob.gg/cards?page=${pageNum}&tier=${tier}`, { waitUntil: 'networkidle2', timeout: 90000 });
       
-      // Increased mandatory wait for stability
-      await new Promise(r => setTimeout(r, 6000)); 
+      console.log(`   ⏳ P${pageNum}: Waiting for cards to load...`);
+      try {
+        await listPage.waitForFunction(() => {
+          const imgs = Array.from(document.querySelectorAll('img'));
+          const hasBacks = imgs.some(img => img.src.includes('card_back.png'));
+          const hasReal = imgs.some(img => {
+            const src = img.src || img.getAttribute('data-src') || '';
+            return src.includes('/cards/') && !src.includes('card_back.png');
+          });
+          return hasReal && !hasBacks;
+        }, { timeout: 30000 });
+      } catch (e) {
+        console.log(`   ⏳ P${pageNum}: Loading timeout or no real cards found yet.`);
+      }
       
       let extraction = await this.extractCardsFromPage(listPage);
       
-      // If 0 found, try one more aggressive wait with a scroll
       if (extraction.cards.length === 0) {
+        console.log(`   ⏳ P${pageNum} found 0, trying scroll + 5s wait...`);
         await listPage.evaluate(() => window.scrollBy(0, 800));
-        await new Promise(r => setTimeout(r, 6000));
+        await new Promise(r => setTimeout(r, 5000));
         extraction = await this.extractCardsFromPage(listPage);
       }
       
@@ -236,7 +257,6 @@ class ShoobCardScraper {
       this.processedPages.add(pageKey);
       await this.saveProgress();
       
-      // Auto-commit locally as requested
       if (this.processedPages.size % 5 === 0) {
         this.localCommit();
       }
