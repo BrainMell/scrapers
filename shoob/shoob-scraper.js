@@ -162,18 +162,33 @@ class ShoobCardScraper {
     const token = process.env.GITHUB_TOKEN;
     const repoUrl = `https://${token}@github.com/BrainMell/scrapers.git`;
     const gitOptions = { cwd: path.join(__dirname, '..') };
+    
     try {
+      // Check if .git exists, if not initialize
+      try {
+        await execPromise('git rev-parse --is-inside-work-tree', gitOptions);
+      } catch (e) {
+        console.log('   🔧 Initializing ephemeral git repo for sync...');
+        await execPromise('git init', gitOptions);
+        await execPromise(`git remote add origin ${repoUrl}`, gitOptions);
+        await execPromise('git fetch origin master', gitOptions);
+        await execPromise('git reset --soft origin/master', gitOptions);
+      }
+
       await execPromise('git config user.email "bot@scrapers.com"', gitOptions);
       await execPromise('git config user.name "Scraper Bot"', gitOptions);
       await execPromise(`git remote set-url origin ${repoUrl}`, gitOptions);
-      await execPromise('git fetch origin master', gitOptions);
       await execPromise('git add shoob/shoob_cards/cards_data.json', gitOptions);
+      
       const { stdout: status } = await execPromise('git status --porcelain', gitOptions);
       if (!status.trim()) return;
+
       await execPromise('git commit -m "📊 Auto-update data"', gitOptions);
-      await execPromise('git push origin master --force', gitOptions);
+      await execPromise('git push origin HEAD:master --force', gitOptions);
       console.log('✅ GitHub Synced');
-    } catch (e) { console.error('   ❌ Sync Failed:', e.message); }
+    } catch (e) { 
+      console.error('   ❌ Sync Failed:', e.message);
+    }
   }
 
   async loadProgress() {
