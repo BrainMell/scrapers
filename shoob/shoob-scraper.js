@@ -2,8 +2,38 @@ const puppeteer = require('puppeteer-extra');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const fs = require('fs').promises;
 const path = require('path');
+const { exec } = require('child_process');
 
 puppeteer.use(StealthPlugin());
+
+// Robust p-limit polyfill
+const pLimit = (concurrency) => {
+  const queue = [];
+  let activeCount = 0;
+  const next = () => {
+    activeCount--;
+    if (queue.length > 0) {
+      queue.shift()();
+    }
+  };
+  const run = async (fn, resolve, ...args) => {
+    activeCount++;
+    const result = (async () => fn(...args))();
+    resolve(result);
+    try { await result; } catch (e) {}
+    next();
+  };
+  const enqueue = (fn, resolve, ...args) => {
+    queue.push(run.bind(null, fn, resolve, ...args));
+    (async () => {
+      await Promise.resolve();
+      if (activeCount < concurrency && queue.length > 0) {
+        queue.shift()();
+      }
+    })();
+  };
+  return (fn, ...args) => new Promise(resolve => enqueue(fn, resolve, ...args));
+};
 
 class ShoobCardScraper {
   constructor(config = {}) {
@@ -12,45 +42,20 @@ class ShoobCardScraper {
     this.tiers = config.tiers || ['1', '2', '3', '4', '5', '6', 'S'];
     this.outputFolder = config.outputFolder || path.join(__dirname, 'shoob_cards');
     this.outputFile = path.join(this.outputFolder, 'cards_data.json');
-    this.backupFile = path.join(this.outputFolder, 'cards_data.backup.json');
     
     this.cards = [];
-    this.cardUrlSet = new Set();
     this.processedPages = new Set();
-    
     this.browser = null;
     this.isSaving = false;
+    
+    // Concurrency Settings
+    this.pageLimit = pLimit(config.pageConcurrency || 6);
+    this.metaLimit = pLimit(config.metaConcurrency || 15); // Total concurrent metadata tabs
   }
 
-  async cleanup() {
-    const { exec } = require('child_process');
-    const isWindows = process.platform === 'win32';
-    return new Promise((resolve) => {
-      if (isWindows) {
-        exec('taskkill /F /IM chrome.exe /T 2>nul', () => {
-          exec('taskkill /F /IM chromium.exe /T 2>nul', () => setTimeout(resolve, 1000));
-        });
-      } else {
-        exec('pkill -9 chrome 2>/dev/null', () => {
-          exec('pkill -9 chromium 2>/dev/null', () => setTimeout(resolve, 1000));
-        });
-      }
-    });
-  }
-
-  async setupPage(page, blockCss = true) {
-    await page.setCacheEnabled(false);
-    await page.setRequestInterception(true);
-    page.on('request', (req) => {
-      const type = req.resourceType();
-      const url = req.url().toLowerCase();
-      const shouldBlock = blockCss ? ['image', 'stylesheet', 'font', 'media', 'other'] : ['image', 'font', 'media', 'other'];
-      if (shouldBlock.includes(type) || url.includes('google-analytics') || url.includes('doubleclick')) {
-        req.abort();
-      } else {
-        req.continue();
-      }
-    });
+  async setupPage(page) {
+    await page.setCacheEnabled(true);
+    // Explicitly NO resource interception to allow images
     await page.evaluateOnNewDocument(() => {
       Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
     });
@@ -59,15 +64,15 @@ class ShoobCardScraper {
   }
 
   async initialize() {
-    console.log(`🚀 PEAK MODE v4: Vision + Network Idle`);
-    await this.cleanup();
+    console.log(`🚀 PEAK MODE v6: Hyper-Speed (Target 100+ cards/min)`);
     try { await fs.mkdir(this.outputFolder, { recursive: true }); } catch (e) {}
+    
     this.browser = await puppeteer.launch({
-      headless: 'new',
+      headless: false, 
       args: [
         '--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', 
-        '--disable-gpu', '--js-flags="--max-old-space-size=450"',
-        '--disable-extensions', '--no-first-run', '--no-zygote'
+        '--disable-gpu', '--js-flags="--max-old-space-size=4096"',
+        '--disable-extensions'
       ]
     });
     console.log('✅ Browser Engine Ready\n');
@@ -91,38 +96,52 @@ class ShoobCardScraper {
     });
   }
 
-  async fetchMetadata(page, card, tier, pageNum) {
+  async fetchMetadata(card, tier, pageNum, retryCount = 5) {
     if (!card.detailUrl) return null;
-    try {
-      await page.goto(card.detailUrl, { waitUntil: 'domcontentloaded', timeout: 25000 });
-      await page.waitForSelector('.breadcrumb-new', { timeout: 15000 });
-      const meta = await page.evaluate(() => {
-        const bread = Array.from(document.querySelectorAll('.breadcrumb-new li'));
-        const seriesLi = bread.find(li => li.querySelector('meta[itemprop="position"]')?.getAttribute('content') === '3') || bread[bread.length - 2];
-        const animeName = seriesLi?.querySelector('span[itemprop="name"]')?.textContent.trim() || 'Unknown Anime';
-        const creatorBlock = document.querySelector('.user_purchased.padded20');
-        let creatorName = 'Unknown Creator';
-        if (creatorBlock) {
-          const p = creatorBlock.querySelector('p');
-          if (p) creatorName = p.textContent.replace('Created by', '').trim();
+    
+    for (let attempt = 1; attempt <= retryCount; attempt++) {
+      let page = null;
+      try {
+        page = await this.browser.newPage();
+        await this.setupPage(page);
+        
+        // Use a longer timeout and wait for networkidle2 to ensure images/content load
+        await page.goto(card.detailUrl, { waitUntil: 'networkidle2', timeout: 45000 });
+        await page.waitForSelector('.breadcrumb-new', { timeout: 30000 });
+        
+        const meta = await page.evaluate(() => {
+          const bread = Array.from(document.querySelectorAll('.breadcrumb-new li'));
+          const seriesLi = bread.find(li => li.querySelector('meta[itemprop="position"]')?.getAttribute('content') === '3') || bread[bread.length - 2];
+          const animeName = seriesLi?.querySelector('span[itemprop="name"]')?.textContent.trim() || 'Unknown Anime';
+          
+          const creatorBlock = document.querySelector('.user_purchased.padded20');
+          let creatorName = 'Unknown Creator';
+          if (creatorBlock) {
+            const p = creatorBlock.querySelector('p');
+            if (p) creatorName = p.textContent.replace('Created by', '').trim();
+          }
+          return { animeName, creatorName };
+        });
+        
+        console.log(`   ✨ [${meta.creatorName}] ${card.cardName} (P${pageNum})`);
+        await page.close();
+        return { ...card, ...meta, tier, page: pageNum, creator: meta.creatorName, scrapedAt: new Date().toISOString() };
+      } catch (e) {
+        if (page) await page.close().catch(() => {});
+        if (attempt === retryCount) {
+          console.error(`   ❌ Failed metadata for ${card.cardName} after ${retryCount} attempts: ${e.message}`);
+          return { ...card, creator: 'Unknown Creator', animeName: 'Unknown Anime', tier, page: pageNum, scrapedAt: new Date().toISOString(), error: e.message };
         }
-        return { animeName, creatorName };
-      });
-      console.log(`   ✨ [${meta.creatorName}] ${card.cardName}`);
-      return { ...card, ...meta, tier, page: pageNum, creator: meta.creatorName, scrapedAt: new Date().toISOString() };
-    } catch (e) {
-      return { ...card, creator: 'Unknown Creator', animeName: 'Unknown Anime', tier, page: pageNum, scrapedAt: new Date().toISOString() };
+        const delay = 2000 * attempt;
+        await new Promise(r => setTimeout(r, delay));
+      }
     }
   }
 
-  async saveProgress(forceSync = false) {
+  async saveProgress() {
     if (this.isSaving) return;
     this.isSaving = true;
     try {
-      this.cards.sort((a, b) => {
-        if (a.tier !== b.tier) return String(a.tier).localeCompare(String(b.tier));
-        return a.page - b.page;
-      });
       const data = {
         totalCards: this.cards.length,
         processedPages: Array.from(this.processedPages).sort(),
@@ -130,40 +149,8 @@ class ShoobCardScraper {
         lastUpdated: new Date().toISOString()
       };
       await fs.writeFile(this.outputFile, JSON.stringify(data, null, 2), 'utf-8');
-      if (process.env.GITHUB_TOKEN && (forceSync || this.processedPages.size % 5 === 0)) {
-        await this.syncToGitHub();
-      }
     } finally {
       this.isSaving = false;
-    }
-  }
-
-  async syncToGitHub() {
-    const { exec } = require('child_process');
-    const util = require('util');
-    const execPromise = util.promisify(exec);
-    try {
-      const token = process.env.GITHUB_TOKEN;
-      const repoUrl = `https://${token}@github.com/BrainMell/scrapers.git`;
-      try { await execPromise('git rev-parse --is-inside-work-tree'); } catch (e) {
-        await execPromise('git init');
-        await execPromise(`git remote add origin ${repoUrl}`);
-      }
-      await execPromise('git config user.email "bot@scrapers.com"');
-      await execPromise('git config user.name "Scraper Bot"');
-      await execPromise(`git remote set-url origin ${repoUrl}`);
-      await execPromise('git fetch origin master');
-      await execPromise('git reset origin/master'); 
-      await execPromise('git add shoob/shoob_cards/cards_data.json shoob/shoob_cards/*.png');
-      const { stdout: status } = await execPromise('git status --porcelain');
-      if (!status.trim()) return;
-      await execPromise('git commit -m "📊 Auto-update [skip ci]"');
-      try { await execPromise('git push origin master'); } catch (pushErr) {
-        await execPromise('git push origin master --force');
-      }
-      console.log('✅ GitHub Synced');
-    } catch (e) {
-      console.error('   ❌ Sync Failed:', e.message);
     }
   }
 
@@ -180,93 +167,90 @@ class ShoobCardScraper {
   async scrapePage(tier, pageNum) {
     const pageKey = `${tier}-${pageNum}`;
     if (this.processedPages.has(pageKey)) return;
-    
-    if (this.processedPages.size > 0 && this.processedPages.size % 10 === 0) {
-      console.log('♻️ RAM Cleanup: Browser Restart...');
-      if (this.browser) await this.browser.close().catch(() => {});
-      await this.initialize();
-    }
 
     let listPage = null;
     try {
-      console.log(`📄 TIER ${tier} | PAGE ${pageNum}`);
+      console.log(`📄 TIER ${tier} | PAGE ${pageNum} (Scanning)`);
       listPage = await this.browser.newPage();
-      await this.setupPage(listPage, false);
+      await this.setupPage(listPage);
       await listPage.goto(`https://shoob.gg/cards?page=${pageNum}&tier=${tier}`, { waitUntil: 'networkidle2', timeout: 60000 });
       
-      const title = await listPage.title();
-      console.log(`   🌐 Page Title: ${title}`);
-
-      try {
-        await listPage.waitForSelector('.card-name, .card-box, div.padded20', { timeout: 15000 });
-      } catch (e) {}
-
-      let extraction = await this.extractCardsFromPage(listPage);
+      const extraction = await this.extractCardsFromPage(listPage);
       
       if (extraction.cards.length === 0) {
-        console.log(`   ⚠️ No cards found. Capturing screenshot...`);
-        await listPage.screenshot({ path: path.join(this.outputFolder, `error-tier${tier}-p${pageNum}.png`) });
-        await this.syncToGitHub(); // Force sync the screenshot so we can see it!
-        
-        // Final End of Tier Check
         const isEnd = await listPage.evaluate(() => document.body.innerText.includes('No cards found'));
         if (isEnd) {
           console.log(`   🏁 Tier ${tier} finished at page ${pageNum - 1}`);
-          this.processedPages.add(pageKey);
           await listPage.close();
           return 'TIER_END';
         }
-        await listPage.close();
-        return;
       }
 
-      await listPage.close(); 
+      await listPage.close();
       listPage = null;
 
       const cardsToScrape = extraction.cards.filter(c => !this.cards.some(existing => existing.detailUrl === c.detailUrl));
       
       if (cardsToScrape.length > 0) {
-        const worker1 = await this.browser.newPage();
-        const worker2 = await this.browser.newPage();
-        await Promise.all([this.setupPage(worker1, true), this.setupPage(worker2, true)]);
-
-        const results = [];
-        for (let i = 0; i < cardsToScrape.length; i += 2) {
-          const pair = cardsToScrape.slice(i, i + 2);
-          const tasks = pair.map((card, idx) => 
-            this.fetchMetadata(idx === 0 ? worker1 : worker2, card, tier, pageNum)
-          );
-          const batchResults = await Promise.all(tasks);
-          results.push(...batchResults.filter(r => r !== null));
-        }
-
-        this.cards.push(...results);
-        await Promise.all([worker1.close(), worker2.close()]);
+        const metaTasks = cardsToScrape.map(card => this.metaLimit(() => this.fetchMetadata(card, tier, pageNum)));
+        const results = await Promise.all(metaTasks);
+        this.cards.push(...results.filter(r => r !== null));
       }
 
-      console.log(`   📊 Page ${pageNum}: ${extraction.cards.length} cards found (${cardsToScrape.length} new)`);
+      console.log(`   📊 Page ${pageNum}: ${extraction.cards.length} cards processed (${cardsToScrape.length} new)`);
       this.processedPages.add(pageKey);
       await this.saveProgress();
+      
+      // Auto-commit locally as requested
+      if (this.processedPages.size % 5 === 0) {
+        this.localCommit();
+      }
+      
     } catch (error) {
       if (listPage) await listPage.close().catch(() => {});
       console.error(`❌ Error P${pageNum}: ${error.message}`);
     }
   }
 
+  localCommit() {
+    const msg = `📊 Auto-update: ${this.cards.length} cards [skip ci]`;
+    // PowerShell compatible separator
+    exec(`git add "${this.outputFile}"; git commit -m "${msg}"`, (err) => {
+      if (!err) console.log('   💾 Local commit created');
+    });
+  }
+
   async start() {
     try {
       await this.loadProgress();
       await this.initialize();
+
       for (const tier of this.tiers) {
-        for (let p = this.startPage; p <= this.endPage; p++) {
-          const res = await this.scrapePage(tier, p);
-          if (res === 'TIER_END') break;
+        console.log(`\n--- STARTING TIER ${tier} ---`);
+        let p = this.startPage;
+        let tierEnded = false;
+
+        while (!tierEnded) {
+          const pageBatch = [];
+          for (let i = 0; i < 6 && !tierEnded; i++) { // Process 6 list pages in parallel
+            const pageNum = p++;
+            pageBatch.push(this.pageLimit(async () => {
+              const res = await this.scrapePage(tier, pageNum);
+              if (res === 'TIER_END') tierEnded = true;
+            }));
+          }
+          await Promise.all(pageBatch);
+          if (tierEnded) break;
         }
       }
     } catch (error) {
-      console.error('Fatal:', error.message);
+      console.error('Fatal Error:', error.message);
     } finally {
-      if (this.browser) await this.browser.close().catch(() => {});
+      if (this.browser) {
+        console.log('🏁 Scrape Complete or Interrupted. Saving and closing...');
+        await this.saveProgress();
+        // await this.browser.close().catch(() => {});
+      }
     }
   }
 }
@@ -274,5 +258,7 @@ class ShoobCardScraper {
 new ShoobCardScraper({
   startPage: 1,
   endPage: 2332,
-  tiers: ['1', '2', '3', '4', '5', '6', 'S']
+  tiers: ['1', '2', '3', '4', '5', '6', 'S'],
+  pageConcurrency: 6,
+  metaConcurrency: 20 // Total metadata tabs at once across all active pages
 }).start();
