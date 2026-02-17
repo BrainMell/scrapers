@@ -81,15 +81,30 @@ class ShoobCardScraper {
   async extractCardsFromPage(targetPage) {
     return await targetPage.evaluate(() => {
       const results = { cards: [] };
-      const cardElements = document.querySelectorAll('a[href*="/cards/info/"], a[href*="/card/"]');
+      // Broaden selector to find any card-related links
+      const allLinks = Array.from(document.querySelectorAll('a'));
+      const cardElements = allLinks.filter(a => {
+        const href = a.href || '';
+        return href.includes('/cards/info/') || href.includes('/card/') || a.querySelector('img[src*="/cards/"]');
+      });
+      
       cardElements.forEach(link => {
-        if (link.closest('nav') || link.closest('footer') || link.classList.contains('nav-link')) return;
+        const isHeaderFooter = link.closest('nav') || link.closest('footer') || link.closest('.navbar') || link.closest('.pagination');
+        if (isHeaderFooter) return;
+
         const img = link.querySelector('img');
         const src = img ? (img.src || img.getAttribute('data-src') || '') : '';
         const alt = img ? (img.alt || '') : (link.textContent.trim() || 'Unknown');
+        
         if (src.includes('card_back.png') || alt.toLowerCase().includes('card back')) return;
-        if (!results.cards.some(c => c.detailUrl === link.href)) {
-          results.cards.push({ imageUrl: src, detailUrl: link.href, cardName: alt.split('\n')[0].trim() || 'Unknown' });
+        
+        const detailUrl = link.href;
+        if (detailUrl && !results.cards.some(c => c.detailUrl === detailUrl)) {
+          results.cards.push({ 
+            imageUrl: src, 
+            detailUrl: detailUrl, 
+            cardName: alt.split('\n')[0].trim() || 'Unknown' 
+          });
         }
       });
       return results;
@@ -110,7 +125,7 @@ class ShoobCardScraper {
         
         // Wait for breadcrumb AND creator block to be sure
         await page.waitForSelector('.breadcrumb-new, .user_purchased.padded20', { timeout: 30000 });
-        await new Promise(r => setTimeout(r, 1500)); // Stability delay
+        await new Promise(r => setTimeout(r, 2000)); // Stability delay
         
         const meta = await page.evaluate(() => {
           const bread = Array.from(document.querySelectorAll('.breadcrumb-new li'));
@@ -135,7 +150,7 @@ class ShoobCardScraper {
           console.error(`   ❌ Failed metadata for ${card.cardName} after ${retryCount} attempts: ${e.message}`);
           return { ...card, creator: 'Unknown Creator', animeName: 'Unknown Anime', tier, page: pageNum, scrapedAt: new Date().toISOString(), error: e.message };
         }
-        const delay = 2000 * attempt;
+        const delay = 3000 * attempt;
         await new Promise(r => setTimeout(r, delay));
       }
     }
@@ -177,30 +192,30 @@ class ShoobCardScraper {
       listPage = await this.browser.newPage();
       await this.setupPage(listPage);
       
-      // Increased timeout and wait condition
       await listPage.goto(`https://shoob.gg/cards?page=${pageNum}&tier=${tier}`, { waitUntil: 'networkidle2', timeout: 90000 });
       
-      // Mandatory wait for cards to actually render
-      try {
-        await listPage.waitForSelector('.card-name, .card-box, .padded20, a[href*="/cards/info/"]', { timeout: 30000 });
-        await new Promise(r => setTimeout(r, 2000)); // Extra 2s for stability
-      } catch (e) {
-        // Selector failed, might be end of tier or slow load
+      // Increased mandatory wait for stability
+      await new Promise(r => setTimeout(r, 6000)); 
+      
+      let extraction = await this.extractCardsFromPage(listPage);
+      
+      // If 0 found, try one more aggressive wait with a scroll
+      if (extraction.cards.length === 0) {
+        await listPage.evaluate(() => window.scrollBy(0, 800));
+        await new Promise(r => setTimeout(r, 6000));
+        extraction = await this.extractCardsFromPage(listPage);
       }
       
-      const extraction = await this.extractCardsFromPage(listPage);
-      
       if (extraction.cards.length === 0) {
-        // Double check for "No cards found" text
         const bodyText = await listPage.evaluate(() => document.body.innerText);
         const isEnd = bodyText.includes('No cards found') || bodyText.includes('There are no cards matching');
         
         if (isEnd) {
           console.log(`   🏁 Tier ${tier} finished at page ${pageNum - 1}`);
+          this.processedPages.add(pageKey);
           await listPage.close();
           return 'TIER_END';
         } else {
-          // If 0 cards and NOT end of tier, it's a loading error
           console.log(`   ⚠️ 0 cards found on P${pageNum}. Capturing error screenshot...`);
           await listPage.screenshot({ path: path.join(this.outputFolder, `error-tier${tier}-p${pageNum}.png`) });
         }
@@ -234,7 +249,6 @@ class ShoobCardScraper {
 
   localCommit() {
     const msg = `📊 Auto-update: ${this.cards.length} cards [skip ci]`;
-    // PowerShell compatible separator
     exec(`git add "${this.outputFile}"; git commit -m "${msg}"`, (err) => {
       if (!err) console.log('   💾 Local commit created');
     });
@@ -252,7 +266,7 @@ class ShoobCardScraper {
 
         while (!tierEnded) {
           const pageBatch = [];
-          for (let i = 0; i < 6 && !tierEnded; i++) { // Process 6 list pages in parallel
+          for (let i = 0; i < 6 && !tierEnded; i++) { 
             const pageNum = p++;
             pageBatch.push(this.pageLimit(async () => {
               const res = await this.scrapePage(tier, pageNum);
@@ -269,7 +283,6 @@ class ShoobCardScraper {
       if (this.browser) {
         console.log('🏁 Scrape Complete or Interrupted. Saving and closing...');
         await this.saveProgress();
-        // await this.browser.close().catch(() => {});
       }
     }
   }
@@ -280,5 +293,5 @@ new ShoobCardScraper({
   endPage: 2332,
   tiers: ['1', '2', '3', '4', '5', '6', 'S'],
   pageConcurrency: 6,
-  metaConcurrency: 20 // Total metadata tabs at once across all active pages
+  metaConcurrency: 20 
 }).start();
