@@ -96,24 +96,34 @@ async function organizeData() {
             if (seen.has(card.imageUrl)) return false;
             seen.add(card.imageUrl);
             
-            // Normalize Fields
+            // Normalize animeName
             if (!card.animeName || card.animeName === 'Unknown Anime') {
                 const nameKey = card.cardName?.toLowerCase().trim();
                 card.animeName = animeMap.get(nameKey) || 'Unknown Anime';
             }
-            
-            if (card.creator && (card.creator.includes('People who want') || card.creator.includes('Requested by'))) {
-                card.creator = 'Official';
-            }
-            if (!card.creator || card.creator === 'Unknown Creator') {
-                card.creator = 'Official';
-            }
-            
+
+            // Remove cards still unknown after lookup
+            if (!card.animeName || card.animeName === 'Unknown Anime') return false;
+
             // Ensure types
             card.tier = String(card.tier || '1');
             card.page = parseInt(card.page) || 0;
             card.animeName = String(card.animeName).trim();
             card.cardName = String(card.cardName || 'Unknown Character').trim();
+
+            // Remove creatorName field — keep only creator
+            delete card.creatorName;
+            if (!card.creator || card.creator === 'Unknown Creator' || card.creator === 'Official') {
+                card.creator = 'Anonymous';
+            }
+            if (card.creator.includes('People who want') || card.creator.includes('Requested by')) {
+                card.creator = 'Anonymous';
+            }
+
+            // Add description if missing
+            if (!card.description || card.description.trim() === '') {
+                card.description = `${card.cardName} from ${card.animeName}`;
+            }
             
             return true;
         });
@@ -124,20 +134,18 @@ async function organizeData() {
         const tierOrder = { '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, 'S': 7, 'Special': 8 };
         
         uniqueCards.sort((a, b) => {
-            // Primary Sort: Page (Ascending)
             if (a.page !== b.page) return a.page - b.page;
-
-            // Secondary Sort: Tier
             const tA = tierOrder[a.tier] || 99;
             const tB = tierOrder[b.tier] || 99;
             if (tA !== tB) return tA - tB;
-            
-            // Tertiary Sort: Anime Name
             const animeCmp = a.animeName.localeCompare(b.animeName);
             if (animeCmp !== 0) return animeCmp;
-
-            // Final Sort: Card Name
             return a.cardName.localeCompare(b.cardName);
+        });
+
+        // Assign unique IDs after sorting
+        uniqueCards.forEach((card, index) => {
+            card.id = String(index + 1).padStart(5, '0');
         });
 
         const tierCounts = {};
