@@ -10,12 +10,15 @@ class ShoobCardScraper {
     this.startPage = config.startPage || 1;
     this.endPage = config.endPage || 2332;
     this.tiers = config.tiers || ['1', '2', '3', '4', '5', '6', 'S'];
+    
+    // We point this to the bot's production cards_data.json as the source of truth!
+    this.botDataPath = path.resolve(__dirname, '../../whatsapp-bot/core/data/cards_data.json');
+    
     this.outputFolder = config.outputFolder || path.join(__dirname, 'shoob_cards');
     this.outputFile = path.join(this.outputFolder, 'cards_data.json');
     this.backupFile = path.join(this.outputFolder, 'cards_data.backup.json');
     
     this.cards = [];
-    this.cardUrlSet = new Set();
     this.processedPages = new Set();
     
     this.browser = null;
@@ -38,19 +41,8 @@ class ShoobCardScraper {
     });
   }
 
-  async setupPage(page, blockCss = true) {
+  async setupPage(page) {
     await page.setCacheEnabled(false);
-    await page.setRequestInterception(true);
-    page.on('request', (req) => {
-      const type = req.resourceType();
-      const url = req.url().toLowerCase();
-      const shouldBlock = blockCss ? ['image', 'stylesheet', 'font', 'media', 'other'] : ['image', 'font', 'media', 'other'];
-      if (shouldBlock.includes(type) || url.includes('google-analytics') || url.includes('doubleclick')) {
-        req.abort();
-      } else {
-        req.continue();
-      }
-    });
     await page.evaluateOnNewDocument(() => {
       Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
     });
@@ -59,11 +51,12 @@ class ShoobCardScraper {
   }
 
   async initialize() {
-    console.log(`🚀 PEAK MODE v4: Vision + Network Idle`);
+    console.log(`🚀 PEAK MODE v4: Vision + Network Idle (Using system Chrome)`);
     await this.cleanup();
     try { await fs.mkdir(this.outputFolder, { recursive: true }); } catch (e) {}
     this.browser = await puppeteer.launch({
-      headless: 'new',
+      executablePath: '/usr/bin/google-chrome',
+      headless: false,
       args: [
         '--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', 
         '--disable-gpu', '--js-flags="--max-old-space-size=450"',
@@ -94,7 +87,7 @@ class ShoobCardScraper {
   async fetchMetadata(page, card, tier, pageNum) {
     if (!card.detailUrl) return null;
     try {
-      await page.goto(card.detailUrl, { waitUntil: 'domcontentloaded', timeout: 25000 });
+      await page.goto(card.detailUrl, { waitUntil: 'networkidle2', timeout: 25000 });
       await page.waitForSelector('.breadcrumb-new', { timeout: 15000 });
       const meta = await page.evaluate(() => {
         const bread = Array.from(document.querySelectorAll('.breadcrumb-new li'));
@@ -104,7 +97,7 @@ class ShoobCardScraper {
         let creatorName = 'Unknown Creator';
         if (creatorBlock) {
           const p = creatorBlock.querySelector('p');
-          if (p) creatorName = p.textContent.replace('Created by', '').trim();
+          if (p) creatorName = p.textContent.replace('Created by', '').replace('Card Maker:', '').trim();
         }
         return { animeName, creatorName };
       });
@@ -115,24 +108,95 @@ class ShoobCardScraper {
     }
   }
 
+  async autoScroll(page) {
+    await page.evaluate(async () => {
+      let lastHeight = 0;
+      let stableCount = 0;
+      const distance = 200;
+      while (stableCount < 3) {
+        const scrollHeight = document.body.scrollHeight;
+        window.scrollBy(0, distance);
+        await new Promise(r => setTimeout(r, 200));
+        const newHeight = document.body.scrollHeight;
+        if (newHeight === lastHeight) {
+          stableCount++;
+        } else {
+          stableCount = 0;
+          lastHeight = newHeight;
+        }
+      }
+    });
+  }
+
+  assignIds() {
+    const maxNumByTier = {};
+    const tiers = ['1', '2', '3', '4', '5', '6', 'S'];
+    
+    // First, find the maximum ID number for each tier among cards that already have IDs
+    for (const card of this.cards) {
+      if (card.id) {
+        const parts = card.id.split('-');
+        const tier = parts[0];
+        const num = parseInt(parts[1], 10);
+        if (!isNaN(num)) {
+          if (!maxNumByTier[tier] || num > maxNumByTier[tier]) {
+            maxNumByTier[tier] = num;
+          }
+        }
+      }
+    }
+    
+    // Initialize tiers
+    for (const tier of tiers) {
+      if (maxNumByTier[tier] === undefined) {
+        maxNumByTier[tier] = 0;
+      }
+    }
+    
+    // Now assign sequential IDs to cards missing them
+    for (const card of this.cards) {
+      if (!card.id) {
+        const tier = String(card.tier);
+        maxNumByTier[tier]++;
+        const numStr = String(maxNumByTier[tier]).padStart(5, '0');
+        card.id = `${tier}-${numStr}`;
+        console.log(`🆕 Assigned new ID ${card.id} to "${card.cardName}"`);
+      }
+    }
+  }
+
   async saveProgress(forceSync = false) {
     if (this.isSaving) return;
     this.isSaving = true;
     try {
+      // Assign IDs to new cards
+      this.assignIds();
+      
       this.cards.sort((a, b) => {
-        if (a.tier !== b.tier) return String(a.tier).localeCompare(String(b.tier));
-        return a.page - b.page;
+        if (a.tier !== b.tier) return String(a.tier).localeCompare(String(a.tier));
+        
+        // Sort by id number ascending
+        const aNum = parseInt(a.id.split('-')[1], 10);
+        const bNum = parseInt(b.id.split('-')[1], 10);
+        return aNum - bNum;
       });
+
       const data = {
         totalCards: this.cards.length,
+        uniqueCards: this.cards.length,
         processedPages: Array.from(this.processedPages).sort(),
         cards: this.cards,
         lastUpdated: new Date().toISOString()
       };
-      await fs.writeFile(this.outputFile, JSON.stringify(data, null, 2), 'utf-8');
-      if (process.env.GITHUB_TOKEN && (forceSync || this.processedPages.size % 5 === 0)) {
-        await this.syncToGitHub();
-      }
+
+      // Write to both scraper repo JSON and whatsapp-bot local JSON
+      const jsonContent = JSON.stringify(data, null, 2);
+      await fs.writeFile(this.outputFile, jsonContent, 'utf-8');
+      await fs.writeFile(this.botDataPath, jsonContent, 'utf-8');
+      console.log(`💾 Saved: ${this.cards.length} cards to both databases.`);
+
+      // Sync to GitHub
+      await this.syncToGitHub();
     } finally {
       this.isSaving = false;
     }
@@ -142,25 +206,15 @@ class ShoobCardScraper {
     const { exec } = require('child_process');
     const util = require('util');
     const execPromise = util.promisify(exec);
+    const repoPath = path.join(__dirname, '..');
     try {
-      const token = process.env.GITHUB_TOKEN;
-      const repoUrl = `https://${token}@github.com/BrainMell/scrapers.git`;
-      try { await execPromise('git rev-parse --is-inside-work-tree'); } catch (e) {
-        await execPromise('git init');
-        await execPromise(`git remote add origin ${repoUrl}`);
-      }
-      await execPromise('git config user.email "bot@scrapers.com"');
-      await execPromise('git config user.name "Scraper Bot"');
-      await execPromise(`git remote set-url origin ${repoUrl}`);
-      await execPromise('git fetch origin master');
-      await execPromise('git reset origin/master'); 
-      await execPromise('git add shoob/shoob_cards/cards_data.json shoob/shoob_cards/*.png');
-      const { stdout: status } = await execPromise('git status --porcelain');
+      await execPromise('git config user.email "bot@scrapers.com"', { cwd: repoPath });
+      await execPromise('git config user.name "Scraper Bot"', { cwd: repoPath });
+      await execPromise('git add shoob/shoob_cards/cards_data.json', { cwd: repoPath });
+      const { stdout: status } = await execPromise('git status --porcelain', { cwd: repoPath });
       if (!status.trim()) return;
-      await execPromise('git commit -m "📊 Auto-update [skip ci]"');
-      try { await execPromise('git push origin master'); } catch (pushErr) {
-        await execPromise('git push origin master --force');
-      }
+      await execPromise('git commit -m "📊 Auto-update scraped cards data [skip ci]"', { cwd: repoPath });
+      await execPromise('git push origin main', { cwd: repoPath });
       console.log('✅ GitHub Synced');
     } catch (e) {
       console.error('   ❌ Sync Failed:', e.message);
@@ -169,12 +223,50 @@ class ShoobCardScraper {
 
   async loadProgress() {
     try {
-      const data = await fs.readFile(this.outputFile, 'utf-8');
-      const parsed = JSON.parse(data);
-      this.cards = parsed.cards || [];
-      this.processedPages = new Set(parsed.processedPages || []);
-      console.log(`📂 Resuming: ${this.cards.length} cards, ${this.processedPages.size} pages done\n`);
-    } catch (e) {}
+      // 1. Load from whatsapp-bot JSON
+      const botDataRaw = await fs.readFile(this.botDataPath, 'utf-8');
+      const botParsed = JSON.parse(botDataRaw);
+      const botCards = botParsed.cards || [];
+
+      // 2. Load from scraper repo JSON
+      let repoCards = [];
+      try {
+        const repoDataRaw = await fs.readFile(this.outputFile, 'utf-8');
+        const repoParsed = JSON.parse(repoDataRaw);
+        repoCards = repoParsed.cards || [];
+      } catch (e) {
+        console.log("Scraper cards_data.json not found or empty, using bot data as base.");
+      }
+
+      // 3. Merge both databases (deduplicate by detailUrl)
+      const mergedMap = new Map();
+      for (const card of repoCards) {
+        if (card.detailUrl) mergedMap.set(card.detailUrl, card);
+      }
+      for (const card of botCards) {
+        if (card.detailUrl) mergedMap.set(card.detailUrl, card);
+      }
+
+      this.cards = Array.from(mergedMap.values());
+
+      // Merge processedPages
+      const mergedPages = new Set(botParsed.processedPages || []);
+      
+      // Clear page 1 and 2 of each tier so the scraper always scans them for new cards!
+      const tiersToScan = ['1', '2', '3', '4', '5', '6', 'S'];
+      for (const tier of tiersToScan) {
+        mergedPages.delete(`${tier}-1`);
+        mergedPages.delete(`${tier}-2`);
+      }
+
+      this.processedPages = mergedPages;
+      console.log(`📂 Loaded and merged: ${this.cards.length} cards, ${this.processedPages.size} pages in registry\n`);
+    } catch (e) {
+      console.error("Error in loadProgress:", e.message);
+      // Fallback
+      this.cards = [];
+      this.processedPages = new Set();
+    }
   }
 
   async scrapePage(tier, pageNum) {
@@ -189,27 +281,22 @@ class ShoobCardScraper {
 
     let listPage = null;
     try {
-      console.log(`📄 TIER ${tier} | PAGE ${pageNum}`);
+      console.log(`📄 TIER ${tier} | PAGE ${pageNum} (Total: ${this.cards.length} cards)`);
       listPage = await this.browser.newPage();
-      await this.setupPage(listPage, false);
-      await listPage.goto(`https://shoob.gg/cards?page=${pageNum}&tier=${tier}`, { waitUntil: 'networkidle2', timeout: 60000 });
+      await this.setupPage(listPage);
+      // Navigate to the visible card listing page
+      await listPage.goto(`https://shoob.gg/cards?tier=${tier}&page=${pageNum}`, { waitUntil: 'networkidle2', timeout: 60000 });
+      await this.autoScroll(listPage);
       
       const title = await listPage.title();
       console.log(`   🌐 Page Title: ${title}`);
 
-      try {
-        await listPage.waitForSelector('.card-name, .card-box, div.padded20', { timeout: 15000 });
-      } catch (e) {}
-
-      let extraction = await this.extractCardsFromPage(listPage);
+      // Extract cards from page DOM
+      const extraction = await this.extractCardsFromPage(listPage);
       
       if (extraction.cards.length === 0) {
-        console.log(`   ⚠️ No cards found. Capturing screenshot...`);
-        await listPage.screenshot({ path: path.join(this.outputFolder, `error-tier${tier}-p${pageNum}.png`) });
-        await this.syncToGitHub(); // Force sync the screenshot so we can see it!
-        
-        // Final End of Tier Check
-        const isEnd = await listPage.evaluate(() => document.body.innerText.includes('No cards found'));
+        console.log(`   ⚠️ No cards found. Checking if end of tier...`);
+        const isEnd = await listPage.evaluate(() => document.body.innerText.includes('No cards found') || document.body.innerText.includes('No result'));
         if (isEnd) {
           console.log(`   🏁 Tier ${tier} finished at page ${pageNum - 1}`);
           this.processedPages.add(pageKey);
@@ -223,12 +310,14 @@ class ShoobCardScraper {
       await listPage.close(); 
       listPage = null;
 
+      // STRICT DEDUPLICATION: Check both against in-memory cards and existing URLs
       const cardsToScrape = extraction.cards.filter(c => !this.cards.some(existing => existing.detailUrl === c.detailUrl));
       
       if (cardsToScrape.length > 0) {
+        console.log(`   ➕ Found ${cardsToScrape.length} new cards to scrape out of ${extraction.cards.length} on page`);
         const worker1 = await this.browser.newPage();
         const worker2 = await this.browser.newPage();
-        await Promise.all([this.setupPage(worker1, true), this.setupPage(worker2, true)]);
+        await Promise.all([this.setupPage(worker1), this.setupPage(worker2)]);
 
         const results = [];
         for (let i = 0; i < cardsToScrape.length; i += 2) {
@@ -242,11 +331,18 @@ class ShoobCardScraper {
 
         this.cards.push(...results);
         await Promise.all([worker1.close(), worker2.close()]);
+      } else {
+        console.log(`   ✅ Page ${pageNum}: All ${extraction.cards.length} cards already exist in database.`);
       }
 
-      console.log(`   📊 Page ${pageNum}: ${extraction.cards.length} cards found (${cardsToScrape.length} new)`);
       this.processedPages.add(pageKey);
       await this.saveProgress();
+
+      // IF ALL CARDS WERE ALREADY IN THE DATABASE, WE CAN SAFELY STOP FOR THIS TIER
+      if (cardsToScrape.length === 0) {
+        console.log(`   ⏭️ Reached already scraped cards. Stopping tier ${tier} scan.`);
+        return 'TIER_END';
+      }
     } catch (error) {
       if (listPage) await listPage.close().catch(() => {});
       console.error(`❌ Error P${pageNum}: ${error.message}`);
@@ -257,12 +353,51 @@ class ShoobCardScraper {
     try {
       await this.loadProgress();
       await this.initialize();
-      for (const tier of this.tiers) {
-        for (let p = this.startPage; p <= this.endPage; p++) {
-          const res = await this.scrapePage(tier, p);
-          if (res === 'TIER_END') break;
+      // Pin pause: if pin file exists, wait until removed
+      const pinPath = path.resolve(__dirname, 'pin.txt');
+      while (true) {
+        try {
+          await fs.access(pinPath);
+          console.log('🔒 Scraper paused due to pin file. Remove pin.txt to continue...');
+          await new Promise(r => setTimeout(r, 5000));
+        } catch {
+          break;
         }
       }
+      for (const tier of this.tiers) {
+        console.log(`📄 SCRAPING TIER ${tier}`);
+        const listPage = await this.browser.newPage();
+        await this.setupPage(listPage);
+        // Open tier page without pagination (cards are loaded via infinite scroll)
+        await listPage.goto(`https://shoob.gg/cards?tier=${tier}`, { waitUntil: 'networkidle2', timeout: 60000 });
+        await this.autoScroll(listPage);
+        const extraction = await this.extractCardsFromPage(listPage);
+        const cardsToScrape = extraction.cards.filter(c => !this.cards.some(existing => existing.detailUrl === c.detailUrl));
+        console.log(`   ➕ Found ${cardsToScrape.length} new cards in tier ${tier}`);
+        if (cardsToScrape.length > 0) {
+          const WORKER_COUNT = 8;
+          const workers = [];
+          for (let w = 0; w < WORKER_COUNT; w++) {
+            const page = await this.browser.newPage();
+            await this.setupPage(page);
+            workers.push(page);
+          }
+          const results = [];
+          for (let i = 0; i < cardsToScrape.length; i += WORKER_COUNT) {
+            const batchCards = cardsToScrape.slice(i, i + WORKER_COUNT);
+            const tasks = batchCards.map((card, idx) =>
+              this.fetchMetadata(workers[idx], card, tier, 1)
+            );
+            const batch = await Promise.all(tasks);
+            results.push(...batch.filter(r => r !== null));
+          }
+          this.cards.push(...results);
+          await Promise.all(workers.map(w => w.close()));
+        }
+        await listPage.close();
+        await this.saveProgress();
+      }
+      console.log("🏁 All tiers scraped!");
     } catch (error) {
       console.error('Fatal:', error.message);
     } finally {
